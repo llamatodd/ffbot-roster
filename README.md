@@ -8,7 +8,6 @@ A clean, searchable, auto-updating roster website for **FFBOT** (Final Fantasy c
 
 - Real-time username search
 - Click any player to see their recruited characters (level > 0 only)
-- Proper character name capitalization
 - Sort characters A-Z or by Level
 - Auto-updates every 30 minutes
 - Mobile-friendly dark theme
