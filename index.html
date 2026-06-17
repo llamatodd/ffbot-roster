@@ -99,7 +99,7 @@
             document.getElementById('modalContent').innerHTML = `
                 <h2>${p.username}</h2>
                 <p><strong>Level:</strong> ${p.lv || 'N/A'} | <strong>Unit:</strong> ${p.unit || 'N/A'}</p>
-                <p><strong>Wins:</strong> ${parseInt(p.wins||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
+                <p><strong>Gil:</strong> ${parseInt(p.gil||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
                 ${charHTML}
                 <button onclick="document.getElementById('modal').style.display='none'" style="margin-top:20px;padding:10px 20px;">Close</button>
             `;
