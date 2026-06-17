@@ -19,7 +19,7 @@
 <body>
     <h1>FFBOT Player Roster</h1>
     <p style="text-align:center; color:#888; margin: -10px 0 15px 0; font-size: 14px;">
-        Last Updated: June 17, 2026 at 07:04 PM
+        Last Updated: June 17, 2026 at 07:06 PM
     </p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
@@ -73,11 +73,7 @@
             Object.keys(p).forEach(key => {
                 if (key.startsWith('awakeninglv')) {
                     let rawName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
-                    
-                    // Stronger title case
-                    let displayName = rawName.split(' ').map(word => {
-                        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-                    }).join(' ');
+                    let displayName = rawName.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
                     
                     const level = parseInt(p[key]) || 0;
                     
@@ -97,32 +93,36 @@
             characters.sort((a, b) => a.name.localeCompare(b.name));
 
             let charHTML = '<h2>Recruited Characters</h2>';
+            
+            // Sorting buttons - only once
             charHTML += `
                 <div style="margin:10px 0 15px 0;">
-                    <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;">A-Z</button>
-                    <button onclick="sortCharacters('level')" style="padding:6px 12px;">Sort by Level ↓</button>
+                    <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;" id="alphaBtn">A-Z</button>
+                    <button onclick="sortCharacters('level')" style="padding:6px 12px;" id="levelBtn">Hi-Low</button>
                 </div>
             `;
+
             charHTML += '<div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">';
 
             characters.forEach(char => {
                 charHTML += `
-                    <div style="margin:10px 0 15px 0;">
-                        <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;" id="alphaBtn">A-Z</button>
-                        <button onclick="sortCharacters('level')" style="padding:6px 12px;" id="levelBtn">Hi-Low</button>
-                    </div>
-                `;
+                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
+                        <strong>${char.displayName}</strong><br>
+                        <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                        <span style="color:#aaa;">Passive: ${char.passive}</span>
+                    </div>`;
             });
             charHTML += '</div>';
 
             document.getElementById('modalContent').innerHTML = `
                 <h2>${p.username}</h2>
                 <p><strong>Level:</strong> ${p.lv || 'N/A'} | <strong>Unit:</strong> ${p.unit || 'N/A'}</p>
-                <p><strong>Collection:</strong> <strong>${p.collection || 0}/160</strong></p>
+                <p><strong>Collection:</strong> ${p.collection || 0}/160</p>
                 <p><strong>Gil:</strong> ${parseInt(p.gil||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
                 ${charHTML}
                 <button onclick="document.getElementById('modal').style.display='none'" style="margin-top:20px;padding:10px 20px;">Close</button>
             `;
+            
             document.getElementById('modal').style.display = 'block';
             window.currentCharacters = characters;
         }
