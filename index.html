@@ -54,7 +54,11 @@
             Object.keys(p).forEach(key => {
                 if (key.startsWith('awakeninglv')) {
                     let rawName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
-                    let displayName = rawName.replace(/\w/g, char => char.toUpperCase());
+                    
+                    // Stronger title case
+                    let displayName = rawName.split(' ').map(word => {
+                        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+                    }).join(' ');
                     
                     const level = parseInt(p[key]) || 0;
                     
@@ -123,7 +127,6 @@
             document.getElementById('charGrid').innerHTML = html;
         }
 
-        // Initial load
         filterPlayers();
     </script>
 </body>
