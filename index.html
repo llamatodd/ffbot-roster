@@ -19,7 +19,7 @@
 <body>
     <h1>FFBOT Player Roster</h1>
     <p style="text-align:center; color:#888; margin: -10px 0 15px 0; font-size: 14px;">
-        Last Updated: June 17, 2026 at 07:15 PM
+        Last Updated: June 17, 2026 at 07:16 PM
     </p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
@@ -92,7 +92,7 @@
 
             characters.sort((a, b) => a.name.localeCompare(b.name));
 
-            let charHTML = '<h2>Recruited Characters</h2>';
+            let charHTML = '<h2>Recruited Characters (only displaying ones with wins/levels)</h2>';
             
             // Toggle buttons
             charHTML += `
