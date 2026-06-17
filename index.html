@@ -40,6 +40,7 @@
                     card.innerHTML = `
                         <h3>${p.username}</h3>
                         <p>Level: ${p.lv || 'N/A'} | Unit: ${p.unit || 'N/A'}</p>
+                        <p>Collection: <strong>${p.collection || 0}/160</strong></p>
                         <p>Wins: ${parseInt(p.wins || 0).toLocaleString()}</p>
                     `;
                     card.onclick = () => showDetails(p);
