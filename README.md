@@ -32,3 +32,18 @@ A clean, searchable, auto-updating roster website for **FFBOT** (Final Fantasy c
    Open Command Prompt in the folder and run:
    ```cmd
    git remote set-url origin https://github.com/YOURUSERNAME/YOUR-REPO-NAME.git
+
+## Setup Auto Publish
+
+1. Edit the path inside `update_roster.py` to point to your `.ini` file
+2. Run `update_and_push.bat` to test
+3. Set up Windows Task Scheduler to run the batch file every 30 minutes
+
+## Auto-Update
+
+The system automatically:
+- Reads the latest `playerdatabase.ini`
+- Generates a new `index.html`
+- Commits and pushes to GitHub
+
+Your PC needs to be running for the scheduled updates to work.
