@@ -1,0 +1,456 @@
+[Wed 06/17/2026  4:33:06.47] Starting update... 
+Running roster update... 
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\FFBOT-Roster\update_roster.py", line 121, in <module>
+    print(f"\u2705 Success! Generated roster with {len(players)} players")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+ 
+[Wed 06/17/2026  4:33:06.67] Update completed. 
+[Wed 06/17/2026  4:34:09.61] Starting update... 
+Running roster update... 
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\FFBOT-Roster\update_roster.py", line 121, in <module>
+    print(f"\u2705 Success! Generated roster with {len(players)} players")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+ 
+[Wed 06/17/2026  4:34:09.75] Update completed. 
+[Wed 06/17/2026  4:36:03.53] Starting update... 
+Running roster update... 
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\FFBOT-Roster\update_roster.py", line 121, in <module>
+    print(f"\u2705 Success! Generated roster with {len(players)} players")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+ 
+[Wed 06/17/2026  4:36:03.66] Update completed. 
+[Wed 06/17/2026  4:36:53.48] Starting update... 
+Running roster update... 
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\FFBOT-Roster\update_roster.py", line 121, in <module>
+    print(f"\u2705 Success! Generated roster with {len(players)} players")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+ 
+[Wed 06/17/2026  4:36:53.62] Update completed. 
+[Wed 06/17/2026  4:38:08.08] Running updater... 
+ 
+[Wed 06/17/2026  4:38:08.17] Committing and pushing... 
+[main 0a33a50] Auto-update roster - Wed 06/17/2026  4:38:08.21
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   9032b6d..0a33a50  main -> main
+[Wed 06/17/2026  4:38:09.72] Done 
+ 
+[Wed 06/17/2026  4:40:59.55] Running updater... 
+ 
+[Wed 06/17/2026  4:40:59.65] Committing and pushing... 
+[main 843add4] Auto-update roster - Wed 06/17/2026  4:40:59.69
+ 1 file changed, 88 insertions(+), 24 deletions(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   0a33a50..843add4  main -> main
+[Wed 06/17/2026  4:41:01.19] Done 
+ 
+[Wed 06/17/2026  4:45:28.60] Running updater... 
+ 
+[Wed 06/17/2026  4:45:28.70] Committing and pushing... 
+[main 244d52e] Auto-update roster - Wed 06/17/2026  4:45:28.74
+ 1 file changed, 40 insertions(+), 12 deletions(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   843add4..244d52e  main -> main
+[Wed 06/17/2026  4:45:30.23] Done 
+ 
+[Wed 06/17/2026  4:45:39.87] Running updater... 
+ 
+[Wed 06/17/2026  4:45:39.97] Committing and pushing... 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_and_push.bat
+	modified:   update_roster.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	roster_update.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+[Wed 06/17/2026  4:45:40.82] Done 
+ 
+[Wed 06/17/2026  4:47:41.68] Running updater... 
+ 
+[Wed 06/17/2026  4:47:41.77] Committing and pushing... 
+[main 3260376] Auto-update roster - Wed 06/17/2026  4:47:41.81
+ 1 file changed, 69 insertions(+), 116 deletions(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   244d52e..3260376  main -> main
+[Wed 06/17/2026  4:47:43.38] Done 
+ 
+[Wed 06/17/2026  4:49:52.23] Running updater... 
+ 
+[Wed 06/17/2026  4:49:52.33] Committing and pushing... 
+[main 969aaa8] Auto-update roster - Wed 06/17/2026  4:49:52.37
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   3260376..969aaa8  main -> main
+[Wed 06/17/2026  4:49:54.03] Done 
+ 
+[Wed 06/17/2026  5:08:20.06] Running updater... 
+ 
+[Wed 06/17/2026  5:08:20.16] Committing and pushing... 
+[main 5993b8e] Auto-update roster - Wed 06/17/2026  5:08:20.20
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   969aaa8..5993b8e  main -> main
+[Wed 06/17/2026  5:08:21.90] Done 
+ 
+[Wed 06/17/2026  5:10:19.35] Running updater... 
+ 
+[Wed 06/17/2026  5:10:19.44] Committing and pushing... 
+[main 8772c4a] Auto-update roster - Wed 06/17/2026  5:10:19.49
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   5993b8e..8772c4a  main -> main
+[Wed 06/17/2026  5:10:20.98] Done 
+ 
+[Wed 06/17/2026  5:15:39.84] Running updater... 
+ 
+[Wed 06/17/2026  5:15:39.94] Committing and pushing... 
+[main 88b7585] Auto-update roster - Wed 06/17/2026  5:15:39.98
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   8772c4a..88b7585  main -> main
+[Wed 06/17/2026  5:15:41.48] Done 
+ 
+[Wed 06/17/2026  5:45:39.81] Running updater... 
+ 
+[Wed 06/17/2026  5:45:39.91] Committing and pushing... 
+[main a30ab9e] Auto-update roster - Wed 06/17/2026  5:45:39.95
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   88b7585..a30ab9e  main -> main
+[Wed 06/17/2026  5:45:41.46] Done 
+ 
+[Wed 06/17/2026  6:15:39.84] Running updater... 
+ 
+[Wed 06/17/2026  6:15:39.93] Committing and pushing... 
+[main 08c36d3] Auto-update roster - Wed 06/17/2026  6:15:39.98
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   a30ab9e..08c36d3  main -> main
+[Wed 06/17/2026  6:15:41.43] Done 
+ 
+[Wed 06/17/2026  6:45:39.85] Running updater... 
+ 
+[Wed 06/17/2026  6:45:39.95] Committing and pushing... 
+[main e7498e2] Auto-update roster - Wed 06/17/2026  6:45:39.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   08c36d3..e7498e2  main -> main
+[Wed 06/17/2026  6:45:41.55] Done 
+ 
+[Wed 06/17/2026  7:15:39.84] Running updater... 
+ 
+[Wed 06/17/2026  7:15:39.94] Committing and pushing... 
+[main bf7c4e8] Auto-update roster - Wed 06/17/2026  7:15:39.98
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   e7498e2..bf7c4e8  main -> main
+[Wed 06/17/2026  7:15:41.62] Done 
+ 
+[Wed 06/17/2026  7:45:39.83] Running updater... 
+ 
+[Wed 06/17/2026  7:45:39.92] Committing and pushing... 
+[main bad76b3] Auto-update roster - Wed 06/17/2026  7:45:39.96
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   bf7c4e8..bad76b3  main -> main
+[Wed 06/17/2026  7:45:41.43] Done 
+ 
+[Wed 06/17/2026  8:15:39.83] Running updater... 
+ 
+[Wed 06/17/2026  8:15:39.93] Committing and pushing... 
+[main 3c4c8d9] Auto-update roster - Wed 06/17/2026  8:15:39.97
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   bad76b3..3c4c8d9  main -> main
+[Wed 06/17/2026  8:15:41.66] Done 
+ 
+[Wed 06/17/2026  8:45:39.84] Running updater... 
+ 
+[Wed 06/17/2026  8:45:39.94] Committing and pushing... 
+[main bf26b46] Auto-update roster - Wed 06/17/2026  8:45:39.98
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+   3c4c8d9..bf26b46  main -> main
+[Wed 06/17/2026  8:45:41.48] Done 
+ 
+[Wed 06/17/2026  9:15:39.86] Running updater... 
+ 
+[Wed 06/17/2026  9:15:39.96] Committing and pushing... 
+[main d6fb157] Auto-update roster - Wed 06/17/2026  9:15:40.01
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026  9:15:40.85] Done 
+ 
+[Wed 06/17/2026  9:17:49.44] Running updater... 
+ 
+[Wed 06/17/2026  9:17:49.54] Committing and pushing... 
+[main 2ba5d08] Auto-update roster - Wed 06/17/2026  9:17:49.58
+ 1 file changed, 1 insertion(+)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026  9:17:50.44] Done 
+ 
+[Wed 06/17/2026  9:19:47.71] Running updater... 
+ 
+[Wed 06/17/2026  9:19:47.80] Committing and pushing... 
+[main 849d1d8] Auto-update roster - Wed 06/17/2026  9:19:47.84
+ 1 file changed, 1 insertion(+)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026  9:19:48.65] Done 
+ 
+[Wed 06/17/2026  9:45:39.85] Running updater... 
+ 
+[Wed 06/17/2026  9:45:39.95] Committing and pushing... 
+[main 1920748] Auto-update roster - Wed 06/17/2026  9:45:39.99
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026  9:45:40.85] Done 
+ 
+[Wed 06/17/2026 10:15:39.87] Running updater... 
+ 
+[Wed 06/17/2026 10:15:40.06] Committing and pushing... 
+[main cdfc4a4] Auto-update roster - Wed 06/17/2026 10:15:40.10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 10:15:41.70] Done 
+ 
+[Wed 06/17/2026 10:45:39.81] Running updater... 
+ 
+[Wed 06/17/2026 10:45:39.90] Committing and pushing... 
+[main 90cbaee] Auto-update roster - Wed 06/17/2026 10:45:39.94
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 10:45:40.76] Done 
+ 
+[Wed 06/17/2026 11:15:39.80] Running updater... 
+ 
+[Wed 06/17/2026 11:15:39.89] Committing and pushing... 
+[main 23b3fac] Auto-update roster - Wed 06/17/2026 11:15:39.94
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 11:15:40.76] Done 
+ 
+[Wed 06/17/2026 11:45:39.81] Running updater... 
+ 
+[Wed 06/17/2026 11:45:39.90] Committing and pushing... 
+[main 4383629] Auto-update roster - Wed 06/17/2026 11:45:39.94
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 11:45:40.81] Done 
+ 
+[Wed 06/17/2026 12:15:39.81] Running updater... 
+ 
+[Wed 06/17/2026 12:15:39.90] Committing and pushing... 
+[main ebd689a] Auto-update roster - Wed 06/17/2026 12:15:39.94
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 12:15:40.83] Done 
+ 
+[Wed 06/17/2026 12:45:39.80] Running updater... 
+ 
+[Wed 06/17/2026 12:45:39.89] Committing and pushing... 
+[main 9feec7d] Auto-update roster - Wed 06/17/2026 12:45:39.94
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 12:45:40.88] Done 
+ 
+[Wed 06/17/2026 13:15:39.83] Running updater... 
+ 
+[Wed 06/17/2026 13:15:39.92] Committing and pushing... 
+[main fc0f041] Auto-update roster - Wed 06/17/2026 13:15:39.96
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 13:15:40.89] Done 
+ 
+[Wed 06/17/2026 13:42:30.69] Running updater... 
+ 
+[Wed 06/17/2026 13:42:30.77] Committing and pushing... 
+[main 11ddc3d] Auto-update roster - Wed 06/17/2026 13:42:30.82
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 13:42:31.68] Done 
+ 
+[Wed 06/17/2026 13:43:34.02] Running updater... 
+ 
+[Wed 06/17/2026 13:43:34.10] Committing and pushing... 
+[main 8fa0ae3] Auto-update roster - Wed 06/17/2026 13:43:34.14
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 13:43:34.93] Done 
+ 
+[Wed 06/17/2026 13:45:39.83] Running updater... 
+ 
+[Wed 06/17/2026 13:45:39.92] Committing and pushing... 
+On branch main
+Your branch is ahead of 'origin/main' by 13 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_and_push.bat
+	modified:   update_roster.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	README
+	roster_update.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 13:45:40.81] Done 
+ 
+[Wed 06/17/2026 13:46:08.49] Running updater... 
+ 
+[Wed 06/17/2026 13:46:08.57] Committing and pushing... 
+On branch main
+Your branch is ahead of 'origin/main' by 13 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   update_and_push.bat
+	modified:   update_roster.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	README
+	roster_update.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/llamatodd/ffbot-roster.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/llamatodd/ffbot-roster.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[Wed 06/17/2026 13:46:09.36] Done 
+ 

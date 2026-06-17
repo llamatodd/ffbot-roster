@@ -59,6 +59,7 @@ def generate_html(players):
                     card.innerHTML = `
                         <h3>${p.username}</h3>
                         <p>Level: ${p.lv || 'N/A'} | Unit: ${p.unit || 'N/A'}</p>
+                        <p>Collection: <strong>${p.collection || 0}/160</strong></p>
                         <p>Wins: ${parseInt(p.wins || 0).toLocaleString()}</p>
                     `;
                     card.onclick = () => showDetails(p);
@@ -68,37 +69,86 @@ def generate_html(players):
         }
 
         function showDetails(p) {
-            let charHTML = '<h2>Recruited Characters</h2><div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">';
+            let characters = [];
             
             Object.keys(p).forEach(key => {
                 if (key.startsWith('awakeninglv')) {
-                    const charName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
-                    const level = p[key];
-                    const passiveKey = key.replace('awakeninglv', 'ps');
-                    let passive = p[passiveKey] || p['ps5' + charName] || 'None';
+                    let rawName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
                     
-                    charHTML += `
-                        <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
-                            <strong>${charName}</strong><br>
-                            Level: ${level}<br>
-                            Passive: ${passive}
-                        </div>`;
+                    // Stronger title case
+                    let displayName = rawName.split(' ').map(word => {
+                        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+                    }).join(' ');
+                    
+                    const level = parseInt(p[key]) || 0;
+                    
+                    let passive = 'None';
+                    const possibleKeys = [`ps5${rawName}`, `ps${rawName}`, `ps5${rawName.replace(/ /g,'')}`, `ps${rawName.replace(/ /g,'')}`];
+                    for (let pk of possibleKeys) {
+                        if (p[pk]) {
+                            passive = p[pk];
+                            break;
+                        }
+                    }
+                    
+                    characters.push({name: rawName, displayName: displayName, level: level, passive: passive});
                 }
+            });
+
+            characters.sort((a, b) => a.name.localeCompare(b.name));
+
+            let charHTML = '<h2>Recruited Characters</h2>';
+            charHTML += `
+                <div style="margin:10px 0 15px 0;">
+                    <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;">A-Z</button>
+                    <button onclick="sortCharacters('level')" style="padding:6px 12px;">Sort by Level ↓</button>
+                </div>
+            `;
+            charHTML += '<div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">';
+
+            characters.forEach(char => {
+                charHTML += `
+                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
+                        <strong>${char.displayName}</strong><br>
+                        <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                        <span style="color:#aaa;">Passive: ${char.passive}</span>
+                    </div>`;
             });
             charHTML += '</div>';
 
             document.getElementById('modalContent').innerHTML = `
                 <h2>${p.username}</h2>
-                <p><strong>Level:</strong> ${p.lv} | <strong>Unit:</strong> ${p.unit}</p>
-                <p><strong>Wins:</strong> ${parseInt(p.wins||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
+                <p><strong>Level:</strong> ${p.lv || 'N/A'} | <strong>Unit:</strong> ${p.unit || 'N/A'}</p>
+                <p><strong>Collection:</strong> <strong>${p.collection || 0}/160</strong></p>
+                <p><strong>Gil:</strong> ${parseInt(p.gil||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
                 ${charHTML}
                 <button onclick="document.getElementById('modal').style.display='none'" style="margin-top:20px;padding:10px 20px;">Close</button>
             `;
             document.getElementById('modal').style.display = 'block';
+            window.currentCharacters = characters;
         }
 
-        // Initial load
-        window.onload = filterPlayers;
+        function sortCharacters(type) {
+            if (!window.currentCharacters) return;
+            let sorted = [...window.currentCharacters];
+            if (type === 'level') {
+                sorted.sort((a, b) => b.level - a.level);
+            } else {
+                sorted.sort((a, b) => a.name.localeCompare(b.name));
+            }
+            let html = '';
+            sorted.forEach(char => {
+                html += `
+                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
+                        <strong>${char.displayName}</strong><br>
+                        <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                        <span style="color:#aaa;">Passive: ${char.passive}</span>
+                    </div>`;
+            });
+            document.getElementById('charGrid').innerHTML = html;
+        }
+
+        filterPlayers();
     </script>
 </body>
 </html>'''
@@ -118,7 +168,7 @@ else:
     players = parse_ffbot_ini(ini_path)
     html_content = generate_html(players)
     output_path.write_text(html_content, encoding='utf-8')
-    print(f"✅ Success! Generated roster with {len(players)} players")
-    print(f"✅ index.html has been created in this folder")
+    print(f"SUCCESS! Generated roster with {len(players)} players")
+    print(f"SUCCESS! index.html has been created in this folder")
     print("You can now upload index.html to GitHub Pages")
 # ================================================

@@ -1,29 +1,21 @@
 @echo off
+setlocal enabledelayedexpansion
+
 echo ========================================
 echo     FFBOT Roster Auto Updater
 echo ========================================
 
 cd /d "%~dp0"
 
-echo Updating roster...
+echo [%date% %time%] Running updater... >> roster_update.log
 python update_roster.py
 
-if %errorlevel% neq 0 (
-    echo.
-    echo ❌ Python script failed. Check the path in update_roster.py
-    pause
-    exit /b
-)
-
-echo.
-echo Committing and pushing to GitHub...
+echo. >> roster_update.log
+echo [%date% %time%] Committing and pushing... >> roster_update.log
 
 git add index.html
-git commit -m "Auto-update roster - %date% %time%"
-git push
+git commit -m "Auto-update roster - %date% %time%" >> roster_update.log 2>&1
+git push >> roster_update.log 2>&1
 
-echo.
-echo ✅ Done! Site should update shortly on GitHub Pages.
-echo.
-
-pause
+echo [%date% %time%] Done! >> roster_update.log
+echo. >> roster_update.log
