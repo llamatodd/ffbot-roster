@@ -48,18 +48,25 @@
             });
         }
 
-        function showDetails(p) {
-    // Collect all characters
+function showDetails(p) {
     let characters = [];
     
     Object.keys(p).forEach(key => {
         if (key.startsWith('awakeninglv')) {
-            const rawName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
+            let rawName = key.replace('awakeninglv', '').replace(/["']/g, '').trim();
+            
+            // Better title case function
+            let displayName = rawName.replace(/\w/g, char => char.toUpperCase());
+            
             const level = parseInt(p[key]) || 0;
             
             // Find passive
             let passive = 'None';
-            const possibleKeys = [`ps5${rawName}`, `ps${rawName}`, `ps5${rawName.replace(/ /g,'')}`, `ps${rawName.replace(/ /g,'')}`];
+            const possibleKeys = [
+                `ps5${rawName}`, `ps${rawName}`,
+                `ps5${rawName.replace(/ /g,'')}`, `ps${rawName.replace(/ /g,'')}`
+            ];
+            
             for (let pk of possibleKeys) {
                 if (p[pk]) {
                     passive = p[pk];
@@ -69,23 +76,22 @@
             
             characters.push({
                 name: rawName,
-                displayName: rawName.replace(/\w/g, c => c.toUpperCase()), // Initial caps
+                displayName: displayName,
                 level: level,
                 passive: passive
             });
         }
     });
 
-    // Sort alphabetically by default
+    // Default sort: Alphabetical
     characters.sort((a, b) => a.name.localeCompare(b.name));
 
     let charHTML = '<h2>Recruited Characters</h2>';
     
-    // Sort controls
     charHTML += `
-        <div style="margin:10px 0;">
-            <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;">Sort A-Z</button>
-            <button onclick="sortCharacters('level')" style="padding:6px 12px;">Sort by Level (High to Low)</button>
+        <div style="margin:10px 0 15px 0;">
+            <button onclick="sortCharacters('alpha')" style="margin-right:8px;padding:6px 12px;">A-Z</button>
+            <button onclick="sortCharacters('level')" style="padding:6px 12px;">Sort by Level ↓</button>
         </div>
     `;
 
@@ -112,9 +118,31 @@
     
     document.getElementById('modal').style.display = 'block';
     
-    // Make sort functions available globally
     window.currentCharacters = characters;
-    window.currentPlayer = p;
+}
+
+function sortCharacters(type) {
+    if (!window.currentCharacters) return;
+    
+    let sorted = [...window.currentCharacters];
+    
+    if (type === 'level') {
+        sorted.sort((a, b) => b.level - a.level);
+    } else {
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+    }
+    
+    let html = '';
+    sorted.forEach(char => {
+        html += `
+            <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
+                <strong>${char.displayName}</strong><br>
+                <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                <span style="color:#aaa;">Passive: ${char.passive}</span>
+            </div>`;
+    });
+    
+    document.getElementById('charGrid').innerHTML = html;
 }
 
 function sortCharacters(type) {
