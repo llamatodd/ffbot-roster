@@ -18,7 +18,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 19, 2026 at 06:45 PM</p>
+    <p id="lastUpdated">Last Updated: June 19, 2026 at 06:49 PM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -40,7 +40,7 @@
                     const card = document.createElement('div');
                     card.className = 'player-card';
                     card.innerHTML = `
-                        <div style="position:relative;height:160px;background:url('portrait/${encodeURIComponent((p.unit || 'Unknown').trim())}.png') center/contain no-repeat;border-radius:12px 12px 0 0;background-color:#16213e;overflow:hidden;">
+                        <div style="position:relative;height:160px;background:url('portrait/${encodeURIComponent((p.unit || 'Unknown').replace(/["']/g, '').trim())}.png') center/contain no-repeat;border-radius:12px 12px 0 0;background-color:#16213e;overflow:hidden;">
                             <div style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,#16213e);padding:12px;">
                                 <h3 style="margin:0;color:white;">${p.username}</h3>
                             </div>
@@ -110,7 +110,7 @@
             characters.forEach(char => {
                 charHTML += `
                     <div style="background:#1e2a5e;padding:12px;border-radius:8px;display:flex;gap:12px;align-items:center;">
-                        <img src="portrait/${encodeURIComponent(char.displayName)}.png" style="width:48px;height:48px;object-fit:contain;border-radius:6px;" onerror="this.style.display='none'">
+                        <img src="portrait/${encodeURIComponent(char.displayName.replace(/["']/g, '').trim())}.png" style="width:48px;height:48px;object-fit:contain;border-radius:6px;" onerror="this.style.display='none'">
                         <div>
                             <strong>${char.displayName}</strong><br>
                             <span style="color:#00ffcc;">Level: ${char.level}</span><br>
