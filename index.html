@@ -19,7 +19,7 @@
 <body>
     <h1>FFBOT Player Roster</h1>
     <p style="text-align:center; color:#888; margin: -10px 0 15px 0; font-size: 14px;">
-        Last Updated: June 19, 2026 at 04:47 AM
+        Last Updated: June 19, 2026 at 04:50 AM
     </p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
@@ -73,10 +73,10 @@
             Object.keys(p).forEach(key => {
                 if (key.startsWith('awakeninglv')) {
                     // Better handling for names with spaces
-                    let rawName = key.replace('awakeninglv', '').trim();
+                    let rawName = key.substring(11); // Remove "awakeninglv"
                     
-                    // Remove any surrounding quotes if present
-                    rawName = rawName.replace(/^["']|["']$/g, '');
+                    // Clean up quotes and extra spaces
+                    rawName = rawName.replace(/^["']|["']$/g, '').trim();
                     
                     let displayName = rawName.split(' ').map(word => {
                         return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
@@ -99,18 +99,16 @@
                         }
                     }
                     
-                    if (level > 0 || true) {  // Show all for now, change to level > 0 if you want
-                        characters.push({
-                            name: rawName,
-                            displayName: displayName,
-                            level: level,
-                            passive: passive
-                        });
-                    }
+                    characters.push({
+                        name: rawName,
+                        displayName: displayName,
+                        level: level,
+                        passive: passive
+                    });
                 }
             });
 
-            // Default sort: Alphabetical
+            // Sort alphabetically
             characters.sort((a, b) => a.name.localeCompare(b.name));
 
             let charHTML = '<h2>Recruited Characters</h2>';
