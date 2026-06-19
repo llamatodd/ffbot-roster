@@ -19,7 +19,7 @@
 <body>
     <h1>FFBOT Player Roster</h1>
     <p style="text-align:center; color:#888; margin: -10px 0 15px 0; font-size: 14px;">
-        Last Updated: June 19, 2026 at 04:50 AM
+        Last Updated: June 19, 2026 at 04:55 AM
     </p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
@@ -72,10 +72,14 @@
             
             Object.keys(p).forEach(key => {
                 if (key.startsWith('awakeninglv')) {
-                    // Better handling for names with spaces
-                    let rawName = key.substring(11); // Remove "awakeninglv"
+                    // Handle keys with quotes and spaces like "awakeninglvRikku X2"
+                    let rawKey = key;
+                    if (rawKey.startsWith('"awakeninglv')) {
+                        rawKey = rawKey.substring(1); // Remove leading quote
+                    }
+                    let rawName = rawKey.replace('awakeninglv', '').trim();
                     
-                    // Clean up quotes and extra spaces
+                    // Remove any surrounding quotes
                     rawName = rawName.replace(/^["']|["']$/g, '').trim();
                     
                     let displayName = rawName.split(' ').map(word => {
@@ -85,7 +89,6 @@
                     const level = parseInt(p[key]) || 0;
                     
                     let passive = 'None';
-                    // Try multiple possible passive key formats
                     const baseName = rawName.replace(/ /g, '');
                     const possibleKeys = [
                         `ps5${rawName}`, `ps${rawName}`,
@@ -108,7 +111,6 @@
                 }
             });
 
-            // Sort alphabetically
             characters.sort((a, b) => a.name.localeCompare(b.name));
 
             let charHTML = '<h2>Recruited Characters</h2>';
