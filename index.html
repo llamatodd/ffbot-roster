@@ -19,7 +19,7 @@
 <body>
     <h1>FFBOT Player Roster</h1>
     <p style="text-align:center; color:#888; margin: -10px 0 15px 0; font-size: 14px;">
-        Last Updated: June 19, 2026 at 04:55 AM
+        Last Updated: June 19, 2026 at 04:58 AM
     </p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
@@ -70,34 +70,38 @@
         function showDetails(p) {
             let characters = [];
             
-            Object.keys(p).forEach(key => {
+            Object.keys(p).forEach(rawKey => {
+                let key = rawKey;
+                
+                // Handle quoted keys like "awakeninglvauron young"
+                if (key.startsWith('"awakeninglv')) {
+                    key = key.substring(1); // Remove leading quote
+                }
+                
                 if (key.startsWith('awakeninglv')) {
-                    // Handle keys with quotes and spaces like "awakeninglvRikku X2"
-                    let rawKey = key;
-                    if (rawKey.startsWith('"awakeninglv')) {
-                        rawKey = rawKey.substring(1); // Remove leading quote
-                    }
-                    let rawName = rawKey.replace('awakeninglv', '').trim();
+                    // Extract the character name after "awakeninglv"
+                    let rawName = key.replace('awakeninglv', '').trim();
                     
-                    // Remove any surrounding quotes
-                    rawName = rawName.replace(/^["']|["']$/g, '').trim();
+                    // Remove any trailing quote if present
+                    rawName = rawName.replace(/["']$/, '').trim();
                     
                     let displayName = rawName.split(' ').map(word => {
                         return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
                     }).join(' ');
                     
-                    const level = parseInt(p[key]) || 0;
+                    const level = parseInt(p[rawKey]) || 0;
                     
                     let passive = 'None';
                     const baseName = rawName.replace(/ /g, '');
                     const possibleKeys = [
                         `ps5${rawName}`, `ps${rawName}`,
-                        `ps5${baseName}`, `ps${baseName}`
+                        `ps5${baseName}`, `ps${baseName}`,
+                        `"ps5${rawName}"`, `"ps${rawName}"`
                     ];
                     
                     for (let pk of possibleKeys) {
                         if (p[pk]) {
-                            passive = p[pk];
+                            passive = p[pk].replace(/["']/g, ''); // Clean quotes from passive
                             break;
                         }
                     }
