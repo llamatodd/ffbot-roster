@@ -14,12 +14,11 @@
         .player-card:hover { transform: scale(1.03); background: #1e2a5e; }
         .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000; }
         .modal-content { background: #16213e; max-width: 900px; margin: 50px auto; padding: 25px; border-radius: 12px; max-height: 90vh; overflow-y: auto; position: relative; }
-        .awakening.unlearned { color: #888; opacity: 0.7; }
     </style>
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 20, 2026 at 06:08 PM</p>
+    <p id="lastUpdated">Last Updated: June 20, 2026 at 06:10 PM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -50,8 +49,19 @@
                         <div style="padding:16px;">
                             <p><strong>Unit:</strong> ${p.unit || 'N/A'} | <strong>LV:</strong> ${p.lv || 'N/A'}</p>
                             <p><strong>Collection:</strong> ${p.collection || 0}/160</p>
-                            <p><strong>Speed:</strong> ${p.spe || 'N/A'}</p>
-                            ${p.specialty ? `<p><strong>Specialty:</strong> ${p.specialty}</p>` : ''}
+                            
+                            <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;font-size:14px;margin:10px 0;">
+                                <div><strong style="${(p.preferedstat || '').toString().toLowerCase().includes('atk') ? 'color:#ffcc00;font-weight:bold' : ''}">ATK: ${p.atk || 0}</strong></div>
+                                <div><strong style="${(p.preferedstat || '').toString().toLowerCase().includes('mag') ? 'color:#ffcc00;font-weight:bold' : ''}">MAG: ${p.mag || 0}</strong></div>
+                                <div><strong style="${(p.preferedstat || '').toString().toLowerCase().includes('spi') ? 'color:#ffcc00;font-weight:bold' : ''}">SPI: ${p.spi || 0}</strong></div>
+                                <div><strong style="${(p.preferedstat || '').toString().toLowerCase().includes('hp') ? 'color:#ffcc00;font-weight:bold' : ''}">HP: ${p.spi || 0}</strong></div>
+                            </div>
+                            
+                            <div style="font-size:13px;color:#aaa;">
+                                Asc: ${p.ascension || 0}<br>
+                                Awakening: ${p.awakeningexp || 0}%
+                            </div>
+                            
                             <p style="margin-top:8px;">Wins: ${parseInt(p.wins || 0).toLocaleString()}</p>
                         </div>
                     `;
@@ -66,19 +76,30 @@
             
             Object.keys(p).forEach(rawKey => {
                 let key = rawKey.toString();
-                if (key.startsWith('"awakeninglv')) key = key.substring(1);
+                
+                // Handle quoted keys with spaces
+                if (key.startsWith('"awakeninglv')) {
+                    key = key.substring(1);
+                }
                 
                 if (key.startsWith('awakeninglv')) {
                     let rawName = key.replace('awakeninglv', '').trim();
+                    
+                    // Remove any quotes
                     rawName = rawName.replace(/^["']|["']$/g, '').trim();
                     
-                    let displayName = rawName.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
+                    let displayName = rawName.split(' ').map(word => {
+                        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+                    }).join(' ');
                     
                     const level = parseInt(p[rawKey]) || 0;
                     
                     let passive = 'None';
                     const baseName = rawName.replace(/ /g, '');
-                    const possibleKeys = [`ps5${rawName}`, `ps${rawName}`, `ps5${baseName}`, `ps${baseName}`];
+                    const possibleKeys = [
+                        `ps5${rawName}`, `ps${rawName}`,
+                        `ps5${baseName}`, `ps${baseName}`
+                    ];
                     
                     for (let pk of possibleKeys) {
                         if (p[pk]) {
@@ -87,20 +108,11 @@
                         }
                     }
                     
-                    // Pull from merged character_data
-                    const charInfo = character_data[rawName] || {};
-                    
                     characters.push({
                         name: rawName,
                         displayName: displayName,
                         level: level,
-                        passive: passive,
-                        awakening1: charInfo.Awakening1 || '',
-                        awakening2: charInfo.Awakening2 || '',
-                        awakening3: charInfo.Awakening3 || '',
-                        spe: charInfo.Speed || '',
-                        specialty: charInfo.Specialty || '',
-                        description: charInfo.Description || ''
+                        passive: passive
                     });
                 }
             });
@@ -108,24 +120,25 @@
             characters.sort((a, b) => a.name.localeCompare(b.name));
 
             let charHTML = '<h2>Recruited Characters</h2>';
-            charHTML += `<div style="margin:10px 0 15px 0;"><button onclick="toggleSort('alpha')" id="alphaBtn">A-Z</button> <button onclick="toggleSort('level')" id="levelBtn">Hi-Low</button></div>`;
-            charHTML += '<div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;">';
+            
+            charHTML += `
+                <div style="margin:10px 0 15px 0;">
+                    <button onclick="toggleSort('alpha')" style="margin-right:8px;padding:6px 12px;" id="alphaBtn">A-Z</button>
+                    <button onclick="toggleSort('level')" style="padding:6px 12px;" id="levelBtn">Hi-Low</button>
+                </div>
+            `;
+
+            charHTML += '<div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">';
 
             characters.forEach(char => {
                 charHTML += `
-                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
-                        <strong>${char.displayName}</strong><br>
-                        <span style="color:#00ffcc;">Level: ${char.level}</span><br>
-                        <span style="color:#aaa;">Passive: ${char.passive}</span><br>
-                        <div style="margin-top:8px;font-size:13px;">
-                            Awakenings:<br>
-                            <span class="${char.level >= 100 ? '' : 'awakening unlearned'}">1. ${char.awakening1 || '???'} </span><br>
-                            <span class="${char.level >= 200 ? '' : 'awakening unlearned'}">2. ${char.awakening2 || '???'} </span><br>
-                            <span class="${char.level >= 500 ? '' : 'awakening unlearned'}">3. ${char.awakening3 || '???'} </span>
+                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;display:flex;gap:12px;align-items:center;">
+                        <img src="portrait/${encodeURIComponent(char.displayName)}.png" style="width:48px;height:48px;object-fit:contain;border-radius:6px;" onerror="this.style.display='none'">
+                        <div>
+                            <strong>${char.displayName}</strong><br>
+                            <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                            <span style="color:#aaa;">Passive: ${char.passive}</span>
                         </div>
-                        ${char.spe ? `<div>Speed: ${char.spe}</div>` : ''}
-                        ${char.specialty ? `<div>Specialty: ${char.specialty}</div>` : ''}
-                        ${char.description ? `<div style="font-size:12px;margin-top:8px;color:#ccc;">${char.description}</div>` : ''}
                     </div>`;
             });
             charHTML += '</div>';
@@ -141,6 +154,8 @@
             
             document.getElementById('modal').style.display = 'block';
             window.currentCharacters = characters;
+            window.currentSortAlpha = 'asc';
+            window.currentSortLevel = 'desc';
         }
 
         function toggleSort(type) {
@@ -168,15 +183,12 @@
             let html = '';
             sorted.forEach(char => {
                 html += `
-                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;">
-                        <strong>${char.displayName}</strong><br>
-                        <span style="color:#00ffcc;">Level: ${char.level}</span><br>
-                        <span style="color:#aaa;">Passive: ${char.passive}</span><br>
-                        <div style="margin-top:8px;font-size:13px;">
-                            Awakenings:<br>
-                            <span class="${char.level >= 100 ? '' : 'awakening unlearned'}">1. ${char.awakening1 || '???'} </span><br>
-                            <span class="${char.level >= 200 ? '' : 'awakening unlearned'}">2. ${char.awakening2 || '???'} </span><br>
-                            <span class="${char.level >= 500 ? '' : 'awakening unlearned'}">3. ${char.awakening3 || '???'} </span>
+                    <div style="background:#1e2a5e;padding:12px;border-radius:8px;display:flex;gap:12px;align-items:center;">
+                        <img src="portrait/${encodeURIComponent(char.displayName)}.png" style="width:48px;height:48px;object-fit:contain;border-radius:6px;" onerror="this.style.display='none'">
+                        <div>
+                            <strong>${char.displayName}</strong><br>
+                            <span style="color:#00ffcc;">Level: ${char.level}</span><br>
+                            <span style="color:#aaa;">Passive: ${char.passive}</span>
                         </div>
                     </div>`;
             });
