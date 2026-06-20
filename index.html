@@ -20,7 +20,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 20, 2026 at 06:30 PM</p>
+    <p id="lastUpdated">Last Updated: June 20, 2026 at 06:35 PM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -78,7 +78,9 @@
                 let key = rawKey.toString().toLowerCase();
                 if (key.includes('awakeninglv')) {
                     let rawName = rawKey.replace(/awakeninglv/i, '').trim();
-                    rawName = rawName.replace(/^["']|["']$/g, '').trim().toLowerCase();
+                    rawName = rawName.replace(/^["']|["']$/g, '').trim();
+                    let normName = rawName.toLowerCase();
+                    let normNoSpace = normName.replace(/ /g, '');
                     
                     let displayName = rawName.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
                     
@@ -87,7 +89,7 @@
                     let passive = 'None';
                     const possiblePassiveKeys = [
                         `ps5${rawName}`, `ps${rawName}`,
-                        `ps5${rawName.replace(/ /g, '')}`, `ps${rawName.replace(/ /g, '')}`
+                        `ps5${normNoSpace}`, `ps${normNoSpace}`
                     ];
                     
                     for (let pk of possiblePassiveKeys) {
@@ -97,19 +99,20 @@
                         }
                     }
                     
-                    const charInfo = characterData[rawName] || {};
+                    const charInfo = characterData[normName] || characterData[normNoSpace] || {};
+                    console.log("Looking up character:", rawName, "Found:", Object.keys(charInfo).length > 0);
                     
                     characters.push({
                         name: rawName,
                         displayName: displayName,
                         level: level,
                         passive: passive,
-                        awakening1: charInfo.Awakening1 || '',
-                        awakening2: charInfo.Awakening2 || '',
-                        awakening3: charInfo.Awakening3 || '',
-                        spe: charInfo.Speed || '',
-                        specialty: charInfo.Specialty || '',
-                        description: charInfo.Description || ''
+                        awakening1: charInfo.Awakening1 || charInfo.awakening1 || '',
+                        awakening2: charInfo.Awakening2 || charInfo.awakening2 || '',
+                        awakening3: charInfo.Awakening3 || charInfo.awakening3 || '',
+                        spe: charInfo.Speed || charInfo.speed || '',
+                        specialty: charInfo.Specialty || charInfo.specialty || '',
+                        description: charInfo.Description || charInfo.description || ''
                     });
                 }
             });
