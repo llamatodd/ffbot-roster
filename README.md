@@ -49,7 +49,7 @@ Live demo: https://llamatodd.github.io/ffbot-roster/
 The site will update automatically every 30 minutes and push to GitHub Pages.
 
 ## Credits
-- Built with ❤️ by Grok + llamatodd
+- Built with Grok + llamatodd
 - Powered by Python + HTML/CSS/JS
 
 ---
