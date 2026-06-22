@@ -15,10 +15,27 @@
         .portrait { height: 160px; background-size: contain; background-position: center; background-repeat: no-repeat; background-color: #0f1621; image-rendering: pixelated; }
         .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); z-index: 1000; }
         .modal-content { background: #16213e; max-width: 950px; margin: 40px auto; padding: 25px; border-radius: 12px; max-height: 90vh; overflow-y: auto; position: relative; }
-        .char-card { display: flex; gap: 16px; background: #1e2a5e; padding: 14px; border-radius: 10px; margin-bottom: 14px; align-items: flex-start; }
+        .char-card { display: flex; gap: 16px; background: #1e2a5e; padding: 14px; border-radius: 10px; margin-bottom: 14px; align-items: flex-start; position: relative; overflow: hidden; }
         .char-portrait { width: 64px; height: 64px; background-size: contain; background-position: center; background-repeat: no-repeat; background-color: #0f1621; border-radius: 8px; flex-shrink: 0; image-rendering: pixelated; }
-        .char-info { flex: 1; }
+        .char-info { flex: 1; z-index: 1;}
         .char-info strong { font-size: 1.1em; }
+        .char-card::before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            right: -82px;
+            width: 320px;                  /* 2x the original 160px */
+            height: 200px;                 /* half of 320 = only top half visible */
+            background-image: var(--char-img);
+            background-repeat: no-repeat;
+            background-size: 320px 320px;  /* the "full" 2x-scaled image */
+            background-position: top right;
+            image-rendering: pixelated;
+            opacity: 0.4;
+            z-index: 0;
+            pointer-events: none;
+
+        }
         .awakening.unlearned { color: #888; opacity: 0.75; }
         .role-dps { color: #ff6666; }
         .role-tank { color: #66aaff; }
@@ -30,7 +47,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 22, 2026 at 03:31 AM</p>
+    <p id="lastUpdated">Last Updated: June 22, 2026 at 04:29 AM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -161,20 +178,20 @@
 
             filtered.forEach(char => {
                 html += `
-                    <div class="char-card">
+                    <div class="char-card" style="--char-img:url('portrait/${encodeURIComponent(char.displayName)}.png')">
                         <div class="char-portrait" style="background-image:url('portrait/${encodeURIComponent(char.displayName)}.png')"></div>
                         <div class="char-info">
                             <strong>${char.displayName}</strong> <span class="${char.role.toLowerCase().includes('dps') ? 'role-dps' : char.role.toLowerCase().includes('tank') ? 'role-tank' : char.role.toLowerCase().includes('healer') ? 'role-healer' : char.role.toLowerCase().includes('support') ? 'role-support' : ''}">[${char.role}]</span><br>
                             <span style="color:#00ffcc;">Level: ${char.level}</span> | Stats: ${char.stats || 'N/A'}<br>
-                            <span style="color:#aaa;">Passive: ${char.passive}</span><br>
+                            <span style="color:#ffb300;">Passive: ${char.passive}</span><br>
                             <div style="margin-top:8px;font-size:13px;">
                                 Awakenings:<br>
                                 <span class="${char.level >= 100 ? '' : 'awakening unlearned'}">1. ${char.awakening1 || '???'} </span><br>
                                 <span class="${char.level >= 200 ? '' : 'awakening unlearned'}">2. ${char.awakening2 || '???'} </span><br>
                                 <span class="${char.level >= 500 ? '' : 'awakening unlearned'}">3. ${char.awakening3 || '???'} </span>
-                            </div>
-                            ${char.spe ? `<div>Speed: ${char.spe}</div>` : ''}
-                            ${char.specialty ? `<div>Specialty: ${char.specialty}</div>` : ''}
+                            </div><br>
+                            ${char.spe ? `<div style="font-size:13px;">Speed: ${char.spe}</div>` : ''}
+                            ${char.specialty ? `<div style="font-size:13px;">Specialty: ${char.specialty}</div>` : ''}
                             ${char.description ? `<div style="font-size:12px;margin-top:8px;color:#ccc;">${char.description}</div>` : ''}
                         </div>
                     </div>`;
