@@ -76,7 +76,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 23, 2026 at 05:21 PM</p>
+    <p id="lastUpdated">Last Updated: June 23, 2026 at 05:22 PM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -212,7 +212,7 @@
             let html = '<h2>Recruited Characters</h2>';
             html += `<div style="margin:10px 0 15px 0;">
                 <button onclick="renderCharacterGrid('all')" class="filter-btn ${filter==='all'?'active':''}">All</button>
-                <button onclick="renderCharacterGrid('dps')" class="filter-btn role-badge-dps ${filter==='dps'?'active':''}">DPS</button>
+                <button onclick="renderCharacterGrid('dps')" class="role-badge-dps filter-btn ${filter==='dps'?'active':''}">DPS</button>
                 <button onclick="renderCharacterGrid('tank')" class="filter-btn ${filter==='tank'?'active':''}">Tank</button>
                 <button onclick="renderCharacterGrid('healer')" class="filter-btn ${filter==='healer'?'active':''}">Healer</button>
                 <button onclick="renderCharacterGrid('support')" class="filter-btn ${filter==='support'?'active':''}">Support</button>
