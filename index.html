@@ -32,7 +32,7 @@
         .role-badge-tank { background: rgba(102,170,255,0.18); color: #8cc0ff; }
         .role-badge-tank::before { content: " 🛡️"; margin-right: 2px; }
         .role-badge-healer { background: rgba(102,255,153,0.18); color: #8affb8; }
-        .role-badge-healer::after { content: " ✚"; margin-right: 2px; color: #66ff99; }
+        .role-badge-healer::before { content: " ✚"; margin-right: 2px; color: #66ff99; }
         .role-badge-support { background: rgba(204,153,255,0.18); color: #d6b3ff; }
         .char-card::before {
             content: "";
@@ -75,7 +75,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 23, 2026 at 08:30 AM</p>
+    <p id="lastUpdated">Last Updated: June 23, 2026 at 08:31 AM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
