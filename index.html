@@ -77,7 +77,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 23, 2026 at 05:24 PM</p>
+    <p id="lastUpdated">Last Updated: June 23, 2026 at 05:25 PM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
@@ -214,9 +214,9 @@
             html += `<div style="margin:10px 0 15px 0;">
                 <button onclick="renderCharacterGrid('all')" class="filter-btn ${filter==='all'?'active':''}">All</button>
                 <button onclick="renderCharacterGrid('dps')" class="role-badge-dps filter-btn ${filter==='dps'?'active':''}">DPS</button>
-                <button onclick="renderCharacterGrid('tank')" class="filter-btn ${filter==='tank'?'active':''}">Tank</button>
-                <button onclick="renderCharacterGrid('healer')" class="filter-btn ${filter==='healer'?'active':''}">Healer</button>
-                <button onclick="renderCharacterGrid('support')" class="filter-btn ${filter==='support'?'active':''}">Support</button>
+                <button onclick="renderCharacterGrid('tank')" class="role-badge-tank filter-btn ${filter==='tank'?'active':''}">Tank</button>
+                <button onclick="renderCharacterGrid('healer')" class="role-badge-healer filter-btn ${filter==='healer'?'active':''}">Healer</button>
+                <button onclick="renderCharacterGrid('support')" class="role-badge-support filter-btn ${filter==='support'?'active':''}">Support</button>
                 <button onclick="toggleSort('alpha')" id="alphaBtn" class="filter-btn">A-Z</button>
                 <button onclick="toggleSort('level')" id="levelBtn" class="filter-btn">Hi-Low</button>
             </div>`;
