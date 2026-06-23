@@ -28,11 +28,11 @@
         .role-badge { font-size: 15px; padding: 2px 8px; border-radius: 4px; flex-shrink: 0; margin-left: 8px; }
         .role-badge-lg { position: absolute; top: 8px; right: 8px; font-size: 13px; padding: 4px 9px; border-radius: 6px; border: 2px solid #16213e; }
         .role-badge-dps { background: rgba(255,102,102,0.18); color: #ff8a8a; }
-        .role-badge-dps::before   { content: " ⚔️"; margin-right: 2px }
+        .role-badge-dps::before   { content: " ⚔️"; margin-right: 2px; position:relative; bottom: 3px; }
         .role-badge-tank { background: rgba(102,170,255,0.18); color: #8cc0ff; }
-        .role-badge-tank::before { content: " 🛡️"; margin-right: 2px; }
+        .role-badge-tank::before { content: " 🛡️"; margin-right: 2px; position:relative; bottom: 3px;}
         .role-badge-healer { background: rgba(102,255,153,0.18); color: #8affb8; }
-        .role-badge-healer::before { content: " ✚"; margin-right: 2px; color: #66ff99; position:relative; bottom: 2px; left:3px; }
+        .role-badge-healer::before { content: " ✚"; margin-right: 2px; color: #66ff99; position:relative; bottom: 3px; }
         .role-badge-support { background: rgba(204,153,255,0.18); color: #d6b3ff; }
         .role-badge-support::before { content: " 🛠️"; margin-right: 2px; }
         .char-card::before {
@@ -76,7 +76,7 @@
 </head>
 <body>
     <h1>FFBOT Player Roster</h1>
-    <p id="lastUpdated">Last Updated: June 23, 2026 at 08:40 AM</p>
+    <p id="lastUpdated">Last Updated: June 23, 2026 at 08:41 AM</p>
     <input type="text" id="search" placeholder="Search by username..." onkeyup="filterPlayers()">
     
     <div class="player-grid" id="playerGrid"></div>
