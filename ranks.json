@@ -1710,5 +1710,13 @@
     "unit": "Penelo",
     "role": "Support",
     "ascension": 0
+  },
+  {
+    "username": "GusMoose",
+    "rank": 69,
+    "awakeningPercent": 0,
+    "unit": "Cecil",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
