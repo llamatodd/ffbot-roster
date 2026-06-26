@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 212,
+    "awakeningPercent": 214,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 68
@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 19,
     "awakeningPercent": 60,
-    "unit": "Ozma",
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 6
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 64,
-    "unit": "Rosa",
-    "role": "Healer",
+    "unit": "Yunalesca",
+    "role": "DPS",
     "ascension": 7
   },
   {
