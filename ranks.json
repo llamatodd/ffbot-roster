@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 494,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "unit": "Garland",
+    "role": "DPS",
     "ascension": 30
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 12
