@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 19,
-    "awakeningPercent": 62,
+    "rank": 18,
+    "awakeningPercent": 64,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 6
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 488,
+    "awakeningPercent": 490,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 30
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 8,
     "awakeningPercent": 120,
-    "unit": "Vaan",
+    "unit": "Marcus",
     "role": "DPS",
     "ascension": 6
   },
