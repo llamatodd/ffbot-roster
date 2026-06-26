@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 17,
+    "rank": 18,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 76,
-    "unit": "Squall Space",
-    "role": "Tank",
+    "unit": "Pupu",
+    "role": "Healer",
     "ascension": 11
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 17,
-    "awakeningPercent": 64,
+    "rank": 16,
+    "awakeningPercent": 66,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 7
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 25,
-    "awakeningPercent": 18,
+    "awakeningPercent": 20,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 0
