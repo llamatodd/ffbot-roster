@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 11
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 11,
     "awakeningPercent": 106,
-    "unit": "Faris",
+    "unit": "Ramza",
     "role": "Support",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 108,
-    "unit": "Aeris",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 6
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 154,
-    "unit": "Kuja",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 12
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 17,
     "awakeningPercent": 66,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 7
   },
