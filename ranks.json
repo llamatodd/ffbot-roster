@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 4,
     "awakeningPercent": 198,
-    "unit": "Estinien",
+    "unit": "Kiros",
     "role": "DPS",
     "ascension": 11
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 11,
-    "awakeningPercent": 100,
+    "awakeningPercent": 102,
     "unit": "Faris",
     "role": "Support",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 10,
-    "awakeningPercent": 102,
+    "awakeningPercent": 104,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 6
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 18,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 0
   },
   {
