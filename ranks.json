@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 492,
+    "awakeningPercent": 494,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 30
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 40
+    "ascension": 41
   },
   {
     "username": "MystisNykoto",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 11,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Faris",
     "role": "Support",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 10,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 6
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 12
