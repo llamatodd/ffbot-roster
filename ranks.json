@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 254,
-    "unit": "Auron",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 69
   },
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 13,
-    "awakeningPercent": 82,
-    "unit": "Eiko",
-    "role": "Healer",
+    "awakeningPercent": 84,
+    "unit": "Red Xiii",
+    "role": "Support",
     "ascension": 9
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 16,
     "awakeningPercent": 64,
-    "unit": "Amarant",
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 1
   },
@@ -1242,8 +1242,8 @@
   {
     "username": "Fossabot",
     "rank": 11,
-    "awakeningPercent": 98,
-    "unit": "Tidus",
+    "awakeningPercent": 100,
+    "unit": "Faris",
     "role": "Support",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 102,
-    "unit": "Porom",
+    "unit": "Aeris",
     "role": "Healer",
     "ascension": 6
   },
@@ -1650,9 +1650,9 @@
   {
     "username": "Dasende8702",
     "rank": 20,
-    "awakeningPercent": 48,
-    "unit": "Ashe",
-    "role": "Support",
+    "awakeningPercent": 50,
+    "unit": "Auron",
+    "role": "Tank",
     "ascension": 3
   },
   {
