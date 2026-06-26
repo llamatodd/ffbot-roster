@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 482,
-    "unit": "Edgar",
-    "role": "DPS",
+    "awakeningPercent": 484,
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 30
   },
   {
@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 8,
     "awakeningPercent": 118,
-    "unit": "Red Xiii",
-    "role": "Support",
+    "unit": "Raijin",
+    "role": "Tank",
     "ascension": 37
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 16,
-    "awakeningPercent": 64,
+    "awakeningPercent": 66,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 1
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 64,
     "unit": "Rosa",
     "role": "Healer",
