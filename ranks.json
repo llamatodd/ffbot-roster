@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 170,
-    "unit": "Sazh",
-    "role": "Support",
+    "awakeningPercent": 172,
+    "unit": "Vivi",
+    "role": "DPS",
     "ascension": 12
   },
   {
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 17,
     "awakeningPercent": 66,
-    "unit": "Rosa",
-    "role": "Healer",
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 7
   },
   {
