@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 256,
+    "awakeningPercent": 258,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 68
@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 198,
-    "unit": "Kiros",
-    "role": "DPS",
+    "awakeningPercent": 200,
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 11
   },
   {
