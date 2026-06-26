@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 486,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "awakeningPercent": 488,
+    "unit": "Yuna",
+    "role": "DPS",
     "ascension": 30
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 20,
-    "awakeningPercent": 52,
+    "awakeningPercent": 54,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 3
