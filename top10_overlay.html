@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+        background: transparent;
+        font-family: Arial, sans-serif;
+        color: #eee;
+    }
+    .pixel-font { font-family: 'Press Start 2P', monospace; letter-spacing: 0.5px; }
+    .leaderboard-panel {
+        width: 300px;
+        background: #16213e;
+        border: 3px solid #0f1621;
+        border-radius: 10px;
+        padding: 12px;
+        box-shadow: 0 0 24px rgba(0,0,0,0.6);
+    }
+    .leaderboard-title {
+        text-align: center;
+        color: #00ffcc;
+        font-size: 14px;
+        margin-bottom: 12px;
+        text-shadow: 2px 2px 0 #0a4a3d, 0 0 16px rgba(0,255,204,0.35);
+    }
+    .lb-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 4px 6px;
+        border-radius: 6px;
+        margin-bottom: 4px;
+    }
+    .lb-row.gold { background: linear-gradient(135deg, rgba(255,224,102,0.18), rgba(212,160,23,0.18)); }
+    .lb-row.silver { background: linear-gradient(135deg, rgba(232,232,232,0.12), rgba(176,176,176,0.12)); }
+    .lb-row.bronze { background: linear-gradient(135deg, rgba(217,154,91,0.15), rgba(168,99,40,0.15)); }
+    .lb-rank {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        width: 28px;
+        text-align: center;
+        flex-shrink: 0;
+    }
+    .lb-rank.gold { color: #ffd700; }
+    .lb-rank.silver { color: #c0c0c0; }
+    .lb-rank.bronze { color: #cd7f32; }
+    .lb-rank.standard { color: #fff; }
+    .lb-portrait {
+        width: 28px;
+        height: 28px;
+        object-fit: contain;
+        image-rendering: pixelated;
+        background: #0f1621;
+        border-radius: 4px;
+        flex-shrink: 0;
+    }
+    .lb-name {
+        flex: 1;
+        font-size: 13px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .lb-awk {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        color: #ffcc00;
+        flex-shrink: 0;
+    }
+</style>
+</head>
+<body>
+    <div class="leaderboard-panel">
+        <div class="leaderboard-title pixel-font">🏆 TOP 10</div>
+        <div id="rows"></div>
+    </div>
+
+    <script>
+        const RANKS_URL = 'https://llamatodd.github.io/ffbot-roster/ranks.json';
+        const PORTRAIT_BASE = 'https://llamatodd.github.io/ffbot-roster/portrait/';
+        const REFRESH_MS = 120000; // 2 minutes
+
+        function titleCase(name) {
+            return name.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');
+        }
+
+        async function loadLeaderboard() {
+            try {
+                const res = await fetch(RANKS_URL, { cache: 'no-store' });
+                const data = await res.json();
+                const top10 = data
+                    .filter(p => p.rank)
+                    .sort((a, b) => a.rank - b.rank)
+                    .slice(0, 10);
+
+                const rowsEl = document.getElementById('rows');
+                rowsEl.innerHTML = top10.map(p => {
+                    const tier = p.rank === 1 ? 'gold' : p.rank === 2 ? 'silver' : p.rank === 3 ? 'bronze' : 'standard';
+                    const medal = p.rank === 1 ? '🥇' : p.rank === 2 ? '🥈' : p.rank === 3 ? '🥉' : `#${p.rank}`;
+                    const portraitFile = titleCase(p.unit || 'Unknown');
+                    return `
+                        <div class="lb-row ${tier}">
+                            <div class="lb-rank ${tier}">${medal}</div>
+                            <img class="lb-portrait" src="${PORTRAIT_BASE}${encodeURIComponent(portraitFile)}.png" alt="" onerror="this.style.visibility='hidden'">
+                            <div class="lb-name">${p.username}</div>
+                            <div class="lb-awk">${p.awakeningPercent}%</div>
+                        </div>
+                    `;
+                }).join('');
+            } catch (e) {
+                console.error('Leaderboard fetch failed', e);
+            }
+        }
+
+        loadLeaderboard();
+        setInterval(loadLeaderboard, REFRESH_MS);
+    </script>
+</body>
+</html>
