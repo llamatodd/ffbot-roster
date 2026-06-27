@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 494,
+    "awakeningPercent": 496,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 30
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 13,
-    "awakeningPercent": 90,
-    "unit": "Quistis",
-    "role": "DPS",
+    "awakeningPercent": 92,
+    "unit": "Pupu",
+    "role": "Healer",
     "ascension": 10
   },
   {
@@ -705,9 +705,9 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 16,
-    "awakeningPercent": 68,
-    "unit": "Auron",
+    "rank": 15,
+    "awakeningPercent": 74,
+    "unit": "Ingus",
     "role": "Tank",
     "ascension": 1
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 154,
+    "awakeningPercent": 156,
     "unit": "Lulu",
     "role": "DPS",
     "ascension": 12
