@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 74,
     "unit": "Edgar",
     "role": "DPS",
@@ -253,7 +253,7 @@
     "awakeningPercent": 498,
     "unit": "Alphinaud",
     "role": "Healer",
-    "ascension": 30
+    "ascension": 31
   },
   {
     "username": "Jestmichelle",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 74,
+    "awakeningPercent": 76,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 1
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 114,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
