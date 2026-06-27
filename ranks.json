@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 226,
+    "awakeningPercent": 228,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 68
@@ -258,8 +258,8 @@
   {
     "username": "Jestmichelle",
     "rank": 21,
-    "awakeningPercent": 46,
-    "unit": "Vincent",
+    "awakeningPercent": 48,
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 13
   },
