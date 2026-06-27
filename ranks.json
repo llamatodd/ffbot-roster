@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 10,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 10,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 6
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 182,
-    "unit": "Braska",
+    "awakeningPercent": 184,
+    "unit": "Yuna",
     "role": "DPS",
     "ascension": 12
   },
