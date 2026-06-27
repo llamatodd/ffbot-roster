@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 17,
+    "rank": 18,
     "awakeningPercent": 70,
     "unit": "Amarant",
     "role": "Tank",
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 8,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 7
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 116,
     "unit": "Red Xiii",
     "role": "Support",
@@ -1250,9 +1250,9 @@
   {
     "username": "Nightbot",
     "rank": 10,
-    "awakeningPercent": 116,
-    "unit": "Cecil",
-    "role": "DPS",
+    "awakeningPercent": 118,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 17,
-    "awakeningPercent": 70,
+    "awakeningPercent": 72,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 7
