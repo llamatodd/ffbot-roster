@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 224,
+    "awakeningPercent": 226,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 68
@@ -1194,10 +1194,10 @@
   {
     "username": "its_aurelius_",
     "rank": 8,
-    "awakeningPercent": 122,
-    "unit": "Marcus",
-    "role": "DPS",
-    "ascension": 6
+    "awakeningPercent": 124,
+    "unit": "Ashe",
+    "role": "Support",
+    "ascension": 7
   },
   {
     "username": "explorer_moogle",
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 114,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 20,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 0
   },
   {
