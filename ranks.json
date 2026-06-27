@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 202,
+    "awakeningPercent": 204,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 11
@@ -1194,9 +1194,9 @@
   {
     "username": "its_aurelius_",
     "rank": 8,
-    "awakeningPercent": 126,
-    "unit": "Ashe",
-    "role": "Support",
+    "awakeningPercent": 128,
+    "unit": "Wakka",
+    "role": "DPS",
     "ascension": 7
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 118,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 74,
-    "unit": "Aeris",
+    "unit": "Minwu",
     "role": "Healer",
     "ascension": 8
   },
