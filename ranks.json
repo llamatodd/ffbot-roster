@@ -261,7 +261,7 @@
     "awakeningPercent": 46,
     "unit": "Vincent",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "egg_noodler",
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 32,
-    "unit": "Irvine",
+    "unit": "Zell",
     "role": "DPS",
     "ascension": 8
   },
@@ -1555,8 +1555,8 @@
     "username": "Xansie",
     "rank": 29,
     "awakeningPercent": 10,
-    "unit": "Shadow",
-    "role": "Tank",
+    "unit": "Garnet",
+    "role": "Healer",
     "ascension": 4
   },
   {
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 20,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 0
   },
   {
