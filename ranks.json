@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 502,
-    "unit": "Cid 7",
-    "role": "DPS",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 31
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 120,
     "unit": "Zack",
     "role": "Tank",
@@ -1249,8 +1249,8 @@
   },
   {
     "username": "Nightbot",
-    "rank": 10,
-    "awakeningPercent": 118,
+    "rank": 9,
+    "awakeningPercent": 122,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 6
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 186,
-    "unit": "Yuna",
+    "awakeningPercent": 188,
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 13
   },
