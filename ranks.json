@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 80,
+    "awakeningPercent": 82,
     "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 11
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 118,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 184,
+    "awakeningPercent": 186,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 13
