@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 13,
     "awakeningPercent": 92,
-    "unit": "Pupu",
-    "role": "Healer",
-    "ascension": 10
+    "unit": "Gogo",
+    "role": "DPS",
+    "ascension": 11
   },
   {
     "username": "artudixx",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 78,
+    "awakeningPercent": 80,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 11
