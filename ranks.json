@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 18,
-    "awakeningPercent": 66,
+    "rank": 17,
+    "awakeningPercent": 68,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 9,
     "awakeningPercent": 118,
-    "unit": "Eiko",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 37
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 114,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 17,
     "awakeningPercent": 68,
-    "unit": "Aeris",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 7
   },
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 20,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 0
   },
   {
