@@ -241,9 +241,9 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 18,
-    "awakeningPercent": 64,
-    "unit": "Dangerniel",
+    "rank": 17,
+    "awakeningPercent": 66,
+    "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
   },
@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 18,
+    "rank": 19,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 11,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 10,
-    "awakeningPercent": 108,
+    "awakeningPercent": 110,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 6
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 12
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 17,
     "awakeningPercent": 66,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 7
   },
   {
