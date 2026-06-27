@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 498,
+    "awakeningPercent": 500,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 31
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 17,
-    "awakeningPercent": 72,
+    "rank": 16,
+    "awakeningPercent": 74,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 7
