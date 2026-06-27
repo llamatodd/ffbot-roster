@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 496,
-    "unit": "Garland",
-    "role": "DPS",
+    "awakeningPercent": 498,
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 30
   },
   {
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 11,
-    "awakeningPercent": 112,
+    "rank": 10,
+    "awakeningPercent": 114,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 6
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 180,
+    "awakeningPercent": 182,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 12
