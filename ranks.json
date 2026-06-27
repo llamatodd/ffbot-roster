@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 48,
-    "unit": "Garnet Summoner",
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 14
   },
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
