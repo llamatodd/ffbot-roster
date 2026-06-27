@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 13,
-    "awakeningPercent": 88,
+    "awakeningPercent": 90,
     "unit": "Quistis",
     "role": "DPS",
     "ascension": 10
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 17,
     "awakeningPercent": 66,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 7
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 20,
-    "awakeningPercent": 54,
+    "awakeningPercent": 56,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 3
