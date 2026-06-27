@@ -242,16 +242,16 @@
   {
     "username": "Fangcollector",
     "rank": 17,
-    "awakeningPercent": 68,
+    "awakeningPercent": 70,
     "unit": "Amarant",
     "role": "Tank",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 498,
-    "unit": "Alphinaud",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 31
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 96,
+    "awakeningPercent": 98,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 11
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 10,
     "awakeningPercent": 114,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 17,
-    "awakeningPercent": 68,
-    "unit": "Ovelia",
+    "awakeningPercent": 70,
+    "unit": "Aeris",
     "role": "Healer",
     "ascension": 7
   },
@@ -1555,8 +1555,8 @@
     "username": "Xansie",
     "rank": 29,
     "awakeningPercent": 10,
-    "unit": "Garnet",
-    "role": "Healer",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 4
   },
   {
