@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 68
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 178,
+    "awakeningPercent": 180,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 12
