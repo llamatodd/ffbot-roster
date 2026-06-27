@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 184,
     "unit": "Yuna",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "FloDaddelt",
@@ -1553,8 +1553,8 @@
   },
   {
     "username": "Xansie",
-    "rank": 29,
-    "awakeningPercent": 10,
+    "rank": 27,
+    "awakeningPercent": 12,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 4
@@ -1716,6 +1716,14 @@
     "rank": 69,
     "awakeningPercent": 0,
     "unit": "Cecil",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "johncriton",
+    "rank": 69,
+    "awakeningPercent": 0,
+    "unit": "Laguna",
     "role": "DPS",
     "ascension": 0
   }
