@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 220,
+    "awakeningPercent": 222,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 68
@@ -417,8 +417,8 @@
   },
   {
     "username": "seika",
-    "rank": 13,
-    "awakeningPercent": 92,
+    "rank": 12,
+    "awakeningPercent": 94,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 11
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Lulu",
     "role": "DPS",
     "ascension": 13
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 12
