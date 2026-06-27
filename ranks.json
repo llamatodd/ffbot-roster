@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 268,
-    "unit": "Snow",
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 228,
-    "unit": "Celes",
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 68
   },
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 18,
-    "awakeningPercent": 70,
-    "unit": "Amarant",
+    "awakeningPercent": 72,
+    "unit": "Zack",
     "role": "Tank",
     "ascension": 7
   },
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 48,
-    "unit": "Kefka",
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 14
   },
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 15,
     "awakeningPercent": 76,
-    "unit": "Ingus",
+    "unit": "Raijin",
     "role": "Tank",
     "ascension": 1
   },
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
