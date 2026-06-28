@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 84,
-    "unit": "Cait Sith",
-    "role": "Tank",
+    "unit": "Faris",
+    "role": "Support",
     "ascension": 11
   },
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 204,
+    "awakeningPercent": 206,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 11
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
