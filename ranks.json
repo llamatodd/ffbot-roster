@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 17,
+    "rank": 18,
     "awakeningPercent": 74,
     "unit": "Edgar",
     "role": "DPS",
@@ -418,10 +418,10 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 100,
+    "awakeningPercent": 102,
     "unit": "Lightning",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "artudixx",
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 27,
+    "rank": 28,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 27,
+    "rank": 28,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 11,
-    "awakeningPercent": 118,
+    "rank": 10,
+    "awakeningPercent": 120,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 6
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 17,
-    "awakeningPercent": 74,
-    "unit": "Aeris",
+    "rank": 16,
+    "awakeningPercent": 76,
+    "unit": "Minwu",
     "role": "Healer",
     "ascension": 8
   },
@@ -1554,10 +1554,10 @@
   {
     "username": "Xansie",
     "rank": 27,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Sazh",
     "role": "Support",
-    "ascension": 4
+    "ascension": 5
   },
   {
     "username": "Tinybubba",
