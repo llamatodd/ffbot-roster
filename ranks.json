@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 16,
-    "awakeningPercent": 80,
+    "awakeningPercent": 82,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 7
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 16,
-    "awakeningPercent": 80,
-    "unit": "Minwu",
+    "awakeningPercent": 82,
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 8
   },
@@ -1724,6 +1724,14 @@
     "rank": 69,
     "awakeningPercent": 0,
     "unit": "Laguna",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Minsu",
+    "rank": 69,
+    "awakeningPercent": 0,
+    "unit": "Quistis",
     "role": "DPS",
     "ascension": 0
   }
