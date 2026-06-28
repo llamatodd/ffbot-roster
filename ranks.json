@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 280,
-    "unit": "Cyan",
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 240,
-    "unit": "Paine",
+    "unit": "Edgar",
     "role": "DPS",
     "ascension": 68
   },
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 516,
+    "awakeningPercent": 518,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 31
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 7,
     "awakeningPercent": 140,
-    "unit": "Kimahri",
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 7
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 10,
     "awakeningPercent": 128,
-    "unit": "Jecht",
+    "unit": "Paine",
     "role": "DPS",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 130,
-    "unit": "Ingus",
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 6
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 200,
-    "unit": "Seymour",
+    "awakeningPercent": 202,
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 13
   },
