@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 19,
+    "rank": 20,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 206,
+    "awakeningPercent": 208,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 11
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 7,
-    "awakeningPercent": 136,
+    "awakeningPercent": 138,
     "unit": "Kimahri",
     "role": "DPS",
     "ascension": 7
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 19,
-    "awakeningPercent": 64,
+    "awakeningPercent": 66,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 3
