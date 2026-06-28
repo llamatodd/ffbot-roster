@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 82,
+    "awakeningPercent": 84,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 2
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 78,
-    "unit": "Minwu",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 8
   },
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 25,
-    "awakeningPercent": 20,
+    "awakeningPercent": 22,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 0
