@@ -409,10 +409,10 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 122,
-    "unit": "Zack",
-    "role": "Tank",
+    "unit": "Rosa",
+    "role": "Healer",
     "ascension": 37
   },
   {
@@ -1241,9 +1241,9 @@
   },
   {
     "username": "Fossabot",
-    "rank": 10,
-    "awakeningPercent": 122,
-    "unit": "Orlandeau",
+    "rank": 9,
+    "awakeningPercent": 124,
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 6
   },
