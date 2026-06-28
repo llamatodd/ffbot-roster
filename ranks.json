@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 74,
     "unit": "Edgar",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 16,
-    "awakeningPercent": 74,
+    "awakeningPercent": 76,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 7
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 506,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "awakeningPercent": 508,
+    "unit": "Cid 7",
+    "role": "DPS",
     "ascension": 31
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 74,
     "unit": "Aeris",
     "role": "Healer",
@@ -1555,8 +1555,8 @@
     "username": "Xansie",
     "rank": 27,
     "awakeningPercent": 12,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 4
   },
   {
