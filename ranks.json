@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 68
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 14
