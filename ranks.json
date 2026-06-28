@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 124,
     "unit": "Rosa",
     "role": "Healer",
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 10,
-    "awakeningPercent": 124,
+    "rank": 9,
+    "awakeningPercent": 126,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 6
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 5,
     "awakeningPercent": 194,
-    "unit": "Ashe",
+    "unit": "Solanin",
     "role": "Support",
     "ascension": 13
   },
