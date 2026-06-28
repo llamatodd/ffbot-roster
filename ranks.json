@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 238,
+    "awakeningPercent": 240,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 68
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 84,
+    "awakeningPercent": 86,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 2
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 7,
-    "awakeningPercent": 138,
+    "awakeningPercent": 140,
     "unit": "Kimahri",
     "role": "DPS",
     "ascension": 7
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 128,
     "unit": "Jecht",
     "role": "DPS",
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 9,
-    "awakeningPercent": 128,
+    "awakeningPercent": 130,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 6
