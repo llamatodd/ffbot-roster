@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 76,
     "unit": "Zack",
     "role": "Tank",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 16,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Minwu",
     "role": "Healer",
     "ascension": 8
