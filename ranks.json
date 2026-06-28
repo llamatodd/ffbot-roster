@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 68
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 124,
     "unit": "Rosa",
     "role": "Healer",
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 8,
-    "awakeningPercent": 132,
+    "rank": 7,
+    "awakeningPercent": 134,
     "unit": "Lulu",
     "role": "DPS",
     "ascension": 7
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 124,
     "unit": "Jecht",
     "role": "DPS",
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 9,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 6
