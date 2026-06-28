@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 14
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 124,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
