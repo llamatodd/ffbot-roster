@@ -1553,8 +1553,8 @@
   },
   {
     "username": "Xansie",
-    "rank": 27,
-    "awakeningPercent": 14,
+    "rank": 26,
+    "awakeningPercent": 16,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 5
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 20,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 0
   },
   {
