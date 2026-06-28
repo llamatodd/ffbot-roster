@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 122,
     "unit": "Zack",
     "role": "Tank",
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 122,
     "unit": "Orlandeau",
     "role": "DPS",
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 9,
-    "awakeningPercent": 122,
+    "awakeningPercent": 124,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 6
