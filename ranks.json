@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 4,
     "awakeningPercent": 208,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Red Xiii",
+    "role": "Support",
     "ascension": 11
   },
   {
@@ -1387,9 +1387,9 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 32,
-    "unit": "Irvine",
+    "unit": "Tifa",
     "role": "DPS",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "dracostheveteran",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 13
