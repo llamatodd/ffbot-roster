@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 504,
-    "unit": "Chocobo",
+    "awakeningPercent": 506,
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 31
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 12,
     "awakeningPercent": 100,
-    "unit": "Sazh",
-    "role": "Support",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 12
   },
   {
@@ -1243,8 +1243,8 @@
     "username": "Fossabot",
     "rank": 11,
     "awakeningPercent": 118,
-    "unit": "Red Xiii",
-    "role": "Support",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 160,
+    "awakeningPercent": 162,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 13
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 190,
-    "unit": "Fran",
-    "role": "DPS",
+    "awakeningPercent": 192,
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 13
   },
   {
