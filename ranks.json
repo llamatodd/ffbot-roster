@@ -418,10 +418,10 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 98,
-    "unit": "Pupu",
-    "role": "Healer",
-    "ascension": 11
+    "awakeningPercent": 100,
+    "unit": "Lightning",
+    "role": "DPS",
+    "ascension": 12
   },
   {
     "username": "artudixx",
