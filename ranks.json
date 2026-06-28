@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 508,
+    "awakeningPercent": 510,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 31
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 48,
-    "unit": "Vincent",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 14
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 108,
+    "awakeningPercent": 110,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 14
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 5,
     "awakeningPercent": 194,
-    "unit": "Terra",
-    "role": "DPS",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 13
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 78,
-    "unit": "Hope",
+    "unit": "Minwu",
     "role": "Healer",
     "ascension": 8
   },
@@ -1649,8 +1649,8 @@
   },
   {
     "username": "Dasende8702",
-    "rank": 20,
-    "awakeningPercent": 62,
+    "rank": 19,
+    "awakeningPercent": 64,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 3
