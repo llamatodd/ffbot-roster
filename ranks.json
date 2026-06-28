@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 268,
+    "awakeningPercent": 270,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 228,
+    "awakeningPercent": 230,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 68
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 1
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 82,
+    "awakeningPercent": 84,
     "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 11
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 6
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 74,
-    "unit": "Minwu",
+    "unit": "Aeris",
     "role": "Healer",
     "ascension": 8
   },
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 20,
     "awakeningPercent": 62,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Balthier",
+    "role": "Tank",
     "ascension": 3
   },
   {
