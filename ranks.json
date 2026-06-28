@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 18,
-    "awakeningPercent": 72,
+    "rank": 16,
+    "awakeningPercent": 74,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 7
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 12,
     "awakeningPercent": 100,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 12
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 9,
     "awakeningPercent": 122,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 32,
-    "unit": "Zell",
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 8
   },
