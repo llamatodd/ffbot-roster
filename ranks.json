@@ -421,7 +421,7 @@
     "awakeningPercent": 112,
     "unit": "Rubicante",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "artudixx",
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 196,
-    "unit": "Ashe",
-    "role": "Support",
+    "awakeningPercent": 198,
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 13
   },
   {
