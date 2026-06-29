@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 50,
-    "unit": "Lulu",
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 15
   },
@@ -705,8 +705,8 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 15,
-    "awakeningPercent": 92,
+    "rank": 13,
+    "awakeningPercent": 94,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 2
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 13,
     "awakeningPercent": 94,
-    "unit": "Metuba",
-    "role": "Support",
+    "unit": "Auron",
+    "role": "Tank",
     "ascension": 11
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 172,
-    "unit": "Edea Matron",
+    "unit": "Terra",
     "role": "DPS",
     "ascension": 13
   },
