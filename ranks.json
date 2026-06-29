@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 17,
     "awakeningPercent": 90,
-    "unit": "Balthier",
+    "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 8
   },
@@ -571,7 +571,7 @@
     "username": "Khuu59",
     "rank": 26,
     "awakeningPercent": 16,
-    "unit": "Solanin",
+    "unit": "Vanille",
     "role": "Support",
     "ascension": 6
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 13
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 18,
     "awakeningPercent": 78,
-    "unit": "Basch",
-    "role": "Tank",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 3
   },
   {
