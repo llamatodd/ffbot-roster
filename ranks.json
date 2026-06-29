@@ -253,13 +253,13 @@
     "awakeningPercent": 530,
     "unit": "Ignis",
     "role": "DPS",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 50,
-    "unit": "Vincent",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 15
   },
@@ -573,7 +573,7 @@
     "awakeningPercent": 16,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "whitegrimknight",
@@ -1433,8 +1433,8 @@
   },
   {
     "username": "Astaemos",
-    "rank": 5,
-    "awakeningPercent": 218,
+    "rank": 4,
+    "awakeningPercent": 220,
     "unit": "Palom",
     "role": "DPS",
     "ascension": 13
