@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 17,
-    "awakeningPercent": 82,
+    "awakeningPercent": 84,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 7
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 522,
-    "unit": "Torgal",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 31
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 12
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 5,
     "awakeningPercent": 206,
-    "unit": "Yunalesca",
+    "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
   },
