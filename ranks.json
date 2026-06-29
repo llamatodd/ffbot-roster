@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 17,
-    "awakeningPercent": 88,
+    "awakeningPercent": 90,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 8
@@ -250,15 +250,15 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 530,
-    "unit": "Ignis",
+    "awakeningPercent": 532,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 32
   },
   {
     "username": "Jestmichelle",
     "rank": 21,
-    "awakeningPercent": 50,
+    "awakeningPercent": 52,
     "unit": "Lulu",
     "role": "DPS",
     "ascension": 15
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 34,
-    "unit": "Tifa",
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 9
   },
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 16,
-    "awakeningPercent": 90,
-    "unit": "Yunalesca",
-    "role": "DPS",
+    "awakeningPercent": 92,
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 9
   },
   {
