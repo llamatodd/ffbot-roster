@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 526,
-    "unit": "Fujin",
+    "awakeningPercent": 528,
+    "unit": "Ignis",
     "role": "DPS",
     "ascension": 31
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 11,
     "awakeningPercent": 128,
-    "unit": "Torgal",
-    "role": "Support",
+    "unit": "Cloud",
+    "role": "DPS",
     "ascension": 21
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 19,
-    "awakeningPercent": 74,
+    "awakeningPercent": 76,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 3
