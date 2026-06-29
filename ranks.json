@@ -241,11 +241,11 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 88,
     "unit": "Balthier",
     "role": "Tank",
-    "ascension": 7
+    "ascension": 8
   },
   {
     "username": "Sarah_Orion",
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 15,
     "awakeningPercent": 90,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Rikku X2",
+    "role": "DPS",
     "ascension": 2
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
-    "awakeningPercent": 88,
+    "rank": 15,
+    "awakeningPercent": 90,
     "unit": "Palom",
     "role": "DPS",
     "ascension": 9
