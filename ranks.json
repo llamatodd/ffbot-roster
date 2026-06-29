@@ -27,8 +27,8 @@
     "username": "AmagiFial",
     "rank": 18,
     "awakeningPercent": 74,
-    "unit": "Yuffie",
-    "role": "DPS",
+    "unit": "Galuf",
+    "role": "Tank",
     "ascension": 10
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
