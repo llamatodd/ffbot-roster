@@ -421,7 +421,7 @@
     "awakeningPercent": 114,
     "unit": "Rubicante",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "artudixx",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 86,
+    "awakeningPercent": 88,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 2
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 166,
+    "awakeningPercent": 168,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 13
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 86,
     "unit": "Hope",
     "role": "Healer",
