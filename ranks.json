@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 114,
-    "unit": "Rubicante",
+    "awakeningPercent": 116,
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 16
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 90,
-    "unit": "Ghido",
-    "role": "Tank",
+    "unit": "Metuba",
+    "role": "Support",
     "ascension": 11
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 5,
-    "awakeningPercent": 206,
+    "awakeningPercent": 208,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
