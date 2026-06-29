@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 18,
-    "awakeningPercent": 74,
+    "awakeningPercent": 76,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 10
@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 17,
     "awakeningPercent": 84,
-    "unit": "Rude",
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 7
   },
@@ -421,7 +421,7 @@
     "awakeningPercent": 122,
     "unit": "Clive",
     "role": "DPS",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "artudixx",
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 25,
-    "awakeningPercent": 24,
+    "awakeningPercent": 26,
     "unit": "Jill",
     "role": "Support",
     "ascension": 0
