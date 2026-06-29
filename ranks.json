@@ -3,15 +3,15 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 286,
-    "unit": "Shadow",
-    "role": "Tank",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 246,
-    "unit": "Edgar",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 68
   },
@@ -421,7 +421,7 @@
     "awakeningPercent": 118,
     "unit": "Queen",
     "role": "DPS",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "artudixx",
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 134,
-    "unit": "Paine",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 6
   },
   {
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 136,
-    "unit": "Auron",
+    "unit": "Auron Young",
     "role": "Tank",
     "ascension": 6
   },
