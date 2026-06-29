@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 290,
+    "awakeningPercent": 292,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 250,
+    "awakeningPercent": 252,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 68
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 126,
     "unit": "Locke",
     "role": "DPS",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 11,
-    "awakeningPercent": 126,
+    "awakeningPercent": 128,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 21
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 4,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 12
@@ -1242,15 +1242,15 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 138,
+    "awakeningPercent": 140,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 6
   },
   {
     "username": "Nightbot",
-    "rank": 8,
-    "awakeningPercent": 140,
+    "rank": 7,
+    "awakeningPercent": 142,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 6
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
+    "rank": 5,
     "awakeningPercent": 216,
     "unit": "Palom",
     "role": "DPS",
