@@ -1734,5 +1734,13 @@
     "unit": "Quistis",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Ikherin",
+    "rank": 69,
+    "awakeningPercent": 0,
+    "unit": "Dangerniel",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
