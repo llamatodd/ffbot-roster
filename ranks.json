@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 15,
-    "awakeningPercent": 90,
+    "awakeningPercent": 92,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 2
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 90,
-    "unit": "Palom",
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 9
   },
