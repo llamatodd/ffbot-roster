@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 18,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 10
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 17,
-    "awakeningPercent": 84,
+    "awakeningPercent": 86,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 7
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 522,
-    "unit": "Torgal",
-    "role": "Support",
+    "awakeningPercent": 524,
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 31
   },
   {
@@ -410,14 +410,14 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 37
   },
   {
     "username": "seika",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 124,
     "unit": "Torgal",
     "role": "Support",
@@ -1433,9 +1433,9 @@
   },
   {
     "username": "Astaemos",
-    "rank": 5,
-    "awakeningPercent": 210,
-    "unit": "Fujin",
+    "rank": 4,
+    "awakeningPercent": 214,
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 13
   },
