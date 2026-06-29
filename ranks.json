@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 126,
-    "unit": "Rosa",
-    "role": "Healer",
+    "unit": "Locke",
+    "role": "DPS",
     "ascension": 37
   },
   {
@@ -421,7 +421,7 @@
     "awakeningPercent": 126,
     "unit": "Torgal",
     "role": "Support",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "artudixx",
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 15,
     "awakeningPercent": 90,
-    "unit": "Rikku X2",
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 2
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 216,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Palom",
+    "role": "DPS",
     "ascension": 13
   },
   {
