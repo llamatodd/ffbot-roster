@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 292,
-    "unit": "Solanin",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 69
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 252,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 68
   },
   {
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 94,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 2
   },
   {
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 140,
-    "unit": "Ingus",
+    "unit": "Raijin",
     "role": "Tank",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 142,
-    "unit": "Auron Young",
+    "unit": "Wol",
     "role": "Tank",
     "ascension": 6
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 34,
+    "awakeningPercent": 36,
     "unit": "Yuffie",
     "role": "DPS",
     "ascension": 9
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 92,
-    "unit": "Ovelia",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 9
   },
