@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 522,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "unit": "Torgal",
+    "role": "Support",
     "ascension": 31
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 12,
-    "awakeningPercent": 112,
+    "awakeningPercent": 114,
     "unit": "Rubicante",
     "role": "DPS",
     "ascension": 15
