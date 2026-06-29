@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 17,
-    "awakeningPercent": 86,
+    "rank": 16,
+    "awakeningPercent": 88,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 7
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 524,
+    "awakeningPercent": 526,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 31
@@ -1433,10 +1433,10 @@
   },
   {
     "username": "Astaemos",
-    "rank": 5,
-    "awakeningPercent": 214,
-    "unit": "Yunalesca",
-    "role": "DPS",
+    "rank": 4,
+    "awakeningPercent": 216,
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 13
   },
   {
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 19,
     "awakeningPercent": 74,
-    "unit": "Bartz",
-    "role": "Support",
+    "unit": "Basch",
+    "role": "Tank",
     "ascension": 3
   },
   {
