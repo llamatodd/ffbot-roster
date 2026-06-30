@@ -413,7 +413,7 @@
     "awakeningPercent": 136,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 37
+    "ascension": 38
   },
   {
     "username": "seika",
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 234,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Rubicante",
+    "role": "DPS",
     "ascension": 14
   },
   {
