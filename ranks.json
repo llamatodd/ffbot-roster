@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Jill",
     "role": "Support",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 256,
+    "awakeningPercent": 258,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 68
@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 23,
+    "rank": 24,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 98,
+    "awakeningPercent": 100,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 2
@@ -841,7 +841,7 @@
   },
   {
     "username": "Dredg",
-    "rank": 23,
+    "rank": 24,
     "awakeningPercent": 30,
     "unit": "Gogo",
     "role": "DPS",
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 98,
     "unit": "Auron",
     "role": "Tank",
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 30,
+    "awakeningPercent": 32,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 0
