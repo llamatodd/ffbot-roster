@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 546,
+    "awakeningPercent": 548,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 32
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 54,
-    "unit": "Lulu",
+    "unit": "Seymour",
     "role": "DPS",
     "ascension": 16
   },
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "MystisNykoto",
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 234,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "awakeningPercent": 236,
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 14
   },
   {
