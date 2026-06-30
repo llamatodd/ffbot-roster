@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 536,
+    "awakeningPercent": 538,
     "unit": "Vegeta",
     "role": "DPS",
     "ascension": 32
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 130,
     "unit": "Locke",
     "role": "DPS",
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 11,
-    "awakeningPercent": 130,
-    "unit": "Cloud",
+    "awakeningPercent": 132,
+    "unit": "Beatrix",
     "role": "DPS",
     "ascension": 22
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 14
