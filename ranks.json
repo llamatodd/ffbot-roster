@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 294,
+    "awakeningPercent": 296,
     "unit": "Jill",
     "role": "Support",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 68
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 96,
+    "awakeningPercent": 98,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 2
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 96,
     "unit": "Auron",
     "role": "Tank",
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 142,
     "unit": "Jecht",
     "role": "DPS",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 142,
+    "awakeningPercent": 144,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 144,
+    "awakeningPercent": 146,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 6
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 96,
     "unit": "Ovelia",
     "role": "Healer",
