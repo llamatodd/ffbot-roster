@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 92,
     "unit": "Cait Sith",
     "role": "Tank",
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
-    "awakeningPercent": 128,
+    "rank": 11,
+    "awakeningPercent": 130,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 37
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 41
+    "ascension": 42
   },
   {
     "username": "MystisNykoto",
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
-    "awakeningPercent": 92,
-    "unit": "Hope",
+    "rank": 15,
+    "awakeningPercent": 94,
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 9
   },
