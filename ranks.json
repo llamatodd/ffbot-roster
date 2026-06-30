@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 10,
     "awakeningPercent": 136,
-    "unit": "Beatrix",
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 22
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 226,
+    "awakeningPercent": 228,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 14
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 25,
     "awakeningPercent": 28,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Rydia",
+    "role": "DPS",
     "ascension": 0
   },
   {
