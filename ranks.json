@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 68
@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 100,
     "unit": "Snow",
     "role": "Tank",
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 548,
+    "awakeningPercent": 550,
     "unit": "Silenrea",
     "role": "DPS",
     "ascension": 32
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
-    "awakeningPercent": 100,
+    "rank": 13,
+    "awakeningPercent": 102,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 11
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 18,
-    "awakeningPercent": 84,
+    "awakeningPercent": 86,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 3
