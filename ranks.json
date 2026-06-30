@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 252,
+    "awakeningPercent": 254,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 68
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 534,
-    "unit": "Estinien",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 32
   },
   {
@@ -421,7 +421,7 @@
     "awakeningPercent": 128,
     "unit": "Cloud",
     "role": "DPS",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "artudixx",
@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 13,
+    "rank": 15,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 94,
+    "awakeningPercent": 96,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 2
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 13,
-    "awakeningPercent": 94,
+    "awakeningPercent": 96,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 11
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 142,
     "unit": "Jecht",
     "role": "DPS",
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
-    "awakeningPercent": 140,
+    "rank": 8,
+    "awakeningPercent": 142,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 142,
+    "awakeningPercent": 144,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 6
