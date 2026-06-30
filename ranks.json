@@ -3,16 +3,16 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 298,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Rosa",
+    "role": "Healer",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 258,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Locke",
+    "role": "DPS",
     "ascension": 68
   },
   {
@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 54,
-    "unit": "Lulu",
+    "unit": "Seymour",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "egg_noodler",
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 100,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 2
   },
   {
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 146,
-    "unit": "Raijin",
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 148,
-    "unit": "Wol",
+    "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 228,
+    "awakeningPercent": 230,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 14
@@ -1651,7 +1651,7 @@
     "username": "Dasende8702",
     "rank": 18,
     "awakeningPercent": 82,
-    "unit": "Beatrix",
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 3
   },
