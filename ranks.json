@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 548,
-    "unit": "Beatrix Beach",
+    "unit": "Silenrea",
     "role": "DPS",
     "ascension": 32
   },
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 54,
-    "unit": "Seymour",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 16
   },
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 98,
+    "rank": 14,
+    "awakeningPercent": 100,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 11
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 98,
     "unit": "Jill",
     "role": "Support",
