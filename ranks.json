@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 54,
-    "unit": "Lulu",
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 16
   },
@@ -571,7 +571,7 @@
     "username": "Khuu59",
     "rank": 26,
     "awakeningPercent": 16,
-    "unit": "Vanille",
+    "unit": "Ashe",
     "role": "Support",
     "ascension": 6
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 100,
-    "unit": "Auron",
-    "role": "Tank",
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 98,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 9
   },
   {
