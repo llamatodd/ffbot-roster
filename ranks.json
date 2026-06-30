@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 16,
-    "awakeningPercent": 96,
+    "rank": 14,
+    "awakeningPercent": 98,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 8
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 542,
-    "unit": "Tifa",
+    "awakeningPercent": 544,
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 32
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 100,
+    "awakeningPercent": 102,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 2
