@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 16,
-    "awakeningPercent": 94,
-    "unit": "Cait Sith",
+    "awakeningPercent": 96,
+    "unit": "Snow",
     "role": "Tank",
     "ascension": 8
   },
@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 16,
+    "rank": 17,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 222,
-    "unit": "Hope",
-    "role": "Healer",
+    "unit": "Alisaie",
+    "role": "DPS",
     "ascension": 12
   },
   {
