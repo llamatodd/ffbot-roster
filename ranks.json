@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 98,
+    "awakeningPercent": 100,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 8
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 544,
+    "awakeningPercent": 546,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 32
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 98,
     "unit": "Auron",
     "role": "Tank",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 98,
     "unit": "Ultimecia",
     "role": "DPS",
