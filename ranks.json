@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 68
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Alisaie",
     "role": "DPS",
     "ascension": 12
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 148,
+    "awakeningPercent": 150,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
