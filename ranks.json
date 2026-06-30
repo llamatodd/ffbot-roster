@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 68
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 10,
-    "awakeningPercent": 138,
+    "awakeningPercent": 140,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 22
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 146,
+    "awakeningPercent": 148,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 148,
+    "awakeningPercent": 150,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 230,
-    "unit": "Matoya",
-    "role": "Support",
+    "awakeningPercent": 232,
+    "unit": "Rubicante",
+    "role": "DPS",
     "ascension": 14
   },
   {
