@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 18,
+    "rank": 19,
     "awakeningPercent": 78,
     "unit": "Galuf",
     "role": "Tank",
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
-    "awakeningPercent": 96,
+    "rank": 13,
+    "awakeningPercent": 98,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 11
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 13
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 36,
+    "awakeningPercent": 38,
     "unit": "Yuffie",
     "role": "DPS",
     "ascension": 9
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 96,
     "unit": "Ovelia",
     "role": "Healer",
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 18,
-    "awakeningPercent": 78,
+    "awakeningPercent": 80,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 3
