@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 306,
+    "awakeningPercent": 308,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 69
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 148,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 22
   },
   {
