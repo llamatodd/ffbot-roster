@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 68
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 550,
-    "unit": "Celes",
+    "unit": "Silenrea",
     "role": "DPS",
     "ascension": 32
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 154,
+    "awakeningPercent": 156,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 6
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 100,
-    "unit": "Ultimecia",
-    "role": "DPS",
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 9
   },
   {
