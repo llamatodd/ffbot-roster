@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 15,
-    "awakeningPercent": 100,
-    "unit": "Snow",
+    "awakeningPercent": 102,
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 8
   },
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 26,
-    "awakeningPercent": 16,
+    "awakeningPercent": 18,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 6
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
-    "awakeningPercent": 102,
+    "rank": 13,
+    "awakeningPercent": 104,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 11
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 16,
-    "awakeningPercent": 98,
-    "unit": "Jill",
-    "role": "Support",
+    "awakeningPercent": 100,
+    "unit": "Ultimecia",
+    "role": "DPS",
     "ascension": 9
   },
   {
@@ -1553,7 +1553,7 @@
   },
   {
     "username": "Xansie",
-    "rank": 26,
+    "rank": 27,
     "awakeningPercent": 16,
     "unit": "Sazh",
     "role": "Support",
