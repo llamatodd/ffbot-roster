@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 560,
+    "awakeningPercent": 562,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 32
@@ -261,7 +261,7 @@
     "awakeningPercent": 58,
     "unit": "Yshtola",
     "role": "DPS",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "egg_noodler",
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 108,
-    "unit": "Sephiroth",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 11
   },
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 40,
     "unit": "Kiros",
     "role": "DPS",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "dracostheveteran",
