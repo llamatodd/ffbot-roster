@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 300,
+    "awakeningPercent": 302,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 69
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 550,
-    "unit": "Silenrea",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 32
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 10,
-    "awakeningPercent": 140,
+    "awakeningPercent": 142,
     "unit": "Maria",
     "role": "Support",
     "ascension": 22
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 102,
+    "awakeningPercent": 104,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 2
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 102,
     "unit": "Fujin",
     "role": "DPS",
