@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 2
@@ -1145,9 +1145,9 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 104,
-    "unit": "Fujin",
+    "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 11
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 240,
-    "unit": "Dark Invoker",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 14
   },
