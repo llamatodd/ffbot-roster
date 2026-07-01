@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 68
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 144,
-    "unit": "Braska",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 22
   },
   {
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 154,
+    "awakeningPercent": 156,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 6
