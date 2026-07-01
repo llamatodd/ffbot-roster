@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 268,
+    "awakeningPercent": 270,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 68
@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 102,
     "unit": "Babus",
     "role": "Tank",
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 56,
-    "unit": "Vivi",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 16
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 146,
+    "awakeningPercent": 148,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 22
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 6
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 102,
+    "awakeningPercent": 104,
     "unit": "Eiko",
     "role": "Healer",
     "ascension": 9
