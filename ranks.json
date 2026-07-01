@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 270,
-    "unit": "Agrias",
+    "unit": "Seifer",
     "role": "DPS",
     "ascension": 68
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 158,
-    "unit": "Auron Young",
+    "unit": "Amarant",
     "role": "Tank",
     "ascension": 6
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 160,
-    "unit": "Galuf",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 6
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 246,
+    "awakeningPercent": 248,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 14
