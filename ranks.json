@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 69
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 2
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 106,
     "unit": "Sephiroth",
     "role": "DPS",
@@ -1643,7 +1643,7 @@
     "username": "Maya__Lyoness",
     "rank": 23,
     "awakeningPercent": 32,
-    "unit": "Aeris",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 0
   },
