@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 15,
-    "awakeningPercent": 104,
+    "rank": 14,
+    "awakeningPercent": 106,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 8
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 244,
-    "unit": "Celes",
+    "awakeningPercent": 246,
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 14
   },
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 104,
     "unit": "Eiko",
     "role": "Healer",
