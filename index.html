@@ -96,7 +96,7 @@
     <div style="display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
         <span id="spriteRowLeft" class="sprite-row"></span>
         <div style="text-align:center;">
-            <p id="lastUpdated" style="margin:0;">Last Updated: July 01, 2026 at 01:45 AM</p>
+            <p id="lastUpdated" style="margin:0;">Last Updated: July 01, 2026 at 01:48 AM</p>
             <p style="margin:6px 0 0;">
                 <a href="https://twitch.tv/llamatodd" target="_blank" class="twitch-credit">
                     <span style="font-family:Arial,sans-serif;">📺</span> Roster by llamatodd &middot; twitch.tv/llamatodd
@@ -164,7 +164,9 @@
                         </div>
                         <div style="padding:16px;">
                             <div class="pixel-font player-name">${p.username}</div>
-                            <div style="font-size:13px;color:#aaa;margin-top:6px;">${p.unit || 'N/A'} <span class="active-tag pixel-font">ACTIVE</span><br>Collection ${p.collection || 0}/160</div>
+                            <div style="font-size:13px;color:#aaa;margin-top:6px;">${p.unit || 'N/A'} <span class="active-tag pixel-font">ACTIVE</span><br>
+                            Collection ${p.collection || 0}/160<br>
+                            ⭐ ${getMastered(p)} Mastered <span style="color:#666;font-size:12px;">(${160 - getMastered(p)} left)</span></div>
 
                             <div class="awk-stat pixel-font">AWAKENING ${p.awakeningexp || 0}%</div>
 
@@ -341,6 +343,14 @@
 
         function closeModal() {
             document.getElementById('modal').style.display = 'none';
+        }
+
+        function getMastered(p) {
+            return Object.entries(p).filter(([k, v]) => {
+                const cleanKey = k.toLowerCase().replace(/^["']+|["']+$/g, '');
+                return cleanKey.startsWith('awakeninglv') && cleanKey !== 'awakeningexp'
+                    && parseInt(String(v).replace(/["']/g, '') || 0) >= 500;
+            }).length;
         }
 
         function buildSpriteRow(elementId, count) {
