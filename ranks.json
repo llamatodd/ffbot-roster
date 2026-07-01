@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 562,
-    "unit": "Kain",
+    "awakeningPercent": 564,
+    "unit": "Ward",
     "role": "DPS",
     "ascension": 32
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 152,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 22
   },
   {
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 104,
-    "unit": "Eiko",
-    "role": "Healer",
+    "unit": "Palom",
+    "role": "DPS",
     "ascension": 9
   },
   {
