@@ -2,9 +2,9 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 302,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "awakeningPercent": 304,
+    "unit": "Dangerniel",
+    "role": "Tank",
     "ascension": 69
   },
   {
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 21,
-    "awakeningPercent": 54,
+    "awakeningPercent": 56,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 16
