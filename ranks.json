@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 68
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 162,
+    "awakeningPercent": 164,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 6
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 250,
+    "awakeningPercent": 252,
     "unit": "Relm",
     "role": "DPS",
     "ascension": 15
