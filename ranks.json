@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 550,
+    "awakeningPercent": 552,
     "unit": "Silenrea",
     "role": "DPS",
     "ascension": 32
@@ -417,8 +417,8 @@
   },
   {
     "username": "seika",
-    "rank": 10,
-    "awakeningPercent": 142,
+    "rank": 9,
+    "awakeningPercent": 144,
     "unit": "Maria",
     "role": "Support",
     "ascension": 22
