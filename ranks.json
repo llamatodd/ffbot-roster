@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 310,
-    "unit": "Dangerniel",
+    "unit": "Ozma",
     "role": "Tank",
     "ascension": 69
   },
@@ -709,7 +709,7 @@
     "awakeningPercent": 112,
     "unit": "Desch",
     "role": "DPS",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "meowmew_lamew",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 160,
     "unit": "Chocobo",
     "role": "Healer",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 164,
     "unit": "Squall Space",
     "role": "Tank",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "Moobot",
