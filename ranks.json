@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 138,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 38
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 2
