@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 178,
-    "unit": "Terra",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 13
   },
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 238,
-    "unit": "Lenna",
-    "role": "Support",
+    "awakeningPercent": 240,
+    "unit": "Dark Invoker",
+    "role": "DPS",
     "ascension": 14
   },
   {
