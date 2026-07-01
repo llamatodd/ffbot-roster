@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 58,
-    "unit": "Kuja",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 17
   },
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 26,
-    "awakeningPercent": 18,
+    "awakeningPercent": 20,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 6
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 254,
-    "unit": "Relm",
-    "role": "DPS",
+    "unit": "Rosa",
+    "role": "Healer",
     "ascension": 15
   },
   {
