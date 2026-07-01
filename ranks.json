@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 68
@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 106,
     "unit": "Babus",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 108,
+    "awakeningPercent": 110,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 2
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 11
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 6
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 160,
+    "awakeningPercent": 162,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 6
