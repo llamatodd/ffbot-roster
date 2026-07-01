@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 22
@@ -1434,10 +1434,10 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 248,
-    "unit": "Dark Invoker",
+    "awakeningPercent": 250,
+    "unit": "Relm",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "FloDaddelt",
