@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 152,
-    "unit": "Edea",
-    "role": "Support",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 22
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
-    "awakeningPercent": 104,
+    "rank": 15,
+    "awakeningPercent": 106,
     "unit": "Palom",
     "role": "DPS",
     "ascension": 9
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 18,
-    "awakeningPercent": 88,
+    "awakeningPercent": 90,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 3
