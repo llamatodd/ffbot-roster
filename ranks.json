@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 69
@@ -241,11 +241,11 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 15,
-    "awakeningPercent": 106,
-    "unit": "Babus",
+    "rank": 14,
+    "awakeningPercent": 108,
+    "unit": "Barret",
     "role": "Tank",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "Sarah_Orion",
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 21,
     "awakeningPercent": 58,
-    "unit": "Lulu",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 17
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 152,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Edea",
+    "role": "Support",
     "ascension": 22
   },
   {
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 106,
-    "unit": "Palom",
-    "role": "DPS",
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 9
   },
   {
