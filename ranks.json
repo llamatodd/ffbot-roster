@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 566,
-    "unit": "Penelo",
-    "role": "Support",
+    "unit": "Ward",
+    "role": "DPS",
     "ascension": 32
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 138,
+    "awakeningPercent": 140,
     "unit": "Thancred",
     "role": "Tank",
     "ascension": 38
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 158,
-    "unit": "Edea",
-    "role": "Support",
+    "awakeningPercent": 160,
+    "unit": "Minwu",
+    "role": "Healer",
     "ascension": 23
   },
   {
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 162,
+    "awakeningPercent": 164,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 7
