@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 108,
+    "rank": 14,
+    "awakeningPercent": 110,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 11
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 108,
     "unit": "Palom",
     "role": "DPS",
