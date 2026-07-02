@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 280,
+    "awakeningPercent": 282,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 68
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 568,
+    "awakeningPercent": 570,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 32
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 148,
+    "awakeningPercent": 150,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 7
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 34,
+    "awakeningPercent": 36,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 0
@@ -1748,6 +1748,14 @@
     "rank": 71,
     "awakeningPercent": 0,
     "unit": "Celes Opera",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "3144m0n4",
+    "rank": 71,
+    "awakeningPercent": 0,
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 0
   }
