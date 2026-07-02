@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 318,
-    "unit": "Kimahri",
+    "unit": "Ward",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 282,
-    "unit": "Edge",
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 68
   },
@@ -242,15 +242,15 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 112,
-    "unit": "Barret",
+    "awakeningPercent": 114,
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 9
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 576,
+    "awakeningPercent": 578,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 33
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 120,
-    "unit": "Torgal",
+    "unit": "Matoya",
     "role": "Support",
     "ascension": 3
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 166,
-    "unit": "Hope",
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 7
   },
