@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 68
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 152,
-    "unit": "Edea",
-    "role": "Support",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 22
   },
   {
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 256,
-    "unit": "Rosa",
-    "role": "Healer",
+    "awakeningPercent": 258,
+    "unit": "Agrias",
+    "role": "DPS",
     "ascension": 15
   },
   {
