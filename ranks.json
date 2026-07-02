@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Irvine",
     "role": "DPS",
     "ascension": 68
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 578,
-    "unit": "Penelo",
+    "awakeningPercent": 580,
+    "unit": "Maria",
     "role": "Support",
     "ascension": 33
   },
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
+    "rank": 16,
     "awakeningPercent": 110,
     "unit": "Agrias",
     "role": "DPS",
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 7
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 270,
-    "unit": "Reno",
+    "awakeningPercent": 272,
+    "unit": "Quistis",
     "role": "DPS",
     "ascension": 15
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 10
