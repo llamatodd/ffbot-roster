@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 9
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 110,
     "unit": "Agrias",
     "role": "DPS",
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 234,
-    "unit": "Yuffie",
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 12
   },
