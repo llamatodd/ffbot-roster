@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 566,
-    "unit": "Ward",
+    "awakeningPercent": 568,
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 32
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 16,
     "awakeningPercent": 108,
-    "unit": "Porom",
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 10
   },
