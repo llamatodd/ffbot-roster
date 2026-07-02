@@ -1387,8 +1387,8 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 42,
-    "unit": "Kiros",
-    "role": "DPS",
+    "unit": "Quina",
+    "role": "Tank",
     "ascension": 10
   },
   {
@@ -1675,7 +1675,7 @@
     "username": "whitejackprime",
     "rank": 32,
     "awakeningPercent": 6,
-    "unit": "Prompto",
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 0
   },
