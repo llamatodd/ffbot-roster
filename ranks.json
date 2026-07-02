@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 3
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 184,
-    "unit": "Kefka",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 13
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 15
