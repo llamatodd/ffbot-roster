@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 316,
+    "awakeningPercent": 318,
     "unit": "Kimahri",
     "role": "DPS",
     "ascension": 69
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 236,
+    "awakeningPercent": 238,
     "unit": "Kimahri",
     "role": "DPS",
     "ascension": 12
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 266,
-    "unit": "Cor",
+    "awakeningPercent": 268,
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 15
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 15,
     "awakeningPercent": 110,
-    "unit": "Palom",
-    "role": "DPS",
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 10
   },
   {
