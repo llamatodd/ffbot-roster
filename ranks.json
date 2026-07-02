@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 312,
+    "awakeningPercent": 314,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 69
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 108,
+    "awakeningPercent": 110,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 9
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 112,
+    "awakeningPercent": 114,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 3
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 108,
     "unit": "Agrias",
     "role": "DPS",
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 108,
-    "unit": "Alphinaud",
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 9
   },
