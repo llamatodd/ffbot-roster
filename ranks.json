@@ -411,14 +411,14 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 138,
-    "unit": "Rosa",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 38
   },
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 23
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 15
