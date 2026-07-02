@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 68
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 168,
+    "awakeningPercent": 170,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 7
