@@ -250,10 +250,10 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 570,
-    "unit": "Celes",
+    "awakeningPercent": 572,
+    "unit": "Rubicante",
     "role": "DPS",
-    "ascension": 32
+    "ascension": 33
   },
   {
     "username": "Jestmichelle",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 118,
+    "awakeningPercent": 120,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 3
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Kimahri",
     "role": "DPS",
     "ascension": 12
