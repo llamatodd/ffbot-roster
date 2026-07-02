@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 566,
-    "unit": "Ward",
-    "role": "DPS",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 32
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 164,
+    "awakeningPercent": 166,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 7
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 16,
-    "awakeningPercent": 106,
-    "unit": "Eiko",
+    "rank": 14,
+    "awakeningPercent": 108,
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 9
   },
