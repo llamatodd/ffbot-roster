@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 152,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Edea",
+    "role": "Support",
     "ascension": 22
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 15
