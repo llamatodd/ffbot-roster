@@ -257,8 +257,8 @@
   },
   {
     "username": "Jestmichelle",
-    "rank": 21,
-    "awakeningPercent": 62,
+    "rank": 20,
+    "awakeningPercent": 64,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 17
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Vanille",
     "role": "Support",
     "ascension": 3
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 170,
+    "awakeningPercent": 172,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 7
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 13
