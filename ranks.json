@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 164,
-    "unit": "Minwu",
+    "unit": "Rinoa",
     "role": "Healer",
     "ascension": 23
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 7
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 274,
-    "unit": "Quistis",
+    "awakeningPercent": 276,
+    "unit": "Gordon",
     "role": "DPS",
     "ascension": 15
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 15,
     "awakeningPercent": 114,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 10
   },
   {
