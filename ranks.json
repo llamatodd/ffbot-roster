@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 26,
-    "awakeningPercent": 20,
+    "awakeningPercent": 22,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 6
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 244,
-    "unit": "Rosa",
+    "awakeningPercent": 246,
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 13
   },
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 100,
+    "awakeningPercent": 102,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 3
