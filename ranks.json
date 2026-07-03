@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 294,
-    "unit": "Basch",
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 68
   },
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 70,
-    "unit": "Seymour",
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 17
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 178,
-    "unit": "Rikku",
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 7
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 15
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 114,
-    "unit": "Alphinaud",
+    "awakeningPercent": 116,
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 10
   },
