@@ -1250,9 +1250,9 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 178,
-    "unit": "Cecil",
-    "role": "DPS",
+    "awakeningPercent": 180,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 7
   },
   {
