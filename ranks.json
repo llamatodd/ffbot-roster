@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Irvine",
     "role": "DPS",
     "ascension": 68
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 64,
-    "unit": "Seymour Omnis",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 17
   },
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 166,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "awakeningPercent": 168,
+    "unit": "Braska",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 11
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 190,
-    "unit": "Celes",
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 13
   },
