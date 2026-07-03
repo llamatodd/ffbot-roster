@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 122,
+    "awakeningPercent": 124,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 9
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 590,
-    "unit": "Gogo",
+    "awakeningPercent": 592,
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 33
   },
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 10,
     "awakeningPercent": 154,
-    "unit": "Yuna",
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 7
   },
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 98,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 3
   },
   {
