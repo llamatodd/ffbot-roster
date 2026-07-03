@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 68
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 596,
-    "unit": "Luneth",
+    "unit": "Noctis",
     "role": "DPS",
     "ascension": 33
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 130,
+    "awakeningPercent": 132,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 3
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 156,
-    "unit": "Estinien",
+    "awakeningPercent": 158,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 7
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 7
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 290,
+    "awakeningPercent": 292,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 15
