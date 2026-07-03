@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 172,
-    "unit": "Braska",
-    "role": "DPS",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 16,
     "awakeningPercent": 112,
-    "unit": "Agrias",
-    "role": "DPS",
+    "unit": "Ramza",
+    "role": "Support",
     "ascension": 11
   },
   {
@@ -1243,8 +1243,8 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 172,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 7
   },
   {
