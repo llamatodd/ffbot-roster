@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 238,
-    "unit": "Kimahri",
-    "role": "DPS",
+    "awakeningPercent": 240,
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 12
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 15
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 94,
-    "unit": "Braska",
-    "role": "DPS",
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 3
   },
   {
