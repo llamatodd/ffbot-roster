@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 68
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 7
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 286,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Margy",
+    "role": "DPS",
     "ascension": 15
   },
   {
