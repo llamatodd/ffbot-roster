@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 322,
-    "unit": "Queen",
+    "unit": "Ace",
     "role": "DPS",
     "ascension": 69
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 180,
+    "awakeningPercent": 182,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 23
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 128,
-    "unit": "Vanille",
+    "unit": "Ramza",
     "role": "Support",
     "ascension": 3
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 7
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 44,
+    "awakeningPercent": 46,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 10
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 40,
+    "awakeningPercent": 42,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 0
