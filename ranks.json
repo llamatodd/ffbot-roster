@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 592,
+    "awakeningPercent": 594,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 33
@@ -261,7 +261,7 @@
     "awakeningPercent": 70,
     "unit": "Queen",
     "role": "DPS",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "egg_noodler",
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 182,
-    "unit": "Sazh",
-    "role": "Support",
+    "awakeningPercent": 184,
+    "unit": "Estinien",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 128,
+    "awakeningPercent": 130,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 3
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 186,
-    "unit": "Desch",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 7
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 116,
-    "unit": "Porom",
+    "awakeningPercent": 118,
+    "unit": "Pupu",
     "role": "Healer",
     "ascension": 10
   },
