@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 120,
-    "unit": "Auron",
+    "unit": "Auron Young",
     "role": "Tank",
     "ascension": 9
   },
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 20,
-    "awakeningPercent": 68,
+    "awakeningPercent": 70,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 17
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 242,
-    "unit": "Eiko",
+    "awakeningPercent": 244,
+    "unit": "Rosa",
     "role": "Healer",
     "ascension": 12
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 15
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 15,
     "awakeningPercent": 114,
-    "unit": "Porom",
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 10
   },
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 98,
-    "unit": "Cait Sith",
-    "role": "Tank",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 3
   },
   {
@@ -1673,8 +1673,8 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 32,
-    "awakeningPercent": 8,
+    "rank": 30,
+    "awakeningPercent": 10,
     "unit": "Yuffie",
     "role": "DPS",
     "ascension": 0
