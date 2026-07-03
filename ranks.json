@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 20,
-    "awakeningPercent": 64,
+    "awakeningPercent": 66,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 17
@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 20,
+    "rank": 21,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 280,
+    "awakeningPercent": 282,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 15
