@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 66,
-    "unit": "Kuja",
+    "unit": "Seymour",
     "role": "DPS",
     "ascension": 17
   },
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 142,
-    "unit": "Thancred",
+    "awakeningPercent": 144,
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 38
   },
@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 17,
+    "rank": 18,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 282,
-    "unit": "Gordon",
+    "unit": "Edgar",
     "role": "DPS",
     "ascension": 15
   },
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 94,
+    "awakeningPercent": 96,
     "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 3
