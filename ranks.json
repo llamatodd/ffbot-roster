@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 318,
+    "awakeningPercent": 320,
     "unit": "Ward",
     "role": "DPS",
     "ascension": 69
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 116,
+    "awakeningPercent": 118,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 9
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 122,
-    "unit": "Matoya",
+    "unit": "Vanille",
     "role": "Support",
     "ascension": 3
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 176,
-    "unit": "Dangerniel",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 7
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 112,
+    "awakeningPercent": 114,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 10
