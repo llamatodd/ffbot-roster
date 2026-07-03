@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 320,
-    "unit": "Ward",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 288,
-    "unit": "Irvine",
-    "role": "DPS",
+    "unit": "Basch",
+    "role": "Tank",
     "ascension": 68
   },
   {
@@ -417,8 +417,8 @@
   },
   {
     "username": "seika",
-    "rank": 9,
-    "awakeningPercent": 170,
+    "rank": 8,
+    "awakeningPercent": 172,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 23
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 178,
-    "unit": "Babus",
-    "role": "Tank",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 7
   },
   {
@@ -1643,7 +1643,7 @@
     "username": "Maya__Lyoness",
     "rank": 23,
     "awakeningPercent": 36,
-    "unit": "Aeris",
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 0
   },
