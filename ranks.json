@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 588,
+    "awakeningPercent": 590,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 33
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 178,
-    "unit": "Celes Opera",
-    "role": "DPS",
+    "awakeningPercent": 180,
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 23
   },
   {
