@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 288,
+    "awakeningPercent": 290,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 68
@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 172,
     "unit": "Penelo",
     "role": "Support",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 126,
+    "awakeningPercent": 128,
     "unit": "Vanille",
     "role": "Support",
     "ascension": 3
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 7
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 36,
+    "awakeningPercent": 38,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 0
