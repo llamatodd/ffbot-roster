@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 68
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 72,
-    "unit": "Lulu",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 18
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 298,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 15
   },
   {
