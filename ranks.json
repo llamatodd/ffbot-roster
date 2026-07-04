@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 602,
-    "unit": "Genesis",
+    "awakeningPercent": 604,
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 33
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 194,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Alisaie",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 116,
+    "awakeningPercent": 118,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 11
@@ -1433,8 +1433,8 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
-    "awakeningPercent": 302,
+    "rank": 3,
+    "awakeningPercent": 304,
     "unit": "Irvine",
     "role": "DPS",
     "ascension": 16
