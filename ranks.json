@@ -9,8 +9,8 @@
   },
   {
     "username": "OrgleBot",
-    "rank": 4,
-    "awakeningPercent": 306,
+    "rank": 3,
+    "awakeningPercent": 308,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 68
@@ -242,17 +242,17 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 130,
-    "unit": "Cid 4",
+    "awakeningPercent": 132,
+    "unit": "Raijin",
     "role": "Tank",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 606,
-    "unit": "Leon",
-    "role": "DPS",
+    "awakeningPercent": 608,
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 33
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 118,
+    "awakeningPercent": 120,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 11
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 252,
-    "unit": "Garnet",
+    "awakeningPercent": 254,
+    "unit": "Rosa",
     "role": "Healer",
     "ascension": 13
   },
