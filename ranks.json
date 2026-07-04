@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 136,
+    "awakeningPercent": 138,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 3
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 300,
+    "awakeningPercent": 302,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 15
@@ -1771,8 +1771,8 @@
     "username": "Mistwing608",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Kimahri",
-    "role": "DPS",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 0
   }
 ]
