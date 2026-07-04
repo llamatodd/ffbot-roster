@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 44
+    "ascension": 45
   },
   {
     "username": "MystisNykoto",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 184,
+    "awakeningPercent": 186,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 7
