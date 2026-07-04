@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 332,
+    "awakeningPercent": 334,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 68
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 304,
     "unit": "Irvine",
     "role": "DPS",
