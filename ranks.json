@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 186,
-    "unit": "Estinien",
+    "awakeningPercent": 188,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 23
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 294,
-    "unit": "Desch",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 15
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 3
