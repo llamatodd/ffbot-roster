@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 192,
     "unit": "Yshtola",
     "role": "DPS",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 192,
+    "awakeningPercent": 194,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 7
