@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 69
@@ -411,14 +411,14 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 150,
-    "unit": "Babus",
-    "role": "Tank",
+    "unit": "Estinien",
+    "role": "DPS",
     "ascension": 38
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 188,
+    "rank": 7,
+    "awakeningPercent": 190,
     "unit": "Vanille",
     "role": "Support",
     "ascension": 23
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 122,
+    "awakeningPercent": 124,
     "unit": "Rubicante",
     "role": "DPS",
     "ascension": 10
