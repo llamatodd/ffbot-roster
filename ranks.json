@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 9
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 596,
+    "awakeningPercent": 598,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 33
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 20,
-    "awakeningPercent": 70,
+    "awakeningPercent": 72,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 18
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 184,
+    "awakeningPercent": 186,
     "unit": "Estinien",
     "role": "DPS",
     "ascension": 23
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 26,
-    "awakeningPercent": 22,
+    "awakeningPercent": 24,
     "unit": "Maria",
     "role": "Support",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 7
@@ -1387,8 +1387,8 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 46,
-    "unit": "Quina",
-    "role": "Tank",
+    "unit": "Prompto",
+    "role": "DPS",
     "ascension": 10
   },
   {
