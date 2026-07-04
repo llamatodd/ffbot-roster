@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 300,
-    "unit": "Cid Randell",
+    "unit": "Guy",
     "role": "Tank",
     "ascension": 68
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 186,
-    "unit": "Amarant",
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 7
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 192,
-    "unit": "Agrias",
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 7
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 298,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 15
   },
   {
