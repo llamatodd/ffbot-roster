@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 72,
-    "unit": "Seymour",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 18
   },
@@ -417,10 +417,10 @@
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 190,
-    "unit": "Vanille",
-    "role": "Support",
+    "rank": 7,
+    "awakeningPercent": 192,
+    "unit": "Yshtola",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 12,
     "awakeningPercent": 134,
-    "unit": "Ramza",
+    "unit": "Red Xiii",
     "role": "Support",
     "ascension": 3
   },
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 250,
-    "unit": "Ovelia",
+    "awakeningPercent": 252,
+    "unit": "Garnet",
     "role": "Healer",
     "ascension": 13
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 298,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 15
   },
   {
