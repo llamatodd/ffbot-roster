@@ -137,7 +137,7 @@
   },
   {
     "username": "xffing_up_enter",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 134,
     "unit": "Reno",
     "role": "DPS",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 134,
+    "awakeningPercent": 136,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 3
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 298,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 15
   },
   {
@@ -1756,6 +1756,14 @@
     "rank": 72,
     "awakeningPercent": 0,
     "unit": "Rubicante",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "mai_khuchii",
+    "rank": 72,
+    "awakeningPercent": 0,
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 0
   }
