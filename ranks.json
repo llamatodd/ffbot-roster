@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 324,
-    "unit": "Ace",
+    "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 69
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 248,
+    "awakeningPercent": 250,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 13
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 118,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 120,
+    "unit": "Rubicante",
+    "role": "DPS",
     "ascension": 10
   },
   {
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 104,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 3
   },
   {
