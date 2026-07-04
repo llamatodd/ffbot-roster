@@ -411,13 +411,13 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 150,
-    "unit": "Estinien",
-    "role": "DPS",
+    "unit": "Umaro",
+    "role": "Tank",
     "ascension": 38
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 190,
     "unit": "Vanille",
     "role": "Support",
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 190,
+    "awakeningPercent": 192,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 7
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 296,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 298,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 15
   },
   {
