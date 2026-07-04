@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 126,
-    "unit": "Auron Young",
+    "unit": "Cid 4",
     "role": "Tank",
     "ascension": 9
   },
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 7
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 182,
+    "awakeningPercent": 184,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 7
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 292,
-    "unit": "Tidus",
-    "role": "Support",
+    "awakeningPercent": 294,
+    "unit": "Desch",
+    "role": "DPS",
     "ascension": 15
   },
   {
