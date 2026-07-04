@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 68
@@ -705,8 +705,8 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 13,
-    "awakeningPercent": 132,
+    "rank": 12,
+    "awakeningPercent": 134,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 3
@@ -1298,10 +1298,10 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Palom",
     "role": "DPS",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "sillynix",
