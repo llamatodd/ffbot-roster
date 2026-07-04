@@ -2,14 +2,14 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 334,
-    "unit": "Desch",
+    "awakeningPercent": 336,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 310,
     "unit": "Quina",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 140,
+    "awakeningPercent": 142,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 3
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 164,
-    "unit": "Zidane",
+    "awakeningPercent": 166,
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 8
   },
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
-    "awakeningPercent": 192,
+    "rank": 8,
+    "awakeningPercent": 194,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 7
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Zell",
     "role": "DPS",
     "ascension": 16
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 128,
+    "awakeningPercent": 130,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 10
