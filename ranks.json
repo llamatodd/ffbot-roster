@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 16,
     "awakeningPercent": 118,
-    "unit": "Ramza",
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 11
   },
@@ -1433,9 +1433,9 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
-    "awakeningPercent": 304,
-    "unit": "Irvine",
+    "rank": 3,
+    "awakeningPercent": 306,
+    "unit": "Desch",
     "role": "DPS",
     "ascension": 16
   },
