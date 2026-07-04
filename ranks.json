@@ -137,7 +137,7 @@
   },
   {
     "username": "xffing_up_enter",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 134,
     "unit": "Reno",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 134,
+    "awakeningPercent": 136,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 10
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 610,
-    "unit": "Matoya",
-    "role": "Support",
+    "awakeningPercent": 612,
+    "unit": "Wakka",
+    "role": "DPS",
     "ascension": 33
   },
   {
