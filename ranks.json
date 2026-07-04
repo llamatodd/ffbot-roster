@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 600,
+    "awakeningPercent": 602,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 33
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Umaro",
     "role": "Tank",
     "ascension": 38
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 192,
-    "unit": "Yshtola",
+    "awakeningPercent": 194,
+    "unit": "Alisaie",
     "role": "DPS",
     "ascension": 23
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 200,
+    "awakeningPercent": 202,
     "unit": "Palom",
     "role": "DPS",
     "ascension": 14
@@ -1675,7 +1675,7 @@
     "username": "whitejackprime",
     "rank": 30,
     "awakeningPercent": 10,
-    "unit": "Yuffie",
+    "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
   },
