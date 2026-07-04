@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 328,
+    "awakeningPercent": 330,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 69
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 10,
     "awakeningPercent": 162,
-    "unit": "Yshtola",
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 7
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 7,
-    "awakeningPercent": 194,
+    "awakeningPercent": 196,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 7
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 15
@@ -1765,6 +1765,14 @@
     "awakeningPercent": 0,
     "unit": "Kimahri",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Mistwing608",
+    "rank": 72,
+    "awakeningPercent": 0,
+    "unit": "Basch",
+    "role": "Tank",
     "ascension": 0
   }
 ]
