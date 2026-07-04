@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 128,
+    "awakeningPercent": 130,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 9
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 202,
-    "unit": "Palom",
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 14
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 302,
-    "unit": "Cecil",
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 15
   },
