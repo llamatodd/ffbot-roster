@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 330,
-    "unit": "Cloud Ac",
+    "unit": "Desch",
     "role": "DPS",
     "ascension": 69
   },
@@ -1386,8 +1386,8 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 46,
-    "unit": "Prompto",
+    "awakeningPercent": 48,
+    "unit": "Edge",
     "role": "DPS",
     "ascension": 10
   },
@@ -1771,8 +1771,8 @@
     "username": "Mistwing608",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Basch",
-    "role": "Tank",
+    "unit": "Kimahri",
+    "role": "DPS",
     "ascension": 0
   }
 ]
