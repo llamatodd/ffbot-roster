@@ -9,9 +9,9 @@
   },
   {
     "username": "OrgleBot",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 306,
-    "unit": "Guy",
+    "unit": "Quina",
     "role": "Tank",
     "ascension": 68
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 138,
+    "awakeningPercent": 140,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 3
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 306,
+    "awakeningPercent": 308,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 16
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 124,
-    "unit": "Rubicante",
+    "awakeningPercent": 126,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 10
   },
