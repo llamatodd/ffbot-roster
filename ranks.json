@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 20,
-    "awakeningPercent": 72,
+    "awakeningPercent": 74,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 18
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 154,
-    "unit": "Umaro",
+    "awakeningPercent": 156,
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 38
   },
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 254,
-    "unit": "Rosa",
+    "unit": "Minwu",
     "role": "Healer",
     "ascension": 13
   },
