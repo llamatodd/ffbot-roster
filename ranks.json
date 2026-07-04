@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 126,
+    "awakeningPercent": 128,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 9
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 188,
-    "unit": "Yshtola",
-    "role": "DPS",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 294,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 15
   },
   {
