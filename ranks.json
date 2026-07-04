@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 598,
-    "unit": "Noctis",
+    "awakeningPercent": 600,
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 33
   },
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 106,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Celes",
+    "role": "DPS",
     "ascension": 3
   },
   {
