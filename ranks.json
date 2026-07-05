@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 200,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 318,
-    "unit": "Vaan",
+    "unit": "Lightning",
     "role": "DPS",
     "ascension": 16
   },
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Beatrix",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 0
   }
