@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Tifa Dress",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 316,
+    "awakeningPercent": 318,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 68
@@ -250,10 +250,10 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 618,
-    "unit": "Celes Opera",
+    "awakeningPercent": 620,
+    "unit": "Braska",
     "role": "DPS",
-    "ascension": 33
+    "ascension": 34
   },
   {
     "username": "Jestmichelle",
@@ -1242,15 +1242,15 @@
   {
     "username": "Fossabot",
     "rank": 9,
-    "awakeningPercent": 202,
+    "awakeningPercent": 204,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 7
   },
   {
     "username": "Nightbot",
-    "rank": 7,
-    "awakeningPercent": 208,
+    "rank": 6,
+    "awakeningPercent": 210,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 7
