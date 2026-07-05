@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 612,
+    "awakeningPercent": 614,
     "unit": "Wakka",
     "role": "DPS",
     "ascension": 33
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 196,
-    "unit": "Alisaie",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -571,7 +571,7 @@
     "username": "Khuu59",
     "rank": 26,
     "awakeningPercent": 26,
-    "unit": "Terra",
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 7
   },
