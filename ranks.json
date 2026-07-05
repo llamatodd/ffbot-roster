@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 142,
+    "awakeningPercent": 144,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 10
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 76,
-    "unit": "Solanin",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 18
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 152,
+    "awakeningPercent": 154,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 3
