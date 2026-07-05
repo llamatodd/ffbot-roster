@@ -1771,16 +1771,16 @@
     "username": "Mistwing608",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Tifa Dress",
+    "role": "DPS",
     "ascension": 0
   },
   {
     "username": "Nystorayel",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 0
   }
 ]
