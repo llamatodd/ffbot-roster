@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 620,
+    "awakeningPercent": 622,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 34
@@ -571,8 +571,8 @@
     "username": "Khuu59",
     "rank": 24,
     "awakeningPercent": 30,
-    "unit": "Emperor",
-    "role": "DPS",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 8
   },
   {
