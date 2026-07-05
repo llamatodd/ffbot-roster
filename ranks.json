@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 350,
+    "awakeningPercent": 352,
     "unit": "Quistis",
     "role": "DPS",
     "ascension": 69
@@ -250,15 +250,15 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 626,
+    "awakeningPercent": 628,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 34
   },
   {
     "username": "Jestmichelle",
-    "rank": 20,
-    "awakeningPercent": 76,
+    "rank": 19,
+    "awakeningPercent": 78,
     "unit": "Jill",
     "role": "Support",
     "ascension": 18
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 258,
-    "unit": "Tifa",
+    "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
   },
@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
-    "awakeningPercent": 212,
+    "rank": 6,
+    "awakeningPercent": 214,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 14
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 330,
-    "unit": "Gilgamesh",
+    "awakeningPercent": 332,
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 16
   },
