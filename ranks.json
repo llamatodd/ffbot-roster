@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 320,
+    "awakeningPercent": 322,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 68
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 76,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 18
   },
   {
@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 206,
     "unit": "Cait Sith",
     "role": "Tank",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 3
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 206,
+    "awakeningPercent": 208,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 212,
+    "awakeningPercent": 214,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 7
