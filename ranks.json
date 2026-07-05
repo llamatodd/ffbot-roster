@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 68
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 614,
-    "unit": "Wakka",
+    "awakeningPercent": 616,
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 33
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 142,
+    "awakeningPercent": 144,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 3
@@ -1146,9 +1146,9 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 122,
-    "unit": "Tidus",
-    "role": "Support",
+    "awakeningPercent": 124,
+    "unit": "Sabin",
+    "role": "Tank",
     "ascension": 11
   },
   {
@@ -1771,7 +1771,7 @@
     "username": "Mistwing608",
     "rank": 72,
     "awakeningPercent": 0,
-    "unit": "Tifa Dress",
+    "unit": "Yuna",
     "role": "DPS",
     "ascension": 0
   },
