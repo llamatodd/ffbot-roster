@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 20,
     "awakeningPercent": 76,
-    "unit": "Jill",
+    "unit": "Solanin",
     "role": "Support",
     "ascension": 18
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 146,
+    "awakeningPercent": 148,
     "unit": "Irvine",
     "role": "DPS",
     "ascension": 3
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 128,
+    "awakeningPercent": 130,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 11
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 168,
+    "awakeningPercent": 170,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 8
