@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 202,
-    "unit": "Solanin",
-    "role": "Support",
+    "awakeningPercent": 204,
+    "unit": "Yuna",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 26,
-    "awakeningPercent": 26,
+    "awakeningPercent": 28,
     "unit": "Emperor",
     "role": "DPS",
     "ascension": 8
