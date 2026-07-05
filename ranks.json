@@ -27,8 +27,8 @@
     "username": "AmagiFial",
     "rank": 19,
     "awakeningPercent": 78,
-    "unit": "Galuf",
-    "role": "Tank",
+    "unit": "Gogo",
+    "role": "DPS",
     "ascension": 10
   },
   {
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 204,
-    "unit": "Yuna",
-    "role": "DPS",
+    "awakeningPercent": 206,
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 256,
-    "unit": "Minwu",
-    "role": "Healer",
+    "unit": "Tifa",
+    "role": "DPS",
     "ascension": 13
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 322,
-    "unit": "Lightning",
+    "awakeningPercent": 324,
+    "unit": "Vegeta",
     "role": "DPS",
     "ascension": 16
   },
