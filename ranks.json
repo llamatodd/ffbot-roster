@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 16,
     "awakeningPercent": 128,
-    "unit": "Sabin",
-    "role": "Tank",
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 11
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 14
