@@ -411,9 +411,9 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 156,
-    "unit": "Dangerniel",
+    "unit": "Ozma",
     "role": "Tank",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "seika",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 318,
+    "awakeningPercent": 320,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 16
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 130,
-    "unit": "Yshtola",
+    "awakeningPercent": 132,
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 11
   },
