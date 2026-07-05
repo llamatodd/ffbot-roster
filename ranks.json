@@ -137,7 +137,7 @@
   },
   {
     "username": "xffing_up_enter",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 134,
     "unit": "Reno",
     "role": "DPS",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 39
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 134,
+    "awakeningPercent": 136,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 11
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 33,
     "awakeningPercent": 6,
-    "unit": "Cor",
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 2
   },
