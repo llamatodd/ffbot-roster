@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 340,
-    "unit": "Tifa Ac",
+    "unit": "Tifa Dress",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 312,
-    "unit": "Quina",
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 68
   },
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 12,
     "awakeningPercent": 144,
-    "unit": "Kefka",
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 3
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 16,
-    "awakeningPercent": 126,
+    "awakeningPercent": 128,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 11
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 198,
-    "unit": "Wol",
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 7
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 204,
-    "unit": "Rikku X2",
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 7
   },
