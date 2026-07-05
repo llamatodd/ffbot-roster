@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 200,
+    "awakeningPercent": 202,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 23
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 320,
+    "awakeningPercent": 322,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 16
