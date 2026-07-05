@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 30,
+    "rank": 31,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 144,
+    "awakeningPercent": 146,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 10
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 30,
+    "rank": 31,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1673,7 +1673,7 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 30,
+    "rank": 31,
     "awakeningPercent": 10,
     "unit": "Vaan",
     "role": "DPS",
@@ -1777,11 +1777,11 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 30,
-    "awakeningPercent": 10,
+    "rank": 28,
+    "awakeningPercent": 12,
     "unit": "Genesis",
     "role": "DPS",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "vivi_clockworker",
