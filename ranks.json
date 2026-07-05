@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 316,
-    "unit": "Paine",
+    "awakeningPercent": 318,
+    "unit": "Vaan",
     "role": "DPS",
     "ascension": 16
   },
