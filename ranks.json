@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 196,
+    "awakeningPercent": 198,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 196,
     "unit": "Wol",
     "role": "Tank",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 314,
+    "awakeningPercent": 316,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 16
@@ -1772,6 +1772,14 @@
     "rank": 72,
     "awakeningPercent": 0,
     "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 0
+  },
+  {
+    "username": "Nystorayel",
+    "rank": 72,
+    "awakeningPercent": 0,
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 0
   }
