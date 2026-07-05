@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 318,
-    "unit": "Balthier",
+    "unit": "Cid 4",
     "role": "Tank",
     "ascension": 68
   },
@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 140,
+    "awakeningPercent": 142,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 10
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 148,
+    "awakeningPercent": 150,
     "unit": "Irvine",
     "role": "DPS",
     "ascension": 3
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 172,
-    "unit": "Firion",
+    "awakeningPercent": 174,
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 8
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 204,
-    "unit": "Dangerniel",
+    "unit": "Firion",
     "role": "Tank",
     "ascension": 7
   },
@@ -1251,13 +1251,13 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 210,
-    "unit": "Cloud",
+    "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 7
   },
   {
     "username": "Moobot",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 33,
-    "awakeningPercent": 6,
+    "awakeningPercent": 8,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 2
