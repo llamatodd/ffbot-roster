@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
-    "awakeningPercent": 226,
+    "rank": 6,
+    "awakeningPercent": 228,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 14
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 15,
     "awakeningPercent": 148,
-    "unit": "Garnet Summoner",
-    "role": "DPS",
+    "unit": "Garnet",
+    "role": "Healer",
     "ascension": 11
   },
   {
