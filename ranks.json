@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 3
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 138,
+    "rank": 14,
+    "awakeningPercent": 140,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 11
