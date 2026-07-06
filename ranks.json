@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 206,
-    "unit": "Cait Sith",
-    "role": "Tank",
+    "awakeningPercent": 208,
+    "unit": "Yuna X2",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 142,
-    "unit": "Marcus",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 11
   },
   {
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 10,
     "awakeningPercent": 178,
-    "unit": "Balthier",
+    "unit": "Umaro",
     "role": "Tank",
     "ascension": 8
   },
