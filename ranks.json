@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 14,
-    "awakeningPercent": 148,
+    "rank": 13,
+    "awakeningPercent": 150,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 10
@@ -705,8 +705,8 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 12,
-    "awakeningPercent": 160,
+    "rank": 11,
+    "awakeningPercent": 162,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 3
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 144,
+    "awakeningPercent": 146,
     "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 11
@@ -1777,8 +1777,8 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 28,
-    "awakeningPercent": 14,
+    "rank": 27,
+    "awakeningPercent": 16,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 3
