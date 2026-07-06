@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 322,
+    "awakeningPercent": 324,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 68
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 7
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 214,
     "unit": "Edea",
     "role": "Support",
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 28,
     "awakeningPercent": 12,
-    "unit": "Genesis",
+    "unit": "Beatrix",
     "role": "DPS",
     "ascension": 3
   },
