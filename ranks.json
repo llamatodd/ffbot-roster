@@ -25,8 +25,8 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 20,
-    "awakeningPercent": 78,
+    "rank": 19,
+    "awakeningPercent": 80,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 10
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 632,
+    "awakeningPercent": 634,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 34
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
-    "awakeningPercent": 146,
+    "rank": 13,
+    "awakeningPercent": 148,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 11
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 218,
-    "unit": "Edea",
-    "role": "Support",
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 14
   },
   {
