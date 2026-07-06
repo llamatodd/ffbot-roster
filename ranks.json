@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 636,
-    "unit": "Blank",
+    "unit": "Ace",
     "role": "DPS",
     "ascension": 34
   },
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 184,
-    "unit": "Rude",
+    "awakeningPercent": 186,
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 8
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 16
