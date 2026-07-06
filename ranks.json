@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 354,
-    "unit": "Quistis",
+    "unit": "Vaan",
     "role": "DPS",
     "ascension": 69
   },
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 28,
+    "rank": 29,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 28,
+    "rank": 29,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1145,10 +1145,10 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 142,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 142,
+    "awakeningPercent": 144,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 11
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 28,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 3
