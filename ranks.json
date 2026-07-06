@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 24,
+    "rank": 25,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 24,
-    "awakeningPercent": 30,
+    "awakeningPercent": 32,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 8
@@ -841,7 +841,7 @@
   },
   {
     "username": "Dredg",
-    "rank": 24,
+    "rank": 25,
     "awakeningPercent": 30,
     "unit": "Gogo",
     "role": "DPS",
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 150,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 11
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 222,
     "unit": "Queen",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 14
@@ -1796,6 +1796,14 @@
     "rank": 73,
     "awakeningPercent": 0,
     "unit": "Cor",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Bakurraa",
+    "rank": 73,
+    "awakeningPercent": 0,
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 0
   }
