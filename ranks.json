@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 10
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 23
@@ -1145,10 +1145,10 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 150,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 11
   },
   {
