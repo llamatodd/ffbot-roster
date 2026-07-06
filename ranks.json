@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 630,
-    "unit": "Fang",
+    "awakeningPercent": 632,
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 34
   },
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 136,
+    "rank": 14,
+    "awakeningPercent": 138,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 11
