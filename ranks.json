@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 332,
+    "awakeningPercent": 334,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 68
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 212,
-    "unit": "Raijin",
-    "role": "Tank",
+    "awakeningPercent": 214,
+    "unit": "Desch",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 13,
     "awakeningPercent": 150,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 11
   },
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Fujin",
     "role": "DPS",
     "ascension": 13
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 218,
+    "awakeningPercent": 220,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 224,
+    "awakeningPercent": 226,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 7
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 218,
     "unit": "Seymour",
     "role": "DPS",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 342,
+    "awakeningPercent": 344,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 16
