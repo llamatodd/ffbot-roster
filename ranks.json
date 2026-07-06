@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 636,
+    "awakeningPercent": 638,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 34
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 150,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 11
   },
   {
