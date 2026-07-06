@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 352,
+    "awakeningPercent": 354,
     "unit": "Quistis",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 324,
+    "awakeningPercent": 326,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 68
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 7
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 16
