@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 150,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 11
   },
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Selphie",
     "role": "DPS",
     "ascension": 13
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 8
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 220,
     "unit": "Queen",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 220,
+    "awakeningPercent": 222,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 14
