@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 148,
     "unit": "Galuf",
     "role": "Tank",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 13,
-    "awakeningPercent": 148,
+    "awakeningPercent": 150,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 11
