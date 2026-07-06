@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 3
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 50,
+    "awakeningPercent": 52,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 10
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 28,
     "awakeningPercent": 14,
-    "unit": "Beatrix",
+    "unit": "Seifer",
     "role": "DPS",
     "ascension": 3
   },
