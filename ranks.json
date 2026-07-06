@@ -1147,15 +1147,15 @@
     "username": "korcc",
     "rank": 13,
     "awakeningPercent": 150,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 11
   },
   {
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 264,
-    "unit": "Fujin",
+    "unit": "Selphie",
     "role": "DPS",
     "ascension": 13
   },
