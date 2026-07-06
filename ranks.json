@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 142,
+    "rank": 14,
+    "awakeningPercent": 144,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 11
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 214,
     "unit": "Basch",
     "role": "Tank",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Edea",
     "role": "Support",
     "ascension": 14
