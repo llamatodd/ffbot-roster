@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 354,
+    "awakeningPercent": 356,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 69
@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 19,
+    "rank": 20,
     "awakeningPercent": 78,
     "unit": "Gogo",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 146,
+    "awakeningPercent": 148,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 10
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 78,
+    "awakeningPercent": 80,
     "unit": "Jill",
     "role": "Support",
     "ascension": 18
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 142,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 178,
+    "awakeningPercent": 180,
     "unit": "Umaro",
     "role": "Tank",
     "ascension": 8
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 52,
-    "unit": "Zidane",
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 10
   },
