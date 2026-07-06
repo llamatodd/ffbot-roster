@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 138,
     "unit": "Marcus",
     "role": "DPS",
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 138,
-    "unit": "Pupu",
-    "role": "Healer",
+    "awakeningPercent": 140,
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 11
   },
   {
