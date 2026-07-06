@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 68
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 11,
-    "awakeningPercent": 160,
+    "awakeningPercent": 162,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 39
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 212,
+    "rank": 7,
+    "awakeningPercent": 214,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 7
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 218,
+    "awakeningPercent": 220,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 7
