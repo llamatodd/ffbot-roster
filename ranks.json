@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 346,
+    "awakeningPercent": 348,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 16
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 15,
-    "awakeningPercent": 146,
-    "unit": "Queen",
+    "awakeningPercent": 148,
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 11
   },
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 18,
     "unit": "Seifer",
     "role": "DPS",
-    "ascension": 3
+    "ascension": 4
   },
   {
     "username": "vivi_clockworker",
