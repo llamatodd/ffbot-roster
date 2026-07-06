@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 216,
     "unit": "Queen",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Edea",
     "role": "Support",
     "ascension": 14
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 15,
     "awakeningPercent": 144,
-    "unit": "Queen",
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 11
   },
