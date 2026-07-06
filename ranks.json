@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 358,
+    "awakeningPercent": 360,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 69
@@ -243,14 +243,14 @@
     "username": "Fangcollector",
     "rank": 13,
     "awakeningPercent": 150,
-    "unit": "Galuf",
+    "unit": "Sabin",
     "role": "Tank",
     "ascension": 10
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 634,
+    "awakeningPercent": 636,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 34
@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
-    "awakeningPercent": 218,
+    "rank": 7,
+    "awakeningPercent": 220,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 14
