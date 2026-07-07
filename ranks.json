@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 378,
-    "unit": "Beatrix",
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 354,
-    "unit": "Sabin",
+    "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 68
   },
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 162,
+    "awakeningPercent": 164,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 11
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 236,
-    "unit": "Joshua",
+    "unit": "Maria",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 242,
-    "unit": "Delita",
+    "unit": "Bartz",
     "role": "Support",
     "ascension": 8
   },
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 162,
     "unit": "Chocobo Red",
     "role": "DPS",
