@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 368,
+    "awakeningPercent": 370,
     "unit": "Alisaie",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 68
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 226,
+    "awakeningPercent": 228,
     "unit": "Shana",
     "role": "Support",
     "ascension": 23
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 226,
     "unit": "Torgal",
     "role": "Support",
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 22,
     "awakeningPercent": 58,
-    "unit": "Rikku",
+    "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 11
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 14,
     "awakeningPercent": 154,
-    "unit": "Yuna X2",
+    "unit": "Yuna",
     "role": "DPS",
     "ascension": 12
   },
