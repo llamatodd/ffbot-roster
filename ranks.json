@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 364,
-    "unit": "Gordon",
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 340,
-    "unit": "Esquie",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 68
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 220,
+    "awakeningPercent": 222,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 23
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 166,
-    "unit": "Agrias",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 3
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 13
@@ -1243,16 +1243,16 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 226,
-    "unit": "Cloud",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 7
   },
   {
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 232,
-    "unit": "Locke",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 7
   },
   {
