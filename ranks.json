@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 230,
+    "awakeningPercent": 232,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 23
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 230,
     "unit": "Joshua",
     "role": "Support",
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 230,
     "unit": "Jill",
     "role": "Support",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 358,
+    "awakeningPercent": 360,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 17
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 12
