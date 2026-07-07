@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 372,
+    "awakeningPercent": 374,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 348,
+    "awakeningPercent": 350,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 68
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 230,
+    "rank": 7,
+    "awakeningPercent": 232,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 236,
+    "awakeningPercent": 238,
     "unit": "Delita",
     "role": "Support",
     "ascension": 8
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 230,
     "unit": "Jill",
     "role": "Support",
