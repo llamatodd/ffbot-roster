@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 216,
-    "unit": "Desch",
-    "role": "DPS",
+    "awakeningPercent": 218,
+    "unit": "Ghido",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 228,
     "unit": "Locke",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 228,
+    "awakeningPercent": 230,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 14
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 15,
-    "awakeningPercent": 148,
-    "unit": "Garnet",
-    "role": "Healer",
+    "rank": 14,
+    "awakeningPercent": 150,
+    "unit": "Garnet Summoner",
+    "role": "DPS",
     "ascension": 11
   },
   {
