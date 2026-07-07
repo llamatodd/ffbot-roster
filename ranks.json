@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 80,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 18
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 9,
     "awakeningPercent": 222,
-    "unit": "Ghido",
-    "role": "Tank",
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1499,9 +1499,9 @@
     "username": "Starbuk",
     "rank": 14,
     "awakeningPercent": 150,
-    "unit": "Garnet",
-    "role": "Healer",
-    "ascension": 11
+    "unit": "Yuna X2",
+    "role": "DPS",
+    "ascension": 12
   },
   {
     "username": "eyetotem",
