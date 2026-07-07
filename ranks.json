@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 174,
-    "unit": "Balthier",
+    "unit": "Basch",
     "role": "Tank",
     "ascension": 3
   },
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 234,
     "unit": "Joshua",
     "role": "Support",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 8,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 15
