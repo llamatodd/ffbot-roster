@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 154,
-    "unit": "Sabin",
+    "awakeningPercent": 156,
+    "unit": "Cyan",
     "role": "Tank",
     "ascension": 10
   },
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 3
