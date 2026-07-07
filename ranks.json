@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 648,
+    "awakeningPercent": 650,
     "unit": "Isaaru",
     "role": "DPS",
     "ascension": 34
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 232,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "awakeningPercent": 234,
+    "unit": "Babus",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 232,
     "unit": "Joshua",
     "role": "Support",
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 232,
     "unit": "Jill",
     "role": "Support",
