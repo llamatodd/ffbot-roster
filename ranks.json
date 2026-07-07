@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 12,
-    "awakeningPercent": 162,
+    "awakeningPercent": 164,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 3
@@ -1242,15 +1242,15 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 7
   },
   {
     "username": "Nightbot",
-    "rank": 7,
-    "awakeningPercent": 228,
+    "rank": 6,
+    "awakeningPercent": 230,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 7
