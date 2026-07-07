@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 31,
+    "rank": 32,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 166,
-    "unit": "Ingus",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 3
   },
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 31,
+    "rank": 32,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 226,
-    "unit": "Solanin",
+    "unit": "Torgal",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 232,
-    "unit": "Jill",
+    "unit": "Sazh",
     "role": "Support",
     "ascension": 8
   },
@@ -1673,8 +1673,8 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 31,
-    "awakeningPercent": 10,
+    "rank": 29,
+    "awakeningPercent": 12,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
