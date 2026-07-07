@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 342,
+    "awakeningPercent": 344,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 68
@@ -417,9 +417,9 @@
   },
   {
     "username": "seika",
-    "rank": 9,
-    "awakeningPercent": 224,
-    "unit": "Joshua",
+    "rank": 8,
+    "awakeningPercent": 226,
+    "unit": "Shana",
     "role": "Support",
     "ascension": 23
   },
