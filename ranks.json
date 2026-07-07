@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 370,
+    "awakeningPercent": 372,
     "unit": "Alisaie",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 346,
+    "awakeningPercent": 348,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 68
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 644,
+    "awakeningPercent": 646,
     "unit": "Rufus",
     "role": "DPS",
     "ascension": 34
@@ -417,10 +417,10 @@
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 228,
-    "unit": "Shana",
-    "role": "Support",
+    "rank": 7,
+    "awakeningPercent": 230,
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 23
   },
   {
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 154,
     "unit": "Emperor",
     "role": "DPS",
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 228,
     "unit": "Torgal",
     "role": "Support",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 230,
-    "unit": "Braska",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 14
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 356,
-    "unit": "Tifa Ac",
+    "awakeningPercent": 358,
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 17
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 154,
+    "awakeningPercent": 156,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 12
