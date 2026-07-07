@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 11
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
-    "awakeningPercent": 166,
+    "rank": 11,
+    "awakeningPercent": 168,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 39
@@ -1194,10 +1194,10 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 192,
-    "unit": "Matoya",
-    "role": "Support",
-    "ascension": 8
+    "awakeningPercent": 194,
+    "unit": "Auron Young",
+    "role": "Tank",
+    "ascension": 9
   },
   {
     "username": "explorer_moogle",
