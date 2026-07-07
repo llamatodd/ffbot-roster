@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 9,
-    "awakeningPercent": 230,
+    "rank": 7,
+    "awakeningPercent": 232,
     "unit": "Jill",
     "role": "Support",
     "ascension": 14
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 14,
     "awakeningPercent": 158,
-    "unit": "Yuna",
+    "unit": "Palom",
     "role": "DPS",
     "ascension": 12
   },
