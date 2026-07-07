@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 652,
-    "unit": "Isaaru",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 34
   },
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 3
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 194,
-    "unit": "Auron Young",
+    "awakeningPercent": 196,
+    "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 9
   },
@@ -1297,11 +1297,11 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 9,
-    "awakeningPercent": 232,
-    "unit": "Jill",
+    "rank": 8,
+    "awakeningPercent": 234,
+    "unit": "Joshua",
     "role": "Support",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "sillynix",
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 114,
-    "unit": "Celes Opera",
-    "role": "DPS",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 3
   },
   {
