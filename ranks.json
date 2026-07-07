@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 166,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 166,
+    "awakeningPercent": 168,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 3
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
-    "awakeningPercent": 226,
+    "rank": 8,
+    "awakeningPercent": 228,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 8
