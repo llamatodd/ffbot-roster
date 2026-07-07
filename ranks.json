@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 652,
+    "awakeningPercent": 654,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 35
@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 156,
-    "unit": "Emperor",
-    "role": "DPS",
+    "unit": "Rude",
+    "role": "Tank",
     "ascension": 11
   },
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 276,
+    "awakeningPercent": 278,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 13
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 362,
+    "awakeningPercent": 364,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 17
