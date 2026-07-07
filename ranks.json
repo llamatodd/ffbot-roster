@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 362,
+    "awakeningPercent": 364,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 69
@@ -1804,6 +1804,14 @@
     "rank": 73,
     "awakeningPercent": 0,
     "unit": "Lulu",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Englesyn",
+    "rank": 73,
+    "awakeningPercent": 0,
+    "unit": "Quistis",
     "role": "DPS",
     "ascension": 0
   }
