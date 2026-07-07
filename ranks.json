@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 360,
+    "awakeningPercent": 362,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 68
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 11
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 350,
-    "unit": "Silenrea",
+    "awakeningPercent": 352,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 17
   },
