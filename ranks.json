@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 340,
+    "awakeningPercent": 342,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 68
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 9,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 23
@@ -1145,7 +1145,7 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 150,
     "unit": "Emperor",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 13
@@ -1194,9 +1194,9 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 190,
-    "unit": "Ozma",
-    "role": "Tank",
+    "awakeningPercent": 192,
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 8
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 12
