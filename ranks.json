@@ -2,16 +2,16 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 384,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 386,
+    "unit": "Cloud Dress",
+    "role": "DPS",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 362,
-    "unit": "Rinoa",
+    "unit": "Pupu",
     "role": "Healer",
     "ascension": 68
   },
@@ -706,8 +706,8 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 180,
-    "unit": "Barret",
+    "awakeningPercent": 182,
+    "unit": "Zack",
     "role": "Tank",
     "ascension": 3
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 244,
-    "unit": "Delita",
+    "unit": "Metuba",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 250,
-    "unit": "Clive",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 8
   },
