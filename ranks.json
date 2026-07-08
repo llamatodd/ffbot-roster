@@ -3,14 +3,14 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 382,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 358,
+    "awakeningPercent": 360,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 68
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 24,
-    "awakeningPercent": 34,
+    "awakeningPercent": 36,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 8
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 240,
+    "rank": 7,
+    "awakeningPercent": 242,
     "unit": "Delita",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 246,
+    "awakeningPercent": 248,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 8
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 17
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 27,
-    "awakeningPercent": 20,
+    "awakeningPercent": 22,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 4
@@ -1821,6 +1821,14 @@
     "awakeningPercent": 0,
     "unit": "Palom",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Tsunamimaru",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 0
   }
 ]
