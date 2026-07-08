@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 252,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -571,8 +571,8 @@
     "username": "Khuu59",
     "rank": 24,
     "awakeningPercent": 42,
-    "unit": "Kuja",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 9
   },
   {
@@ -1434,10 +1434,10 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 374,
-    "unit": "Wol",
-    "role": "Tank",
-    "ascension": 17
+    "awakeningPercent": 376,
+    "unit": "Prompto",
+    "role": "DPS",
+    "ascension": 18
   },
   {
     "username": "FloDaddelt",
