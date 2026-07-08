@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 660,
-    "unit": "Gordon",
+    "awakeningPercent": 662,
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 35
   },
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 86,
-    "unit": "Edea",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 19
   },
   {
@@ -421,7 +421,7 @@
     "awakeningPercent": 252,
     "unit": "Cecil",
     "role": "DPS",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "artudixx",
@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 282,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 284,
+    "unit": "Celes",
+    "role": "DPS",
     "ascension": 14
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 250,
     "unit": "Elena",
     "role": "Support",
@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
-    "awakeningPercent": 250,
+    "rank": 7,
+    "awakeningPercent": 252,
     "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 15
