@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 86,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 19
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 190,
+    "awakeningPercent": 192,
     "unit": "Umaro",
     "role": "Tank",
     "ascension": 3
