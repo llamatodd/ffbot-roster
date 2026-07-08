@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 24,
-    "awakeningPercent": 38,
+    "awakeningPercent": 40,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 9
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 282,
     "unit": "Joshua",
     "role": "Support",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "Niriall",
@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 9,
-    "awakeningPercent": 248,
+    "rank": 8,
+    "awakeningPercent": 250,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 15
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
-    "awakeningPercent": 172,
+    "rank": 12,
+    "awakeningPercent": 174,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 12
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 27,
-    "awakeningPercent": 24,
+    "awakeningPercent": 26,
     "unit": "Isaaru",
     "role": "DPS",
     "ascension": 5
