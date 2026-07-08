@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 24,
-    "awakeningPercent": 40,
+    "awakeningPercent": 42,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 9
@@ -706,8 +706,8 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 188,
-    "unit": "Cyan",
+    "awakeningPercent": 190,
+    "unit": "Umaro",
     "role": "Tank",
     "ascension": 3
   },
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 174,
     "unit": "Yuna",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "eyetotem",
