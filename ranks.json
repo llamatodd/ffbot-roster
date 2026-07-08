@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 656,
-    "unit": "Raijin",
-    "role": "Tank",
+    "awakeningPercent": 658,
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 35
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 186,
-    "unit": "Zack",
+    "unit": "Cyan",
     "role": "Tank",
     "ascension": 3
   },
