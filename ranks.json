@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 242,
+    "awakeningPercent": 244,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 8
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 14,
-    "awakeningPercent": 162,
-    "unit": "Garnet Summoner",
-    "role": "DPS",
+    "awakeningPercent": 164,
+    "unit": "Garnet",
+    "role": "Healer",
     "ascension": 12
   },
   {
