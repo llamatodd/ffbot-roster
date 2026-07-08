@@ -258,9 +258,9 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 82,
-    "unit": "Solanin",
-    "role": "Support",
+    "awakeningPercent": 84,
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 19
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 238,
-    "unit": "Babus",
-    "role": "Tank",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 23
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 3
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 156,
+    "awakeningPercent": 158,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 11
