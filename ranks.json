@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 166,
     "unit": "Firion",
     "role": "Tank",
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 60,
+    "awakeningPercent": 62,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 11
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
-    "awakeningPercent": 166,
+    "rank": 12,
+    "awakeningPercent": 168,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 12
