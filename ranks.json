@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 240,
-    "unit": "Hope",
+    "awakeningPercent": 242,
+    "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 23
   },
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 240,
     "unit": "Maria",
     "role": "Support",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 17
