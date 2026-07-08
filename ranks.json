@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 382,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 69
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 242,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 23
   },
   {
@@ -1812,6 +1812,14 @@
     "rank": 74,
     "awakeningPercent": 0,
     "unit": "Quistis",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "MammothSaltyGachapon",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Palom",
     "role": "DPS",
     "ascension": 0
   }
