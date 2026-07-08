@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 160,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Seymour Omnis",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1194,9 +1194,9 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 196,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "awakeningPercent": 198,
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 9
   },
   {
