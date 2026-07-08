@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 168,
     "unit": "Kain",
     "role": "DPS",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 246,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 23
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 240,
+    "awakeningPercent": 242,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 15
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 168,
+    "awakeningPercent": 170,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 12
