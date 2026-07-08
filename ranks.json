@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 388,
+    "awakeningPercent": 390,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 68
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 654,
-    "unit": "Cloud Dress",
-    "role": "DPS",
+    "awakeningPercent": 656,
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 35
   },
   {
@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 246,
     "unit": "Cecil Paladin",
     "role": "Healer",
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "MystisNykoto",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 246,
+    "awakeningPercent": 248,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 252,
+    "awakeningPercent": 254,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 8
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 242,
-    "unit": "Paine",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 15
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 368,
-    "unit": "Dangerniel",
+    "awakeningPercent": 370,
+    "unit": "Wol",
     "role": "Tank",
     "ascension": 17
   },
