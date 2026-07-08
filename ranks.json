@@ -3,16 +3,16 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 382,
-    "unit": "Beatrix Beach",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 358,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 68
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 242,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 178,
-    "unit": "Basch",
+    "unit": "Barret",
     "role": "Tank",
     "ascension": 3
   },
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 240,
-    "unit": "Maria",
+    "unit": "Delita",
     "role": "Support",
     "ascension": 8
   },
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 244,
-    "unit": "Blank",
+    "awakeningPercent": 246,
+    "unit": "Clive",
     "role": "DPS",
     "ascension": 8
   },
