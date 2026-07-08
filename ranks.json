@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 166,
+    "awakeningPercent": 168,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 11
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 164,
+    "awakeningPercent": 166,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 11
@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 280,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "awakeningPercent": 282,
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 13
   },
   {
@@ -1194,9 +1194,9 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 198,
-    "unit": "Rikku",
-    "role": "DPS",
+    "awakeningPercent": 200,
+    "unit": "Steiner",
+    "role": "Tank",
     "ascension": 9
   },
   {
