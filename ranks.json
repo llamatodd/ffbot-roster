@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 242,
-    "unit": "Bartz",
-    "role": "Support",
+    "unit": "Blank",
+    "role": "DPS",
     "ascension": 8
   },
   {
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 22,
-    "awakeningPercent": 58,
+    "awakeningPercent": 60,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 11
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 14,
     "awakeningPercent": 162,
-    "unit": "Chocobo Red",
-    "role": "DPS",
+    "unit": "Garnet",
+    "role": "Healer",
     "ascension": 12
   },
   {
