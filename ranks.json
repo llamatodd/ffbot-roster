@@ -417,8 +417,8 @@
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 242,
+    "rank": 7,
+    "awakeningPercent": 246,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 23
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 244,
     "unit": "Metuba",
     "role": "Support",
