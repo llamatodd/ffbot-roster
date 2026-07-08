@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 246,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 238,
+    "awakeningPercent": 240,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 15
@@ -1650,10 +1650,10 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Chocobo",
     "role": "Healer",
-    "ascension": 3
+    "ascension": 4
   },
   {
     "username": "BunnyHopTales",
