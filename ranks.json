@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 382,
+    "awakeningPercent": 384,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 360,
+    "awakeningPercent": 362,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 68
@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 242,
     "unit": "Cecil",
     "role": "DPS",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 242,
+    "awakeningPercent": 244,
     "unit": "Delita",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 248,
+    "awakeningPercent": 250,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 8
