@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 168,
+    "awakeningPercent": 170,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 11
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 658,
+    "awakeningPercent": 660,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 35
@@ -258,9 +258,9 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 84,
-    "unit": "Queen",
-    "role": "DPS",
+    "awakeningPercent": 86,
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 19
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 12,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 39
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 250,
+    "awakeningPercent": 252,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 23
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 3
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 250,
     "unit": "Metuba",
     "role": "Support",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 172,
     "unit": "Ultimecia",
     "role": "DPS",
@@ -1642,7 +1642,7 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 44,
+    "awakeningPercent": 46,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 1
