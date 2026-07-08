@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 354,
+    "awakeningPercent": 356,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 68
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 238,
+    "awakeningPercent": 240,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 23
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 3
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 158,
+    "awakeningPercent": 160,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 11
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 236,
+    "awakeningPercent": 238,
     "unit": "Maria",
     "role": "Support",
     "ascension": 8
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 8,
-    "awakeningPercent": 236,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 238,
+    "unit": "Paine",
+    "role": "DPS",
     "ascension": 15
   },
   {
