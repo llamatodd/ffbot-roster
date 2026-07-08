@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 392,
-    "unit": "Cloud Dress",
+    "unit": "Locke",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 368,
-    "unit": "Pupu",
+    "unit": "Chocobo",
     "role": "Healer",
     "ascension": 68
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 250,
-    "unit": "Metuba",
+    "unit": "Elena",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 256,
-    "unit": "Cor",
+    "unit": "Edge",
     "role": "DPS",
     "ascension": 8
   },
