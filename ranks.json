@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 386,
+    "awakeningPercent": 388,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 362,
+    "awakeningPercent": 364,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 68
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 182,
+    "awakeningPercent": 184,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 3
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 162,
+    "awakeningPercent": 164,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 11
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 244,
+    "rank": 7,
+    "awakeningPercent": 246,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 250,
+    "awakeningPercent": 252,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 8
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 168,
-    "unit": "Celes",
+    "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 12
   },
