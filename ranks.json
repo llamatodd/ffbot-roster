@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 390,
+    "awakeningPercent": 392,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 68
@@ -570,10 +570,10 @@
   {
     "username": "Khuu59",
     "rank": 24,
-    "awakeningPercent": 36,
-    "unit": "Terra",
+    "awakeningPercent": 38,
+    "unit": "Kuja",
     "role": "DPS",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "whitegrimknight",
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 248,
+    "rank": 7,
+    "awakeningPercent": 250,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 8
