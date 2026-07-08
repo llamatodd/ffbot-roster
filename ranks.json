@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 382,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 69
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 178,
+    "awakeningPercent": 180,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 3
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 23,
     "awakeningPercent": 42,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Margy",
+    "role": "DPS",
     "ascension": 0
   },
   {
@@ -1779,9 +1779,9 @@
     "username": "Nystorayel",
     "rank": 27,
     "awakeningPercent": 22,
-    "unit": "Beatrix",
+    "unit": "Isaaru",
     "role": "DPS",
-    "ascension": 4
+    "ascension": 5
   },
   {
     "username": "vivi_clockworker",
