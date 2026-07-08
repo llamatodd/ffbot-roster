@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 392,
+    "awakeningPercent": 394,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 368,
+    "awakeningPercent": 370,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 68
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 252,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 24
   },
   {
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 9,
-    "awakeningPercent": 250,
+    "rank": 7,
+    "awakeningPercent": 252,
     "unit": "Elena",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 256,
+    "awakeningPercent": 258,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 8
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 376,
+    "awakeningPercent": 378,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 18
