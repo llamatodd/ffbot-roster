@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 170,
+    "awakeningPercent": 172,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 11
@@ -251,15 +251,15 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 660,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Gordon",
+    "role": "DPS",
     "ascension": 35
   },
   {
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 86,
-    "unit": "Jill",
+    "unit": "Edea",
     "role": "Support",
     "ascension": 19
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 12,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 39
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 8,
     "awakeningPercent": 250,
-    "unit": "Queen",
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 15
   },
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 174,
-    "unit": "Ultimecia",
+    "unit": "Yuna",
     "role": "DPS",
     "ascension": 12
   },
