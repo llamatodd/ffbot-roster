@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 380,
+    "awakeningPercent": 382,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 356,
+    "awakeningPercent": 358,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 68
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 12,
     "awakeningPercent": 168,
-    "unit": "Cloud Ac",
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 39
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 13
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 238,
+    "rank": 7,
+    "awakeningPercent": 240,
     "unit": "Maria",
     "role": "Support",
     "ascension": 8
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 238,
     "unit": "Paine",
     "role": "DPS",
