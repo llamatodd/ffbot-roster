@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 168,
-    "unit": "Firion",
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 11
   },
@@ -409,10 +409,10 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 13,
-    "awakeningPercent": 170,
-    "unit": "Kain",
-    "role": "DPS",
+    "rank": 12,
+    "awakeningPercent": 172,
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 39
   },
   {
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 244,
-    "unit": "Lenna",
-    "role": "Support",
+    "awakeningPercent": 246,
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 15
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 372,
+    "awakeningPercent": 374,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 17
@@ -1642,10 +1642,10 @@
   {
     "username": "Maya__Lyoness",
     "rank": 23,
-    "awakeningPercent": 42,
+    "awakeningPercent": 44,
     "unit": "Margy",
     "role": "DPS",
-    "ascension": 0
+    "ascension": 1
   },
   {
     "username": "Dasende8702",
