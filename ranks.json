@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 386,
-    "unit": "Amarant",
-    "role": "Tank",
+    "awakeningPercent": 388,
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 18
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 116,
+    "awakeningPercent": 118,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 4
