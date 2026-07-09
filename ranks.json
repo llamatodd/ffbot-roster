@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 256,
-    "unit": "Ashe",
+    "awakeningPercent": 258,
+    "unit": "Jill",
     "role": "Support",
     "ascension": 24
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 284,
+    "awakeningPercent": 286,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 14
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 256,
     "unit": "Bartz",
     "role": "Support",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 382,
+    "awakeningPercent": 384,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 18
