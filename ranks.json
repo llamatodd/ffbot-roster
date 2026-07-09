@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 400,
+    "awakeningPercent": 402,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 69
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 3
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Shana",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 8
