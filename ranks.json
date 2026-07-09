@@ -253,7 +253,7 @@
     "awakeningPercent": 664,
     "unit": "Minwu",
     "role": "Healer",
-    "ascension": 35
+    "ascension": 36
   },
   {
     "username": "Jestmichelle",
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 264,
-    "unit": "Metuba",
-    "role": "Support",
+    "awakeningPercent": 266,
+    "unit": "Fran",
+    "role": "DPS",
     "ascension": 24
   },
   {
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 170,
+    "rank": 14,
+    "awakeningPercent": 172,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 11
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Alisaie",
     "role": "DPS",
     "ascension": 15
