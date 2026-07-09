@@ -10,9 +10,9 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 378,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 380,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 68
   },
   {
