@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 408,
+    "awakeningPercent": 410,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 69
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 11
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 180,
+    "awakeningPercent": 182,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 39
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 266,
+    "rank": 7,
+    "awakeningPercent": 268,
     "unit": "Edea",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 8
