@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 410,
-    "unit": "Clive",
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 384,
-    "unit": "Cecil Paladin",
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 68
   },
@@ -706,8 +706,8 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 202,
-    "unit": "Dangerniel",
+    "awakeningPercent": 204,
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 3
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 268,
-    "unit": "Edea",
+    "unit": "Sazh",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 274,
-    "unit": "Ace",
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 8
   },
