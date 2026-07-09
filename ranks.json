@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 664,
-    "unit": "Minwu",
+    "awakeningPercent": 666,
+    "unit": "Garnet",
     "role": "Healer",
     "ascension": 36
   },
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 388,
-    "unit": "Eiko",
+    "awakeningPercent": 390,
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 19
   },
@@ -1674,7 +1674,7 @@
   {
     "username": "whitejackprime",
     "rank": 29,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
