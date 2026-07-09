@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Jill",
     "role": "Support",
     "ascension": 24
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 258,
     "unit": "Bartz",
     "role": "Support",
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 23,
     "awakeningPercent": 46,
-    "unit": "Vanille",
-    "role": "Support",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 1
   },
   {
