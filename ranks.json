@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 182,
+    "awakeningPercent": 184,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 39
@@ -571,8 +571,8 @@
     "username": "Khuu59",
     "rank": 23,
     "awakeningPercent": 46,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Ultimecia",
+    "role": "DPS",
     "ascension": 10
   },
   {
@@ -1777,8 +1777,8 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 27,
-    "awakeningPercent": 28,
+    "rank": 25,
+    "awakeningPercent": 30,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 5
