@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 380,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 68
   },
   {
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 180,
-    "unit": "Ace",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 39
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 14
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 27,
-    "awakeningPercent": 26,
+    "awakeningPercent": 28,
     "unit": "Isaaru",
     "role": "DPS",
     "ascension": 5
