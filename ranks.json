@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 396,
-    "unit": "Locke",
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 372,
-    "unit": "Chocobo",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 68
   },
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 194,
-    "unit": "Umaro",
+    "unit": "Wol",
     "role": "Tank",
     "ascension": 3
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 254,
-    "unit": "Elena",
+    "unit": "Bartz",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 260,
-    "unit": "Edge",
+    "unit": "Edgar",
     "role": "DPS",
     "ascension": 8
   },
@@ -1385,8 +1385,8 @@
   },
   {
     "username": "jaik__",
-    "rank": 22,
-    "awakeningPercent": 62,
+    "rank": 21,
+    "awakeningPercent": 64,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 11
