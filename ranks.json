@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 176,
     "unit": "Ace",
     "role": "DPS",
@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 21,
+    "rank": 22,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 64,
+    "awakeningPercent": 66,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 11
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 13
