@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 400,
-    "unit": "Braska",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 376,
-    "unit": "Hope",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 68
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 11,
     "awakeningPercent": 198,
-    "unit": "Wol",
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 3
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 168,
+    "awakeningPercent": 170,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 11
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 8,
     "awakeningPercent": 258,
-    "unit": "Bartz",
+    "unit": "Shana",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 264,
-    "unit": "Edgar",
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 8
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 384,
+    "awakeningPercent": 386,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 18
@@ -1836,6 +1836,14 @@
     "rank": 74,
     "awakeningPercent": 0,
     "unit": "Blank",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "beanburrito007",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Prompto",
     "role": "DPS",
     "ascension": 0
   }
