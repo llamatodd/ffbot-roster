@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 396,
+    "awakeningPercent": 398,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 372,
+    "awakeningPercent": 374,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 68
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 194,
+    "awakeningPercent": 196,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 3
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 254,
+    "rank": 7,
+    "awakeningPercent": 256,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 8
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 254,
     "unit": "Alisaie",
     "role": "DPS",
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 178,
-    "unit": "Celes",
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 13
   },
