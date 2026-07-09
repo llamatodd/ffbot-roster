@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 384,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 68
   },
   {
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 174,
+    "awakeningPercent": 176,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 11
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 10,
     "awakeningPercent": 206,
-    "unit": "Raijin",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 9
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 8,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Edea",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 8
