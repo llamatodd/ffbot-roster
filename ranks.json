@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 254,
-    "unit": "Yuna X2",
+    "unit": "Alisaie",
     "role": "DPS",
     "ascension": 15
   },
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 378,
-    "unit": "Prompto",
-    "role": "DPS",
+    "awakeningPercent": 380,
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 18
   },
   {
