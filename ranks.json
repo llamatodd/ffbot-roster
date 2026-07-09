@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 662,
-    "unit": "Yunalesca",
-    "role": "DPS",
+    "awakeningPercent": 664,
+    "unit": "Minwu",
+    "role": "Healer",
     "ascension": 35
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 24
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 254,
     "unit": "Bartz",
     "role": "Support",
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 254,
     "unit": "Alisaie",
     "role": "DPS",
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 380,
-    "unit": "Eiko",
-    "role": "Healer",
+    "awakeningPercent": 382,
+    "unit": "Amarant",
+    "role": "Tank",
     "ascension": 18
   },
   {
@@ -1829,6 +1829,14 @@
     "awakeningPercent": 0,
     "unit": "Maria",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "ItsVin_",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Blank",
+    "role": "DPS",
     "ascension": 0
   }
 ]
