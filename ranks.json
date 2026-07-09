@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 252,
     "unit": "Ashe",
     "role": "Support",
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 252,
     "unit": "Elena",
     "role": "Support",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 252,
+    "awakeningPercent": 254,
     "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 15
