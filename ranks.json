@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 410,
+    "awakeningPercent": 412,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 384,
+    "awakeningPercent": 386,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 68
@@ -253,7 +253,7 @@
     "awakeningPercent": 666,
     "unit": "Garnet",
     "role": "Healer",
-    "ascension": 36
+    "ascension": 37
   },
   {
     "username": "Jestmichelle",
@@ -411,13 +411,13 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 184,
-    "unit": "Agrias",
-    "role": "DPS",
+    "unit": "Balthier",
+    "role": "Tank",
     "ascension": 39
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 268,
     "unit": "Fran",
     "role": "DPS",
@@ -571,7 +571,7 @@
     "username": "Khuu59",
     "rank": 23,
     "awakeningPercent": 46,
-    "unit": "Ultimecia",
+    "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 10
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 268,
+    "awakeningPercent": 270,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 8
