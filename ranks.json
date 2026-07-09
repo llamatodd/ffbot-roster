@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 384,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 68
   },
   {
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 27,
     "awakeningPercent": 28,
-    "unit": "Isaaru",
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 5
   },
