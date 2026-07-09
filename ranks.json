@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 386,
+    "awakeningPercent": 388,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 68
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 184,
+    "awakeningPercent": 186,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 39
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 268,
+    "awakeningPercent": 270,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 24
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 23,
-    "awakeningPercent": 46,
+    "awakeningPercent": 48,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 10
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 290,
-    "unit": "Celes",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 14
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 276,
+    "awakeningPercent": 278,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 8
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 186,
-    "unit": "Garnet",
-    "role": "Healer",
+    "awakeningPercent": 188,
+    "unit": "Terra",
+    "role": "DPS",
     "ascension": 13
   },
   {
@@ -1641,7 +1641,7 @@
   },
   {
     "username": "Maya__Lyoness",
-    "rank": 23,
+    "rank": 24,
     "awakeningPercent": 46,
     "unit": "Rikku",
     "role": "DPS",
@@ -1844,6 +1844,14 @@
     "rank": 74,
     "awakeningPercent": 0,
     "unit": "Prompto",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "obizdub",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 0
   }
