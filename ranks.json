@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 406,
+    "awakeningPercent": 408,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 69
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 24
@@ -573,7 +573,7 @@
     "awakeningPercent": 44,
     "unit": "Lenna",
     "role": "Support",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "whitegrimknight",
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 204,
+    "awakeningPercent": 206,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 9
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 184,
-    "unit": "Vivi",
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 13
   },
