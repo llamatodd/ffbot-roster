@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 412,
+    "awakeningPercent": 414,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 69
@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 25,
+    "rank": 26,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -250,10 +250,10 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 666,
-    "unit": "Garnet",
-    "role": "Healer",
-    "ascension": 37
+    "awakeningPercent": 668,
+    "unit": "Bartz",
+    "role": "Support",
+    "ascension": 38
   },
   {
     "username": "Jestmichelle",
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 8,
     "awakeningPercent": 270,
-    "unit": "Fran",
-    "role": "DPS",
-    "ascension": 24
+    "unit": "Tidus",
+    "role": "Support",
+    "ascension": 25
   },
   {
     "username": "artudixx",
@@ -841,7 +841,7 @@
   },
   {
     "username": "Dredg",
-    "rank": 25,
+    "rank": 26,
     "awakeningPercent": 30,
     "unit": "Gogo",
     "role": "DPS",
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 172,
-    "unit": "Steiner",
-    "role": "Tank",
+    "unit": "Rikku",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 66,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "dracostheveteran",
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 118,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 4
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 25,
-    "awakeningPercent": 30,
+    "awakeningPercent": 32,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 5
