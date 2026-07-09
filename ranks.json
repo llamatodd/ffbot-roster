@@ -10,9 +10,9 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 382,
-    "unit": "Cecil",
-    "role": "DPS",
+    "awakeningPercent": 384,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 68
   },
   {
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 256,
-    "unit": "Alisaie",
-    "role": "DPS",
+    "awakeningPercent": 258,
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 15
   },
   {
