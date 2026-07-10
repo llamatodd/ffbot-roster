@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 388,
+    "awakeningPercent": 390,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 68
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 180,
+    "awakeningPercent": 182,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 12
@@ -253,7 +253,7 @@
     "awakeningPercent": 668,
     "unit": "Bartz",
     "role": "Support",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "Jestmichelle",
@@ -1386,9 +1386,9 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 66,
-    "unit": "Tidus",
-    "role": "Support",
+    "awakeningPercent": 68,
+    "unit": "Zidane",
+    "role": "DPS",
     "ascension": 12
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 13
