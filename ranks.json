@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 420,
+    "awakeningPercent": 422,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 69
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 3
@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 278,
+    "rank": 7,
+    "awakeningPercent": 280,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 284,
+    "awakeningPercent": 286,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 8
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 118,
+    "awakeningPercent": 120,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 4
