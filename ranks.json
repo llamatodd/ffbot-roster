@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 418,
+    "awakeningPercent": 420,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 392,
+    "awakeningPercent": 394,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 68
@@ -421,7 +421,7 @@
     "awakeningPercent": 276,
     "unit": "Delita",
     "role": "Support",
-    "ascension": 27
+    "ascension": 28
   },
   {
     "username": "artudixx",
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 25,
     "awakeningPercent": 32,
-    "unit": "Freya",
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 5
   },
