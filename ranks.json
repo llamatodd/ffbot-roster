@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 424,
+    "awakeningPercent": 426,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 69
@@ -245,7 +245,7 @@
     "awakeningPercent": 184,
     "unit": "Guy",
     "role": "Tank",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "Sarah_Orion",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 266,
-    "unit": "Emperor",
-    "role": "DPS",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 15
   },
   {
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 402,
-    "unit": "Esquie",
+    "unit": "Raijin",
     "role": "Tank",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "FloDaddelt",
