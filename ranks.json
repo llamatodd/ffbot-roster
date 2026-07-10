@@ -410,15 +410,15 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 39
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 276,
+    "rank": 7,
+    "awakeningPercent": 278,
     "unit": "Delita",
     "role": "Support",
     "ascension": 28
@@ -1149,12 +1149,12 @@
     "awakeningPercent": 176,
     "unit": "Rikku",
     "role": "DPS",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 14
