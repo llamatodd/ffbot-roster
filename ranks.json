@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 69
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 8,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 25
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 264,
+    "awakeningPercent": 266,
     "unit": "Emperor",
     "role": "DPS",
     "ascension": 15
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 394,
-    "unit": "Hope",
-    "role": "Healer",
+    "awakeningPercent": 396,
+    "unit": "Esquie",
+    "role": "Tank",
     "ascension": 20
   },
   {
