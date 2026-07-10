@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 284,
+    "rank": 7,
+    "awakeningPercent": 286,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 290,
+    "awakeningPercent": 292,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 8
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 120,
+    "awakeningPercent": 122,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 4
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 25,
-    "awakeningPercent": 32,
+    "awakeningPercent": 34,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 6
