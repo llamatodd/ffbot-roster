@@ -411,15 +411,15 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 188,
-    "unit": "Balthier",
-    "role": "Tank",
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 39
   },
   {
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 278,
-    "unit": "Delita",
+    "unit": "Faris",
     "role": "Support",
     "ascension": 28
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 68,
+    "awakeningPercent": 70,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 12
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 25,
     "awakeningPercent": 32,
-    "unit": "Kimahri",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 5
   },
