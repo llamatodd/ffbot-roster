@@ -3,14 +3,14 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 424,
-    "unit": "Prompto",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 398,
+    "awakeningPercent": 400,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 68
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 182,
+    "awakeningPercent": 184,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 12
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 282,
-    "unit": "Faris",
+    "unit": "Elena",
     "role": "Support",
     "ascension": 30
   },
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 48
+    "ascension": 49
   },
   {
     "username": "MystisNykoto",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 212,
+    "awakeningPercent": 214,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 3
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 210,
-    "unit": "Rude",
+    "unit": "Amarant",
     "role": "Tank",
     "ascension": 10
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 400,
+    "awakeningPercent": 402,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 20
