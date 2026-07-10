@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 414,
-    "unit": "Cid 7",
+    "unit": "Fang",
     "role": "DPS",
     "ascension": 69
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 272,
-    "unit": "Sazh",
+    "unit": "Shana",
     "role": "Support",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 278,
-    "unit": "Celes Opera",
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 8
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Emperor",
     "role": "DPS",
     "ascension": 15
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 188,
-    "unit": "Terra",
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 13
   },
