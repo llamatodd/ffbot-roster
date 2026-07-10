@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 388,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Desch",
+    "role": "DPS",
     "ascension": 68
   },
   {
@@ -242,10 +242,10 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 178,
-    "unit": "Basch",
+    "awakeningPercent": 180,
+    "unit": "Guy",
     "role": "Tank",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "Sarah_Orion",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 290,
+    "awakeningPercent": 292,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 14
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Shana",
     "role": "Support",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 8
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 188,
-    "unit": "Chocobo Red",
+    "unit": "Terra",
     "role": "DPS",
     "ascension": 13
   },
