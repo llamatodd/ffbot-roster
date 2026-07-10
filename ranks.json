@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 672,
-    "unit": "Jecht",
+    "unit": "Desch",
     "role": "DPS",
     "ascension": 41
   },
@@ -409,10 +409,10 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 196,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Dangerniel",
+    "role": "Tank",
     "ascension": 39
   },
   {
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 212,
-    "unit": "Cid Randell",
+    "unit": "Quina",
     "role": "Tank",
     "ascension": 10
   },
@@ -1243,16 +1243,16 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 286,
-    "unit": "Gladio",
-    "role": "Tank",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 8
   },
   {
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 292,
-    "unit": "Jecht",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 8
   },
   {
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 268,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Terra",
+    "role": "DPS",
     "ascension": 16
   },
   {
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 402,
-    "unit": "Raijin",
-    "role": "Tank",
+    "unit": "Kefka",
+    "role": "DPS",
     "ascension": 21
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 196,
+    "awakeningPercent": 198,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 14
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 122,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 4
   },
   {
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 25,
     "awakeningPercent": 36,
-    "unit": "Seifer",
+    "unit": "Beatrix",
     "role": "DPS",
     "ascension": 6
   },
