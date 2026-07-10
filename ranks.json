@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 214,
-    "unit": "Squall Space",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 3
   },
@@ -1243,7 +1243,7 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 282,
-    "unit": "Snow",
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 8
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 288,
-    "unit": "Gordon",
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 8
   },
@@ -1852,6 +1852,14 @@
     "rank": 74,
     "awakeningPercent": 0,
     "unit": "Leon",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "SmokeDeGrasseTyson",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Vegeta",
     "role": "DPS",
     "ascension": 0
   }
