@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 39
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Faris",
     "role": "Support",
     "ascension": 29
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 278,
     "unit": "Snow",
     "role": "Tank",
