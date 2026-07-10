@@ -1241,8 +1241,8 @@
   },
   {
     "username": "Fossabot",
-    "rank": 8,
-    "awakeningPercent": 282,
+    "rank": 7,
+    "awakeningPercent": 284,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 288,
+    "awakeningPercent": 290,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 8
