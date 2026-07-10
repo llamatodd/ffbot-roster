@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 670,
-    "unit": "Bartz",
-    "role": "Support",
+    "unit": "Jecht",
+    "role": "DPS",
     "ascension": 40
   },
   {
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 70,
     "unit": "Zidane",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "dracostheveteran",
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
-    "awakeningPercent": 192,
+    "rank": 12,
+    "awakeningPercent": 194,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 13
