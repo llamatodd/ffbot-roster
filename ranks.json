@@ -411,14 +411,14 @@
     "username": "SnoochieBoochie_",
     "rank": 12,
     "awakeningPercent": 192,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Alisaie",
+    "role": "DPS",
     "ascension": 39
   },
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Elena",
     "role": "Support",
     "ascension": 30
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 282,
     "unit": "Gladio",
     "role": "Tank",
