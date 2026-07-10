@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 426,
+    "awakeningPercent": 430,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 69
@@ -253,7 +253,7 @@
     "awakeningPercent": 670,
     "unit": "Jecht",
     "role": "DPS",
-    "ascension": 40
+    "ascension": 41
   },
   {
     "username": "Jestmichelle",
@@ -410,9 +410,9 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 12,
-    "awakeningPercent": 194,
-    "unit": "Alisaie",
-    "role": "DPS",
+    "awakeningPercent": 196,
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 39
   },
   {
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 23,
-    "awakeningPercent": 48,
+    "awakeningPercent": 50,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 10
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 210,
-    "unit": "Amarant",
+    "awakeningPercent": 212,
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 10
   },
@@ -1298,10 +1298,10 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Matoya",
     "role": "Support",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "sillynix",
@@ -1498,10 +1498,10 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 194,
-    "unit": "Terra",
+    "awakeningPercent": 196,
+    "unit": "Celes Opera",
     "role": "DPS",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "eyetotem",
