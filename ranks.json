@@ -3,16 +3,16 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 69
   },
   {
     "username": "OrgleBot",
     "rank": 3,
     "awakeningPercent": 404,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 68
   },
   {
@@ -243,14 +243,14 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 186,
-    "unit": "Guy",
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 13
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 670,
+    "awakeningPercent": 672,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 41
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 3
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 25,
     "awakeningPercent": 36,
-    "unit": "Garland",
+    "unit": "Seifer",
     "role": "DPS",
     "ascension": 6
   },
