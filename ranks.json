@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 11,
-    "awakeningPercent": 204,
+    "awakeningPercent": 206,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 3
@@ -1146,10 +1146,10 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 172,
+    "awakeningPercent": 174,
     "unit": "Rikku",
     "role": "DPS",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "EagleCeres",
