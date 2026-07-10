@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 274,
     "unit": "Delita",
     "role": "Support",
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 280,
+    "awakeningPercent": 282,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 8
