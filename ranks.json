@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 186,
-    "unit": "Ghido",
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 13
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 294,
+    "awakeningPercent": 296,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 14
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 402,
-    "unit": "Kefka",
-    "role": "DPS",
+    "unit": "Babus",
+    "role": "Tank",
     "ascension": 21
   },
   {
