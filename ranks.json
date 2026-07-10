@@ -243,9 +243,9 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 186,
-    "unit": "Shadow",
+    "unit": "Quina",
     "role": "Tank",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "Sarah_Orion",
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 88,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 19
   },
   {
@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 23,
-    "awakeningPercent": 50,
+    "awakeningPercent": 52,
     "unit": "Edea",
     "role": "Support",
     "ascension": 11
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 270,
-    "unit": "Yunalesca",
+    "unit": "Terra",
     "role": "DPS",
     "ascension": 16
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 14
