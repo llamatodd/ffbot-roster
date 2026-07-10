@@ -5,7 +5,7 @@
     "awakeningPercent": 430,
     "unit": "Orlandeau",
     "role": "DPS",
-    "ascension": 69
+    "ascension": 70
   },
   {
     "username": "OrgleBot",
@@ -13,7 +13,7 @@
     "awakeningPercent": 404,
     "unit": "Ingus",
     "role": "Tank",
-    "ascension": 68
+    "ascension": 69
   },
   {
     "username": "dead_rabbitz",
@@ -709,7 +709,7 @@
     "awakeningPercent": 218,
     "unit": "Barret",
     "role": "Tank",
-    "ascension": 3
+    "ascension": 4
   },
   {
     "username": "meowmew_lamew",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "Moobot",
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 270,
     "unit": "Terra",
     "role": "DPS",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "sillynix",
