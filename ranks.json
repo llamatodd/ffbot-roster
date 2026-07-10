@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 668,
+    "awakeningPercent": 670,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 40
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 12,
-    "awakeningPercent": 192,
+    "awakeningPercent": 194,
     "unit": "Alisaie",
     "role": "DPS",
     "ascension": 39
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 284,
-    "unit": "Elena",
-    "role": "Support",
+    "awakeningPercent": 286,
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 30
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 3
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 284,
     "unit": "Gladio",
     "role": "Tank",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 192,
     "unit": "Terra",
     "role": "DPS",
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 32,
     "unit": "Garland",
     "role": "DPS",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "vivi_clockworker",
