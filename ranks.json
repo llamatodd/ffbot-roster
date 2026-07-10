@@ -253,7 +253,7 @@
     "awakeningPercent": 672,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 41
+    "ascension": 42
   },
   {
     "username": "Jestmichelle",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 286,
-    "unit": "Thancred",
-    "role": "Tank",
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 31
   },
   {
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 218,
-    "unit": "Galuf",
+    "unit": "Barret",
     "role": "Tank",
     "ascension": 3
   },
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 268,
-    "unit": "Terra",
+    "awakeningPercent": 270,
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 16
   },
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 402,
     "unit": "Babus",
     "role": "Tank",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "FloDaddelt",
@@ -1869,6 +1869,14 @@
     "awakeningPercent": 0,
     "unit": "Ovelia",
     "role": "Healer",
+    "ascension": 0
+  },
+  {
+    "username": "Dallocourt86",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 0
   }
 ]
