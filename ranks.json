@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 276,
     "unit": "Delita",
     "role": "Support",
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 208,
-    "unit": "Babus",
+    "unit": "Rude",
     "role": "Tank",
     "ascension": 9
   },
@@ -1242,7 +1242,7 @@
   {
     "username": "Fossabot",
     "rank": 7,
-    "awakeningPercent": 276,
+    "awakeningPercent": 278,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 8
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 6,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 8
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 398,
+    "awakeningPercent": 400,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 20
