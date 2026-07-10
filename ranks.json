@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 13,
-    "awakeningPercent": 190,
+    "rank": 12,
+    "awakeningPercent": 192,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 39
@@ -421,7 +421,7 @@
     "awakeningPercent": 280,
     "unit": "Faris",
     "role": "Support",
-    "ascension": 29
+    "ascension": 30
   },
   {
     "username": "artudixx",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 208,
     "unit": "Rude",
     "role": "Tank",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "explorer_moogle",
