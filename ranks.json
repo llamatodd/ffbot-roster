@@ -10,8 +10,8 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 394,
-    "unit": "Ace",
+    "awakeningPercent": 396,
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 68
   },
@@ -421,7 +421,7 @@
     "awakeningPercent": 278,
     "unit": "Faris",
     "role": "Support",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "artudixx",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 176,
+    "awakeningPercent": 178,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 14
