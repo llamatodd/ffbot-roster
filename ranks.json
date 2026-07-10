@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 418,
-    "unit": "Fang",
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 69
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 392,
-    "unit": "Desch",
+    "unit": "Ace",
     "role": "DPS",
     "ascension": 68
   },
@@ -421,7 +421,7 @@
     "awakeningPercent": 274,
     "unit": "Delita",
     "role": "Support",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "artudixx",
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 208,
-    "unit": "Gladio",
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 3
   },
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 176,
     "unit": "Rikku",
     "role": "DPS",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "EagleCeres",
