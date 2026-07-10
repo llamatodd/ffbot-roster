@@ -417,8 +417,8 @@
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 274,
+    "rank": 7,
+    "awakeningPercent": 276,
     "unit": "Delita",
     "role": "Support",
     "ascension": 27
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 3
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 208,
     "unit": "Babus",
     "role": "Tank",
