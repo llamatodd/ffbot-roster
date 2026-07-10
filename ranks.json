@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 416,
+    "awakeningPercent": 418,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 69
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 390,
+    "awakeningPercent": 392,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 68
@@ -417,9 +417,9 @@
   },
   {
     "username": "seika",
-    "rank": 8,
-    "awakeningPercent": 272,
-    "unit": "Tidus",
+    "rank": 7,
+    "awakeningPercent": 274,
+    "unit": "Delita",
     "role": "Support",
     "ascension": 26
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 396,
+    "awakeningPercent": 398,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 20
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 190,
+    "awakeningPercent": 192,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 13
