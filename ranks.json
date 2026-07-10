@@ -421,7 +421,7 @@
     "awakeningPercent": 272,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 25
+    "ascension": 26
   },
   {
     "username": "artudixx",
@@ -705,8 +705,8 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 11,
-    "awakeningPercent": 206,
+    "rank": 10,
+    "awakeningPercent": 208,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 3
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 7,
     "awakeningPercent": 274,
-    "unit": "Shana",
-    "role": "Support",
+    "unit": "Squall Space",
+    "role": "Tank",
     "ascension": 8
   },
   {
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 280,
-    "unit": "Braska",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 8
   },
