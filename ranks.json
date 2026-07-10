@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 3,
-    "awakeningPercent": 402,
+    "awakeningPercent": 404,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 68
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 184,
+    "awakeningPercent": 186,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 13
@@ -571,9 +571,9 @@
     "username": "Khuu59",
     "rank": 23,
     "awakeningPercent": 50,
-    "unit": "Edea Matron",
-    "role": "DPS",
-    "ascension": 10
+    "unit": "Edea",
+    "role": "Support",
+    "ascension": 11
   },
   {
     "username": "whitegrimknight",
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 402,
     "unit": "Raijin",
     "role": "Tank",
