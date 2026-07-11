@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 678,
-    "unit": "Irvine",
+    "unit": "Margy",
     "role": "DPS",
-    "ascension": 47
+    "ascension": 48
   },
   {
     "username": "Jestmichelle",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 216,
     "unit": "Zack",
     "role": "Tank",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "explorer_moogle",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 18
@@ -1673,8 +1673,8 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 29,
-    "awakeningPercent": 14,
+    "rank": 28,
+    "awakeningPercent": 16,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
