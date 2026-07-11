@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 88,
+    "awakeningPercent": 90,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 21
@@ -421,7 +421,7 @@
     "awakeningPercent": 290,
     "unit": "Minwu",
     "role": "Healer",
-    "ascension": 34
+    "ascension": 35
   },
   {
     "username": "artudixx",
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 220,
-    "unit": "Barret",
-    "role": "Tank",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 6
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 14
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 212,
-    "unit": "Quina",
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 10
   },
