@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 434,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 72
   },
   {
@@ -257,9 +257,9 @@
   },
   {
     "username": "Jestmichelle",
-    "rank": 19,
-    "awakeningPercent": 92,
-    "unit": "Yuna",
+    "rank": 18,
+    "awakeningPercent": 94,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 24
   },
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 292,
-    "unit": "Faris",
-    "role": "Support",
-    "ascension": 36
+    "unit": "Dangerniel",
+    "role": "Tank",
+    "ascension": 37
   },
   {
     "username": "artudixx",
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 406,
     "unit": "Ghido",
     "role": "Tank",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "FloDaddelt",
