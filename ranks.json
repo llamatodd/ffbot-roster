@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 676,
-    "unit": "Minwu",
-    "role": "Healer",
+    "unit": "Irvine",
+    "role": "DPS",
     "ascension": 46
   },
   {
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 178,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 17
   },
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 14
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1499,13 +1499,13 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 202,
-    "unit": "Emperor",
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 16
   },
   {
     "username": "eyetotem",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -1874,9 +1874,9 @@
   {
     "username": "Dallocourt86",
     "rank": 34,
-    "awakeningPercent": 6,
-    "unit": "Lulu",
-    "role": "DPS",
+    "awakeningPercent": 8,
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 4
   },
   {
