@@ -1437,7 +1437,7 @@
     "awakeningPercent": 406,
     "unit": "Ozma",
     "role": "Tank",
-    "ascension": 25
+    "ascension": 26
   },
   {
     "username": "FloDaddelt",
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 25,
-    "awakeningPercent": 38,
+    "awakeningPercent": 40,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 7
