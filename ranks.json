@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Orlandeau",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 71
   },
   {
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 672,
-    "unit": "Cor",
+    "awakeningPercent": 674,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 44
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 290,
-    "unit": "Braska",
-    "role": "DPS",
+    "unit": "Babus",
+    "role": "Tank",
     "ascension": 33
   },
   {
@@ -1387,9 +1387,9 @@
     "username": "jaik__",
     "rank": 21,
     "awakeningPercent": 72,
-    "unit": "Zidane",
+    "unit": "Cor",
     "role": "DPS",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "dracostheveteran",
