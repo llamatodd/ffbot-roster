@@ -410,9 +410,9 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 198,
-    "unit": "Bartz",
-    "role": "Support",
+    "awakeningPercent": 200,
+    "unit": "Cid 4",
+    "role": "Tank",
     "ascension": 39
   },
   {
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 202,
     "unit": "Rydia",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "eyetotem",
