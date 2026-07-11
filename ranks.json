@@ -29,7 +29,7 @@
     "awakeningPercent": 82,
     "unit": "Gogo",
     "role": "DPS",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "KamiXKitsune",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 180,
+    "awakeningPercent": 182,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 17
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 406,
-    "unit": "Ghido",
-    "role": "Tank",
+    "awakeningPercent": 408,
+    "unit": "Emperor",
+    "role": "DPS",
     "ascension": 27
   },
   {
