@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 20,
-    "awakeningPercent": 80,
+    "awakeningPercent": 82,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 10
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 12,
     "awakeningPercent": 204,
-    "unit": "Cid 4",
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 39
   },
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 216,
     "unit": "Zack",
     "role": "Tank",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "explorer_moogle",
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 272,
-    "unit": "Yunalesca",
+    "awakeningPercent": 274,
+    "unit": "Gordon",
     "role": "DPS",
     "ascension": 18
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 16
