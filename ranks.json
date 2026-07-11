@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 71
   },
   {
@@ -417,10 +417,10 @@
   },
   {
     "username": "seika",
-    "rank": 7,
-    "awakeningPercent": 290,
-    "unit": "Minwu",
-    "role": "Healer",
+    "rank": 6,
+    "awakeningPercent": 292,
+    "unit": "Faris",
+    "role": "Support",
     "ascension": 36
   },
   {
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 224,
+    "awakeningPercent": 228,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 6
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 212,
-    "unit": "Cid Randell",
+    "awakeningPercent": 214,
+    "unit": "Umaro",
     "role": "Tank",
     "ascension": 10
   },
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 38,
     "unit": "Seymour Omnis",
     "role": "DPS",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "vivi_clockworker",
