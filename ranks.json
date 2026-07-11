@@ -253,7 +253,7 @@
     "awakeningPercent": 672,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "Jestmichelle",
@@ -418,10 +418,10 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Bartz",
     "role": "Support",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "artudixx",
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 402,
     "unit": "Babus",
     "role": "Tank",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "FloDaddelt",
@@ -1875,8 +1875,8 @@
     "username": "Dallocourt86",
     "rank": 74,
     "awakeningPercent": 0,
-    "unit": "Bartz",
-    "role": "Support",
-    "ascension": 0
+    "unit": "Alisaie",
+    "role": "DPS",
+    "ascension": 1
   }
 ]
