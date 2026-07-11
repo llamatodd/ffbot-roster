@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 228,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 8
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 282,
-    "unit": "Terra",
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 19
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 17
