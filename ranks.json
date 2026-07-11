@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 96,
+    "awakeningPercent": 98,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 26
@@ -658,7 +658,7 @@
   {
     "username": "GriffcaTobeeVT",
     "rank": 35,
-    "awakeningPercent": 6,
+    "awakeningPercent": 8,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 1
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
