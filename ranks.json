@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 300,
-    "unit": "Matoya",
-    "role": "Support",
+    "awakeningPercent": 302,
+    "unit": "Celes Opera",
+    "role": "DPS",
     "ascension": 14
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 406,
-    "unit": "Ozma",
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 26
   },
