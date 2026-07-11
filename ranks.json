@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 71
   },
   {
@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 196,
-    "unit": "Dangerniel",
-    "role": "Tank",
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 39
   },
   {
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 178,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "EagleCeres",
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 74,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "dracostheveteran",
