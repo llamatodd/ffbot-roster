@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 7,
     "awakeningPercent": 290,
-    "unit": "Yuna X2",
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 33
   },
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 178,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "EagleCeres",
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 70,
+    "awakeningPercent": 72,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 13
@@ -1433,8 +1433,8 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
-    "awakeningPercent": 402,
+    "rank": 3,
+    "awakeningPercent": 404,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 24
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 200,
     "unit": "Celes Opera",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "eyetotem",
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 25,
-    "awakeningPercent": 36,
+    "awakeningPercent": 38,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 6
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 0,
     "unit": "Kain",
     "role": "DPS",
-    "ascension": 1
+    "ascension": 2
   },
   {
     "username": "OldbrickRonsenburg",
