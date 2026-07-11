@@ -11,9 +11,9 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 404,
-    "unit": "Ingus",
+    "unit": "Dangerniel",
     "role": "Tank",
-    "ascension": 71
+    "ascension": 72
   },
   {
     "username": "dead_rabbitz",
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 13,
-    "awakeningPercent": 200,
+    "rank": 12,
+    "awakeningPercent": 202,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 39
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 178,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Rude",
+    "role": "Tank",
     "ascension": 17
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 6,
     "awakeningPercent": 292,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Terra",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 270,
     "unit": "Yunalesca",
     "role": "DPS",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "sillynix",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 406,
-    "unit": "Babus",
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 26
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 202,
-    "unit": "Rydia",
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 16
   },
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 40,
     "unit": "Seymour Omnis",
     "role": "DPS",
-    "ascension": 7
+    "ascension": 8
   },
   {
     "username": "vivi_clockworker",
