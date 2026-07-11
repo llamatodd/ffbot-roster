@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 96,
-    "unit": "Yshtola",
-    "role": "DPS",
-    "ascension": 25
+    "unit": "Tidus",
+    "role": "Support",
+    "ascension": 26
   },
   {
     "username": "egg_noodler",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 37
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 30,
+    "rank": 31,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 30,
+    "rank": 31,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 218,
     "unit": "Auron",
     "role": "Tank",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "explorer_moogle",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 410,
-    "unit": "Emperor",
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 28
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 206,
-    "unit": "Fran",
+    "awakeningPercent": 208,
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 17
   },
@@ -1874,7 +1874,7 @@
   {
     "username": "Dallocourt86",
     "rank": 30,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 6
