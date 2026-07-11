@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 434,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 72
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "username": "ColonelSpyder",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Locke",
     "role": "DPS",
@@ -253,7 +253,7 @@
     "awakeningPercent": 676,
     "unit": "Irvine",
     "role": "DPS",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "Jestmichelle",
@@ -261,7 +261,7 @@
     "awakeningPercent": 94,
     "unit": "Yshtola",
     "role": "DPS",
-    "ascension": 24
+    "ascension": 25
   },
   {
     "username": "egg_noodler",
@@ -345,7 +345,7 @@
   },
   {
     "username": "AgainstAllToddz",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Edea",
     "role": "Support",
@@ -521,7 +521,7 @@
   },
   {
     "username": "asharnia",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Yuna",
     "role": "DPS",
@@ -593,7 +593,7 @@
   },
   {
     "username": "mylesgriego",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Sabin",
     "role": "Tank",
@@ -609,7 +609,7 @@
   },
   {
     "username": "Lacramore",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Cod",
     "role": "DPS",
@@ -745,7 +745,7 @@
   },
   {
     "username": "TVultus",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Rosa",
     "role": "Healer",
@@ -865,7 +865,7 @@
   },
   {
     "username": "Veskurbino",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Lightning",
     "role": "DPS",
@@ -881,7 +881,7 @@
   },
   {
     "username": "big_chungus19283746",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Ward",
     "role": "DPS",
@@ -969,7 +969,7 @@
   },
   {
     "username": "mikeydoesvoices",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Genesis",
     "role": "DPS",
@@ -1049,7 +1049,7 @@
   },
   {
     "username": "Vanitias",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Genesis",
     "role": "DPS",
@@ -1073,7 +1073,7 @@
   },
   {
     "username": "Iightberry",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Yuna",
     "role": "DPS",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 214,
     "unit": "Umaro",
     "role": "Tank",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "explorer_moogle",
@@ -1281,7 +1281,7 @@
   },
   {
     "username": "Mylios",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Emperor",
     "role": "DPS",
@@ -1289,7 +1289,7 @@
   },
   {
     "username": "HelloTonka",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Cod",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 18
@@ -1353,7 +1353,7 @@
   },
   {
     "username": "mia__leeloo",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Auron",
     "role": "Tank",
@@ -1361,7 +1361,7 @@
   },
   {
     "username": "Hazard1121",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Genesis",
     "role": "DPS",
@@ -1369,7 +1369,7 @@
   },
   {
     "username": "TheRenHojo",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Cod",
     "role": "DPS",
@@ -1465,7 +1465,7 @@
   },
   {
     "username": "ScionOath",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Reno",
     "role": "DPS",
@@ -1481,8 +1481,8 @@
   },
   {
     "username": "Elbody",
-    "rank": 52,
-    "awakeningPercent": 2,
+    "rank": 41,
+    "awakeningPercent": 4,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 1
@@ -1521,7 +1521,7 @@
   },
   {
     "username": "Heuto",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Tidus",
     "role": "Support",
@@ -1609,7 +1609,7 @@
   },
   {
     "username": "ChaoticCalling",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Sephiroth",
     "role": "DPS",
@@ -1625,7 +1625,7 @@
   },
   {
     "username": "bayarea124",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Hope",
     "role": "Healer",
@@ -1633,7 +1633,7 @@
   },
   {
     "username": "tacotraplord",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Genesis",
     "role": "DPS",
@@ -1665,7 +1665,7 @@
   },
   {
     "username": "WhiteDragoon01",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Tifa",
     "role": "DPS",
@@ -1877,11 +1877,11 @@
     "awakeningPercent": 8,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 4
+    "ascension": 5
   },
   {
     "username": "OldbrickRonsenburg",
-    "rank": 52,
+    "rank": 53,
     "awakeningPercent": 2,
     "unit": "Cloud",
     "role": "DPS",
