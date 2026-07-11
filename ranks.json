@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 72
   },
   {
@@ -245,14 +245,14 @@
     "awakeningPercent": 190,
     "unit": "Ghido",
     "role": "Tank",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 674,
-    "unit": "Faris",
-    "role": "Support",
+    "awakeningPercent": 676,
+    "unit": "Irvine",
+    "role": "DPS",
     "ascension": 46
   },
   {
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 76,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "dracostheveteran",
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 6,
     "unit": "Lulu",
     "role": "DPS",
-    "ascension": 3
+    "ascension": 4
   },
   {
     "username": "OldbrickRonsenburg",
