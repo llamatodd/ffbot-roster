@@ -253,15 +253,15 @@
     "awakeningPercent": 674,
     "unit": "Faris",
     "role": "Support",
-    "ascension": 44
+    "ascension": 45
   },
   {
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 88,
-    "unit": "Queen",
+    "unit": "Yuna",
     "role": "DPS",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "egg_noodler",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 218,
+    "awakeningPercent": 220,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 6
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 14
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 404,
     "unit": "Ozma",
     "role": "Tank",
-    "ascension": 24
+    "ascension": 25
   },
   {
     "username": "FloDaddelt",
@@ -1875,7 +1875,7 @@
     "username": "Dallocourt86",
     "rank": 51,
     "awakeningPercent": 2,
-    "unit": "Kain",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 2
   },
