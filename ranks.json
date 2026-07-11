@@ -3,9 +3,9 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Tidus",
-    "role": "Support",
-    "ascension": 71
+    "unit": "Cecil",
+    "role": "DPS",
+    "ascension": 72
   },
   {
     "username": "OrgleBot",
@@ -13,7 +13,7 @@
     "awakeningPercent": 404,
     "unit": "Ingus",
     "role": "Tank",
-    "ascension": 70
+    "ascension": 71
   },
   {
     "username": "dead_rabbitz",
@@ -253,7 +253,7 @@
     "awakeningPercent": 674,
     "unit": "Faris",
     "role": "Support",
-    "ascension": 45
+    "ascension": 46
   },
   {
     "username": "Jestmichelle",
@@ -261,7 +261,7 @@
     "awakeningPercent": 92,
     "unit": "Yuna",
     "role": "DPS",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "egg_noodler",
@@ -709,7 +709,7 @@
     "awakeningPercent": 228,
     "unit": "Cecil",
     "role": "DPS",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "meowmew_lamew",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 214,
     "unit": "Umaro",
     "role": "Tank",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "explorer_moogle",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "Moobot",
