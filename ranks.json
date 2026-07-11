@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 20,
-    "awakeningPercent": 82,
+    "awakeningPercent": 84,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 12
@@ -1893,6 +1893,14 @@
     "awakeningPercent": 0,
     "unit": "Braska",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "StarNiight",
+    "rank": 76,
+    "awakeningPercent": 0,
+    "unit": "Basch",
+    "role": "Tank",
     "ascension": 0
   }
 ]
