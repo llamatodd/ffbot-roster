@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 71
   },
   {
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 90,
+    "awakeningPercent": 92,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 22
@@ -421,7 +421,7 @@
     "awakeningPercent": 290,
     "unit": "Minwu",
     "role": "Healer",
-    "ascension": 35
+    "ascension": 36
   },
   {
     "username": "artudixx",
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 220,
+    "awakeningPercent": 224,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 6
