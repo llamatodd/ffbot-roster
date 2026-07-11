@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 430,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 71
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 196,
+    "awakeningPercent": 198,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 39
