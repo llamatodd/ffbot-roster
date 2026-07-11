@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 430,
+    "awakeningPercent": 434,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 72
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 676,
-    "unit": "Irvine",
-    "role": "DPS",
+    "unit": "Minwu",
+    "role": "Healer",
     "ascension": 46
   },
   {
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 178,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "EagleCeres",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 214,
     "unit": "Umaro",
     "role": "Tank",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "explorer_moogle",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 9,
     "awakeningPercent": 270,
-    "unit": "Terra",
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 17
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 406,
-    "unit": "Ghido",
+    "unit": "Babus",
     "role": "Tank",
     "ascension": 26
   },
@@ -1884,6 +1884,14 @@
     "rank": 52,
     "awakeningPercent": 2,
     "unit": "Cloud",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "GaIaz",
+    "rank": 76,
+    "awakeningPercent": 0,
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 0
   }
