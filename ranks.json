@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 194,
+    "awakeningPercent": 196,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 15
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 306,
+    "awakeningPercent": 308,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 14
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 218,
-    "unit": "Zack",
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 16
   },
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 12,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "OldbrickRonsenburg",
