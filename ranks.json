@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 14
@@ -253,7 +253,7 @@
     "awakeningPercent": 672,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 43
+    "ascension": 44
   },
   {
     "username": "Jestmichelle",
@@ -418,10 +418,10 @@
   {
     "username": "seika",
     "rank": 7,
-    "awakeningPercent": 288,
-    "unit": "Bartz",
-    "role": "Support",
-    "ascension": 32
+    "awakeningPercent": 290,
+    "unit": "Yuna X2",
+    "role": "DPS",
+    "ascension": 33
   },
   {
     "username": "artudixx",
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 296,
-    "unit": "Yshtola",
-    "role": "DPS",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 14
   },
   {
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 402,
     "unit": "Babus",
     "role": "Tank",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "FloDaddelt",
@@ -1878,5 +1878,13 @@
     "unit": "Kain",
     "role": "DPS",
     "ascension": 1
+  },
+  {
+    "username": "OldbrickRonsenburg",
+    "rank": 74,
+    "awakeningPercent": 0,
+    "unit": "Cloud",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
