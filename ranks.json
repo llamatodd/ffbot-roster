@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 94,
+    "awakeningPercent": 96,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 25
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 37
@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 18,
+    "rank": 19,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 14
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 216,
-    "unit": "Umaro",
+    "unit": "Zack",
     "role": "Tank",
     "ascension": 13
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 13,
-    "awakeningPercent": 202,
+    "rank": 12,
+    "awakeningPercent": 204,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 16
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 25,
-    "awakeningPercent": 40,
+    "awakeningPercent": 42,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 8
@@ -1873,8 +1873,8 @@
   },
   {
     "username": "Dallocourt86",
-    "rank": 34,
-    "awakeningPercent": 8,
+    "rank": 32,
+    "awakeningPercent": 10,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 5
