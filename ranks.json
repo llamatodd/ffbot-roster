@@ -5,7 +5,7 @@
     "awakeningPercent": 434,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 72
+    "ascension": 73
   },
   {
     "username": "OrgleBot",
@@ -13,7 +13,7 @@
     "awakeningPercent": 404,
     "unit": "Ingus",
     "role": "Tank",
-    "ascension": 72
+    "ascension": 73
   },
   {
     "username": "dead_rabbitz",
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 298,
-    "unit": "Dangerniel",
-    "role": "Tank",
-    "ascension": 37
+    "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 38
   },
   {
     "username": "artudixx",
@@ -709,7 +709,7 @@
     "awakeningPercent": 228,
     "unit": "Cecil",
     "role": "DPS",
-    "ascension": 7
+    "ascension": 8
   },
   {
     "username": "meowmew_lamew",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "Moobot",
@@ -1298,10 +1298,10 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 280,
+    "awakeningPercent": 282,
     "unit": "Shantotto",
     "role": "DPS",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "sillynix",
@@ -1387,9 +1387,9 @@
     "username": "jaik__",
     "rank": 21,
     "awakeningPercent": 78,
-    "unit": "Cor",
-    "role": "DPS",
-    "ascension": 16
+    "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 17
   },
   {
     "username": "dracostheveteran",
@@ -1779,9 +1779,9 @@
     "username": "Nystorayel",
     "rank": 25,
     "awakeningPercent": 42,
-    "unit": "Seymour Omnis",
+    "unit": "Dark Invoker",
     "role": "DPS",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "vivi_clockworker",
