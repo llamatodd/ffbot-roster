@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 298,
-    "unit": "Aeris",
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 38
   },
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 232,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 8
   },
   {
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 21,
-    "awakeningPercent": 80,
+    "awakeningPercent": 82,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 17
@@ -1434,10 +1434,10 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 410,
-    "unit": "Fran",
-    "role": "DPS",
-    "ascension": 29
+    "awakeningPercent": 412,
+    "unit": "Delita",
+    "role": "Support",
+    "ascension": 30
   },
   {
     "username": "FloDaddelt",
@@ -1777,8 +1777,8 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 25,
-    "awakeningPercent": 44,
+    "rank": 24,
+    "awakeningPercent": 46,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 11
