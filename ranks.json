@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 102,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Edea Matron",
+    "role": "DPS",
     "ascension": 27
   },
   {
@@ -1641,7 +1641,7 @@
   },
   {
     "username": "Maya__Lyoness",
-    "rank": 24,
+    "rank": 25,
     "awakeningPercent": 46,
     "unit": "Aeris",
     "role": "Healer",
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 24,
-    "awakeningPercent": 46,
+    "awakeningPercent": 48,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 11
