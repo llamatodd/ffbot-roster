@@ -242,10 +242,10 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 196,
-    "unit": "Gladio",
+    "awakeningPercent": 198,
+    "unit": "Ingus",
     "role": "Tank",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "Sarah_Orion",
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 228,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 8
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 9,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 19
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 44,
     "unit": "Dark Invoker",
     "role": "DPS",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "vivi_clockworker",
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 14,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 6
+    "ascension": 7
   },
   {
     "username": "OldbrickRonsenburg",
