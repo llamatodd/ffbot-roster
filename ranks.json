@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 684,
+    "awakeningPercent": 686,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 52
@@ -1925,6 +1925,14 @@
     "awakeningPercent": 0,
     "unit": "Gladio",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Vaedryn",
+    "rank": 78,
+    "awakeningPercent": 0,
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 0
   }
 ]
