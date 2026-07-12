@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 436,
-    "unit": "Freya",
+    "unit": "Terra",
     "role": "DPS",
     "ascension": 74
   },
@@ -1146,8 +1146,8 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 184,
-    "unit": "Noctis",
+    "awakeningPercent": 186,
+    "unit": "Fang",
     "role": "DPS",
     "ascension": 17
   },
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 292,
-    "unit": "Jill",
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 13
   },
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 86,
     "unit": "Eiko",
     "role": "Healer",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "dracostheveteran",
