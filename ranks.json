@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 684,
-    "unit": "Cloud",
+    "unit": "Fang",
     "role": "DPS",
-    "ascension": 50
+    "ascension": 51
   },
   {
     "username": "Jestmichelle",
@@ -261,7 +261,7 @@
     "awakeningPercent": 104,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 27
+    "ascension": 28
   },
   {
     "username": "egg_noodler",
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 300,
-    "unit": "Eiko",
-    "role": "Healer",
-    "ascension": 39
+    "unit": "Faris",
+    "role": "Support",
+    "ascension": 40
   },
   {
     "username": "artudixx",
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 186,
     "unit": "Fang",
     "role": "DPS",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "EagleCeres",
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 122,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Chocobo Red",
+    "role": "DPS",
     "ascension": 5
   },
   {
