@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 39
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 188,
     "unit": "Fang",
     "role": "DPS",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "EagleCeres",
@@ -1251,7 +1251,7 @@
     "username": "Nightbot",
     "rank": 7,
     "awakeningPercent": 292,
-    "unit": "Tidus",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 13
   },
@@ -1779,9 +1779,9 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 48,
-    "unit": "Dark Invoker",
-    "role": "DPS",
-    "ascension": 12
+    "unit": "Thancred",
+    "role": "Tank",
+    "ascension": 13
   },
   {
     "username": "vivi_clockworker",
