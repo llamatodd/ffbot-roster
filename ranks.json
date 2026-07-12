@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 438,
+    "awakeningPercent": 440,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 74
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 188,
-    "unit": "Fang",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 19
   },
   {
@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
-    "awakeningPercent": 290,
+    "rank": 7,
+    "awakeningPercent": 292,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 20
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 18
@@ -1779,8 +1779,8 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 48,
-    "unit": "Thancred",
-    "role": "Tank",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 13
   },
   {
