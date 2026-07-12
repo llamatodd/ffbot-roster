@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 440,
+    "awakeningPercent": 442,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 74
@@ -29,7 +29,7 @@
     "awakeningPercent": 88,
     "unit": "Gilgamesh",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "KamiXKitsune",
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 294,
     "unit": "Yshtola",
     "role": "DPS",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "sillynix",
@@ -1931,8 +1931,8 @@
     "username": "Vaedryn",
     "rank": 78,
     "awakeningPercent": 0,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Pupu",
+    "role": "Healer",
     "ascension": 0
   }
 ]
