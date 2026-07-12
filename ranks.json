@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 204,
-    "unit": "Ingus",
-    "role": "Tank",
+    "unit": "Agrias",
+    "role": "DPS",
     "ascension": 16
   },
   {
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 104,
-    "unit": "Tidus",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 27
   },
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 208,
-    "unit": "Basch",
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 39
   },
