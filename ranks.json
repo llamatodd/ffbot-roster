@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 682,
+    "awakeningPercent": 684,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 50
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 206,
+    "awakeningPercent": 208,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 39
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 38
@@ -657,8 +657,8 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 35,
-    "awakeningPercent": 8,
+    "rank": 33,
+    "awakeningPercent": 10,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 1
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 232,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 8
   },
   {
@@ -1385,8 +1385,8 @@
   },
   {
     "username": "jaik__",
-    "rank": 21,
-    "awakeningPercent": 82,
+    "rank": 20,
+    "awakeningPercent": 84,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 18
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 412,
+    "awakeningPercent": 414,
     "unit": "Delita",
     "role": "Support",
     "ascension": 30
