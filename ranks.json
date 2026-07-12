@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 198,
+    "awakeningPercent": 200,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 16
@@ -253,7 +253,7 @@
     "awakeningPercent": 680,
     "unit": "Lightning",
     "role": "DPS",
-    "ascension": 49
+    "ascension": 50
   },
   {
     "username": "Jestmichelle",
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 232,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 8
   },
   {
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 284,
     "unit": "Fran",
     "role": "DPS",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "sillynix",
@@ -1900,6 +1900,14 @@
     "rank": 53,
     "awakeningPercent": 2,
     "unit": "Basch",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "lukesmissinghand87",
+    "rank": 77,
+    "awakeningPercent": 0,
+    "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 0
   }
