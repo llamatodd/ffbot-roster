@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 28
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 218,
-    "unit": "Vanille",
-    "role": "Support",
+    "awakeningPercent": 220,
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 18
   },
   {
