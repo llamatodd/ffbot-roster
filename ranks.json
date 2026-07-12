@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 20,
-    "awakeningPercent": 88,
+    "awakeningPercent": 90,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 16
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 40
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 42
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 188,
+    "awakeningPercent": 190,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 19
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 296,
-    "unit": "Yshtola",
+    "awakeningPercent": 298,
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 21
   },
@@ -1385,7 +1385,7 @@
   },
   {
     "username": "jaik__",
-    "rank": 20,
+    "rank": 21,
     "awakeningPercent": 88,
     "unit": "Eiko",
     "role": "Healer",
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 416,
     "unit": "Lulu",
     "role": "DPS",
-    "ascension": 32
+    "ascension": 33
   },
   {
     "username": "FloDaddelt",
