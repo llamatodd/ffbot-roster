@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 302,
-    "unit": "Amarant",
-    "role": "Tank",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 41
   },
   {
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 188,
-    "unit": "Aeris",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 19
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 294,
-    "unit": "Cod",
+    "unit": "Palom",
     "role": "DPS",
     "ascension": 20
   },
