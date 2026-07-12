@@ -2,8 +2,8 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 434,
-    "unit": "Orlandeau",
+    "awakeningPercent": 436,
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 74
   },
@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 20,
+    "rank": 21,
     "awakeningPercent": 84,
     "unit": "Gilgamesh",
     "role": "DPS",
@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 204,
-    "unit": "Agrias",
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 16
   },
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 220,
-    "unit": "Squall",
+    "awakeningPercent": 222,
+    "unit": "Firion",
     "role": "Tank",
     "ascension": 19
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 20,
-    "awakeningPercent": 84,
+    "awakeningPercent": 86,
     "unit": "Eiko",
     "role": "Healer",
     "ascension": 18
