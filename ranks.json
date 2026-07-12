@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 680,
-    "unit": "Lightning",
+    "awakeningPercent": 682,
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 50
   },
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 232,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 8
   },
   {
@@ -1297,9 +1297,9 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 9,
-    "awakeningPercent": 284,
-    "unit": "Fran",
+    "rank": 8,
+    "awakeningPercent": 286,
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 20
   },
