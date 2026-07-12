@@ -5,7 +5,7 @@
     "awakeningPercent": 434,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 73
+    "ascension": 74
   },
   {
     "username": "OrgleBot",
@@ -13,7 +13,7 @@
     "awakeningPercent": 404,
     "unit": "Ingus",
     "role": "Tank",
-    "ascension": 73
+    "ascension": 74
   },
   {
     "username": "dead_rabbitz",
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 300,
-    "unit": "Porom",
+    "unit": "Eiko",
     "role": "Healer",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "artudixx",
@@ -709,7 +709,7 @@
     "awakeningPercent": 232,
     "unit": "Cecil Paladin",
     "role": "Healer",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "meowmew_lamew",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 220,
     "unit": "Squall",
     "role": "Tank",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "explorer_moogle",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 12
+    "ascension": 13
   },
   {
     "username": "Moobot",
