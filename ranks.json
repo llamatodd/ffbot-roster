@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 202,
+    "awakeningPercent": 204,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 16
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 48,
     "unit": "Dark Invoker",
     "role": "DPS",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "vivi_clockworker",
@@ -1908,6 +1908,22 @@
     "rank": 41,
     "awakeningPercent": 4,
     "unit": "Chocobo Black",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "RedFaster",
+    "rank": 78,
+    "awakeningPercent": 0,
+    "unit": "Tifa Dress",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "king_aura0220",
+    "rank": 78,
+    "awakeningPercent": 0,
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 0
   }
