@@ -706,9 +706,9 @@
   {
     "username": "KofiStreamBot",
     "rank": 10,
-    "awakeningPercent": 228,
-    "unit": "Cecil",
-    "role": "DPS",
+    "awakeningPercent": 232,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 8
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 17
