@@ -29,7 +29,7 @@
     "awakeningPercent": 86,
     "unit": "Gilgamesh",
     "role": "DPS",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "KamiXKitsune",
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 684,
-    "unit": "Fang",
+    "unit": "Prompto",
     "role": "DPS",
     "ascension": 51
   },
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 122,
+    "awakeningPercent": 124,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 5
