@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 104,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Kefka",
+    "role": "DPS",
     "ascension": 28
   },
   {
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 414,
-    "unit": "Edea",
-    "role": "Support",
+    "awakeningPercent": 416,
+    "unit": "Lulu",
+    "role": "DPS",
     "ascension": 32
   },
   {
@@ -1651,8 +1651,8 @@
     "username": "Dasende8702",
     "rank": 17,
     "awakeningPercent": 126,
-    "unit": "Chocobo Red",
-    "role": "DPS",
+    "unit": "Cid 4",
+    "role": "Tank",
     "ascension": 5
   },
   {
