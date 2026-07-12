@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 106,
-    "unit": "Kefka",
-    "role": "DPS",
-    "ascension": 28
+    "unit": "Tidus",
+    "role": "Support",
+    "ascension": 29
   },
   {
     "username": "egg_noodler",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 224,
     "unit": "Cait Sith",
     "role": "Tank",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "explorer_moogle",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 294,
-    "unit": "Palom",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 20
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 220,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 18
   },
   {
