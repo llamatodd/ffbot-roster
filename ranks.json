@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 436,
+    "awakeningPercent": 438,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 74
@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 21,
-    "awakeningPercent": 84,
+    "awakeningPercent": 86,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 13
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 300,
+    "awakeningPercent": 302,
     "unit": "Faris",
     "role": "Support",
     "ascension": 40
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 186,
+    "awakeningPercent": 188,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 18
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 14
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 8,
     "awakeningPercent": 290,
-    "unit": "Garnet Summoner",
+    "unit": "Cod",
     "role": "DPS",
     "ascension": 20
   },
