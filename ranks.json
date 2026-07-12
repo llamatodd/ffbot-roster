@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 39
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 414,
-    "unit": "Delita",
+    "unit": "Edea",
     "role": "Support",
-    "ascension": 30
+    "ascension": 31
   },
   {
     "username": "FloDaddelt",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 18
