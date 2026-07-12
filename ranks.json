@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 10,
     "awakeningPercent": 232,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 9
   },
   {
