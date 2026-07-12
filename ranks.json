@@ -411,17 +411,17 @@
     "username": "SnoochieBoochie_",
     "rank": 13,
     "awakeningPercent": 212,
-    "unit": "Cid Randell",
+    "unit": "Guy",
     "role": "Tank",
-    "ascension": 39
+    "ascension": 40
   },
   {
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 302,
-    "unit": "Faris",
-    "role": "Support",
-    "ascension": 40
+    "unit": "Amarant",
+    "role": "Tank",
+    "ascension": 41
   },
   {
     "username": "artudixx",
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 20
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 414,
     "unit": "Edea",
     "role": "Support",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "FloDaddelt",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 218,
-    "unit": "Luneth",
-    "role": "DPS",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 18
   },
   {
