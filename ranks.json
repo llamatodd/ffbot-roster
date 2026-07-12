@@ -29,7 +29,7 @@
     "awakeningPercent": 88,
     "unit": "Gilgamesh",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "KamiXKitsune",
@@ -253,7 +253,7 @@
     "awakeningPercent": 684,
     "unit": "Prompto",
     "role": "DPS",
-    "ascension": 51
+    "ascension": 52
   },
   {
     "username": "Jestmichelle",
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 314,
     "unit": "Fran",
     "role": "DPS",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "Niriall",
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 222,
-    "unit": "Firion",
+    "awakeningPercent": 224,
+    "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 19
   },
