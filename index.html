@@ -97,7 +97,7 @@
     <div style="display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
         <span id="spriteRowLeft" class="sprite-row"></span>
         <div style="text-align:center;">
-            <p id="lastUpdated" style="margin:0;">Last Updated: July 12, 2026 at 09:45 PM</p>
+            <p id="lastUpdated" style="margin:0;">Last Updated: July 12, 2026 at 09:51 PM</p>
             <p style="margin:6px 0 0;">
                 <a href="https://twitch.tv/llamatodd" target="_blank" class="twitch-credit">
                     <span style="font-family:Arial,sans-serif;">📺</span> Roster by llamatodd &middot; twitch.tv/llamatodd
@@ -257,6 +257,7 @@
         function showDetails(p) {
             console.log("showDetails called for:", p.username);
             currentPlayer = p;
+            charSearchTerm = '';
             let characters = [];
 
             // Pre-build a lookup of sub6mat arrays keyed by normalised character name
@@ -373,7 +374,7 @@
             }
 
             console.log("Characters found:", characters.length);
-            renderCharacterGrid('all');
+            openModal(p);
         }
 
         function awakeningPip(level, threshold, name) {
@@ -390,26 +391,78 @@
             </div>`;
         }
 
+        let charSearchTerm = '';
+
+        function charSearch(val) {
+            charSearchTerm = val.toLowerCase();
+            renderCharGrid();
+        }
+
         function renderCharacterGrid(filter) {
             console.log("Rendering grid with filter:", filter);
             currentFilter = filter;
+
+            // Only rebuild the full controls section if this is a full re-render
+            // (i.e. called from showDetails or a sort/filter button, not from charSearch)
+            const controlsEl = document.getElementById('charControls');
+            if (!controlsEl) return;
+
+            controlsEl.innerHTML = `
+                <input
+                    id="charSearchInput"
+                    type="text"
+                    value="${charSearchTerm.replace(/"/g,'&quot;')}"
+                    placeholder="Search by name, specialty, description, materia..."
+                    oninput="charSearch(this.value)"
+                    style="width:100%;box-sizing:border-box;padding:8px 12px;border-radius:6px;border:1px solid #334466;background:#0f1621;color:#eee;font-size:13px;font-family:inherit;margin-bottom:8px;"
+                >
+                <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:15px;">
+                    <button onclick="renderCharacterGrid('all')" class="filter-btn ${filter==='all'?'active':''}">All</button>
+                    <button onclick="renderCharacterGrid('dps')" class="role-badge-dps filter-btn ${filter==='dps'?'active':''}">DPS</button>
+                    <button onclick="renderCharacterGrid('tank')" class="role-badge-tank filter-btn ${filter==='tank'?'active':''}">Tank</button>
+                    <button onclick="renderCharacterGrid('healer')" class="role-badge-healer filter-btn ${filter==='healer'?'active':''}">Healer</button>
+                    <button onclick="renderCharacterGrid('support')" class="role-badge-support filter-btn ${filter==='support'?'active':''}">Support</button>
+                    <button onclick="toggleSort('alpha')" id="alphaBtn" class="filter-btn ${window.currentSortMode==='alpha'?'active':''}">${window.currentSortAlpha==='desc'?'Z-A':'A-Z'}</button>
+                    <button onclick="toggleSort('level')" id="levelBtn" class="filter-btn ${window.currentSortMode==='level'?'active':''}">${window.currentSortLevel==='asc'?'Low-Hi':'Hi-Low'}</button>
+                    <button onclick="toggleSort('levelup')" id="levelupBtn" class="filter-btn ${window.currentSortMode==='levelup'?'active':''}">⬆ Level Up</button>
+                </div>
+            `;
+
+            renderCharGrid();
+        }
+
+        function renderCharGrid() {
             let filtered = currentCharacters;
-            if (filter !== 'all') {
-                filtered = filtered.filter(char => (char.role || '').toLowerCase().includes(filter));
+
+            // Role filter
+            if (currentFilter !== 'all') {
+                filtered = filtered.filter(char => (char.role || '').toLowerCase().includes(currentFilter));
             }
 
-            let html = '<h2>Recruited Characters</h2>';
-            html += `<div style="margin:10px 0 15px 0;display:flex;flex-wrap:wrap;gap:6px;">
-                <button onclick="renderCharacterGrid('all')" class="filter-btn ${filter==='all'?'active':''}">All</button>
-                <button onclick="renderCharacterGrid('dps')" class="role-badge-dps filter-btn ${filter==='dps'?'active':''}">DPS</button>
-                <button onclick="renderCharacterGrid('tank')" class="role-badge-tank filter-btn ${filter==='tank'?'active':''}">Tank</button>
-                <button onclick="renderCharacterGrid('healer')" class="role-badge-healer filter-btn ${filter==='healer'?'active':''}">Healer</button>
-                <button onclick="renderCharacterGrid('support')" class="role-badge-support filter-btn ${filter==='support'?'active':''}">Support</button>
-                <button onclick="toggleSort('alpha')" id="alphaBtn" class="filter-btn ${window.currentSortMode==='alpha'?'active':''}">${window.currentSortAlpha==='desc'?'Z-A':'A-Z'}</button>
-                <button onclick="toggleSort('level')" id="levelBtn" class="filter-btn ${window.currentSortMode==='level'?'active':''}">${window.currentSortLevel==='asc'?'Low-Hi':'Hi-Low'}</button>
-                <button onclick="toggleSort('levelup')" id="levelupBtn" class="filter-btn ${window.currentSortMode==='levelup'?'active':''}">⬆ Level Up</button>
-            </div>`;
-            html += '<div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;">';
+            // Text search — name, specialty, description, passive, materia
+            if (charSearchTerm) {
+                filtered = filtered.filter(char => {
+                    const name    = (char.displayName || '').toLowerCase();
+                    const spec    = (char.specialty   || '').toLowerCase();
+                    const desc    = (char.description || '').toLowerCase();
+                    const passive = (char.passive     || '').toLowerCase();
+                    const materia = (char.materia || []).join(' ').toLowerCase();
+                    return name.includes(charSearchTerm) || spec.includes(charSearchTerm)
+                        || desc.includes(charSearchTerm) || passive.includes(charSearchTerm)
+                        || materia.includes(charSearchTerm);
+                });
+            }
+
+            // Update result count badge without rebuilding controls
+            const countEl = document.getElementById('charResultCount');
+            if (countEl) {
+                countEl.textContent = charSearchTerm ? `${filtered.length} result${filtered.length !== 1 ? 's' : ''}` : '';
+            }
+
+            const gridEl = document.getElementById('charGrid');
+            if (!gridEl) return;
+            let html = '';
+            html += '';
 
             filtered.forEach(char => {
                 const roleClass = char.role.toLowerCase().includes('dps') ? 'dps' : char.role.toLowerCase().includes('tank') ? 'tank' : char.role.toLowerCase().includes('healer') ? 'healer' : char.role.toLowerCase().includes('support') ? 'support' : '';
@@ -469,26 +522,28 @@
                         </div>
                     </div>`;
             });
-            html += '</div>';
+            gridEl.innerHTML = html;
+        }
 
-            const activeUnit = (currentPlayer.unit || '').replace(/ /g, '').toLowerCase();
-            const activeMateriaKey = Object.keys(currentPlayer).find(k => {
+        function openModal(p) {
+            const activeUnit = (p.unit || '').replace(/ /g, '').toLowerCase();
+            const activeMateriaKey = Object.keys(p).find(k => {
                 const clean = k.toString().toLowerCase().replace(/^["']+|["']+$/g, '');
                 return clean === `sub6mat${activeUnit}`;
             });
-            const activeMateria = activeMateriaKey && Array.isArray(currentPlayer[activeMateriaKey])
-                ? currentPlayer[activeMateriaKey].slice(0, 6).map(m => m ? m.toString().trim() : '').filter(m => m !== '')
+            const activeMateria = activeMateriaKey && Array.isArray(p[activeMateriaKey])
+                ? p[activeMateriaKey].slice(0, 6).map(m => m ? m.toString().trim() : '').filter(m => m !== '')
                 : [];
 
             document.getElementById('modalContent').innerHTML = `
                 <span onclick="closeModal()" style="position:absolute;top:15px;right:25px;font-size:36px;cursor:pointer;color:#ff6666;">×</span>
-                <h2>${currentPlayer.username}</h2>
+                <h2>${p.username}</h2>
                 <p style="margin-top:4px;">
-                    <span style="font-size:15px;font-weight:bold;color:#eee;">${currentPlayer.unit || 'N/A'}</span>
+                    <span style="font-size:15px;font-weight:bold;color:#eee;">${p.unit || 'N/A'}</span>
                     <span class="active-tag pixel-font" style="margin-left:6px;">ACTIVE</span>
-                    &nbsp;|&nbsp; <strong>ASC:</strong> ${currentPlayer.ascension || 0} &nbsp;|&nbsp; <strong style="color:#ffcc00;">AWAKENING:</strong> ${currentPlayer.awakeningexp || 0}%
-                    ${parseInt(currentPlayer.upgrade || 0) > 0 ? `&nbsp;|&nbsp; <span style="background:rgba(0,200,255,0.15);color:#00c8ff;padding:2px 8px;border-radius:4px;font-size:12px;">⬆ ${currentPlayer.upgrade} Upgrade${currentPlayer.upgrade > 1 ? 's' : ''}</span>` : ''}
-                    ${parseInt(currentPlayer.legend || 0) > 0 ? `&nbsp;<span style="background:rgba(255,170,0,0.15);color:#ffaa00;padding:2px 8px;border-radius:4px;font-size:12px;">★ ${currentPlayer.legend} Legend${currentPlayer.legend > 1 ? 's' : ''}</span>` : ''}
+                    &nbsp;|&nbsp; <strong>ASC:</strong> ${p.ascension || 0} &nbsp;|&nbsp; <strong style="color:#ffcc00;">AWAKENING:</strong> ${p.awakeningexp || 0}%
+                    ${parseInt(p.upgrade || 0) > 0 ? `&nbsp;|&nbsp; <span style="background:rgba(0,200,255,0.15);color:#00c8ff;padding:2px 8px;border-radius:4px;font-size:12px;">⬆ ${p.upgrade} Upgrade${p.upgrade > 1 ? 's' : ''}</span>` : ''}
+                    ${parseInt(p.legend || 0) > 0 ? `&nbsp;<span style="background:rgba(255,170,0,0.15);color:#ffaa00;padding:2px 8px;border-radius:4px;font-size:12px;">★ ${p.legend} Legend${p.legend > 1 ? 's' : ''}</span>` : ''}
                 </p>
                 ${activeMateria.length > 0 ? `
                 <div style="margin-bottom:10px;">
@@ -497,11 +552,15 @@
                         ${activeMateria.map((m, i) => `<span style="font-size:12px;background:rgba(147,130,255,0.18);color:#b8a9ff;padding:3px 8px;border-radius:4px;border:1px solid rgba(147,130,255,0.3);">M${i+1}: ${m}</span>`).join('')}
                     </div>
                 </div>` : ''}
-                <p><strong>Collection:</strong> ${currentPlayer.collection || 0}/160</p>
-                <p><strong>Gil:</strong> ${parseInt(currentPlayer.gil||0).toLocaleString()} | <strong>Wins:</strong> ${currentPlayer.wins||0}</p>
-                ${html}
+                <p><strong>Collection:</strong> ${p.collection || 0}/160</p>
+                <p><strong>Gil:</strong> ${parseInt(p.gil||0).toLocaleString()} | <strong>Wins:</strong> ${p.wins||0}</p>
+                <h2>Recruited Characters</h2>
+                <div id="charControls"></div>
+                <span id="charResultCount" style="font-size:12px;color:#aaa;display:block;margin:-10px 0 10px;"></span>
+                <div id="charGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;"></div>
             `;
             document.getElementById('modal').style.display = 'block';
+            renderCharacterGrid('all');
             console.log("Modal display set to block");
         }
 
