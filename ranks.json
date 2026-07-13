@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 218,
+    "awakeningPercent": 220,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 40
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 43
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Rubicante",
     "role": "DPS",
     "ascension": 21
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 48,
-    "unit": "Cor",
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 13
   },
