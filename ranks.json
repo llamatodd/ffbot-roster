@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 690,
-    "unit": "Tifa Ac",
+    "unit": "Fang",
     "role": "DPS",
     "ascension": 53
   },
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 108,
-    "unit": "Kefka",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 32
   },
   {
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 306,
     "unit": "Seymour Omnis",
     "role": "DPS",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "sillynix",
