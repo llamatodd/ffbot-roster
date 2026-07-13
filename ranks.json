@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 324,
+    "awakeningPercent": 326,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 16
@@ -1653,7 +1653,7 @@
     "awakeningPercent": 128,
     "unit": "Cid 4",
     "role": "Tank",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "BunnyHopTales",
@@ -1933,6 +1933,14 @@
     "awakeningPercent": 6,
     "unit": "Beatrix",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "PugZtop",
+    "rank": 79,
+    "awakeningPercent": 0,
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 0
   }
 ]
