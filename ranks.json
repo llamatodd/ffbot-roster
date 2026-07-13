@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 306,
+    "awakeningPercent": 308,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 22
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 422,
-    "unit": "Kuja",
+    "unit": "Cod",
     "role": "DPS",
-    "ascension": 34
+    "ascension": 35
   },
   {
     "username": "FloDaddelt",
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 232,
     "unit": "Galuf",
     "role": "Tank",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "eyetotem",
