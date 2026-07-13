@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 220,
+    "awakeningPercent": 222,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 40
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 308,
-    "unit": "Chocobo",
+    "awakeningPercent": 310,
+    "unit": "Rosa",
     "role": "Healer",
     "ascension": 43
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 320,
+    "awakeningPercent": 322,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 15
