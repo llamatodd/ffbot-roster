@@ -27,8 +27,8 @@
     "username": "AmagiFial",
     "rank": 21,
     "awakeningPercent": 92,
-    "unit": "Sazh",
-    "role": "Support",
+    "unit": "Guy",
+    "role": "Tank",
     "ascension": 18
   },
   {
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 688,
-    "unit": "Fang",
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 53
   },
