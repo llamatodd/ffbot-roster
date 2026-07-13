@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 322,
+    "awakeningPercent": 324,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 15
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 304,
-    "unit": "Vanille",
-    "role": "Support",
+    "awakeningPercent": 306,
+    "unit": "Seymour Omnis",
+    "role": "DPS",
     "ascension": 21
   },
   {
@@ -1650,7 +1650,7 @@
   {
     "username": "Dasende8702",
     "rank": 17,
-    "awakeningPercent": 126,
+    "awakeningPercent": 128,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 5
