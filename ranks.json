@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 318,
+    "awakeningPercent": 320,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 15
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 418,
+    "awakeningPercent": 420,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 33
@@ -1875,9 +1875,9 @@
     "username": "Dallocourt86",
     "rank": 30,
     "awakeningPercent": 14,
-    "unit": "Ovelia",
-    "role": "Healer",
-    "ascension": 7
+    "unit": "Kain",
+    "role": "DPS",
+    "ascension": 8
   },
   {
     "username": "OldbrickRonsenburg",
