@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 444,
+    "awakeningPercent": 446,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 74
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 306,
-    "unit": "Amarant",
-    "role": "Tank",
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 43
   },
   {
@@ -1385,8 +1385,8 @@
   },
   {
     "username": "jaik__",
-    "rank": 21,
-    "awakeningPercent": 88,
+    "rank": 20,
+    "awakeningPercent": 90,
     "unit": "Eiko",
     "role": "Healer",
     "ascension": 20
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 12,
     "awakeningPercent": 222,
-    "unit": "Vanille",
-    "role": "Support",
+    "unit": "Galuf",
+    "role": "Tank",
     "ascension": 19
   },
   {
