@@ -25,8 +25,8 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 21,
-    "awakeningPercent": 92,
+    "rank": 19,
+    "awakeningPercent": 94,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 19
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 17
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 108,
-    "unit": "Tidus",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 32
   },
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 230,
     "unit": "Gladio",
     "role": "Tank",
@@ -419,9 +419,9 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 312,
-    "unit": "Rosa",
+    "unit": "Pupu",
     "role": "Healer",
-    "ascension": 43
+    "ascension": 44
   },
   {
     "username": "artudixx",
@@ -705,7 +705,7 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 232,
     "unit": "Rikku",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 16
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 24
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
-    "awakeningPercent": 230,
-    "unit": "Irvine",
-    "role": "DPS",
+    "rank": 11,
+    "awakeningPercent": 232,
+    "unit": "Galuf",
+    "role": "Tank",
     "ascension": 19
   },
   {
