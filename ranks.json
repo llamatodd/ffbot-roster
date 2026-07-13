@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 308,
-    "unit": "Eiko",
-    "role": "Healer",
+    "unit": "Reno",
+    "role": "DPS",
     "ascension": 43
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 316,
+    "awakeningPercent": 318,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 15
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 302,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 21
   },
   {
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 20,
     "awakeningPercent": 90,
-    "unit": "Eiko",
+    "unit": "Pupu",
     "role": "Healer",
     "ascension": 20
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 12,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 19
