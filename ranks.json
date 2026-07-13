@@ -5,15 +5,15 @@
     "awakeningPercent": 450,
     "unit": "Locke",
     "role": "DPS",
-    "ascension": 74
+    "ascension": 75
   },
   {
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 404,
-    "unit": "Squall",
+    "unit": "Squall Space",
     "role": "Tank",
-    "ascension": 74
+    "ascension": 75
   },
   {
     "username": "dead_rabbitz",
@@ -250,10 +250,10 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 690,
-    "unit": "Fang",
+    "awakeningPercent": 692,
+    "unit": "Rikku",
     "role": "DPS",
-    "ascension": 53
+    "ascension": 54
   },
   {
     "username": "Jestmichelle",
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 13,
-    "awakeningPercent": 230,
+    "rank": 11,
+    "awakeningPercent": 232,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 40
@@ -709,7 +709,7 @@
     "awakeningPercent": 232,
     "unit": "Rikku",
     "role": "DPS",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "meowmew_lamew",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 292,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "Moobot",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 308,
-    "unit": "Seymour Omnis",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 22
   },
