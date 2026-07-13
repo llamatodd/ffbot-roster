@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 106,
-    "unit": "Tidus",
-    "role": "Support",
-    "ascension": 30
+    "unit": "Kefka",
+    "role": "DPS",
+    "ascension": 31
   },
   {
     "username": "egg_noodler",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 308,
-    "unit": "Reno",
-    "role": "DPS",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 43
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 226,
+    "awakeningPercent": 228,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 20
