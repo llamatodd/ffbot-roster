@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 232,
     "unit": "Gladio",
     "role": "Tank",
@@ -705,7 +705,7 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 232,
     "unit": "Rikku",
     "role": "DPS",
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 24
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 11,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 20
