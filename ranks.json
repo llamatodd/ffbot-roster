@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 226,
+    "awakeningPercent": 228,
     "unit": "Ghido",
     "role": "Tank",
     "ascension": 40
@@ -1155,9 +1155,9 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 324,
-    "unit": "Fang",
+    "unit": "Gordon",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "Niriall",
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 230,
     "unit": "Seifer",
     "role": "DPS",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "explorer_moogle",
