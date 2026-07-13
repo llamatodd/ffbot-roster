@@ -1194,10 +1194,10 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 228,
-    "unit": "Vaan",
+    "awakeningPercent": 230,
+    "unit": "Seifer",
     "role": "DPS",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "explorer_moogle",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Vanille",
     "role": "Support",
     "ascension": 21
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 228,
     "unit": "Irvine",
     "role": "DPS",
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 16,
     "unit": "Kain",
     "role": "DPS",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "OldbrickRonsenburg",
