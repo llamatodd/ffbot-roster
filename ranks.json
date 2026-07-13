@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 17
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 686,
-    "unit": "Ace",
+    "awakeningPercent": 688,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 53
   },
@@ -1931,8 +1931,8 @@
     "username": "Vaedryn",
     "rank": 41,
     "awakeningPercent": 4,
-    "unit": "Pupu",
-    "role": "Healer",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 0
   }
 ]
