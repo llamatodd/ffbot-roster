@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 448,
-    "unit": "Rikku",
+    "unit": "Locke",
     "role": "DPS",
     "ascension": 74
   },
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 212,
+    "awakeningPercent": 214,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 17
@@ -261,7 +261,7 @@
     "awakeningPercent": 108,
     "unit": "Kefka",
     "role": "DPS",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "egg_noodler",
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 13,
-    "awakeningPercent": 222,
-    "unit": "Esquie",
+    "awakeningPercent": 224,
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 40
   },
@@ -1385,11 +1385,11 @@
   },
   {
     "username": "jaik__",
-    "rank": 20,
-    "awakeningPercent": 92,
+    "rank": 19,
+    "awakeningPercent": 94,
     "unit": "Pupu",
     "role": "Healer",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "dracostheveteran",
@@ -1873,8 +1873,8 @@
   },
   {
     "username": "Dallocourt86",
-    "rank": 30,
-    "awakeningPercent": 14,
+    "rank": 28,
+    "awakeningPercent": 16,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 8
