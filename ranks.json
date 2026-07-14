@@ -417,10 +417,10 @@
   },
   {
     "username": "seika",
-    "rank": 7,
-    "awakeningPercent": 314,
-    "unit": "Thancred",
-    "role": "Tank",
+    "rank": 6,
+    "awakeningPercent": 316,
+    "unit": "Reno",
+    "role": "DPS",
     "ascension": 44
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 240,
+    "awakeningPercent": 242,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 20
@@ -1874,7 +1874,7 @@
   {
     "username": "Dallocourt86",
     "rank": 28,
-    "awakeningPercent": 18,
+    "awakeningPercent": 20,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 10
