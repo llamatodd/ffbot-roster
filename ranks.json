@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 14,
     "awakeningPercent": 222,
-    "unit": "Kefka",
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 17
   },
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 242,
     "unit": "Sabin",
     "role": "Tank",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 45
   },
   {
@@ -1193,10 +1193,10 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 240,
-    "unit": "Estinien",
-    "role": "DPS",
+    "rank": 11,
+    "awakeningPercent": 242,
+    "unit": "Squall Space",
+    "role": "Tank",
     "ascension": 26
   },
   {
@@ -1243,8 +1243,8 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 14
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 242,
+    "awakeningPercent": 244,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 20
