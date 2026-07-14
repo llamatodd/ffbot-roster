@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 456,
-    "unit": "Kiros",
+    "unit": "Margy",
     "role": "DPS",
     "ascension": 75
   },
@@ -29,7 +29,7 @@
     "awakeningPercent": 96,
     "unit": "Guy",
     "role": "Tank",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "KamiXKitsune",
@@ -421,7 +421,7 @@
     "awakeningPercent": 322,
     "unit": "Mog",
     "role": "DPS",
-    "ascension": 44
+    "ascension": 45
   },
   {
     "username": "artudixx",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 242,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Prompto",
+    "role": "DPS",
     "ascension": 20
   },
   {
