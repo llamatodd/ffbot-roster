@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 238,
     "unit": "Rude",
     "role": "Tank",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 322,
+    "awakeningPercent": 324,
     "unit": "Mog",
     "role": "DPS",
     "ascension": 45
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 238,
-    "unit": "Lulu",
+    "awakeningPercent": 240,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 25
   },
