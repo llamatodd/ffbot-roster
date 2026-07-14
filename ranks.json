@@ -245,7 +245,7 @@
     "awakeningPercent": 222,
     "unit": "Jecht",
     "role": "DPS",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "Sarah_Orion",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 45
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 320,
+    "awakeningPercent": 322,
     "unit": "Relm",
     "role": "DPS",
     "ascension": 22
