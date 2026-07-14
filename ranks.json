@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 12,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 40
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 314,
-    "unit": "Mog",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 44
   },
   {
@@ -705,7 +705,7 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 232,
     "unit": "Rikku",
     "role": "DPS",
@@ -1553,7 +1553,7 @@
   },
   {
     "username": "Xansie",
-    "rank": 28,
+    "rank": 29,
     "awakeningPercent": 16,
     "unit": "Sazh",
     "role": "Support",
@@ -1673,7 +1673,7 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 28,
+    "rank": 29,
     "awakeningPercent": 16,
     "unit": "Vaan",
     "role": "DPS",
@@ -1874,7 +1874,7 @@
   {
     "username": "Dallocourt86",
     "rank": 28,
-    "awakeningPercent": 16,
+    "awakeningPercent": 18,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 10
