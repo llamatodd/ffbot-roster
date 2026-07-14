@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 694,
-    "unit": "Yuna X2",
-    "role": "DPS",
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 55
   },
   {
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 240,
     "unit": "Estinien",
     "role": "DPS",
-    "ascension": 25
+    "ascension": 26
   },
   {
     "username": "explorer_moogle",
@@ -1243,8 +1243,8 @@
     "username": "Fossabot",
     "rank": 9,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 14
   },
   {
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 318,
-    "unit": "Penelo",
-    "role": "Support",
+    "unit": "Terra",
+    "role": "DPS",
     "ascension": 22
   },
   {
