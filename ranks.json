@@ -411,15 +411,15 @@
     "username": "SnoochieBoochie_",
     "rank": 10,
     "awakeningPercent": 242,
-    "unit": "Rude",
+    "unit": "Sabin",
     "role": "Tank",
-    "ascension": 40
+    "ascension": 41
   },
   {
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Mog",
+    "unit": "Cecil",
     "role": "DPS",
     "ascension": 45
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 318,
-    "unit": "Terra",
-    "role": "DPS",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 22
   },
   {
