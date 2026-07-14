@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 318,
-    "unit": "Reno",
+    "awakeningPercent": 320,
+    "unit": "Mog",
     "role": "DPS",
     "ascension": 44
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 98,
+    "awakeningPercent": 100,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 22
