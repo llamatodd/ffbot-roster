@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 19,
-    "awakeningPercent": 100,
+    "awakeningPercent": 102,
     "unit": "Delita",
     "role": "Support",
     "ascension": 23
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 222,
+    "awakeningPercent": 224,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 18
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 244,
     "unit": "Sabin",
     "role": "Tank",
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 242,
+    "rank": 11,
+    "awakeningPercent": 244,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 26
@@ -1385,7 +1385,7 @@
   },
   {
     "username": "jaik__",
-    "rank": 19,
+    "rank": 20,
     "awakeningPercent": 100,
     "unit": "Solanin",
     "role": "Support",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 244,
+    "awakeningPercent": 246,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 21
