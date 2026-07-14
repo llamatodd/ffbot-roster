@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 456,
+    "awakeningPercent": 458,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 75
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 190,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "EagleCeres",
@@ -1875,7 +1875,7 @@
     "username": "Dallocourt86",
     "rank": 28,
     "awakeningPercent": 20,
-    "unit": "Shantotto",
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 10
   },
