@@ -26,7 +26,7 @@
   {
     "username": "AmagiFial",
     "rank": 20,
-    "awakeningPercent": 96,
+    "awakeningPercent": 98,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 21
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 316,
-    "unit": "Seymour Omnis",
-    "role": "DPS",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 22
   },
   {
