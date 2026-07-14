@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
-    "awakeningPercent": 244,
+    "rank": 10,
+    "awakeningPercent": 246,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 41
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 45
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 332,
+    "awakeningPercent": 334,
     "unit": "Ignis",
     "role": "DPS",
     "ascension": 16
@@ -1193,11 +1193,11 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 244,
     "unit": "Squall Space",
     "role": "Tank",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "explorer_moogle",
