@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 462,
-    "unit": "Margy",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 75
   },
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 694,
+    "awakeningPercent": 696,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 55
@@ -261,7 +261,7 @@
     "awakeningPercent": 116,
     "unit": "Lightning",
     "role": "DPS",
-    "ascension": 34
+    "ascension": 35
   },
   {
     "username": "egg_noodler",
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 324,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 326,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 45
   },
   {
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 322,
-    "unit": "Relm",
+    "awakeningPercent": 324,
+    "unit": "Rydia",
     "role": "DPS",
     "ascension": 22
   },
