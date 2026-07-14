@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 45
   },
   {
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 244,
     "unit": "Prompto",
     "role": "DPS",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "eyetotem",
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 48,
     "unit": "Genesis",
     "role": "DPS",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "vivi_clockworker",
