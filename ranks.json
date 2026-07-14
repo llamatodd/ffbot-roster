@@ -250,15 +250,15 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 692,
-    "unit": "Rikku",
+    "awakeningPercent": 694,
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 54
   },
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 112,
+    "awakeningPercent": 114,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 34
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 12,
-    "awakeningPercent": 238,
+    "rank": 11,
+    "awakeningPercent": 240,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 40
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 424,
-    "unit": "Lenna",
+    "unit": "Ashe",
     "role": "Support",
-    "ascension": 35
+    "ascension": 36
   },
   {
     "username": "FloDaddelt",
