@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 218,
+    "awakeningPercent": 220,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 17
@@ -1297,9 +1297,9 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
-    "awakeningPercent": 310,
-    "unit": "Dark Invoker",
+    "rank": 6,
+    "awakeningPercent": 312,
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 22
   },
@@ -1387,8 +1387,8 @@
     "username": "jaik__",
     "rank": 19,
     "awakeningPercent": 96,
-    "unit": "Pupu",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 22
   },
   {
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 422,
-    "unit": "Cod",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 35
   },
   {
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 16,
     "unit": "Kain",
     "role": "DPS",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "OldbrickRonsenburg",
