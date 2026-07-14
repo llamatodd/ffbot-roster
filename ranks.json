@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 312,
-    "unit": "Pupu",
-    "role": "Healer",
+    "awakeningPercent": 314,
+    "unit": "Mog",
+    "role": "DPS",
     "ascension": 44
   },
   {
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 236,
     "unit": "Wol",
     "role": "Tank",
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 312,
     "unit": "Tellah",
     "role": "DPS",
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 236,
-    "unit": "Zell",
-    "role": "DPS",
+    "awakeningPercent": 238,
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 20
   },
   {
