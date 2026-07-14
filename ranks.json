@@ -29,7 +29,7 @@
     "awakeningPercent": 96,
     "unit": "Guy",
     "role": "Tank",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "KamiXKitsune",
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 12,
     "awakeningPercent": 234,
-    "unit": "Gladio",
+    "unit": "Quina",
     "role": "Tank",
     "ascension": 40
   },
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 236,
+    "awakeningPercent": 238,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 24
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 238,
+    "awakeningPercent": 240,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 20
