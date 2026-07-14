@@ -29,7 +29,7 @@
     "awakeningPercent": 102,
     "unit": "Delita",
     "role": "Support",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "KamiXKitsune",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 45
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 426,
     "unit": "Rydia",
     "role": "DPS",
-    "ascension": 36
+    "ascension": 37
   },
   {
     "username": "FloDaddelt",
