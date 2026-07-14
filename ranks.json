@@ -29,7 +29,7 @@
     "awakeningPercent": 100,
     "unit": "Delita",
     "role": "Support",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "KamiXKitsune",
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
-    "awakeningPercent": 242,
+    "rank": 10,
+    "awakeningPercent": 244,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 41
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 45
   },
   {
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 330,
-    "unit": "Rikku",
+    "awakeningPercent": 332,
+    "unit": "Ignis",
     "role": "DPS",
     "ascension": 16
   },
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 242,
     "unit": "Squall Space",
     "role": "Tank",
@@ -1553,7 +1553,7 @@
   },
   {
     "username": "Xansie",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 16,
     "unit": "Sazh",
     "role": "Support",
@@ -1674,7 +1674,7 @@
   {
     "username": "whitejackprime",
     "rank": 29,
-    "awakeningPercent": 16,
+    "awakeningPercent": 18,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 0
