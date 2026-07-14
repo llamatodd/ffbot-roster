@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 460,
+    "awakeningPercent": 462,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 75
@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 34
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 324,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 45
   },
   {
