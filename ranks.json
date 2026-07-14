@@ -25,7 +25,7 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 19,
+    "rank": 20,
     "awakeningPercent": 96,
     "unit": "Guy",
     "role": "Tank",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 328,
+    "awakeningPercent": 330,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 16
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 96,
+    "awakeningPercent": 98,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 22
