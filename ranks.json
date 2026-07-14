@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 696,
-    "unit": "Sazh",
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 55
   },
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Lightning",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 35
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 324,
-    "unit": "Rydia",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 22
   },
   {
