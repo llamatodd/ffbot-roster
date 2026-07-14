@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 458,
+    "awakeningPercent": 460,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 75
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 232,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Squall",
+    "role": "Tank",
     "ascension": 10
   },
   {
