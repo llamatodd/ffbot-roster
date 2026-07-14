@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 20,
+    "rank": 21,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -1385,8 +1385,8 @@
   },
   {
     "username": "jaik__",
-    "rank": 20,
-    "awakeningPercent": 94,
+    "rank": 19,
+    "awakeningPercent": 96,
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 22
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 234,
-    "unit": "Vanille",
-    "role": "Support",
+    "rank": 10,
+    "awakeningPercent": 236,
+    "unit": "Zell",
+    "role": "DPS",
     "ascension": 20
   },
   {
