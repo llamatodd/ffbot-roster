@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 5,
     "awakeningPercent": 330,
-    "unit": "Gordon",
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 16
   },
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 238,
     "unit": "Lulu",
     "role": "DPS",
-    "ascension": 24
+    "ascension": 25
   },
   {
     "username": "explorer_moogle",
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 100,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "dracostheveteran",
