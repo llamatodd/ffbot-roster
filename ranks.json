@@ -251,16 +251,16 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 696,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Yuna X2",
+    "role": "DPS",
     "ascension": 55
   },
   {
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 35
   },
   {
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 244,
+    "rank": 10,
+    "awakeningPercent": 246,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 27
