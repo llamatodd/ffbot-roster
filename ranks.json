@@ -27,8 +27,8 @@
     "username": "AmagiFial",
     "rank": 20,
     "awakeningPercent": 98,
-    "unit": "Guy",
-    "role": "Tank",
+    "unit": "Delita",
+    "role": "Support",
     "ascension": 21
   },
   {
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 11,
-    "awakeningPercent": 240,
+    "rank": 10,
+    "awakeningPercent": 242,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 40
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 240,
     "unit": "Estinien",
     "role": "DPS",
