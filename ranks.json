@@ -25,8 +25,8 @@
   },
   {
     "username": "AmagiFial",
-    "rank": 20,
-    "awakeningPercent": 98,
+    "rank": 19,
+    "awakeningPercent": 100,
     "unit": "Delita",
     "role": "Support",
     "ascension": 22
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 114,
-    "unit": "Edea Matron",
+    "unit": "Lightning",
     "role": "DPS",
     "ascension": 34
   },
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 424,
-    "unit": "Ashe",
-    "role": "Support",
+    "awakeningPercent": 426,
+    "unit": "Rydia",
+    "role": "DPS",
     "ascension": 36
   },
   {
