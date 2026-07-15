@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 478,
-    "unit": "Marcus",
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 75
   },
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 230,
+    "awakeningPercent": 232,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 18
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 10,
-    "awakeningPercent": 256,
+    "awakeningPercent": 258,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 41
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 6,
     "awakeningPercent": 340,
-    "unit": "Beatrix Beach",
+    "unit": "Ace",
     "role": "DPS",
     "ascension": 46
   },
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 256,
     "unit": "Cid 4",
     "role": "Tank",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 256,
     "unit": "Tidus",
     "role": "Support",
