@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 464,
+    "awakeningPercent": 466,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 75
@@ -706,7 +706,7 @@
   {
     "username": "KofiStreamBot",
     "rank": 13,
-    "awakeningPercent": 232,
+    "awakeningPercent": 234,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 10
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 334,
+    "awakeningPercent": 336,
     "unit": "Ignis",
     "role": "DPS",
     "ascension": 16
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 246,
-    "unit": "Prompto",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 21
   },
@@ -1874,7 +1874,7 @@
   {
     "username": "Dallocourt86",
     "rank": 28,
-    "awakeningPercent": 20,
+    "awakeningPercent": 22,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 10
