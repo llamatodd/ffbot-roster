@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 248,
     "unit": "Basch",
     "role": "Tank",
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 248,
+    "rank": 10,
+    "awakeningPercent": 250,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 21
