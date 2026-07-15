@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 696,
-    "unit": "Shana",
-    "role": "Support",
-    "ascension": 55
+    "unit": "Yuna X2",
+    "role": "DPS",
+    "ascension": 56
   },
   {
     "username": "Jestmichelle",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 46
@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 336,
     "unit": "Ignis",
     "role": "DPS",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 430,
-    "unit": "Vincent",
+    "unit": "Selphie",
     "role": "DPS",
     "ascension": 37
   },
@@ -1779,8 +1779,8 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 48,
-    "unit": "Dark Invoker",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 16
   },
   {
