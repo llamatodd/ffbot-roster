@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 476,
+    "awakeningPercent": 478,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 75
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 698,
-    "unit": "Alphinaud",
+    "unit": "Rinoa",
     "role": "Healer",
     "ascension": 56
   },
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 254,
+    "rank": 10,
+    "awakeningPercent": 256,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 29
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 108,
+    "awakeningPercent": 110,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 24
