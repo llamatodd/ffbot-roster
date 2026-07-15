@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 698,
+    "awakeningPercent": 700,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 56
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 332,
+    "awakeningPercent": 334,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 23
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 432,
-    "unit": "Selphie",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 38
   },
