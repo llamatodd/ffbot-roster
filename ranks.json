@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 324,
+    "awakeningPercent": 326,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 426,
-    "unit": "Rydia",
+    "awakeningPercent": 428,
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 37
   },
