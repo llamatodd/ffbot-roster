@@ -1197,7 +1197,7 @@
     "awakeningPercent": 254,
     "unit": "Cid 4",
     "role": "Tank",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "explorer_moogle",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 328,
+    "awakeningPercent": 330,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 23
