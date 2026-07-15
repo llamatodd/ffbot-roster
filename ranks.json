@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 35
   },
   {
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 250,
     "unit": "Basch",
     "role": "Tank",
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 250,
-    "unit": "Prompto",
-    "role": "DPS",
+    "rank": 10,
+    "awakeningPercent": 252,
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 21
   },
   {
