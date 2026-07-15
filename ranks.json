@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 10,
     "awakeningPercent": 258,
-    "unit": "Wol",
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 41
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 256,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Zell",
+    "role": "DPS",
     "ascension": 21
   },
   {
