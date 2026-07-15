@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 468,
+    "awakeningPercent": 470,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 75
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 104,
+    "awakeningPercent": 106,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 24
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 428,
+    "awakeningPercent": 430,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 37
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 250,
-    "unit": "Kefka",
+    "unit": "Prompto",
     "role": "DPS",
     "ascension": 21
   },
