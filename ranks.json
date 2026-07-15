@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 326,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Seymour Omnis",
+    "role": "DPS",
     "ascension": 23
   },
   {
@@ -1875,7 +1875,7 @@
     "username": "Dallocourt86",
     "rank": 28,
     "awakeningPercent": 20,
-    "unit": "Kain",
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 10
   },
