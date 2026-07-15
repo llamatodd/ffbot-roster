@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 35
   },
   {
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 246,
     "unit": "Squall Space",
     "role": "Tank",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 326,
-    "unit": "Seymour Omnis",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 246,
+    "rank": 10,
+    "awakeningPercent": 248,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 21
