@@ -261,7 +261,7 @@
     "awakeningPercent": 116,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 35
+    "ascension": 36
   },
   {
     "username": "egg_noodler",
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 330,
-    "unit": "Ace",
-    "role": "DPS",
+    "awakeningPercent": 332,
+    "unit": "Babus",
+    "role": "Tank",
     "ascension": 23
   },
   {
