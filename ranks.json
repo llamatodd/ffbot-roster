@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 190,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 20
   },
   {
@@ -1779,8 +1779,8 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 48,
-    "unit": "Thancred",
-    "role": "Tank",
+    "unit": "Dark Invoker",
+    "role": "DPS",
     "ascension": 16
   },
   {
