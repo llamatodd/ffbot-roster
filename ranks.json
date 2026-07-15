@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 700,
-    "unit": "Orlandeau",
-    "role": "DPS",
+    "unit": "Shana",
+    "role": "Support",
     "ascension": 56
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 334,
+    "awakeningPercent": 336,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 23
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 110,
     "unit": "Alphinaud",
     "role": "Healer",
-    "ascension": 24
+    "ascension": 25
   },
   {
     "username": "dracostheveteran",
