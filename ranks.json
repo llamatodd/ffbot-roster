@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
-    "awakeningPercent": 256,
+    "rank": 10,
+    "awakeningPercent": 258,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 29
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 256,
     "unit": "Zell",
     "role": "DPS",
