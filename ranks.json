@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 466,
+    "awakeningPercent": 468,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 75
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 246,
+    "rank": 10,
+    "awakeningPercent": 248,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 27
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 104,
     "unit": "Chocobo",
     "role": "Healer",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "dracostheveteran",
