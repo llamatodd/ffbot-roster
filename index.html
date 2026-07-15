@@ -97,7 +97,7 @@
     <div style="display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
         <span id="spriteRowLeft" class="sprite-row"></span>
         <div style="text-align:center;">
-            <p id="lastUpdated" style="margin:0;">Last Updated: July 14, 2026 at 08:04 PM</p>
+            <p id="lastUpdated" style="margin:0;">Last Updated: July 14, 2026 at 08:10 PM</p>
             <p style="margin:6px 0 0;">
                 <a href="https://twitch.tv/llamatodd" target="_blank" class="twitch-credit">
                     <span style="font-family:Arial,sans-serif;">📺</span> Roster by llamatodd &middot; twitch.tv/llamatodd
@@ -584,7 +584,7 @@
                         const slotIdx = fullMatArray.findIndex((v, idx) => idx <= 5 && v && v.toString().trim() === m && !fullMatArray.slice(0, idx).some(prev => prev && prev.toString().trim() === m));
                         const subs = decodeSubstats(rawSub6, rawSub6type, slotIdx >= 0 ? slotIdx : i);
                         const canUpgrade = UPGRADEABLE_MATERIA.has(m);
-                        const upgradeBadge = canUpgrade ? `<span style="font-size:10px;background:rgba(0,200,255,0.12);color:#00c8ff;padding:1px 5px;border-radius:3px;margin-left:4px;">⬆ upgradeable</span>` : '';
+                        const upgradeBadge = canUpgrade ? `<span style="font-size:10px;background:rgba(0,200,255,0.12);color:#00c8ff;padding:1px 5px;border-radius:3px;margin-left:4px;">🔼</span>` : '';
                         const subHtml = subs.length > 0
                             ? subs.map(s => `<span style="font-size:11px;${s.maxed ? 'color:#ffaa00;font-weight:bold;' : 'color:#ccc;'}">${s.stat} +${s.value}${s.maxed ? ' ★' : ''}</span>`).join(' &nbsp;·&nbsp; ')
                             : '<span style="font-size:11px;color:#555;">no substats</span>';
