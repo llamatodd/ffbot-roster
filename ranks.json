@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 14,
-    "awakeningPercent": 226,
-    "unit": "Jecht",
+    "awakeningPercent": 228,
+    "unit": "Edge",
     "role": "DPS",
     "ascension": 18
   },
@@ -411,13 +411,13 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 254,
-    "unit": "Snow",
+    "unit": "Wol",
     "role": "Tank",
     "ascension": 41
   },
   {
     "username": "seika",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 338,
     "unit": "Beatrix Beach",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 5,
-    "awakeningPercent": 338,
+    "awakeningPercent": 340,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 16
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 106,
+    "awakeningPercent": 108,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 24
