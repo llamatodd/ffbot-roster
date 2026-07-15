@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 700,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 56
   },
   {
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 258,
     "unit": "Cid 4",
     "role": "Tank",
@@ -1497,11 +1497,11 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 258,
-    "unit": "Zell",
-    "role": "DPS",
-    "ascension": 21
+    "rank": 10,
+    "awakeningPercent": 260,
+    "unit": "Chocobo",
+    "role": "Healer",
+    "ascension": 22
   },
   {
     "username": "eyetotem",
