@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 472,
+    "awakeningPercent": 474,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 75
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 698,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 56
   },
   {
@@ -1778,7 +1778,7 @@
   {
     "username": "Nystorayel",
     "rank": 24,
-    "awakeningPercent": 48,
+    "awakeningPercent": 50,
     "unit": "Thancred",
     "role": "Tank",
     "ascension": 17
