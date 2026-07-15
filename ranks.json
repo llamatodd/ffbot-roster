@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 10,
-    "awakeningPercent": 248,
+    "awakeningPercent": 250,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 41
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 6,
-    "awakeningPercent": 330,
+    "awakeningPercent": 332,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 46
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 248,
     "unit": "Squall Space",
     "role": "Tank",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 328,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 248,
     "unit": "Kefka",
     "role": "DPS",
