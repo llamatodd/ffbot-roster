@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 470,
+    "awakeningPercent": 472,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 75
@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Jill",
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 35
   },
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 250,
+    "rank": 10,
+    "awakeningPercent": 252,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 28
