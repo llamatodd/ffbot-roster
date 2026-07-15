@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 478,
+    "awakeningPercent": 480,
     "unit": "Reno",
     "role": "DPS",
     "ascension": 75
@@ -410,15 +410,15 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 10,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Shadow",
     "role": "Tank",
     "ascension": 41
   },
   {
     "username": "seika",
-    "rank": 6,
-    "awakeningPercent": 340,
+    "rank": 5,
+    "awakeningPercent": 342,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 46
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 258,
     "unit": "Cid 4",
     "role": "Tank",
