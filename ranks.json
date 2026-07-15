@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 696,
-    "unit": "Yuna X2",
-    "role": "DPS",
+    "awakeningPercent": 698,
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 56
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 252,
     "unit": "Snow",
     "role": "Tank",
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 252,
     "unit": "Basch",
     "role": "Tank",
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 430,
     "unit": "Selphie",
     "role": "DPS",
-    "ascension": 37
+    "ascension": 38
   },
   {
     "username": "FloDaddelt",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 252,
+    "awakeningPercent": 254,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 21
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 48,
     "unit": "Thancred",
     "role": "Tank",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "vivi_clockworker",
