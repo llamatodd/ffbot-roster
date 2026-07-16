@@ -410,16 +410,16 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 10,
-    "awakeningPercent": 268,
-    "unit": "Squall",
+    "awakeningPercent": 270,
+    "unit": "Auron",
     "role": "Tank",
-    "ascension": 41
+    "ascension": 42
   },
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 352,
-    "unit": "Cid 7",
+    "awakeningPercent": 354,
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 47
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 6,
-    "awakeningPercent": 348,
+    "awakeningPercent": 350,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 17
@@ -1194,10 +1194,10 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 264,
-    "unit": "Cyan",
+    "awakeningPercent": 266,
+    "unit": "Dangerniel",
     "role": "Tank",
-    "ascension": 29
+    "ascension": 30
   },
   {
     "username": "explorer_moogle",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 268,
     "unit": "Ramza",
     "role": "Support",
