@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 268,
+    "awakeningPercent": 270,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 30
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 436,
+    "awakeningPercent": 438,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 39
@@ -1779,7 +1779,7 @@
     "username": "Nystorayel",
     "rank": 24,
     "awakeningPercent": 54,
-    "unit": "Dark Invoker",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 19
   },
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 42,
     "awakeningPercent": 4,
-    "unit": "Maria",
-    "role": "Support",
+    "unit": "Yuna",
+    "role": "DPS",
     "ascension": 1
   },
   {
