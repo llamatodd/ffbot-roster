@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 480,
+    "awakeningPercent": 482,
     "unit": "Reno",
     "role": "DPS",
     "ascension": 75
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 116,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 36
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 260,
     "unit": "Shadow",
     "role": "Tank",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 342,
+    "awakeningPercent": 344,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 46
@@ -1146,14 +1146,14 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 194,
+    "awakeningPercent": 196,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 20
   },
   {
     "username": "EagleCeres",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 342,
     "unit": "Rikku X2",
     "role": "DPS",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 336,
-    "unit": "Babus",
-    "role": "Tank",
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 110,
+    "awakeningPercent": 112,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 25
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 432,
-    "unit": "Yshtola",
+    "unit": "Cod",
     "role": "DPS",
     "ascension": 38
   },
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 260,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "awakeningPercent": 262,
+    "unit": "Zell",
+    "role": "DPS",
     "ascension": 22
   },
   {
