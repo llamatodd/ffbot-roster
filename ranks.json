@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 704,
-    "unit": "Cid 7",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 57
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 344,
-    "unit": "Beatrix Beach",
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 23
   },
