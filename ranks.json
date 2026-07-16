@@ -409,18 +409,18 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 266,
-    "unit": "Squall Space",
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 41
   },
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 348,
-    "unit": "Squall",
-    "role": "Tank",
+    "awakeningPercent": 350,
+    "unit": "Cid 7",
+    "role": "DPS",
     "ascension": 47
   },
   {
@@ -707,8 +707,8 @@
     "username": "KofiStreamBot",
     "rank": 13,
     "awakeningPercent": 234,
-    "unit": "Squall",
-    "role": "Tank",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 10
   },
   {
@@ -1147,13 +1147,13 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 196,
-    "unit": "Ozma",
-    "role": "Tank",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 20
   },
   {
     "username": "EagleCeres",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 348,
     "unit": "Edgar",
     "role": "DPS",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 22
