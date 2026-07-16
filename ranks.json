@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 47
@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 344,
     "unit": "Edgar",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 338,
+    "awakeningPercent": 340,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 23
@@ -1877,7 +1877,7 @@
     "awakeningPercent": 24,
     "unit": "Shantotto",
     "role": "DPS",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "OldbrickRonsenburg",
