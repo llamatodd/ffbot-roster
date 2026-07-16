@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 344,
-    "unit": "Ace",
-    "role": "DPS",
+    "unit": "Squall",
+    "role": "Tank",
     "ascension": 47
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 7,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 23
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 434,
-    "unit": "Yshtola",
+    "unit": "Mog",
     "role": "DPS",
     "ascension": 38
   },
