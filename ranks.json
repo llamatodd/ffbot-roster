@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 348,
-    "unit": "Squall",
-    "role": "Tank",
+    "unit": "Ace",
+    "role": "DPS",
     "ascension": 47
   },
   {
@@ -1153,8 +1153,8 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 6,
-    "awakeningPercent": 346,
+    "rank": 5,
+    "awakeningPercent": 348,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 17
