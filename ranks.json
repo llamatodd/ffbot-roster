@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 702,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 57
   },
   {
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 436,
-    "unit": "Mog",
+    "unit": "Yshtola",
     "role": "DPS",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "FloDaddelt",
