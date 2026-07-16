@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 14,
-    "awakeningPercent": 232,
+    "rank": 13,
+    "awakeningPercent": 234,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 18
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 11,
     "awakeningPercent": 262,
-    "unit": "Shadow",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 41
   },
@@ -1153,11 +1153,11 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 6,
-    "awakeningPercent": 342,
-    "unit": "Rikku X2",
+    "rank": 5,
+    "awakeningPercent": 344,
+    "unit": "Edgar",
     "role": "DPS",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "Niriall",
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 29
