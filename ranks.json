@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 262,
     "unit": "Shadow",
     "role": "Tank",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 22
