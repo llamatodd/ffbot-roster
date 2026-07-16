@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 700,
-    "unit": "Shana",
+    "awakeningPercent": 702,
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 56
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 432,
-    "unit": "Cod",
+    "awakeningPercent": 434,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 38
   },
@@ -1778,10 +1778,10 @@
   {
     "username": "Nystorayel",
     "rank": 24,
-    "awakeningPercent": 52,
+    "awakeningPercent": 54,
     "unit": "Thancred",
     "role": "Tank",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "vivi_clockworker",
