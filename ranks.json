@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 266,
+    "rank": 11,
+    "awakeningPercent": 268,
     "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 30
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 268,
-    "unit": "Ramza",
-    "role": "Support",
+    "unit": "Zell",
+    "role": "DPS",
     "ascension": 22
   },
   {
