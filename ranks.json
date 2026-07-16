@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 18
@@ -705,7 +705,7 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 13,
+    "rank": 14,
     "awakeningPercent": 234,
     "unit": "Aeris",
     "role": "Healer",
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 114,
+    "awakeningPercent": 116,
     "unit": "Minwu",
     "role": "Healer",
     "ascension": 25
