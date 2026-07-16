@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 348,
-    "unit": "Ace",
-    "role": "DPS",
+    "unit": "Squall",
+    "role": "Tank",
     "ascension": 47
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 29
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 19,
-    "awakeningPercent": 112,
+    "awakeningPercent": 114,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 25
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 434,
+    "awakeningPercent": 436,
     "unit": "Mog",
     "role": "DPS",
     "ascension": 38
@@ -1941,6 +1941,14 @@
     "awakeningPercent": 0,
     "unit": "Tidus",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "DarknessSavage",
+    "rank": 80,
+    "awakeningPercent": 0,
+    "unit": "Tifa Dress",
+    "role": "DPS",
     "ascension": 0
   }
 ]
