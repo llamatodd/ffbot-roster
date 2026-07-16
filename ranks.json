@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 13,
     "awakeningPercent": 234,
-    "unit": "Edge",
-    "role": "DPS",
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 18
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 29
