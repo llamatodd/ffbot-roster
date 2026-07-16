@@ -3,15 +3,15 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 484,
-    "unit": "Reno",
-    "role": "DPS",
+    "unit": "Guy",
+    "role": "Tank",
     "ascension": 75
   },
   {
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 404,
-    "unit": "Ingus",
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 75
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 706,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 57
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 10,
-    "awakeningPercent": 272,
+    "awakeningPercent": 274,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 42
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 196,
-    "unit": "Ovelia",
+    "unit": "Eiko",
     "role": "Healer",
     "ascension": 20
   },
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 268,
     "unit": "Dangerniel",
     "role": "Tank",
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 11,
-    "awakeningPercent": 268,
-    "unit": "Sephiroth",
+    "awakeningPercent": 272,
+    "unit": "Zell",
     "role": "DPS",
     "ascension": 22
   },
