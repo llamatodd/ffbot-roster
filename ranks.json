@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 704,
+    "awakeningPercent": 706,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 57
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 268,
-    "unit": "Zell",
+    "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 22
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 4,
     "unit": "Maria",
     "role": "Support",
-    "ascension": 0
+    "ascension": 1
   },
   {
     "username": "ItsVin_",
