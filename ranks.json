@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 18,
-    "awakeningPercent": 116,
+    "awakeningPercent": 118,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 36
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 266,
-    "unit": "Sephiroth",
-    "role": "DPS",
+    "unit": "Ramza",
+    "role": "Support",
     "ascension": 22
   },
   {
