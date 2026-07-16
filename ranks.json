@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 706,
-    "unit": "Orlandeau",
+    "unit": "Cid 7",
     "role": "DPS",
-    "ascension": 57
+    "ascension": 58
   },
   {
     "username": "Jestmichelle",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 354,
+    "awakeningPercent": 356,
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 47
