@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 708,
-    "unit": "Orlandeau",
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 58
   },
@@ -1301,7 +1301,7 @@
     "awakeningPercent": 354,
     "unit": "Clive",
     "role": "DPS",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "sillynix",
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 278,
-    "unit": "Dark Invoker",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 22
   },
