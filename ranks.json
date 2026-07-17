@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 278,
-    "unit": "Esquie",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 31
   },
@@ -1948,6 +1948,14 @@
     "rank": 80,
     "awakeningPercent": 0,
     "unit": "Tifa Dress",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "ssjsaiyaman2000",
+    "rank": 80,
+    "awakeningPercent": 0,
+    "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 0
   }
