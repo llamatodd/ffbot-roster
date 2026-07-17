@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 278,
+    "awakeningPercent": 280,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 31
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 298,
-    "unit": "Edea Matron",
-    "role": "DPS",
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 14
   },
   {
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 278,
     "unit": "Kefka",
     "role": "DPS",
