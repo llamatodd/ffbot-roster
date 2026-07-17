@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 350,
     "unit": "Beatrix Beach",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 350,
+    "awakeningPercent": 352,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 23
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 440,
+    "awakeningPercent": 442,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 39
