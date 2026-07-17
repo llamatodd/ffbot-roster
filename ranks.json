@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 494,
+    "awakeningPercent": 496,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 75
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 410,
+    "awakeningPercent": 412,
     "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 75
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
-    "ascension": 1
+    "ascension": 2
   },
   {
     "username": "ItsVin_",
