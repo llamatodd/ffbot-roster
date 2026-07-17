@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 10,
     "awakeningPercent": 278,
-    "unit": "Firion",
-    "role": "Tank",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 42
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 14
