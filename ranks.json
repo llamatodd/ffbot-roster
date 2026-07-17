@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 356,
-    "unit": "Auron",
-    "role": "Tank",
+    "unit": "Ace",
+    "role": "DPS",
     "ascension": 47
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 7,
     "awakeningPercent": 348,
-    "unit": "Blank",
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 23
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 438,
-    "unit": "Ultimecia",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 39
   },
