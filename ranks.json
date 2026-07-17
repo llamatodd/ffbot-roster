@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 706,
-    "unit": "Cid 7",
+    "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 58
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 438,
-    "unit": "Yshtola",
+    "awakeningPercent": 440,
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 39
   },
