@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 352,
-    "unit": "Beatrix Beach",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 17
   },
@@ -1777,8 +1777,8 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 24,
-    "awakeningPercent": 54,
+    "rank": 23,
+    "awakeningPercent": 56,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 19
