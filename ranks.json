@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 242,
+    "awakeningPercent": 244,
     "unit": "Yuffie",
     "role": "DPS",
     "ascension": 18
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 706,
+    "awakeningPercent": 708,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 58
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 10,
     "awakeningPercent": 282,
-    "unit": "Beatrix",
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 42
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 366,
-    "unit": "Blank",
-    "role": "DPS",
+    "unit": "Auron Young",
+    "role": "Tank",
     "ascension": 47
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 350,
+    "awakeningPercent": 352,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 17
