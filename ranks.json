@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 708,
-    "unit": "Cid 7",
+    "unit": "Locke",
     "role": "DPS",
     "ascension": 58
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 14
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 444,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 40
   },
   {
