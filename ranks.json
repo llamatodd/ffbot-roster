@@ -409,16 +409,16 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 10,
-    "awakeningPercent": 284,
-    "unit": "Beatrix Beach",
+    "rank": 9,
+    "awakeningPercent": 286,
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 42
   },
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 368,
+    "awakeningPercent": 370,
     "unit": "Auron Young",
     "role": "Tank",
     "ascension": 47
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 200,
-    "unit": "Rosa",
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 20
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 356,
+    "awakeningPercent": 358,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 24
