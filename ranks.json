@@ -1297,8 +1297,8 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
-    "awakeningPercent": 348,
+    "rank": 6,
+    "awakeningPercent": 350,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 23
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 272,
-    "unit": "Zell",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 22
   },
