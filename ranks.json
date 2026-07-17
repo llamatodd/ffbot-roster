@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 13,
     "awakeningPercent": 246,
-    "unit": "Yuffie",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 18
   },
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 708,
-    "unit": "Locke",
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 58
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Seymour Omnis",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 24
   },
@@ -1497,11 +1497,11 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
-    "awakeningPercent": 278,
-    "unit": "Kefka",
+    "rank": 11,
+    "awakeningPercent": 280,
+    "unit": "Zell",
     "role": "DPS",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "eyetotem",
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 36,
     "awakeningPercent": 6,
-    "unit": "Yuna",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 2
   },
   {
