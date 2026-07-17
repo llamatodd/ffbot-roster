@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 490,
-    "unit": "Guy",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 75
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 406,
-    "unit": "Dangerniel",
-    "role": "Tank",
+    "unit": "Garnet Summoner",
+    "role": "DPS",
     "ascension": 75
   },
   {
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 360,
-    "unit": "Auron",
-    "role": "Tank",
+    "awakeningPercent": 362,
+    "unit": "Blank",
+    "role": "DPS",
     "ascension": 47
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 352,
+    "awakeningPercent": 354,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 23
