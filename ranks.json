@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 492,
+    "awakeningPercent": 494,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 75
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 408,
+    "awakeningPercent": 410,
     "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 75
@@ -27,9 +27,9 @@
     "username": "AmagiFial",
     "rank": 20,
     "awakeningPercent": 102,
-    "unit": "Delita",
-    "role": "Support",
-    "ascension": 24
+    "unit": "Blank",
+    "role": "DPS",
+    "ascension": 25
   },
   {
     "username": "KamiXKitsune",
