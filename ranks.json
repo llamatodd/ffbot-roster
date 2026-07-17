@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 240,
+    "awakeningPercent": 242,
     "unit": "Yuffie",
     "role": "DPS",
     "ascension": 18
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 198,
-    "unit": "Eiko",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 20
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 294,
+    "awakeningPercent": 296,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 14
