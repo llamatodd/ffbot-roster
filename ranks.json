@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 9,
-    "awakeningPercent": 288,
+    "awakeningPercent": 290,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 42
@@ -569,7 +569,7 @@
   },
   {
     "username": "Khuu59",
-    "rank": 23,
+    "rank": 24,
     "awakeningPercent": 56,
     "unit": "Edea",
     "role": "Support",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Edea Matron",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 24
   },
@@ -1778,10 +1778,10 @@
   {
     "username": "Nystorayel",
     "rank": 23,
-    "awakeningPercent": 56,
+    "awakeningPercent": 58,
     "unit": "Kuja",
     "role": "DPS",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "vivi_clockworker",
