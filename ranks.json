@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 498,
+    "awakeningPercent": 500,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 76
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 76
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 32
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 290,
-    "unit": "Thancred",
-    "role": "Tank",
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 23
   },
   {
