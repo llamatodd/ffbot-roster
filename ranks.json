@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 502,
-    "unit": "Orlandeau",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 76
   },
   {
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 714,
-    "unit": "Irvine",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 58
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 378,
+    "awakeningPercent": 380,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 48
@@ -1243,16 +1243,16 @@
     "username": "Fossabot",
     "rank": 12,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 15
   },
   {
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 308,
-    "unit": "Joshua",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 15
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 362,
-    "unit": "Seymour Omnis",
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 24
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 450,
-    "unit": "Kuja",
+    "unit": "Alisaie",
     "role": "DPS",
     "ascension": 41
   },
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 36,
     "awakeningPercent": 8,
-    "unit": "Yshtola",
-    "role": "DPS",
+    "unit": "Quina",
+    "role": "Tank",
     "ascension": 2
   },
   {
