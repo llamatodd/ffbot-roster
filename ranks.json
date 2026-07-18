@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 202,
+    "awakeningPercent": 204,
     "unit": "Garnet",
     "role": "Healer",
     "ascension": 20
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 10,
+    "rank": 11,
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Rydia",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 24
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Thancred",
     "role": "Tank",
     "ascension": 23
