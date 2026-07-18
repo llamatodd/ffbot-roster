@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 370,
-    "unit": "Auron Young",
+    "awakeningPercent": 372,
+    "unit": "Amarant",
     "role": "Tank",
     "ascension": 47
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Cloud Dress",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 24
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 284,
-    "unit": "Ozma",
+    "unit": "Thancred",
     "role": "Tank",
     "ascension": 23
   },
