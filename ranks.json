@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 26,
+    "rank": 27,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 252,
+    "awakeningPercent": 254,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 19
@@ -842,7 +842,7 @@
   {
     "username": "Dredg",
     "rank": 26,
-    "awakeningPercent": 30,
+    "awakeningPercent": 32,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 9
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 208,
+    "awakeningPercent": 210,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 20
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Rydia",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 24
   },
