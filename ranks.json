@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 246,
+    "awakeningPercent": 248,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 19
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 444,
-    "unit": "Seymour",
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 40
   },
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 12,
-    "awakeningPercent": 280,
-    "unit": "Zell",
+    "rank": 11,
+    "awakeningPercent": 282,
+    "unit": "Beatrix",
     "role": "DPS",
     "ascension": 23
   },
