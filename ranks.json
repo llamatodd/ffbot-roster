@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 708,
-    "unit": "Locke",
+    "awakeningPercent": 710,
+    "unit": "Paine",
     "role": "DPS",
     "ascension": 58
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 374,
-    "unit": "Amarant",
+    "unit": "Auron",
     "role": "Tank",
     "ascension": 48
   },
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 304,
-    "unit": "Joshua",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 15
   },
   {
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 446,
-    "unit": "Braska",
-    "role": "DPS",
-    "ascension": 40
+    "unit": "Joshua",
+    "role": "Support",
+    "ascension": 41
   },
   {
     "username": "FloDaddelt",
@@ -1677,7 +1677,7 @@
     "awakeningPercent": 18,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 0
+    "ascension": 1
   },
   {
     "username": "kiklol86",
