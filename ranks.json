@@ -421,7 +421,7 @@
     "awakeningPercent": 372,
     "unit": "Amarant",
     "role": "Tank",
-    "ascension": 47
+    "ascension": 48
   },
   {
     "username": "artudixx",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 204,
+    "awakeningPercent": 206,
     "unit": "Garnet",
     "role": "Healer",
     "ascension": 20
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 282,
     "unit": "Galuf",
     "role": "Tank",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "explorer_moogle",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 444,
+    "awakeningPercent": 446,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 40
@@ -1956,6 +1956,14 @@
     "rank": 80,
     "awakeningPercent": 0,
     "unit": "Sephiroth",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "maybehhxv",
+    "rank": 80,
+    "awakeningPercent": 0,
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 0
   }
