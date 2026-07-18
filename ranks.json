@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 496,
-    "unit": "Squall Space",
+    "unit": "Basch",
     "role": "Tank",
     "ascension": 76
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 412,
-    "unit": "Garnet Summoner",
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 76
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 372,
+    "awakeningPercent": 374,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 48
