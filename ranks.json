@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 712,
-    "unit": "Rubicante",
+    "unit": "Paine",
     "role": "DPS",
     "ascension": 58
   },
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 446,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 448,
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 41
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 290,
+    "awakeningPercent": 292,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
