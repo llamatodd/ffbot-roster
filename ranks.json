@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Seymour Omnis",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 24
   },
@@ -1499,13 +1499,13 @@
     "username": "Starbuk",
     "rank": 11,
     "awakeningPercent": 282,
-    "unit": "Beatrix",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 23
   },
   {
     "username": "eyetotem",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 36,
-    "awakeningPercent": 6,
+    "awakeningPercent": 8,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 2
@@ -1929,7 +1929,7 @@
   },
   {
     "username": "Vaedryn",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 6,
     "unit": "Beatrix",
     "role": "DPS",
