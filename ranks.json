@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 200,
+    "awakeningPercent": 202,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 20
@@ -1193,7 +1193,7 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 282,
     "unit": "Galuf",
     "role": "Tank",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 11,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Ozma",
     "role": "Tank",
     "ascension": 23
