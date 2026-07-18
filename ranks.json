@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 374,
-    "unit": "Auron",
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 48
   },
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 352,
-    "unit": "Agrias",
+    "awakeningPercent": 354,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 17
   },
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 12,
-    "awakeningPercent": 284,
+    "rank": 11,
+    "awakeningPercent": 286,
     "unit": "Gladio",
     "role": "Tank",
     "ascension": 32
@@ -1674,7 +1674,7 @@
   {
     "username": "whitejackprime",
     "rank": 29,
-    "awakeningPercent": 18,
+    "awakeningPercent": 20,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 1
