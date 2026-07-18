@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 500,
+    "awakeningPercent": 502,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 76
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 712,
-    "unit": "Paine",
+    "awakeningPercent": 714,
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 58
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 362,
-    "unit": "Cloud Dress",
+    "unit": "Rydia",
     "role": "DPS",
     "ascension": 24
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 448,
-    "unit": "Seymour",
+    "awakeningPercent": 450,
+    "unit": "Alisaie",
     "role": "DPS",
     "ascension": 41
   },
