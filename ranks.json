@@ -5,7 +5,7 @@
     "awakeningPercent": 496,
     "unit": "Squall Space",
     "role": "Tank",
-    "ascension": 75
+    "ascension": 76
   },
   {
     "username": "OrgleBot",
@@ -13,7 +13,7 @@
     "awakeningPercent": 412,
     "unit": "Garnet Summoner",
     "role": "DPS",
-    "ascension": 75
+    "ascension": 76
   },
   {
     "username": "dead_rabbitz",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 9,
-    "awakeningPercent": 292,
+    "awakeningPercent": 294,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 42
@@ -709,7 +709,7 @@
     "awakeningPercent": 234,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "meowmew_lamew",
@@ -1194,8 +1194,8 @@
   {
     "username": "its_aurelius_",
     "rank": 12,
-    "awakeningPercent": 282,
-    "unit": "Galuf",
+    "awakeningPercent": 284,
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 32
   },
