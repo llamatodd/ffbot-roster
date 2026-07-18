@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 710,
-    "unit": "Paine",
+    "awakeningPercent": 712,
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 58
   },
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 9,
-    "awakeningPercent": 294,
-    "unit": "Celes",
+    "awakeningPercent": 296,
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 42
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 306,
+    "awakeningPercent": 308,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 15
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 290,
-    "unit": "Beatrix",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 23
   },
   {
@@ -1964,6 +1964,14 @@
     "rank": 80,
     "awakeningPercent": 0,
     "unit": "Yuffie",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "FroBanger",
+    "rank": 80,
+    "awakeningPercent": 0,
+    "unit": "Ace",
     "role": "DPS",
     "ascension": 0
   }
