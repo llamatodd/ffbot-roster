@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 250,
-    "unit": "Tifa",
+    "awakeningPercent": 252,
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 19
   },
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 712,
-    "unit": "Cid 7",
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 58
   },
@@ -413,7 +413,7 @@
     "awakeningPercent": 296,
     "unit": "Celes Opera",
     "role": "DPS",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "seika",
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 208,
-    "unit": "Garnet",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 20
   },
