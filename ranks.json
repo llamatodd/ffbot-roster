@@ -245,13 +245,13 @@
     "awakeningPercent": 246,
     "unit": "Tifa",
     "role": "DPS",
-    "ascension": 18
+    "ascension": 19
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 708,
-    "unit": "Cid 7",
+    "unit": "Locke",
     "role": "DPS",
     "ascension": 58
   },
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 15
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Seymour Omnis",
+    "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 24
   },
