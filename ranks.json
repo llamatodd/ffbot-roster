@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 298,
     "unit": "Joshua",
     "role": "Support",
-    "ascension": 14
+    "ascension": 15
   },
   {
     "username": "Moobot",
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Kuja",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 24
   },
