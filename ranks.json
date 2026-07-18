@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 502,
-    "unit": "Basch",
-    "role": "Tank",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 76
   },
   {
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 254,
+    "awakeningPercent": 256,
     "unit": "Vivi",
     "role": "DPS",
     "ascension": 19
@@ -707,7 +707,7 @@
     "username": "KofiStreamBot",
     "rank": 14,
     "awakeningPercent": 234,
-    "unit": "Aeris",
+    "unit": "Ovelia",
     "role": "Healer",
     "ascension": 11
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 210,
+    "awakeningPercent": 212,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 20
@@ -1243,16 +1243,16 @@
     "username": "Fossabot",
     "rank": 12,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 15
   },
   {
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 308,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 15
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 362,
-    "unit": "Rydia",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 24
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 450,
-    "unit": "Alisaie",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 41
   },
