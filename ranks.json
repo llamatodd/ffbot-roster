@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 18,
     "awakeningPercent": 118,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 37
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 360,
-    "unit": "Kuja",
+    "unit": "Rydia",
     "role": "DPS",
     "ascension": 24
   },
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 11,
-    "awakeningPercent": 284,
+    "rank": 10,
+    "awakeningPercent": 286,
     "unit": "Thancred",
     "role": "Tank",
     "ascension": 23
