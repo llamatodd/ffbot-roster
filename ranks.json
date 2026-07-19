@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 424,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 76
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 33
