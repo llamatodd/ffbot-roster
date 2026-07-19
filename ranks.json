@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 502,
-    "unit": "Ingus",
+    "unit": "Firion",
     "role": "Tank",
     "ascension": 76
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 380,
-    "unit": "Balthier",
-    "role": "Tank",
+    "unit": "Joshua",
+    "role": "Support",
     "ascension": 48
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "username": "Nightbot",
     "rank": 8,
-    "awakeningPercent": 308,
+    "awakeningPercent": 310,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 15
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 362,
-    "unit": "Yuna X2",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 24
   },
   {
