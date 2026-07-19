@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 512,
+    "awakeningPercent": 514,
     "unit": "Laguna",
     "role": "DPS",
     "ascension": 76
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 422,
+    "awakeningPercent": 424,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 76
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 714,
+    "awakeningPercent": 716,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 59
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 386,
+    "awakeningPercent": 388,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 48
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 310,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 15
   },
   {
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 58,
     "unit": "Kuja",
     "role": "DPS",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "vivi_clockworker",
