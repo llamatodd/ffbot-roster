@@ -3,15 +3,15 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 508,
-    "unit": "Firion",
-    "role": "Tank",
+    "unit": "Laguna",
+    "role": "DPS",
     "ascension": 76
   },
   {
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 418,
-    "unit": "Shantotto",
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 76
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 23
