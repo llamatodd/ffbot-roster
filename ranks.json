@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 502,
+    "awakeningPercent": 504,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 76
@@ -493,7 +493,7 @@
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 49
+    "ascension": 50
   },
   {
     "username": "MystisNykoto",
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 36,
     "awakeningPercent": 8,
-    "unit": "Quina",
-    "role": "Tank",
+    "unit": "Genesis",
+    "role": "DPS",
     "ascension": 2
   },
   {
