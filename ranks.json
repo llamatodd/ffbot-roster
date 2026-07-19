@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 714,
-    "unit": "Balthier",
-    "role": "Tank",
+    "unit": "Rubicante",
+    "role": "DPS",
     "ascension": 58
   },
   {
@@ -1499,9 +1499,9 @@
     "username": "Starbuk",
     "rank": 10,
     "awakeningPercent": 300,
-    "unit": "Beatrix",
+    "unit": "Beatrix Beach",
     "role": "DPS",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "eyetotem",
