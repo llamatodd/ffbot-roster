@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 420,
+    "awakeningPercent": 422,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 76
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 294,
     "unit": "Guy",
     "role": "Tank",
-    "ascension": 32
+    "ascension": 33
   },
   {
     "username": "explorer_moogle",
