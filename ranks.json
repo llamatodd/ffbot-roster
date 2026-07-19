@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 258,
-    "unit": "Irvine",
+    "awakeningPercent": 260,
+    "unit": "Edge",
     "role": "DPS",
     "ascension": 19
   },
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 360,
-    "unit": "Irvine",
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 17
   },
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 8,
     "awakeningPercent": 310,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 15
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 364,
-    "unit": "Seymour Omnis",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 24
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 454,
-    "unit": "Garnet Summoner",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 42
   },
