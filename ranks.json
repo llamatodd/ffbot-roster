@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 384,
-    "unit": "Lightning",
-    "role": "DPS",
+    "awakeningPercent": 386,
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 48
   },
   {
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 294,
+    "awakeningPercent": 296,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 33
