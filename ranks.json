@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 714,
-    "unit": "Garland",
-    "role": "DPS",
+    "unit": "Balthier",
+    "role": "Tank",
     "ascension": 58
   },
   {
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 292,
-    "unit": "Ozma",
-    "role": "Tank",
+    "awakeningPercent": 296,
+    "unit": "Beatrix",
+    "role": "DPS",
     "ascension": 23
   },
   {
