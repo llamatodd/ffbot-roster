@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 424,
+    "awakeningPercent": 426,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 76
@@ -1154,10 +1154,10 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 360,
-    "unit": "Kain",
+    "awakeningPercent": 362,
+    "unit": "Genesis",
     "role": "DPS",
-    "ascension": 17
+    "ascension": 18
   },
   {
     "username": "Niriall",
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 456,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Garnet Summoner",
+    "role": "DPS",
     "ascension": 42
   },
   {
