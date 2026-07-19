@@ -571,8 +571,8 @@
     "username": "Khuu59",
     "rank": 24,
     "awakeningPercent": 56,
-    "unit": "Edea",
-    "role": "Support",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 11
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 214,
+    "awakeningPercent": 216,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 20
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 454,
+    "awakeningPercent": 456,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 42
