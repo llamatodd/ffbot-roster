@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 516,
+    "awakeningPercent": 518,
     "unit": "Estinien",
     "role": "DPS",
     "ascension": 76
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 426,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 76
   },
   {
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 716,
-    "unit": "Rubicante",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 59
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 312,
+    "awakeningPercent": 314,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 43
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 456,
-    "unit": "Garnet Summoner",
+    "awakeningPercent": 458,
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 42
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 304,
-    "unit": "Beatrix Beach",
+    "awakeningPercent": 306,
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 24
   },
