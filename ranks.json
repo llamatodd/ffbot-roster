@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 508,
+    "awakeningPercent": 510,
     "unit": "Laguna",
     "role": "DPS",
     "ascension": 76
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 418,
+    "awakeningPercent": 420,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 76
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 9,
     "awakeningPercent": 306,
-    "unit": "Braska",
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 43
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 384,
-    "unit": "Blank",
+    "unit": "Lightning",
     "role": "DPS",
     "ascension": 48
   },
