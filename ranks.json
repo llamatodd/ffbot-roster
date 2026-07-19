@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 43
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 388,
+    "awakeningPercent": 390,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 48
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
