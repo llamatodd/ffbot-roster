@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 13,
     "awakeningPercent": 260,
-    "unit": "Edge",
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 19
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 364,
-    "unit": "Celes",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 24
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 454,
-    "unit": "Kuja",
-    "role": "DPS",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 42
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 24
