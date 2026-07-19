@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 514,
-    "unit": "Laguna",
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 424,
-    "unit": "Blank",
+    "unit": "Cecil",
     "role": "DPS",
     "ascension": 76
   },
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 296,
+    "awakeningPercent": 298,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 33
