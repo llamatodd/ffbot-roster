@@ -10,9 +10,9 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 426,
-    "unit": "Cecil",
-    "role": "DPS",
+    "awakeningPercent": 428,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 76
   },
   {
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 716,
-    "unit": "Garland",
-    "role": "DPS",
+    "unit": "Cyan",
+    "role": "Tank",
     "ascension": 59
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 216,
+    "awakeningPercent": 218,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 20
