@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 256,
-    "unit": "Vivi",
+    "awakeningPercent": 258,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 19
   },
@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 714,
-    "unit": "Rubicante",
-    "role": "DPS",
-    "ascension": 58
+    "unit": "Balthier",
+    "role": "Tank",
+    "ascension": 59
   },
   {
     "username": "Jestmichelle",
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 384,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 48
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 300,
+    "awakeningPercent": 302,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 24
