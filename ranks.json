@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 308,
+    "rank": 8,
+    "awakeningPercent": 310,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 43
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 384,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "unit": "Lightning",
+    "role": "DPS",
     "ascension": 48
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 452,
-    "unit": "Alisaie",
+    "awakeningPercent": 454,
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 42
   },
