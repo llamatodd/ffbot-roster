@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 428,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 76
   },
   {
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 262,
-    "unit": "Irvine",
+    "awakeningPercent": 264,
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 19
   },
