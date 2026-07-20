@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 520,
+    "awakeningPercent": 522,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 76
@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 10,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 33,
-    "awakeningPercent": 10,
+    "rank": 31,
+    "awakeningPercent": 12,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 3
