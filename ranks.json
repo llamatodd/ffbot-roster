@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 372,
-    "unit": "Edge",
-    "role": "DPS",
+    "awakeningPercent": 374,
+    "unit": "Elena",
+    "role": "Support",
     "ascension": 25
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 460,
+    "awakeningPercent": 462,
     "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 42
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 9,
-    "awakeningPercent": 314,
+    "awakeningPercent": 316,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 24
