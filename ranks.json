@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 118,
-    "unit": "Edea Matron",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 37
   },
   {
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 31,
+    "rank": 32,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 31,
+    "rank": 32,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 31,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 3
