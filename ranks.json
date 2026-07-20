@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 268,
-    "unit": "Vincent",
-    "role": "DPS",
+    "awakeningPercent": 270,
+    "unit": "Torgal",
+    "role": "Support",
     "ascension": 19
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 396,
+    "awakeningPercent": 398,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 49
