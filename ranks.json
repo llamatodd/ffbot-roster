@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 390,
-    "unit": "Chocobo Black",
+    "unit": "Quina",
     "role": "Tank",
     "ascension": 48
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 10,
     "unit": "Fran",
     "role": "DPS",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "ItsVin_",
