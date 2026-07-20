@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 520,
-    "unit": "Estinien",
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 428,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Fang",
+    "role": "DPS",
     "ascension": 76
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 18
