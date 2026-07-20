@@ -261,7 +261,7 @@
     "awakeningPercent": 118,
     "unit": "Tidus",
     "role": "Support",
-    "ascension": 37
+    "ascension": 38
   },
   {
     "username": "egg_noodler",
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 220,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 20
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 9,
-    "awakeningPercent": 316,
+    "awakeningPercent": 318,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 24
