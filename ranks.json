@@ -1389,7 +1389,7 @@
     "awakeningPercent": 118,
     "unit": "Minwu",
     "role": "Healer",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "dracostheveteran",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 458,
-    "unit": "Rubicante",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 42
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 10,
-    "awakeningPercent": 306,
-    "unit": "Luneth",
+    "awakeningPercent": 308,
+    "unit": "Braska",
     "role": "DPS",
     "ascension": 24
   },
