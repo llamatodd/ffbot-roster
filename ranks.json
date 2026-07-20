@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 428,
+    "awakeningPercent": 430,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 76
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 720,
-    "unit": "Cyan",
-    "role": "Tank",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 59
   },
   {
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 394,
-    "unit": "Elena",
+    "awakeningPercent": 396,
+    "unit": "Delita",
     "role": "Support",
     "ascension": 49
   },
