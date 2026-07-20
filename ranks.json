@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 266,
+    "awakeningPercent": 268,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 19
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 716,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "awakeningPercent": 718,
+    "unit": "Cyan",
+    "role": "Tank",
     "ascension": 59
   },
   {
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 8,
     "awakeningPercent": 318,
-    "unit": "Clive",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 43
   },
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 368,
-    "unit": "Genesis",
+    "unit": "Laguna",
     "role": "DPS",
     "ascension": 18
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 460,
-    "unit": "Rubicante",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 42
   },
