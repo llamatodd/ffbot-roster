@@ -418,10 +418,10 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 392,
-    "unit": "Auron",
-    "role": "Tank",
-    "ascension": 48
+    "awakeningPercent": 394,
+    "unit": "Elena",
+    "role": "Support",
+    "ascension": 49
   },
   {
     "username": "artudixx",
@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 366,
     "unit": "Genesis",
     "role": "DPS",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 24
