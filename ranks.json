@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 9,
+    "rank": 10,
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 9,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 24
