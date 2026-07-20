@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 270,
+    "awakeningPercent": 272,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 20
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 720,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Firion",
+    "role": "Tank",
     "ascension": 59
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 398,
+    "awakeningPercent": 400,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 49
