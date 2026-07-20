@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 432,
+    "awakeningPercent": 434,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 76
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 118,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 38
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 220,
+    "awakeningPercent": 222,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 20
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 18,
-    "awakeningPercent": 120,
+    "awakeningPercent": 122,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 27
