@@ -257,7 +257,7 @@
   },
   {
     "username": "Jestmichelle",
-    "rank": 18,
+    "rank": 19,
     "awakeningPercent": 118,
     "unit": "Lightning",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 6,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 18
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 364,
     "unit": "Seymour Omnis",
     "role": "DPS",
@@ -1386,8 +1386,8 @@
   {
     "username": "jaik__",
     "rank": 18,
-    "awakeningPercent": 118,
-    "unit": "Minwu",
+    "awakeningPercent": 120,
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 27
   },
