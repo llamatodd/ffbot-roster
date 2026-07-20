@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 322,
+    "awakeningPercent": 324,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 44
@@ -1146,9 +1146,9 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 222,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 224,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 20
   },
   {
