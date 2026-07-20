@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 716,
-    "unit": "Cyan",
-    "role": "Tank",
+    "unit": "Rubicante",
+    "role": "DPS",
     "ascension": 59
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 460,
-    "unit": "Dark Invoker",
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 42
   },
