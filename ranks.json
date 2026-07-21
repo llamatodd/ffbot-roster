@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 438,
+    "awakeningPercent": 440,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 76
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 722,
+    "awakeningPercent": 724,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 59
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 8,
     "awakeningPercent": 330,
-    "unit": "Cod",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 44
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 372,
+    "awakeningPercent": 374,
     "unit": "Laguna",
     "role": "DPS",
     "ascension": 18
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 464,
+    "awakeningPercent": 466,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 43
