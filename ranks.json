@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 274,
+    "awakeningPercent": 276,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 20
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 9,
     "awakeningPercent": 328,
-    "unit": "Tifa Dress",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 25
   },
