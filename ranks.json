@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 15
+    "ascension": 16
   },
   {
     "username": "Moobot",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 464,
-    "unit": "Tellah",
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 43
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 9,
-    "awakeningPercent": 324,
+    "awakeningPercent": 326,
     "unit": "Tifa Dress",
     "role": "DPS",
     "ascension": 25
