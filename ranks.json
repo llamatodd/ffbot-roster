@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 720,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Firion",
+    "role": "Tank",
     "ascension": 59
   },
   {
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 462,
-    "unit": "Seymour Omnis",
+    "unit": "Tellah",
     "role": "DPS",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "FloDaddelt",
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 9,
     "awakeningPercent": 320,
-    "unit": "Tifa",
+    "unit": "Tifa Dress",
     "role": "DPS",
     "ascension": 25
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 14,
     "unit": "Tifa",
     "role": "DPS",
-    "ascension": 3
+    "ascension": 4
   },
   {
     "username": "ItsVin_",
