@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 526,
-    "unit": "Garland",
+    "unit": "Marcus",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 438,
-    "unit": "Cloud",
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 76
   },
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 382,
+    "awakeningPercent": 384,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 25
@@ -1677,7 +1677,7 @@
     "awakeningPercent": 22,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 1
+    "ascension": 2
   },
   {
     "username": "kiklol86",
