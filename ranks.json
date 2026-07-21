@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 720,
-    "unit": "Firion",
-    "role": "Tank",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 59
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 406,
-    "unit": "Delita",
-    "role": "Support",
+    "unit": "Raijin",
+    "role": "Tank",
     "ascension": 49
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 380,
+    "awakeningPercent": 382,
     "unit": "Estinien",
     "role": "DPS",
     "ascension": 25
