@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 332,
+    "awakeningPercent": 334,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 44
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 9,
-    "awakeningPercent": 328,
-    "unit": "Tifa",
+    "awakeningPercent": 330,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 25
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 18,
     "unit": "Fran",
     "role": "DPS",
-    "ascension": 4
+    "ascension": 5
   },
   {
     "username": "ItsVin_",
