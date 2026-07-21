@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 724,
-    "unit": "Garland",
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 59
   },
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 31,
-    "awakeningPercent": 14,
+    "rank": 30,
+    "awakeningPercent": 16,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 4
