@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 400,
-    "unit": "Quina",
+    "awakeningPercent": 402,
+    "unit": "Ozma",
     "role": "Tank",
     "ascension": 49
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 9,
     "awakeningPercent": 320,
-    "unit": "Braska",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 25
   },
