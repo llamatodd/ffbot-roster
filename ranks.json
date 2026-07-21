@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 330,
+    "awakeningPercent": 332,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 44
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 226,
-    "unit": "Chocobo",
-    "role": "Healer",
+    "unit": "Chocobo Red",
+    "role": "DPS",
     "ascension": 20
   },
   {
