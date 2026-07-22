@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 726,
-    "unit": "Firion",
-    "role": "Tank",
+    "unit": "Kain",
+    "role": "DPS",
     "ascension": 60
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 344,
     "unit": "Edgar",
     "role": "DPS",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 15,
-    "awakeningPercent": 230,
+    "awakeningPercent": 232,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 20
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 474,
-    "unit": "Metuba",
+    "unit": "Penelo",
     "role": "Support",
     "ascension": 43
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 344,
-    "unit": "Gilgamesh",
+    "awakeningPercent": 346,
+    "unit": "Gogo",
     "role": "DPS",
     "ascension": 25
   },
