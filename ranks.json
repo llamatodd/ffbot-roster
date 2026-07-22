@@ -421,7 +421,7 @@
     "awakeningPercent": 408,
     "unit": "Zack",
     "role": "Tank",
-    "ascension": 49
+    "ascension": 50
   },
   {
     "username": "artudixx",
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 332,
+    "rank": 8,
+    "awakeningPercent": 334,
     "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 25
