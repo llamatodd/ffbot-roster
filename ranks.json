@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 528,
-    "unit": "Marcus",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 440,
-    "unit": "Ingus",
-    "role": "Tank",
+    "unit": "Garland",
+    "role": "DPS",
     "ascension": 76
   },
   {
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 13,
-    "awakeningPercent": 280,
+    "awakeningPercent": 282,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 20
@@ -1298,10 +1298,10 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 392,
-    "unit": "Terra",
-    "role": "DPS",
-    "ascension": 25
+    "awakeningPercent": 394,
+    "unit": "Galuf",
+    "role": "Tank",
+    "ascension": 26
   },
   {
     "username": "sillynix",
