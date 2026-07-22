@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 440,
+    "awakeningPercent": 442,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 76
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 9,
     "awakeningPercent": 342,
-    "unit": "Edea Matron",
+    "unit": "Edgar",
     "role": "DPS",
     "ascension": 45
   },
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 33
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 394,
-    "unit": "Galuf",
-    "role": "Tank",
+    "unit": "Garnet",
+    "role": "Healer",
     "ascension": 26
   },
   {
