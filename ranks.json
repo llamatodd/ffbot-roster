@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 120,
-    "unit": "Lightning",
+    "unit": "Rikku",
     "role": "DPS",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "egg_noodler",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 9,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 45
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 15,
     "awakeningPercent": 228,
-    "unit": "Chocobo Red",
-    "role": "DPS",
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 20
   },
   {
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 30,
-    "awakeningPercent": 20,
+    "rank": 29,
+    "awakeningPercent": 22,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 5
