@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 724,
-    "unit": "Kain",
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 60
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Reno",
     "role": "DPS",
     "ascension": 50
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 11,
-    "awakeningPercent": 302,
+    "awakeningPercent": 304,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 33
