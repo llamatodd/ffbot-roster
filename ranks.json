@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 724,
-    "unit": "Reno",
+    "awakeningPercent": 726,
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 60
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 472,
+    "awakeningPercent": 474,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 43
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 22,
     "unit": "Shantotto",
     "role": "DPS",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "ItsVin_",
