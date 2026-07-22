@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 338,
+    "rank": 8,
+    "awakeningPercent": 340,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 45
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 388,
+    "awakeningPercent": 390,
     "unit": "Faris",
     "role": "Support",
     "ascension": 25
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 340,
-    "unit": "Gogo",
+    "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 25
   },
