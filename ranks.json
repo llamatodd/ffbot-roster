@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 528,
+    "awakeningPercent": 530,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 76
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 728,
-    "unit": "Kain",
-    "role": "DPS",
+    "unit": "Firion",
+    "role": "Tank",
     "ascension": 60
   },
   {
