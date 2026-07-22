@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 410,
+    "awakeningPercent": 412,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 50
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 18,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Porom",
     "role": "Healer",
     "ascension": 27
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 336,
-    "unit": "Tifa Ac",
+    "unit": "Gogo",
     "role": "DPS",
     "ascension": 25
   },
