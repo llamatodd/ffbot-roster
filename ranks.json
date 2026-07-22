@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 334,
+    "rank": 8,
+    "awakeningPercent": 336,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 44
@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 374,
-    "unit": "Desch",
-    "role": "DPS",
+    "awakeningPercent": 376,
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 18
   },
   {
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 384,
-    "unit": "Seymour Omnis",
+    "unit": "Fang",
     "role": "DPS",
     "ascension": 25
   },
@@ -1972,6 +1972,14 @@
     "rank": 80,
     "awakeningPercent": 0,
     "unit": "Ace",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "suaceface",
+    "rank": 80,
+    "awakeningPercent": 0,
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 0
   }
