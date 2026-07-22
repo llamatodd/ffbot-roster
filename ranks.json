@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 376,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 18
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 338,
+    "awakeningPercent": 340,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 25
