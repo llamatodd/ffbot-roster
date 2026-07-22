@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 414,
-    "unit": "Zack",
-    "role": "Tank",
+    "unit": "Reno",
+    "role": "DPS",
     "ascension": 50
   },
   {
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 378,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 18
   },
   {
