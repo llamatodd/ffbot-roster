@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 724,
-    "unit": "Reno",
+    "unit": "Kain",
     "role": "DPS",
     "ascension": 60
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 390,
-    "unit": "Faris",
-    "role": "Support",
+    "unit": "Galuf",
+    "role": "Tank",
     "ascension": 25
   },
   {
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 472,
-    "unit": "Celes Opera",
-    "role": "DPS",
+    "unit": "Metuba",
+    "role": "Support",
     "ascension": 43
   },
   {
@@ -1980,6 +1980,14 @@
     "rank": 43,
     "awakeningPercent": 4,
     "unit": "Rufus",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "oleuja",
+    "rank": 81,
+    "awakeningPercent": 0,
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 0
   }
