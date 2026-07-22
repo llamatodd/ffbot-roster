@@ -258,7 +258,7 @@
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 118,
+    "awakeningPercent": 120,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 38
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 336,
     "unit": "Dark Invoker",
     "role": "DPS",
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 7,
     "awakeningPercent": 376,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 18
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 384,
+    "awakeningPercent": 386,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 25
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 336,
+    "awakeningPercent": 338,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 25
