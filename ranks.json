@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 344,
+    "rank": 8,
+    "awakeningPercent": 346,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 45
@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 378,
-    "unit": "Maria",
-    "role": "Support",
+    "awakeningPercent": 380,
+    "unit": "Zidane",
+    "role": "DPS",
     "ascension": 18
   },
   {
@@ -1673,7 +1673,7 @@
   },
   {
     "username": "whitejackprime",
-    "rank": 29,
+    "rank": 30,
     "awakeningPercent": 22,
     "unit": "Cor",
     "role": "DPS",
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 29,
-    "awakeningPercent": 22,
+    "rank": 28,
+    "awakeningPercent": 24,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 6
