@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 444,
+    "awakeningPercent": 446,
     "unit": "Queen",
     "role": "DPS",
     "ascension": 76
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 400,
-    "unit": "Genesis",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 26
   },
