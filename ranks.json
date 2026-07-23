@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 356,
     "unit": "Emperor",
     "role": "DPS",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 236,
+    "awakeningPercent": 238,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 20
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 356,
-    "unit": "Torgal",
-    "role": "Support",
+    "awakeningPercent": 358,
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 26
   },
   {
