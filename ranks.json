@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 446,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 76
   },
   {
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 9,
     "awakeningPercent": 354,
-    "unit": "Edge",
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 45
   },
@@ -1193,8 +1193,8 @@
   },
   {
     "username": "its_aurelius_",
-    "rank": 11,
-    "awakeningPercent": 308,
+    "rank": 10,
+    "awakeningPercent": 310,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 34
