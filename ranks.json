@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 420,
+    "awakeningPercent": 422,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 50
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 398,
+    "awakeningPercent": 400,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 26
@@ -1385,11 +1385,11 @@
   },
   {
     "username": "jaik__",
-    "rank": 18,
-    "awakeningPercent": 130,
-    "unit": "Hope",
+    "rank": 17,
+    "awakeningPercent": 132,
+    "unit": "Garnet",
     "role": "Healer",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "dracostheveteran",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 352,
-    "unit": "Fujin",
-    "role": "DPS",
+    "unit": "Torgal",
+    "role": "Support",
     "ascension": 26
   },
   {
@@ -1988,6 +1988,14 @@
     "rank": 82,
     "awakeningPercent": 0,
     "unit": "Vivi",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "laxux_lol",
+    "rank": 82,
+    "awakeningPercent": 0,
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 0
   }
