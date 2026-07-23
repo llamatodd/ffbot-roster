@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 12,
-    "awakeningPercent": 286,
+    "awakeningPercent": 288,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 20
@@ -1195,7 +1195,7 @@
     "username": "its_aurelius_",
     "rank": 11,
     "awakeningPercent": 308,
-    "unit": "Sabin",
+    "unit": "Snow",
     "role": "Tank",
     "ascension": 34
   },
@@ -1241,7 +1241,7 @@
   },
   {
     "username": "Fossabot",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
