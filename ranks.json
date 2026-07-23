@@ -705,7 +705,7 @@
   },
   {
     "username": "KofiStreamBot",
-    "rank": 14,
+    "rank": 15,
     "awakeningPercent": 234,
     "unit": "Ovelia",
     "role": "Healer",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 234,
+    "awakeningPercent": 236,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 20
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 394,
+    "awakeningPercent": 396,
     "unit": "Garnet",
     "role": "Healer",
     "ascension": 26
