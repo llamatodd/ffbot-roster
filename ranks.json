@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 428,
+    "awakeningPercent": 430,
     "unit": "Squall Space",
     "role": "Tank",
     "ascension": 50
@@ -1385,7 +1385,7 @@
   },
   {
     "username": "jaik__",
-    "rank": 17,
+    "rank": 18,
     "awakeningPercent": 132,
     "unit": "Garnet",
     "role": "Healer",
@@ -1649,8 +1649,8 @@
   },
   {
     "username": "Dasende8702",
-    "rank": 17,
-    "awakeningPercent": 132,
+    "rank": 16,
+    "awakeningPercent": 134,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 6
