@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 530,
-    "unit": "Tifa",
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 444,
-    "unit": "Garland",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 76
   },
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 730,
+    "awakeningPercent": 732,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 60
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 348,
+    "rank": 8,
+    "awakeningPercent": 350,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 45
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 380,
+    "awakeningPercent": 382,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 19
@@ -1197,7 +1197,7 @@
     "awakeningPercent": 306,
     "unit": "Sabin",
     "role": "Tank",
-    "ascension": 33
+    "ascension": 34
   },
   {
     "username": "explorer_moogle",
