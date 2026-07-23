@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 482,
+    "awakeningPercent": 484,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 44
@@ -2004,6 +2004,14 @@
     "rank": 82,
     "awakeningPercent": 0,
     "unit": "Edea Matron",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "BurroTeam",
+    "rank": 82,
+    "awakeningPercent": 0,
+    "unit": "Isaaru",
     "role": "DPS",
     "ascension": 0
   }
