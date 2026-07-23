@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 398,
-    "unit": "Garnet",
-    "role": "Healer",
+    "unit": "Genesis",
+    "role": "DPS",
     "ascension": 26
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 478,
+    "awakeningPercent": 480,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 43
