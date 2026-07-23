@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 442,
+    "awakeningPercent": 444,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 76
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 728,
-    "unit": "Firion",
+    "awakeningPercent": 730,
+    "unit": "Rude",
     "role": "Tank",
     "ascension": 60
   },
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 346,
     "unit": "Edgar",
     "role": "DPS",
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 126,
     "unit": "Hope",
     "role": "Healer",
-    "ascension": 27
+    "ascension": 28
   },
   {
     "username": "dracostheveteran",
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 346,
-    "unit": "Gogo",
+    "awakeningPercent": 348,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 25
   },
