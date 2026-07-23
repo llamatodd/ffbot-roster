@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 13,
-    "awakeningPercent": 284,
+    "rank": 12,
+    "awakeningPercent": 286,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 20
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 15,
-    "awakeningPercent": 232,
+    "rank": 14,
+    "awakeningPercent": 234,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 20
@@ -1387,7 +1387,7 @@
     "username": "jaik__",
     "rank": 18,
     "awakeningPercent": 126,
-    "unit": "Porom",
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 27
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 474,
+    "awakeningPercent": 476,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 43
