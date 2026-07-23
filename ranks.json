@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 732,
-    "unit": "Rude",
-    "role": "Tank",
-    "ascension": 60
+    "unit": "Kimahri",
+    "role": "DPS",
+    "ascension": 61
   },
   {
     "username": "Jestmichelle",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 422,
+    "awakeningPercent": 424,
     "unit": "Wol",
     "role": "Tank",
     "ascension": 50
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 480,
-    "unit": "Penelo",
-    "role": "Support",
-    "ascension": 43
+    "unit": "Luneth",
+    "role": "DPS",
+    "ascension": 44
   },
   {
     "username": "FloDaddelt",
