@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 382,
+    "awakeningPercent": 384,
     "unit": "Clive",
     "role": "DPS",
     "ascension": 19
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 402,
-    "unit": "Genesis",
-    "role": "DPS",
+    "unit": "Ghido",
+    "role": "Tank",
     "ascension": 26
   },
   {
