@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 736,
-    "unit": "Luneth",
+    "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 61
   },
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 364,
+    "rank": 8,
+    "awakeningPercent": 366,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 46
@@ -1781,7 +1781,7 @@
     "awakeningPercent": 60,
     "unit": "Kuja",
     "role": "DPS",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "vivi_clockworker",
