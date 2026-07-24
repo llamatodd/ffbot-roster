@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 246,
-    "unit": "Domino",
-    "role": "Tank",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 490,
-    "unit": "Kefka",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 44
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 368,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Tifa Ac",
+    "role": "DPS",
     "ascension": 27
   },
   {
