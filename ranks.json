@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 538,
+    "awakeningPercent": 540,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 77
@@ -10,7 +10,7 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 448,
+    "awakeningPercent": 450,
     "unit": "Domino",
     "role": "Tank",
     "ascension": 77
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 364,
     "unit": "Chocobo Fat",
     "role": "DPS",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 244,
+    "awakeningPercent": 246,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 20
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 414,
-    "unit": "Isaaru",
+    "awakeningPercent": 416,
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 26
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 26
