@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 738,
-    "unit": "Chocobo Fat",
+    "awakeningPercent": 740,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 61
   },
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 16
   },
   {
     "username": "Nightbot",
     "rank": 11,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 16
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 490,
-    "unit": "Reno",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 44
   },
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 366,
-    "unit": "Chocobo Red",
-    "role": "DPS",
+    "rank": 8,
+    "awakeningPercent": 368,
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 27
   },
   {
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 30,
     "unit": "Yshtola",
     "role": "DPS",
-    "ascension": 7
+    "ascension": 8
   },
   {
     "username": "ItsVin_",
