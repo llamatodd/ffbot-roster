@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 738,
-    "unit": "Fran",
+    "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 61
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 46
@@ -1147,9 +1147,9 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 246,
-    "unit": "Chocobo Fat",
-    "role": "DPS",
-    "ascension": 20
+    "unit": "Domino",
+    "role": "Tank",
+    "ascension": 21
   },
   {
     "username": "EagleCeres",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 366,
     "unit": "Chocobo Red",
     "role": "DPS",
