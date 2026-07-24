@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 736,
-    "unit": "Luneth",
+    "awakeningPercent": 738,
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 61
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 436,
+    "awakeningPercent": 438,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 50
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 28,
-    "awakeningPercent": 28,
+    "rank": 27,
+    "awakeningPercent": 30,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 7
