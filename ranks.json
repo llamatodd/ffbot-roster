@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 12,
-    "awakeningPercent": 294,
+    "awakeningPercent": 296,
     "unit": "Zell",
     "role": "DPS",
     "ascension": 21
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 736,
-    "unit": "Kimahri",
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 61
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 388,
+    "awakeningPercent": 390,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 19
