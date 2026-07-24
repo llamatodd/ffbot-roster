@@ -409,11 +409,11 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 360,
-    "unit": "Emperor",
+    "unit": "Chocobo Fat",
     "role": "DPS",
-    "ascension": 45
+    "ascension": 46
   },
   {
     "username": "seika",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 360,
+    "awakeningPercent": 362,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 26
