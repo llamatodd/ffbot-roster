@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 536,
-    "unit": "Clive",
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 76
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 446,
-    "unit": "Ingus",
+    "unit": "Domino",
     "role": "Tank",
     "ascension": 76
   },
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 362,
+    "rank": 8,
+    "awakeningPercent": 364,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 46
@@ -1194,7 +1194,7 @@
   {
     "username": "its_aurelius_",
     "rank": 10,
-    "awakeningPercent": 314,
+    "awakeningPercent": 316,
     "unit": "Shadow",
     "role": "Tank",
     "ascension": 34
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 412,
-    "unit": "Gilgamesh",
+    "unit": "Isaaru",
     "role": "DPS",
     "ascension": 26
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 488,
-    "unit": "Relm",
+    "unit": "Quistis",
     "role": "DPS",
     "ascension": 44
   },
