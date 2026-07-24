@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 358,
     "unit": "Emperor",
     "role": "DPS",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 238,
+    "awakeningPercent": 240,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 20
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 358,
-    "unit": "Fujin",
+    "awakeningPercent": 360,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 26
   },
