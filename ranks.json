@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 736,
-    "unit": "Chocobo Fat",
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 61
   },
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 11,
     "awakeningPercent": 310,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 16
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 490,
-    "unit": "Quistis",
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 44
   },
@@ -1499,9 +1499,9 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 366,
-    "unit": "Cod",
+    "unit": "Chocobo Red",
     "role": "DPS",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "eyetotem",
