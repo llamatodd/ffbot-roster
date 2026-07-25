@@ -242,16 +242,16 @@
   {
     "username": "Fangcollector",
     "rank": 12,
-    "awakeningPercent": 304,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "awakeningPercent": 306,
+    "unit": "Quistis",
+    "role": "DPS",
     "ascension": 21
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 744,
-    "unit": "Genesis",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 62
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 380,
+    "awakeningPercent": 382,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 46
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 16
   },
   {
     "username": "Nightbot",
     "rank": 11,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 16
   },
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 380,
     "unit": "Selphie",
     "role": "DPS",
