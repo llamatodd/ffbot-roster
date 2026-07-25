@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 442,
-    "unit": "Firion",
+    "unit": "Rude",
     "role": "Tank",
     "ascension": 51
   },
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 374,
-    "unit": "Seifer",
+    "rank": 8,
+    "awakeningPercent": 376,
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 27
   },
