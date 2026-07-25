@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 540,
-    "unit": "Luneth",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 77
   },
@@ -11,7 +11,7 @@
     "username": "OrgleBot",
     "rank": 4,
     "awakeningPercent": 450,
-    "unit": "Domino",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 77
   },
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 740,
-    "unit": "Irvine",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 61
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 418,
-    "unit": "Jecht",
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 26
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 490,
-    "unit": "Kuja",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 44
   },
