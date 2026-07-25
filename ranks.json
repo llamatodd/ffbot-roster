@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 446,
-    "unit": "Firion",
+    "unit": "Guy",
     "role": "Tank",
     "ascension": 51
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 492,
-    "unit": "Gogo",
+    "awakeningPercent": 494,
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 45
   },
