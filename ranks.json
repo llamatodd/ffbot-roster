@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 12,
-    "awakeningPercent": 300,
+    "awakeningPercent": 302,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 21
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 424,
-    "unit": "Kain",
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 26
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 490,
+    "awakeningPercent": 492,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 45
