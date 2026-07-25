@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 742,
-    "unit": "Chocobo Fat",
+    "awakeningPercent": 744,
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 62
   },
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 8,
     "awakeningPercent": 378,
-    "unit": "Fran",
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 46
   },
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1497,15 +1497,15 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 376,
-    "unit": "Chocobo Red",
+    "rank": 8,
+    "awakeningPercent": 378,
+    "unit": "Selphie",
     "role": "DPS",
     "ascension": 27
   },
   {
     "username": "eyetotem",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -1930,7 +1930,7 @@
   {
     "username": "Vaedryn",
     "rank": 37,
-    "awakeningPercent": 6,
+    "awakeningPercent": 8,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 0
