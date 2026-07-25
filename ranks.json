@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "Moobot",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 432,
+    "awakeningPercent": 434,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 26
