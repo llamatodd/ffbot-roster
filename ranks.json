@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 12,
-    "awakeningPercent": 298,
+    "awakeningPercent": 300,
     "unit": "Zell",
     "role": "DPS",
     "ascension": 21
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 9,
-    "awakeningPercent": 370,
-    "unit": "Fang",
+    "awakeningPercent": 372,
+    "unit": "Fran",
     "role": "DPS",
     "ascension": 46
   },
