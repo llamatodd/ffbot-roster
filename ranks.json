@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 430,
-    "unit": "Lightning",
+    "awakeningPercent": 432,
+    "unit": "Margy",
     "role": "DPS",
     "ascension": 26
   },
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 26,
     "awakeningPercent": 32,
-    "unit": "Yshtola",
-    "role": "DPS",
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 9
   },
   {
