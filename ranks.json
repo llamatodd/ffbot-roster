@@ -10,8 +10,8 @@
   {
     "username": "OrgleBot",
     "rank": 4,
-    "awakeningPercent": 450,
-    "unit": "Squall Space",
+    "awakeningPercent": 452,
+    "unit": "Domino",
     "role": "Tank",
     "ascension": 77
   },
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 740,
-    "unit": "Cor",
+    "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 61
   },
@@ -421,7 +421,7 @@
     "awakeningPercent": 438,
     "unit": "Rude",
     "role": "Tank",
-    "ascension": 50
+    "ascension": 51
   },
   {
     "username": "artudixx",
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 16
   },
   {
     "username": "Nightbot",
     "rank": 11,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 16
   },
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 418,
-    "unit": "Terra",
+    "awakeningPercent": 420,
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 26
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 490,
-    "unit": "Kuja",
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 44
   },
@@ -1497,9 +1497,9 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 368,
-    "unit": "Tifa Ac",
+    "rank": 8,
+    "awakeningPercent": 370,
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 27
   },
