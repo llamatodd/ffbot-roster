@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 392,
+    "awakeningPercent": 394,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 19
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 428,
-    "unit": "Leon",
+    "unit": "Lightning",
     "role": "DPS",
     "ascension": 26
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 492,
-    "unit": "Reno",
+    "unit": "Gogo",
     "role": "DPS",
     "ascension": 45
   },
