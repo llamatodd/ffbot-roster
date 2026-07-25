@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 494,
-    "unit": "Rubicante",
-    "role": "DPS",
+    "awakeningPercent": 496,
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 45
   },
   {
@@ -2020,6 +2020,14 @@
     "rank": 83,
     "awakeningPercent": 0,
     "unit": "Squall",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Thunderkitten",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 0
   }
