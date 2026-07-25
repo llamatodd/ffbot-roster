@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 742,
-    "unit": "Chocobo Fat",
+    "unit": "Fujin",
     "role": "DPS",
-    "ascension": 61
+    "ascension": 62
   },
   {
     "username": "Jestmichelle",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 426,
+    "awakeningPercent": 428,
     "unit": "Leon",
     "role": "DPS",
     "ascension": 26
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 492,
-    "unit": "Gilgamesh",
+    "unit": "Reno",
     "role": "DPS",
     "ascension": 45
   },
