@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 27,
+    "rank": 28,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 394,
+    "awakeningPercent": 396,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 19
@@ -1389,7 +1389,7 @@
     "awakeningPercent": 142,
     "unit": "Cecil",
     "role": "DPS",
-    "ascension": 30
+    "ascension": 31
   },
   {
     "username": "dracostheveteran",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 496,
+    "awakeningPercent": 498,
     "unit": "Ingus",
     "role": "Tank",
     "ascension": 45
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 27,
-    "awakeningPercent": 30,
+    "rank": 26,
+    "awakeningPercent": 32,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 9
