@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 12,
     "awakeningPercent": 300,
-    "unit": "Zell",
-    "role": "DPS",
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 5,
-    "awakeningPercent": 440,
+    "awakeningPercent": 442,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 51
