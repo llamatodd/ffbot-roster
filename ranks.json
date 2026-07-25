@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 370,
     "unit": "Fang",
     "role": "DPS",
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 5,
     "awakeningPercent": 438,
-    "unit": "Rude",
+    "unit": "Firion",
     "role": "Tank",
     "ascension": 51
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 246,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Domino",
+    "role": "Tank",
     "ascension": 21
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 420,
+    "awakeningPercent": 422,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 26
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 490,
     "unit": "Gilgamesh",
     "role": "DPS",
-    "ascension": 44
+    "ascension": 45
   },
   {
     "username": "FloDaddelt",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 370,
+    "awakeningPercent": 372,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 27
