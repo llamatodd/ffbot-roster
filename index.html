@@ -97,7 +97,7 @@
     <div style="display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;margin-bottom:18px;">
         <span id="spriteRowLeft" class="sprite-row"></span>
         <div style="text-align:center;">
-            <p id="lastUpdated" style="margin:0;">Last Updated: July 26, 2026 at 02:30 PM</p>
+            <p id="lastUpdated" style="margin:0;">Last Updated: July 26, 2026 at 02:34 PM</p>
             <p style="margin:6px 0 0;">
                 <a href="https://twitch.tv/llamatodd" target="_blank" class="twitch-credit">
                     <span style="font-family:Arial,sans-serif;">📺</span> Roster by llamatodd &middot; twitch.tv/llamatodd
@@ -228,7 +228,7 @@
                         <div style="padding:16px 16px 12px;">
                             <div class="pixel-font player-name">${p.username}</div>
                             <div style="font-size:15px;color:#eee;margin-top:6px;font-weight:bold;">${p.unit || 'N/A'} <span class="active-tag pixel-font">ACTIVE</span></div>
-                            <div style="font-size:12px;color:#aaa;margin-top:4px;">Collection ${p.collection || 0}/160 &nbsp;|&nbsp; ⭐ ${getMastered(p)} Mastered <span style="color:#666;">(${160 - getMastered(p)} left)</span></div>
+                            <div style="font-size:12px;color:#aaa;margin-top:4px;">Collection ${p.collection || 0}/162 &nbsp;|&nbsp; ⭐ ${getMastered(p)} Mastered <span style="color:#666;">(${162 - getMastered(p)} left)</span></div>
 
                             <div class="awk-stat pixel-font">AWAKENING ${p.awakeningexp || 0}%</div>
 
@@ -339,10 +339,10 @@
             currentCharacters = characters;
             window.originalCharacters = [...characters];
 
-            // If collection is full (160/160), the player has recruited every character.
+            // If collection is full (162/162), the player has recruited every character.
             // Supplement the list with any characters that have no game data yet —
             // they're definitely recruited, just in limbo (never leveled or passive-added).
-            const collectionFull = parseInt(p.collection || 0) >= 160;
+            const collectionFull = parseInt(p.collection || 0) >= 162;
             if (collectionFull) {
                 const trackedNames = new Set(characters.map(c => c.name.toLowerCase().replace(/ /g, '')));
                 const supplemented = new Set(); // prevent duplicate CSV entries from both index keys
@@ -614,7 +614,7 @@
                 <p style="font-size:13px;color:#aaa;margin-top:2px;margin-bottom:14px;">
                     ASC ${p.ascension || 0} &nbsp;·&nbsp;
                     <span style="color:#ffcc00;">AWAKENING ${p.awakeningexp || 0}%</span> &nbsp;·&nbsp;
-                    Collection ${p.collection || 0}/160 &nbsp;·&nbsp;
+                    Collection ${p.collection || 0}/162 &nbsp;·&nbsp;
                     Gil ${parseInt(p.gil||0).toLocaleString()} &nbsp;·&nbsp;
                     ${parseInt(p.wins||0).toLocaleString()} wins
                 </p>
