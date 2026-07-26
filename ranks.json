@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 12,
-    "awakeningPercent": 308,
+    "rank": 11,
+    "awakeningPercent": 310,
     "unit": "Quistis",
     "role": "DPS",
     "ascension": 21
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 434,
+    "awakeningPercent": 436,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 26
