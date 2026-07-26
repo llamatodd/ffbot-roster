@@ -411,16 +411,16 @@
     "username": "SnoochieBoochie_",
     "rank": 8,
     "awakeningPercent": 384,
-    "unit": "Freya",
+    "unit": "Fujin",
     "role": "DPS",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 452,
-    "unit": "Dangerniel",
-    "role": "Tank",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 51
   },
   {
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 398,
     "unit": "Elena",
     "role": "Support",
-    "ascension": 19
+    "ascension": 20
   },
   {
     "username": "Niriall",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 500,
+    "awakeningPercent": 502,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 45
