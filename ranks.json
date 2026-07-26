@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 748,
-    "unit": "Estinien",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 62
   },
   {
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 388,
-    "unit": "Red Xiii",
-    "role": "Support",
+    "rank": 8,
+    "awakeningPercent": 390,
+    "unit": "Reno",
+    "role": "DPS",
     "ascension": 28
   },
   {
