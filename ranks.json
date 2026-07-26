@@ -250,15 +250,15 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 746,
-    "unit": "Zell",
+    "awakeningPercent": 748,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 62
   },
   {
     "username": "Jestmichelle",
     "rank": 19,
-    "awakeningPercent": 124,
+    "awakeningPercent": 126,
     "unit": "Domino",
     "role": "Tank",
     "ascension": 40
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 456,
-    "unit": "Guy",
+    "awakeningPercent": 458,
+    "unit": "Ingus",
     "role": "Tank",
     "ascension": 51
   },
