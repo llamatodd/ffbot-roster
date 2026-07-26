@@ -1387,8 +1387,8 @@
     "username": "jaik__",
     "rank": 16,
     "awakeningPercent": 146,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 31
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 502,
+    "awakeningPercent": 504,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 45
