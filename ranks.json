@@ -2,8 +2,8 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 540,
-    "unit": "Cor",
+    "awakeningPercent": 542,
+    "unit": "Luneth",
     "role": "DPS",
     "ascension": 77
   },
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 11,
-    "awakeningPercent": 310,
-    "unit": "Quistis",
+    "awakeningPercent": 312,
+    "unit": "Selphie",
     "role": "DPS",
     "ascension": 21
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 11,
+    "rank": 12,
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
