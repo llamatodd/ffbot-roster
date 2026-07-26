@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 542,
+    "awakeningPercent": 544,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 77
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 748,
-    "unit": "Thancred",
-    "role": "Tank",
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 62
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 510,
-    "unit": "Paine",
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 46
   },
