@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 124,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Domino",
+    "role": "Tank",
     "ascension": 40
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 452,
-    "unit": "Ashe",
-    "role": "Support",
+    "unit": "Guy",
+    "role": "Tank",
     "ascension": 51
   },
   {
