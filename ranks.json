@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 748,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 62
   },
   {
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 392,
+    "rank": 8,
+    "awakeningPercent": 394,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 47
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 17
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 17
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 6,
     "awakeningPercent": 444,
-    "unit": "Terra",
+    "unit": "Mog",
     "role": "DPS",
     "ascension": 26
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 510,
-    "unit": "Kuja",
+    "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 46
   },
