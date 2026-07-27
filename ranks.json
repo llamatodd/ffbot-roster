@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 11,
-    "awakeningPercent": 318,
+    "awakeningPercent": 320,
     "unit": "Kiros",
     "role": "DPS",
     "ascension": 22
@@ -1297,9 +1297,9 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 6,
-    "awakeningPercent": 450,
-    "unit": "Orlandeau",
+    "rank": 5,
+    "awakeningPercent": 452,
+    "unit": "Prompto",
     "role": "DPS",
     "ascension": 26
   },
