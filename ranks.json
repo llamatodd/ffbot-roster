@@ -9,9 +9,9 @@
   },
   {
     "username": "OrgleBot",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 452,
-    "unit": "Domino",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 77
   },
@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 126,
-    "unit": "Tidus",
-    "role": "Support",
-    "ascension": 40
+    "unit": "Domino",
+    "role": "Tank",
+    "ascension": 41
   },
   {
     "username": "egg_noodler",
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 452,
-    "unit": "Prompto",
-    "role": "DPS",
+    "awakeningPercent": 454,
+    "unit": "Quina",
+    "role": "Tank",
     "ascension": 26
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 516,
+    "awakeningPercent": 518,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 46
