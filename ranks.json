@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 750,
-    "unit": "Fujin",
+    "awakeningPercent": 752,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 62
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 474,
-    "unit": "Gladio",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 52
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 254,
-    "unit": "Metuba",
-    "role": "Support",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 17
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 17
   },
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 454,
-    "unit": "Quina",
-    "role": "Tank",
+    "awakeningPercent": 456,
+    "unit": "Rydia",
+    "role": "DPS",
     "ascension": 26
   },
   {
