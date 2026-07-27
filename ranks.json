@@ -242,10 +242,10 @@
   {
     "username": "Fangcollector",
     "rank": 11,
-    "awakeningPercent": 316,
-    "unit": "Selphie",
+    "awakeningPercent": 318,
+    "unit": "Kiros",
     "role": "DPS",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "Sarah_Orion",
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 470,
-    "unit": "Snow",
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 52
   },
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 6,
-    "awakeningPercent": 448,
-    "unit": "Mog",
+    "awakeningPercent": 450,
+    "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 26
   },
