@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 408,
+    "awakeningPercent": 410,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 20
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 398,
-    "unit": "Reno",
-    "role": "DPS",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 28
   },
   {
