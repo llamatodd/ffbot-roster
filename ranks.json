@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 558,
+    "awakeningPercent": 560,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 77
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 254,
-    "unit": "Metuba",
-    "role": "Support",
+    "unit": "Fang",
+    "role": "DPS",
     "ascension": 21
   },
   {
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 38,
     "unit": "Eiko",
     "role": "Healer",
-    "ascension": 13
+    "ascension": 14
   },
   {
     "username": "ItsVin_",
