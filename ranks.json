@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 562,
-    "unit": "Cor",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 77
   },
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 324,
+    "awakeningPercent": 326,
     "unit": "Laguna",
     "role": "DPS",
     "ascension": 22
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 754,
-    "unit": "Cor",
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 63
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 410,
+    "awakeningPercent": 412,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 48
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 17
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 17
   },
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 464,
-    "unit": "Terra",
-    "role": "DPS",
+    "awakeningPercent": 466,
+    "unit": "Red Xiii",
+    "role": "Support",
     "ascension": 27
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 526,
-    "unit": "Ramza",
+    "unit": "Elena",
     "role": "Support",
     "ascension": 47
   },
