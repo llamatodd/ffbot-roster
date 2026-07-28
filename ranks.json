@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 468,
-    "unit": "Red Xiii",
-    "role": "Support",
+    "awakeningPercent": 470,
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 27
   },
   {
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 526,
-    "unit": "Elena",
-    "role": "Support",
+    "awakeningPercent": 528,
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 47
   },
   {
