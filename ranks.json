@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 404,
+    "awakeningPercent": 406,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 47
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 456,
-    "unit": "Quina",
+    "awakeningPercent": 458,
+    "unit": "Raijin",
     "role": "Tank",
     "ascension": 26
   },
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 402,
     "unit": "Ashe",
     "role": "Support",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "eyetotem",
