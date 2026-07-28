@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 752,
+    "awakeningPercent": 754,
     "unit": "Braska",
     "role": "DPS",
     "ascension": 62
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 460,
+    "awakeningPercent": 462,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 26
@@ -1827,9 +1827,9 @@
     "username": "Tsunamimaru",
     "rank": 26,
     "awakeningPercent": 40,
-    "unit": "Eiko",
-    "role": "Healer",
-    "ascension": 14
+    "unit": "Yuna",
+    "role": "DPS",
+    "ascension": 15
   },
   {
     "username": "ItsVin_",
