@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 558,
-    "unit": "Celes",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 77
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 474,
-    "unit": "Gladio",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 52
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 254,
-    "unit": "Metuba",
-    "role": "Support",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 17
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 17
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 458,
-    "unit": "Raijin",
-    "role": "Tank",
+    "unit": "Seymour Omnis",
+    "role": "DPS",
     "ascension": 26
   },
   {
