@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 754,
-    "unit": "Fran",
+    "unit": "Estinien",
     "role": "DPS",
-    "ascension": 62
+    "ascension": 63
   },
   {
     "username": "Jestmichelle",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 408,
+    "awakeningPercent": 410,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 48
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 258,
-    "unit": "Fang",
-    "role": "DPS",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 524,
-    "unit": "Elena",
+    "unit": "Ramza",
     "role": "Support",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "FloDaddelt",
