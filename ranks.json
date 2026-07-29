@@ -2046,5 +2046,13 @@
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Abelnox",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Dangerniel",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
