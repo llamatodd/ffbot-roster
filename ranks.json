@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 568,
+    "awakeningPercent": 570,
     "unit": "Rydia",
     "role": "DPS",
     "ascension": 77
@@ -2036,6 +2036,14 @@
     "rank": 83,
     "awakeningPercent": 0,
     "unit": "Luneth",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "InnerKnightmare",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 0
   }
