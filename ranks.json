@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 572,
-    "unit": "Garnet Summoner",
+    "unit": "Cor",
     "role": "DPS",
     "ascension": 77
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 758,
-    "unit": "Cait Sith",
-    "role": "Tank",
+    "unit": "Cor",
+    "role": "DPS",
     "ascension": 63
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 7,
-    "awakeningPercent": 422,
+    "awakeningPercent": 424,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 48
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 262,
-    "unit": "Vegeta",
-    "role": "DPS",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 17
   },
   {
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 480,
-    "unit": "Shana",
-    "role": "Support",
+    "unit": "Celes",
+    "role": "DPS",
     "ascension": 27
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 534,
-    "unit": "Faris",
+    "unit": "Ramza",
     "role": "Support",
     "ascension": 47
   },
