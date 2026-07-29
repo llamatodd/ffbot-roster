@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 418,
     "unit": "Gogo",
     "role": "DPS",
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 486,
-    "unit": "Shadow",
+    "awakeningPercent": 488,
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 52
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 260,
+    "awakeningPercent": 262,
     "unit": "Vegeta",
     "role": "DPS",
     "ascension": 21
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 420,
     "unit": "Auron",
     "role": "Tank",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "Niriall",
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 474,
+    "awakeningPercent": 476,
     "unit": "Selphie",
     "role": "DPS",
     "ascension": 27
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 418,
+    "rank": 7,
+    "awakeningPercent": 420,
     "unit": "Relm",
     "role": "DPS",
     "ascension": 29
