@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 570,
+    "awakeningPercent": 572,
     "unit": "Rydia",
     "role": "DPS",
     "ascension": 77
@@ -243,7 +243,7 @@
     "username": "Fangcollector",
     "rank": 10,
     "awakeningPercent": 330,
-    "unit": "Laguna",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 22
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 258,
+    "awakeningPercent": 260,
     "unit": "Vegeta",
     "role": "DPS",
     "ascension": 21
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 532,
-    "unit": "Freya",
-    "role": "DPS",
+    "unit": "Faris",
+    "role": "Support",
     "ascension": 47
   },
   {
