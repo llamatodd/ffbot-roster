@@ -409,9 +409,9 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 9,
-    "awakeningPercent": 418,
-    "unit": "Gogo",
+    "rank": 7,
+    "awakeningPercent": 420,
+    "unit": "Gordon",
     "role": "DPS",
     "ascension": 48
   },
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 420,
     "unit": "Relm",
     "role": "DPS",
-    "ascension": 29
+    "ascension": 30
   },
   {
     "username": "eyetotem",
@@ -1827,9 +1827,9 @@
     "username": "Tsunamimaru",
     "rank": 26,
     "awakeningPercent": 44,
-    "unit": "Yuna",
-    "role": "DPS",
-    "ascension": 17
+    "unit": "Matoya",
+    "role": "Support",
+    "ascension": 18
   },
   {
     "username": "ItsVin_",
