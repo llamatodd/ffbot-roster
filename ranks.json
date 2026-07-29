@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 482,
-    "unit": "Umaro",
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 52
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 9,
     "awakeningPercent": 412,
-    "unit": "Matoya",
+    "unit": "Metuba",
     "role": "Support",
     "ascension": 29
   },
@@ -2029,6 +2029,14 @@
     "awakeningPercent": 0,
     "unit": "Dangerniel",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "CptCrab",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Luneth",
+    "role": "DPS",
     "ascension": 0
   }
 ]
