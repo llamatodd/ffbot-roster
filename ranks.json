@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 330,
+    "awakeningPercent": 332,
     "unit": "Lulu",
     "role": "DPS",
     "ascension": 22
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 758,
-    "unit": "Blank",
-    "role": "DPS",
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 63
   },
   {
@@ -2052,6 +2052,14 @@
     "rank": 83,
     "awakeningPercent": 0,
     "unit": "Dangerniel",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "kiwibonk",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Esquie",
     "role": "Tank",
     "ascension": 0
   }
