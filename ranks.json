@@ -259,7 +259,7 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 128,
-    "unit": "Lulu",
+    "unit": "Tifa",
     "role": "DPS",
     "ascension": 41
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 484,
+    "awakeningPercent": 486,
     "unit": "Shadow",
     "role": "Tank",
     "ascension": 52
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 418,
+    "awakeningPercent": 420,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 20
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 414,
+    "rank": 8,
+    "awakeningPercent": 416,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 29
