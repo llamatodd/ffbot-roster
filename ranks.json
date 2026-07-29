@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 572,
+    "awakeningPercent": 574,
     "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 77
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 262,
+    "awakeningPercent": 264,
     "unit": "Vegeta",
     "role": "DPS",
     "ascension": 21
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 480,
-    "unit": "Celes",
-    "role": "DPS",
+    "unit": "Shana",
+    "role": "Support",
     "ascension": 27
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 536,
-    "unit": "Freya",
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 47
   },
