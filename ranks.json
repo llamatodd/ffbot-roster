@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 758,
-    "unit": "Blank",
-    "role": "DPS",
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 63
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 490,
+    "awakeningPercent": 492,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 52
