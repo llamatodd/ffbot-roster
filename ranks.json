@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 474,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "unit": "Selphie",
+    "role": "DPS",
     "ascension": 27
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 416,
+    "rank": 8,
+    "awakeningPercent": 418,
     "unit": "Relm",
     "role": "DPS",
     "ascension": 29
