@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 8,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 48
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 258,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Ghido",
+    "role": "Tank",
     "ascension": 21
   },
   {
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 414,
     "unit": "Metuba",
     "role": "Support",
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 26,
-    "awakeningPercent": 42,
+    "awakeningPercent": 44,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 17
