@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 482,
+    "awakeningPercent": 484,
     "unit": "Shadow",
     "role": "Tank",
     "ascension": 52
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 16,
-    "awakeningPercent": 150,
+    "awakeningPercent": 152,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 32
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 9,
-    "awakeningPercent": 412,
+    "rank": 8,
+    "awakeningPercent": 414,
     "unit": "Metuba",
     "role": "Support",
     "ascension": 29
