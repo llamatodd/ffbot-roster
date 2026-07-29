@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 564,
+    "awakeningPercent": 566,
     "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 77
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 756,
-    "unit": "Shadow",
-    "role": "Tank",
+    "awakeningPercent": 758,
+    "unit": "Blank",
+    "role": "DPS",
     "ascension": 63
   },
   {
