@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 420,
     "unit": "Auron",
     "role": "Tank",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 480,
-    "unit": "Shana",
-    "role": "Support",
+    "unit": "Celes",
+    "role": "DPS",
     "ascension": 27
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 534,
+    "awakeningPercent": 536,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 47
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 420,
-    "unit": "Relm",
-    "role": "DPS",
+    "awakeningPercent": 422,
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 30
   },
   {
