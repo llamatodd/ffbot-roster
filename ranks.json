@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 414,
     "unit": "Gilgamesh",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 20
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 528,
-    "unit": "Queen",
+    "unit": "Freya",
     "role": "DPS",
     "ascension": 47
   },
