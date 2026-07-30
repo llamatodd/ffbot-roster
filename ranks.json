@@ -2062,5 +2062,13 @@
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "HFDigiMode",
+    "rank": 83,
+    "awakeningPercent": 0,
+    "unit": "Terra",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
