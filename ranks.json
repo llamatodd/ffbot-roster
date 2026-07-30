@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 582,
-    "unit": "Cod",
+    "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 78
   },
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 430,
     "unit": "Isaaru",
     "role": "DPS",
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 486,
-    "unit": "Silenrea",
-    "role": "DPS",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 27
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 7,
-    "awakeningPercent": 430,
+    "awakeningPercent": 432,
     "unit": "Leon",
     "role": "DPS",
     "ascension": 30
