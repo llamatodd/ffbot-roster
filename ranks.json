@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 758,
+    "awakeningPercent": 760,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 63
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 264,
-    "unit": "Vegeta",
-    "role": "DPS",
+    "unit": "Ovelia",
+    "role": "Healer",
     "ascension": 21
   },
   {
