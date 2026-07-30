@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 488,
+    "awakeningPercent": 490,
     "unit": "Solanin",
     "role": "Support",
     "ascension": 27
@@ -2069,6 +2069,14 @@
     "awakeningPercent": 2,
     "unit": "Terra",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "dolphi___",
+    "rank": 84,
+    "awakeningPercent": 0,
+    "unit": "Umaro",
+    "role": "Tank",
     "ascension": 0
   }
 ]
