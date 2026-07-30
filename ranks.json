@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 760,
-    "unit": "Marcus",
-    "role": "DPS",
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 63
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 540,
-    "unit": "Locke",
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 47
   },
