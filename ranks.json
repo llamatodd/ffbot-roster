@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 7,
-    "awakeningPercent": 424,
+    "awakeningPercent": 426,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 48
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 494,
-    "unit": "Galuf",
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 52
   },
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 424,
-    "unit": "Reno",
-    "role": "DPS",
+    "unit": "Lenna",
+    "role": "Support",
     "ascension": 30
   },
   {
