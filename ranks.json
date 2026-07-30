@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 576,
+    "awakeningPercent": 578,
     "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 77
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 496,
+    "awakeningPercent": 498,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 53
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 9,
-    "awakeningPercent": 420,
+    "awakeningPercent": 422,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 21
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 538,
+    "awakeningPercent": 540,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 47
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 426,
+    "rank": 7,
+    "awakeningPercent": 428,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 30
@@ -1641,7 +1641,7 @@
   },
   {
     "username": "Maya__Lyoness",
-    "rank": 25,
+    "rank": 26,
     "awakeningPercent": 46,
     "unit": "Aeris",
     "role": "Healer",
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 25,
-    "awakeningPercent": 46,
+    "awakeningPercent": 48,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 19
