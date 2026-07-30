@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 578,
+    "awakeningPercent": 580,
     "unit": "Cod",
     "role": "DPS",
     "ascension": 78
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 9,
     "awakeningPercent": 422,
-    "unit": "Auron",
+    "unit": "Auron Young",
     "role": "Tank",
     "ascension": 21
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 428,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Leon",
+    "role": "DPS",
     "ascension": 30
   },
   {
