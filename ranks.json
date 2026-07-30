@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 494,
+    "awakeningPercent": 496,
     "unit": "Esquie",
     "role": "Tank",
     "ascension": 53
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 424,
+    "rank": 7,
+    "awakeningPercent": 426,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 30
