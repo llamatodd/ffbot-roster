@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 758,
-    "unit": "Cid Randell",
-    "role": "Tank",
+    "unit": "Blank",
+    "role": "DPS",
     "ascension": 63
   },
   {
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 480,
-    "unit": "Shana",
-    "role": "Support",
+    "awakeningPercent": 482,
+    "unit": "Silenrea",
+    "role": "DPS",
     "ascension": 27
   },
   {
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 422,
+    "rank": 7,
+    "awakeningPercent": 424,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 30
