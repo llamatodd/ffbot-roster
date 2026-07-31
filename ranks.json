@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 498,
-    "unit": "Esquie",
+    "awakeningPercent": 500,
+    "unit": "Domino",
     "role": "Tank",
     "ascension": 53
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 546,
-    "unit": "Blank",
+    "unit": "Marcus",
     "role": "DPS",
     "ascension": 47
   },
