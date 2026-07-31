@@ -129,7 +129,7 @@
   },
   {
     "username": "TheLoneRanger2016",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Basch",
     "role": "Tank",
@@ -337,7 +337,7 @@
   },
   {
     "username": "Jezzy123",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Lulu",
     "role": "DPS",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 7,
-    "awakeningPercent": 446,
+    "awakeningPercent": 448,
     "unit": "Kiros",
     "role": "DPS",
     "ascension": 49
@@ -513,7 +513,7 @@
   },
   {
     "username": "ParamoraSen",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Tidus",
     "role": "Support",
@@ -545,7 +545,7 @@
   },
   {
     "username": "NajaSalaheem",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Celes",
     "role": "DPS",
@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Rikku",
     "role": "DPS",
@@ -817,7 +817,7 @@
   },
   {
     "username": "Master_Pancakes",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Seymour",
     "role": "DPS",
@@ -985,7 +985,7 @@
   },
   {
     "username": "xGwydionFrostx",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -993,7 +993,7 @@
   },
   {
     "username": "Mr_camsteak",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Yuna X2",
     "role": "DPS",
@@ -1305,7 +1305,7 @@
   },
   {
     "username": "sillynix",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -1481,7 +1481,7 @@
   },
   {
     "username": "Elbody",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Fran",
     "role": "DPS",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 8,
     "awakeningPercent": 444,
-    "unit": "Edea Matron",
-    "role": "DPS",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 30
   },
   {
@@ -1537,7 +1537,7 @@
   },
   {
     "username": "AweShrimpnGrits",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Aeris",
     "role": "Healer",
@@ -1681,7 +1681,7 @@
   },
   {
     "username": "kiklol86",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Tifa",
     "role": "DPS",
@@ -1801,7 +1801,7 @@
   },
   {
     "username": "Bakurraa",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -1905,7 +1905,7 @@
   },
   {
     "username": "lukesmissinghand87",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Chocobo Black",
     "role": "Tank",
@@ -1969,7 +1969,7 @@
   },
   {
     "username": "FroBanger",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Ace",
     "role": "DPS",
@@ -1977,7 +1977,7 @@
   },
   {
     "username": "suaceface",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 4,
     "unit": "Rufus",
     "role": "DPS",
@@ -2065,8 +2065,8 @@
   },
   {
     "username": "HFDigiMode",
-    "rank": 43,
-    "awakeningPercent": 4,
+    "rank": 38,
+    "awakeningPercent": 6,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 0
