@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 596,
-    "unit": "Kefka",
+    "unit": "Kuja",
     "role": "DPS",
     "ascension": 78
   },
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 348,
+    "awakeningPercent": 350,
     "unit": "Edea",
     "role": "Support",
     "ascension": 23
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 764,
-    "unit": "Isaaru",
+    "awakeningPercent": 766,
+    "unit": "Marcus",
     "role": "DPS",
     "ascension": 64
   },
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 270,
-    "unit": "Silenrea",
-    "role": "DPS",
+    "unit": "Cyan",
+    "role": "Tank",
     "ascension": 21
   },
   {
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 500,
-    "unit": "Vaan",
+    "awakeningPercent": 502,
+    "unit": "Vegeta",
     "role": "DPS",
     "ascension": 27
   },
