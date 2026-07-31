@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 342,
+    "awakeningPercent": 344,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 23
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 7,
     "awakeningPercent": 436,
-    "unit": "Lenna",
+    "unit": "Penelo",
     "role": "Support",
     "ascension": 30
   },
@@ -2083,8 +2083,8 @@
     "username": "vaalmoon",
     "rank": 84,
     "awakeningPercent": 0,
-    "unit": "Auron Young",
-    "role": "Tank",
+    "unit": "Pupu",
+    "role": "Healer",
     "ascension": 0
   }
 ]
