@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 590,
-    "unit": "Emperor",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 78
   },
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 7,
     "awakeningPercent": 438,
-    "unit": "Jecht",
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 49
   },
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 436,
+    "rank": 7,
+    "awakeningPercent": 438,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 30
