@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 552,
+    "awakeningPercent": 554,
     "unit": "Silenrea",
     "role": "DPS",
     "ascension": 48
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 442,
+    "rank": 7,
+    "awakeningPercent": 444,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 30
