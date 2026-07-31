@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 506,
-    "unit": "Domino",
+    "unit": "Cid 4",
     "role": "Tank",
     "ascension": 53
   },
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 9,
     "awakeningPercent": 428,
-    "unit": "Auron Young",
+    "unit": "Sabin",
     "role": "Tank",
     "ascension": 21
   },
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 552,
-    "unit": "Marcus",
+    "unit": "Silenrea",
     "role": "DPS",
-    "ascension": 47
+    "ascension": 48
   },
   {
     "username": "FloDaddelt",
