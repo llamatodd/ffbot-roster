@@ -2,8 +2,8 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 586,
-    "unit": "Cor",
+    "awakeningPercent": 588,
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 78
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 762,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Squall",
+    "role": "Tank",
     "ascension": 63
   },
   {
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 268,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Silenrea",
+    "role": "DPS",
     "ascension": 21
   },
   {
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 18
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 18
   },
@@ -1299,7 +1299,7 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 492,
-    "unit": "Seymour Omnis",
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 27
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 546,
-    "unit": "Ramza",
-    "role": "Support",
+    "unit": "Marcus",
+    "role": "DPS",
     "ascension": 47
   },
   {
@@ -2076,6 +2076,14 @@
     "rank": 84,
     "awakeningPercent": 0,
     "unit": "Umaro",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "vaalmoon",
+    "rank": 84,
+    "awakeningPercent": 0,
+    "unit": "Auron Young",
     "role": "Tank",
     "ascension": 0
   }
