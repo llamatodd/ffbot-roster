@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 346,
-    "unit": "Seifer",
-    "role": "DPS",
+    "awakeningPercent": 348,
+    "unit": "Edea",
+    "role": "Support",
     "ascension": 23
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 498,
+    "awakeningPercent": 500,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 27
