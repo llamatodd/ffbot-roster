@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 23
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 762,
-    "unit": "Squall",
+    "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 63
   },
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 8,
-    "awakeningPercent": 440,
+    "rank": 7,
+    "awakeningPercent": 442,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 30
