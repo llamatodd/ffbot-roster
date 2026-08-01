@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 608,
-    "unit": "Rubicante",
+    "unit": "Tellah",
     "role": "DPS",
     "ascension": 78
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 9,
-    "awakeningPercent": 440,
+    "awakeningPercent": 442,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 21
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 514,
-    "unit": "Hope",
-    "role": "Healer",
+    "unit": "Kefka",
+    "role": "DPS",
     "ascension": 27
   },
   {
