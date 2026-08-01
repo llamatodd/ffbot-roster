@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 606,
+    "awakeningPercent": 608,
     "unit": "Rubicante",
     "role": "DPS",
     "ascension": 78
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 19,
     "awakeningPercent": 128,
-    "unit": "Jill",
-    "role": "Support",
+    "unit": "Zell",
+    "role": "DPS",
     "ascension": 41
   },
   {
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 9,
     "awakeningPercent": 440,
-    "unit": "Cyan",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 21
   },
