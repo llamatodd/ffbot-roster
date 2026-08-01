@@ -2,8 +2,8 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 608,
-    "unit": "Cor",
+    "awakeningPercent": 610,
+    "unit": "Tellah",
     "role": "DPS",
     "ascension": 78
   },
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 772,
-    "unit": "Irvine",
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 64
   },
@@ -1147,14 +1147,14 @@
     "username": "korcc",
     "rank": 14,
     "awakeningPercent": 282,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "unit": "Firion",
+    "role": "Tank",
     "ascension": 21
   },
   {
     "username": "EagleCeres",
     "rank": 9,
-    "awakeningPercent": 442,
+    "awakeningPercent": 444,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 21
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 13,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 18
   },
   {
     "username": "Nightbot",
     "rank": 12,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 18
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 516,
-    "unit": "Kuja",
-    "role": "DPS",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 27
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 562,
-    "unit": "Queen",
+    "unit": "Jecht",
     "role": "DPS",
     "ascension": 48
   },
