@@ -3,13 +3,13 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 602,
-    "unit": "Kuja",
+    "unit": "Rubicante",
     "role": "DPS",
     "ascension": 78
   },
   {
     "username": "OrgleBot",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 452,
     "unit": "Squall Space",
     "role": "Tank",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 452,
+    "awakeningPercent": 454,
     "unit": "Kuja",
     "role": "DPS",
     "ascension": 49
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 9,
-    "awakeningPercent": 434,
+    "awakeningPercent": 436,
     "unit": "Cyan",
     "role": "Tank",
     "ascension": 21
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 448,
     "unit": "Delita",
     "role": "Support",
-    "ascension": 30
+    "ascension": 31
   },
   {
     "username": "eyetotem",
