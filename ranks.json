@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 768,
+    "awakeningPercent": 770,
     "unit": "Seifer",
     "role": "DPS",
     "ascension": 64
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 456,
-    "unit": "Kuja",
+    "unit": "Laguna",
     "role": "DPS",
     "ascension": 49
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 510,
-    "unit": "Wakka",
-    "role": "DPS",
+    "unit": "Rosa",
+    "role": "Healer",
     "ascension": 27
   },
   {
