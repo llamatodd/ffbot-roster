@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 512,
+    "awakeningPercent": 514,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 53
@@ -1826,10 +1826,10 @@
   {
     "username": "Tsunamimaru",
     "rank": 25,
-    "awakeningPercent": 52,
+    "awakeningPercent": 54,
     "unit": "Selphie",
     "role": "DPS",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "ItsVin_",
