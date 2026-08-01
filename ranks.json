@@ -242,16 +242,16 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 352,
-    "unit": "Edea",
-    "role": "Support",
+    "awakeningPercent": 354,
+    "unit": "Ultimecia",
+    "role": "DPS",
     "ascension": 23
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 770,
-    "unit": "Seifer",
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 64
   },
@@ -413,15 +413,15 @@
     "awakeningPercent": 456,
     "unit": "Laguna",
     "role": "DPS",
-    "ascension": 49
+    "ascension": 50
   },
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 518,
+    "awakeningPercent": 520,
     "unit": "Cid Randell",
     "role": "Tank",
-    "ascension": 53
+    "ascension": 54
   },
   {
     "username": "artudixx",
