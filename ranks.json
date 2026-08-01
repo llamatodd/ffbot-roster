@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 516,
-    "unit": "Steiner",
+    "awakeningPercent": 518,
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 53
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 8,
-    "awakeningPercent": 448,
+    "awakeningPercent": 450,
     "unit": "Delita",
     "role": "Support",
     "ascension": 31
@@ -2092,6 +2092,14 @@
     "rank": 85,
     "awakeningPercent": 0,
     "unit": "Guy",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "MossyCreek42",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Domino",
     "role": "Tank",
     "ascension": 0
   }
