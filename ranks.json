@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 510,
+    "awakeningPercent": 512,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 27
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 7,
     "awakeningPercent": 452,
-    "unit": "Ashe",
+    "unit": "Metuba",
     "role": "Support",
     "ascension": 31
   },
