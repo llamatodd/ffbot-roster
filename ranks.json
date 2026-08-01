@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 770,
-    "unit": "Leon",
+    "awakeningPercent": 772,
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 64
   },
@@ -1299,8 +1299,8 @@
     "username": "ComplexMessiah",
     "rank": 5,
     "awakeningPercent": 514,
-    "unit": "Kefka",
-    "role": "DPS",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 27
   },
   {
