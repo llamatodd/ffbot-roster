@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 772,
-    "unit": "Kiros",
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 64
   },
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 534,
-    "unit": "Cyan",
-    "role": "Tank",
+    "awakeningPercent": 536,
+    "unit": "Cloud Ac",
+    "role": "DPS",
     "ascension": 54
   },
   {
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 13,
     "awakeningPercent": 288,
-    "unit": "Firion",
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 21
   },
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 9,
     "awakeningPercent": 446,
-    "unit": "Galuf",
+    "unit": "Guy",
     "role": "Tank",
     "ascension": 22
   },
@@ -1434,10 +1434,10 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 568,
-    "unit": "Beatrix Beach",
+    "awakeningPercent": 570,
+    "unit": "Cor",
     "role": "DPS",
-    "ascension": 48
+    "ascension": 49
   },
   {
     "username": "FloDaddelt",
