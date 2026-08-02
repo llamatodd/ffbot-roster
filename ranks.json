@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 564,
+    "awakeningPercent": 566,
     "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 48
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 7,
     "awakeningPercent": 454,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Cloud",
+    "role": "DPS",
     "ascension": 31
   },
   {
