@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 9,
-    "awakeningPercent": 446,
+    "awakeningPercent": 448,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 22
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 570,
-    "unit": "Cor",
+    "awakeningPercent": 572,
+    "unit": "Palom",
     "role": "DPS",
     "ascension": 49
   },
@@ -2132,6 +2132,14 @@
     "rank": 85,
     "awakeningPercent": 0,
     "unit": "Zidane",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "TheHealingWhisperer",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 0
   }
