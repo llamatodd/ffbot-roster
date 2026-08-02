@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 774,
-    "unit": "Kiros",
-    "role": "DPS",
+    "awakeningPercent": 776,
+    "unit": "Squall",
+    "role": "Tank",
     "ascension": 64
   },
   {
@@ -709,7 +709,7 @@
     "awakeningPercent": 234,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 11
+    "ascension": 12
   },
   {
     "username": "meowmew_lamew",
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 9,
     "awakeningPercent": 448,
-    "unit": "Guy",
-    "role": "Tank",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 22
   },
   {
