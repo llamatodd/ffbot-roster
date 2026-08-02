@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 610,
+    "awakeningPercent": 612,
     "unit": "Tellah",
     "role": "DPS",
     "ascension": 78
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 14,
-    "awakeningPercent": 282,
+    "awakeningPercent": 284,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 21
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 444,
     "unit": "Galuf",
     "role": "Tank",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "Niriall",
@@ -1298,8 +1298,8 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 516,
-    "unit": "Hope",
+    "awakeningPercent": 518,
+    "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 27
   },
@@ -2101,6 +2101,14 @@
     "awakeningPercent": 0,
     "unit": "Domino",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Mavlex",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Garland",
+    "role": "DPS",
     "ascension": 0
   }
 ]
