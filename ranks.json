@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 466,
+    "awakeningPercent": 468,
     "unit": "Leon",
     "role": "DPS",
     "ascension": 50
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 13,
-    "awakeningPercent": 288,
+    "awakeningPercent": 290,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 21
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 524,
-    "unit": "Ovelia",
-    "role": "Healer",
+    "awakeningPercent": 526,
+    "unit": "Delita",
+    "role": "Support",
     "ascension": 27
   },
   {
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 7,
-    "awakeningPercent": 460,
-    "unit": "Lenna",
-    "role": "Support",
+    "awakeningPercent": 462,
+    "unit": "Cloud Ac",
+    "role": "DPS",
     "ascension": 32
   },
   {
@@ -2117,6 +2117,14 @@
     "awakeningPercent": 0,
     "unit": "Ozma",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "gamerbro1996",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Vaan",
+    "role": "DPS",
     "ascension": 0
   }
 ]
