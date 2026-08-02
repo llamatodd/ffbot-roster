@@ -1298,7 +1298,7 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 522,
+    "awakeningPercent": 524,
     "unit": "Ovelia",
     "role": "Healer",
     "ascension": 27
@@ -2109,6 +2109,14 @@
     "awakeningPercent": 0,
     "unit": "Garland",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "PaulKerseyArchitect",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 0
   }
 ]
