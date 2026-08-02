@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 772,
-    "unit": "Rufus",
+    "unit": "Kiros",
     "role": "DPS",
     "ascension": 64
   },
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 14,
-    "awakeningPercent": 284,
+    "rank": 13,
+    "awakeningPercent": 286,
     "unit": "Firion",
     "role": "Tank",
     "ascension": 21
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 562,
-    "unit": "Jecht",
+    "awakeningPercent": 564,
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 48
   },
