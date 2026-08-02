@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 620,
+    "awakeningPercent": 622,
     "unit": "Palom",
     "role": "DPS",
     "ascension": 78
@@ -2124,6 +2124,14 @@
     "rank": 85,
     "awakeningPercent": 0,
     "unit": "Vaan",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Demilly",
+    "rank": 85,
+    "awakeningPercent": 0,
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 0
   }
