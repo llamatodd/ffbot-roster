@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 778,
-    "unit": "Vegeta",
-    "role": "DPS",
+    "awakeningPercent": 780,
+    "unit": "Auron",
+    "role": "Tank",
     "ascension": 64
   },
   {
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 552,
-    "unit": "Sabin",
+    "awakeningPercent": 554,
+    "unit": "Ingus",
     "role": "Tank",
     "ascension": 54
   },
