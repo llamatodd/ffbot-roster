@@ -242,16 +242,16 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 370,
-    "unit": "Garnet",
-    "role": "Healer",
+    "awakeningPercent": 372,
+    "unit": "Ward",
+    "role": "DPS",
     "ascension": 24
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 778,
-    "unit": "Yuna",
+    "unit": "Vegeta",
     "role": "DPS",
     "ascension": 64
   },
@@ -411,9 +411,9 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 480,
-    "unit": "Lulu",
+    "unit": "Luneth",
     "role": "DPS",
-    "ascension": 50
+    "ascension": 51
   },
   {
     "username": "seika",
