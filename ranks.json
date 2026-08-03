@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 452,
-    "unit": "Chocobo Red",
-    "role": "DPS",
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 22
   },
   {
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 56,
     "unit": "Cid 7",
     "role": "DPS",
-    "ascension": 24
+    "ascension": 25
   },
   {
     "username": "ItsVin_",
