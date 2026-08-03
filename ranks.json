@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 624,
+    "awakeningPercent": 626,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 78
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 368,
+    "awakeningPercent": 370,
     "unit": "Garnet",
     "role": "Healer",
     "ascension": 24
@@ -1298,9 +1298,9 @@
   {
     "username": "ComplexMessiah",
     "rank": 5,
-    "awakeningPercent": 532,
-    "unit": "Sazh",
-    "role": "Support",
+    "awakeningPercent": 534,
+    "unit": "Chocobo Fat",
+    "role": "DPS",
     "ascension": 28
   },
   {
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 25,
-    "awakeningPercent": 54,
+    "rank": 24,
+    "awakeningPercent": 56,
     "unit": "Selphie",
     "role": "DPS",
     "ascension": 24
