@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 622,
+    "awakeningPercent": 624,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 78
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 366,
+    "awakeningPercent": 368,
     "unit": "Garnet",
     "role": "Healer",
     "ascension": 24
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 536,
+    "awakeningPercent": 538,
     "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 54
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 572,
-    "unit": "Palom",
+    "awakeningPercent": 574,
+    "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 49
   },
