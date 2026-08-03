@@ -1153,8 +1153,8 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 9,
-    "awakeningPercent": 450,
+    "rank": 8,
+    "awakeningPercent": 452,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 22
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 7,
-    "awakeningPercent": 466,
+    "awakeningPercent": 468,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 32
@@ -1827,7 +1827,7 @@
     "username": "Tsunamimaru",
     "rank": 24,
     "awakeningPercent": 56,
-    "unit": "Selphie",
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 24
   },
