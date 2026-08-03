@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 626,
-    "unit": "Shantotto",
+    "unit": "Vincent",
     "role": "DPS",
     "ascension": 78
   },
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 538,
-    "unit": "Cloud Ac",
+    "awakeningPercent": 540,
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 54
   },
@@ -1386,7 +1386,7 @@
   {
     "username": "jaik__",
     "rank": 16,
-    "awakeningPercent": 160,
+    "awakeningPercent": 162,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 33
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 574,
+    "awakeningPercent": 576,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 49
