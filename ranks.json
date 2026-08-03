@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 582,
-    "unit": "Sazh",
-    "role": "Support",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 49
   },
   {
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 7,
-    "awakeningPercent": 474,
-    "unit": "Faris",
-    "role": "Support",
+    "awakeningPercent": 476,
+    "unit": "Kuja",
+    "role": "DPS",
     "ascension": 33
   },
   {
