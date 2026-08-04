@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 378,
+    "awakeningPercent": 380,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 24
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 782,
-    "unit": "Barret",
-    "role": "Tank",
+    "unit": "Tifa",
+    "role": "DPS",
     "ascension": 65
   },
   {
