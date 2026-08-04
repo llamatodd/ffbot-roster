@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 562,
-    "unit": "Sephiroth",
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 54
   },
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 456,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 22
   },
   {
