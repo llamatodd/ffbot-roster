@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 780,
-    "unit": "Yuna",
-    "role": "DPS",
-    "ascension": 64
+    "unit": "Auron",
+    "role": "Tank",
+    "ascension": 65
   },
   {
     "username": "Jestmichelle",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 584,
-    "unit": "Rikku",
+    "unit": "Edgar",
     "role": "DPS",
     "ascension": 49
   },
