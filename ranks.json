@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 642,
+    "awakeningPercent": 644,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 78
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 782,
-    "unit": "Tifa",
-    "role": "DPS",
+    "unit": "Barret",
+    "role": "Tank",
     "ascension": 65
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 568,
+    "awakeningPercent": 570,
     "unit": "Tifa Dress",
     "role": "DPS",
     "ascension": 55
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 584,
+    "awakeningPercent": 586,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 49
