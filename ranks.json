@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 780,
-    "unit": "Auron",
+    "awakeningPercent": 782,
+    "unit": "Barret",
     "role": "Tank",
     "ascension": 65
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 486,
+    "awakeningPercent": 488,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 51
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 6,
-    "awakeningPercent": 486,
+    "awakeningPercent": 488,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 33
