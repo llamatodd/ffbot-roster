@@ -2,8 +2,8 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 654,
-    "unit": "Yunalesca",
+    "awakeningPercent": 656,
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 78
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 576,
-    "unit": "Babus",
-    "role": "Tank",
+    "unit": "Freya",
+    "role": "DPS",
     "ascension": 55
   },
   {
@@ -635,8 +635,8 @@
     "username": "Mikhli",
     "rank": 38,
     "awakeningPercent": 6,
-    "unit": "Rikku",
-    "role": "DPS",
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 2
   },
   {
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 462,
-    "unit": "Tidus",
+    "unit": "Vanille",
     "role": "Support",
     "ascension": 22
   },
