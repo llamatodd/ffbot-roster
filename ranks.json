@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 786,
-    "unit": "Auron Young",
-    "role": "Tank",
+    "unit": "Tifa",
+    "role": "DPS",
     "ascension": 65
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 13,
-    "awakeningPercent": 304,
+    "awakeningPercent": 306,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 21
