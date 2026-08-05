@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 646,
+    "awakeningPercent": 648,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 78
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 782,
-    "unit": "Barret",
+    "awakeningPercent": 784,
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 65
   },
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 490,
     "unit": "Marcus",
     "role": "DPS",
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 6,
-    "awakeningPercent": 490,
-    "unit": "Cloud Ac",
+    "awakeningPercent": 492,
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 33
   },
