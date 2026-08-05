@@ -1154,9 +1154,9 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 456,
-    "unit": "Penelo",
-    "role": "Support",
+    "awakeningPercent": 458,
+    "unit": "Chocobo Black",
+    "role": "Tank",
     "ascension": 22
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 590,
+    "awakeningPercent": 592,
     "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 49
