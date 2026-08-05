@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 786,
-    "unit": "Tifa",
-    "role": "DPS",
+    "unit": "Auron Young",
+    "role": "Tank",
     "ascension": 65
   },
   {
@@ -1387,8 +1387,8 @@
     "username": "jaik__",
     "rank": 16,
     "awakeningPercent": 168,
-    "unit": "Rosa",
-    "role": "Healer",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 34
   },
   {
