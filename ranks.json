@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 382,
-    "unit": "Freya",
-    "role": "DPS",
+    "awakeningPercent": 384,
+    "unit": "Eiko",
+    "role": "Healer",
     "ascension": 24
   },
   {
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 13,
     "awakeningPercent": 304,
-    "unit": "Ace",
+    "unit": "Sephiroth",
     "role": "DPS",
     "ascension": 21
   },
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 594,
-    "unit": "Eiko",
+    "unit": "Pupu",
     "role": "Healer",
-    "ascension": 49
+    "ascension": 50
   },
   {
     "username": "FloDaddelt",
