@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 580,
-    "unit": "Babus",
+    "awakeningPercent": 582,
+    "unit": "Ghido",
     "role": "Tank",
     "ascension": 55
   },
@@ -1145,8 +1145,8 @@
   },
   {
     "username": "korcc",
-    "rank": 13,
-    "awakeningPercent": 308,
+    "rank": 12,
+    "awakeningPercent": 310,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 21
