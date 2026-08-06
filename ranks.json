@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 790,
-    "unit": "Yuna",
-    "role": "DPS",
+    "unit": "Gladio",
+    "role": "Tank",
     "ascension": 65
   },
   {
@@ -411,9 +411,9 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 510,
-    "unit": "Palom",
+    "unit": "Prompto",
     "role": "DPS",
-    "ascension": 51
+    "ascension": 52
   },
   {
     "username": "seika",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 12,
-    "awakeningPercent": 314,
+    "awakeningPercent": 316,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 21
