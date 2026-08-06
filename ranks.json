@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 584,
-    "unit": "Ghido",
-    "role": "Tank",
+    "unit": "Tifa",
+    "role": "DPS",
     "ascension": 55
   },
   {
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 12,
-    "awakeningPercent": 310,
+    "awakeningPercent": 312,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 21
@@ -1249,7 +1249,7 @@
   },
   {
     "username": "Nightbot",
-    "rank": 12,
+    "rank": 13,
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
