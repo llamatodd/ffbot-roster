@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 580,
-    "unit": "Freya",
-    "role": "DPS",
+    "unit": "Babus",
+    "role": "Tank",
     "ascension": 55
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 598,
-    "unit": "Pupu",
+    "awakeningPercent": 600,
+    "unit": "Eiko",
     "role": "Healer",
     "ascension": 50
   },
