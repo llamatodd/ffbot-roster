@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 790,
-    "unit": "Gladio",
-    "role": "Tank",
+    "unit": "Yuna",
+    "role": "DPS",
     "ascension": 65
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 588,
+    "awakeningPercent": 590,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 55
