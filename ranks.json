@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 394,
-    "unit": "Beatrix",
+    "awakeningPercent": 396,
+    "unit": "Marcus",
     "role": "DPS",
     "ascension": 24
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 790,
-    "unit": "Yuna",
-    "role": "DPS",
+    "unit": "Gladio",
+    "role": "Tank",
     "ascension": 65
   },
   {
@@ -2173,6 +2173,14 @@
     "awakeningPercent": 0,
     "unit": "Vaan",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "JeraziahXIV",
+    "rank": 87,
+    "awakeningPercent": 0,
+    "unit": "Red Xiii",
+    "role": "Support",
     "ascension": 0
   }
 ]
