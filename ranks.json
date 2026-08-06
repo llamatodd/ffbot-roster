@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 390,
+    "awakeningPercent": 392,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 24
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 502,
+    "awakeningPercent": 504,
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 51
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 600,
+    "awakeningPercent": 602,
     "unit": "Rufus",
     "role": "DPS",
     "ascension": 50
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 24,
-    "awakeningPercent": 58,
+    "rank": 23,
+    "awakeningPercent": 60,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 25
