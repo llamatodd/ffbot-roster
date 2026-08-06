@@ -2166,5 +2166,13 @@
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "sen_jpg",
+    "rank": 87,
+    "awakeningPercent": 0,
+    "unit": "Vaan",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
