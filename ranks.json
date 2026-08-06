@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 662,
-    "unit": "Seymour Omnis",
+    "unit": "Relm",
     "role": "DPS",
     "ascension": 79
   },
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 12,
     "awakeningPercent": 312,
-    "unit": "Beatrix",
+    "unit": "Cloud",
     "role": "DPS",
     "ascension": 21
   },
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 604,
-    "unit": "Rufus",
-    "role": "DPS",
+    "awakeningPercent": 606,
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 50
   },
   {
