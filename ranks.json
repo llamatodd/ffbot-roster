@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 398,
+    "awakeningPercent": 400,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 25
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 612,
+    "awakeningPercent": 614,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 50
@@ -1777,7 +1777,7 @@
   },
   {
     "username": "Nystorayel",
-    "rank": 23,
+    "rank": 24,
     "awakeningPercent": 60,
     "unit": "Kuja",
     "role": "DPS",
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 23,
-    "awakeningPercent": 60,
+    "awakeningPercent": 62,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 26
