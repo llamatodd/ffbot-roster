@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 592,
-    "unit": "Orlandeau",
+    "awakeningPercent": 594,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 56
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 62,
     "unit": "Cid 7",
     "role": "DPS",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "ItsVin_",
