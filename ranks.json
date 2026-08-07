@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 666,
+    "awakeningPercent": 668,
     "unit": "Relm",
     "role": "DPS",
     "ascension": 79
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 790,
-    "unit": "Yuna",
-    "role": "DPS",
+    "unit": "Gladio",
+    "role": "Tank",
     "ascension": 65
   },
   {
@@ -421,7 +421,7 @@
     "awakeningPercent": 592,
     "unit": "Orlandeau",
     "role": "DPS",
-    "ascension": 55
+    "ascension": 56
   },
   {
     "username": "artudixx",
