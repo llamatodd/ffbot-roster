@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 610,
-    "unit": "Maria",
+    "awakeningPercent": 612,
+    "unit": "Torgal",
     "role": "Support",
     "ascension": 50
   },
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 7,
-    "awakeningPercent": 508,
-    "unit": "Kuja",
-    "role": "DPS",
+    "awakeningPercent": 510,
+    "unit": "Zack",
+    "role": "Tank",
     "ascension": 34
   },
   {
