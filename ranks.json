@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 796,
-    "unit": "Ghido",
-    "role": "Tank",
-    "ascension": 65
+    "unit": "Tifa",
+    "role": "DPS",
+    "ascension": 66
   },
   {
     "username": "Jestmichelle",
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 630,
-    "unit": "Red Xiii",
+    "unit": "Shana",
     "role": "Support",
-    "ascension": 50
+    "ascension": 51
   },
   {
     "username": "FloDaddelt",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 7,
     "awakeningPercent": 524,
-    "unit": "Lightning",
-    "role": "DPS",
+    "unit": "Elena",
+    "role": "Support",
     "ascension": 34
   },
   {
