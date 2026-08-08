@@ -410,10 +410,10 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 528,
+    "awakeningPercent": 530,
     "unit": "Relm",
     "role": "DPS",
-    "ascension": 52
+    "ascension": 53
   },
   {
     "username": "seika",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 630,
-    "unit": "Shana",
+    "awakeningPercent": 632,
+    "unit": "Tidus",
     "role": "Support",
     "ascension": 51
   },
