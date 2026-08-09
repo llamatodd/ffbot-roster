@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 616,
-    "unit": "Ramza",
-    "role": "Support",
+    "unit": "Tifa",
+    "role": "DPS",
     "ascension": 56
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 640,
+    "awakeningPercent": 642,
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 51
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 542,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Zack",
+    "role": "Tank",
     "ascension": 35
   },
   {
