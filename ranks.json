@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 678,
-    "unit": "Cor",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 79
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 800,
-    "unit": "Irvine",
-    "role": "DPS",
+    "unit": "Ozma",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 14,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 20
   },
   {
     "username": "Nightbot",
     "rank": 13,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 20
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 632,
-    "unit": "Kuja",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 51
   },
   {
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 530,
     "unit": "Cecil Paladin",
     "role": "Healer",
-    "ascension": 34
+    "ascension": 35
   },
   {
     "username": "eyetotem",
