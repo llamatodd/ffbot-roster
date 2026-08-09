@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 412,
-    "unit": "Tidus",
-    "role": "Support",
+    "awakeningPercent": 414,
+    "unit": "Yuna",
+    "role": "DPS",
     "ascension": 25
   },
   {
@@ -418,9 +418,9 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 610,
-    "unit": "Wakka",
-    "role": "DPS",
+    "awakeningPercent": 612,
+    "unit": "Torgal",
+    "role": "Support",
     "ascension": 56
   },
   {
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 478,
-    "unit": "Cloud Dress",
+    "awakeningPercent": 480,
+    "unit": "Cloud Ac",
     "role": "DPS",
     "ascension": 23
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 632,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 51
   },
   {
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 7,
     "awakeningPercent": 530,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Zack",
+    "role": "Tank",
     "ascension": 35
   },
   {
