@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 538,
     "unit": "Terra",
     "role": "DPS",
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 6,
-    "awakeningPercent": 538,
+    "rank": 5,
+    "awakeningPercent": 542,
     "unit": "Cecil",
     "role": "DPS",
     "ascension": 35
