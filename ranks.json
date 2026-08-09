@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 6,
+    "rank": 7,
     "awakeningPercent": 532,
     "unit": "Relm",
     "role": "DPS",
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 632,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 51
   },
   {
@@ -1497,10 +1497,10 @@
   },
   {
     "username": "Starbuk",
-    "rank": 7,
-    "awakeningPercent": 530,
-    "unit": "Zack",
-    "role": "Tank",
+    "rank": 6,
+    "awakeningPercent": 534,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 35
   },
   {
@@ -1827,9 +1827,9 @@
     "username": "Tsunamimaru",
     "rank": 23,
     "awakeningPercent": 62,
-    "unit": "Cid 7",
-    "role": "DPS",
-    "ascension": 28
+    "unit": "Red Xiii",
+    "role": "Support",
+    "ascension": 29
   },
   {
     "username": "ItsVin_",
