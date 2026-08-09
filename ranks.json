@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 678,
+    "awakeningPercent": 680,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 79
@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 632,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "awakeningPercent": 634,
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 51
   },
   {
