@@ -570,7 +570,7 @@
   {
     "username": "Khuu59",
     "rank": 25,
-    "awakeningPercent": 56,
+    "awakeningPercent": 58,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 11
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 636,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 51
   },
   {
