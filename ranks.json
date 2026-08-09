@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 802,
+    "awakeningPercent": 804,
     "unit": "Tifa",
     "role": "DPS",
     "ascension": 66
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 638,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Margy",
+    "role": "DPS",
     "ascension": 51
   },
   {
