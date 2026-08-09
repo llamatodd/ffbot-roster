@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 5,
-    "awakeningPercent": 538,
-    "unit": "Reno",
+    "awakeningPercent": 540,
+    "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 53
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 538,
     "unit": "Terra",
     "role": "DPS",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 538,
     "unit": "Cecil Paladin",
     "role": "Healer",
