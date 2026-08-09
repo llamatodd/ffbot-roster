@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 680,
-    "unit": "Cor",
+    "unit": "Yshtola",
     "role": "DPS",
     "ascension": 79
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 804,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -1157,7 +1157,7 @@
     "awakeningPercent": 484,
     "unit": "Cloud Ac",
     "role": "DPS",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "Niriall",
@@ -1251,8 +1251,8 @@
     "username": "Nightbot",
     "rank": 13,
     "awakeningPercent": 310,
-    "unit": "Queen",
-    "role": "DPS",
+    "unit": "Jill",
+    "role": "Support",
     "ascension": 20
   },
   {
