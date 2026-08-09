@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 414,
+    "awakeningPercent": 416,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 25
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 636,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Tidus",
+    "role": "Support",
     "ascension": 51
   },
   {
