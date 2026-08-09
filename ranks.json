@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 614,
-    "unit": "Torgal",
+    "unit": "Ramza",
     "role": "Support",
     "ascension": 56
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 636,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 51
   },
   {
@@ -2205,6 +2205,14 @@
     "awakeningPercent": 0,
     "unit": "Yuffie",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "linkknight_",
+    "rank": 88,
+    "awakeningPercent": 0,
+    "unit": "Esquie",
+    "role": "Tank",
     "ascension": 0
   }
 ]
