@@ -569,8 +569,8 @@
   },
   {
     "username": "Khuu59",
-    "rank": 25,
-    "awakeningPercent": 58,
+    "rank": 24,
+    "awakeningPercent": 60,
     "unit": "Lightning",
     "role": "DPS",
     "ascension": 11
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 636,
+    "awakeningPercent": 638,
     "unit": "Tidus",
     "role": "Support",
     "ascension": 51
