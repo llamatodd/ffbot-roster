@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 686,
-    "unit": "Fujin",
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 79
   },
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 808,
-    "unit": "Tifa Dress",
-    "role": "DPS",
+    "unit": "Zack",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 620,
+    "awakeningPercent": 622,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 57
