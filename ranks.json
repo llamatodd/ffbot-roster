@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 488,
+    "awakeningPercent": 490,
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 24
@@ -1497,8 +1497,8 @@
   },
   {
     "username": "Starbuk",
-    "rank": 6,
-    "awakeningPercent": 542,
+    "rank": 5,
+    "awakeningPercent": 544,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 35
