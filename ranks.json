@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Bartz",
     "role": "Support",
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -2065,7 +2065,7 @@
   },
   {
     "username": "HFDigiMode",
-    "rank": 38,
+    "rank": 39,
     "awakeningPercent": 6,
     "unit": "Terra",
     "role": "DPS",
@@ -2105,8 +2105,8 @@
   },
   {
     "username": "Mavlex",
-    "rank": 38,
-    "awakeningPercent": 6,
+    "rank": 37,
+    "awakeningPercent": 8,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 2
