@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 806,
-    "unit": "Tifa Dress",
-    "role": "DPS",
+    "unit": "Esquie",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 6,
-    "awakeningPercent": 548,
+    "rank": 5,
+    "awakeningPercent": 550,
     "unit": "Rubicante",
     "role": "DPS",
     "ascension": 53
@@ -1149,7 +1149,7 @@
     "awakeningPercent": 318,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "EagleCeres",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 646,
-    "unit": "Beatrix",
+    "awakeningPercent": 648,
+    "unit": "Margy",
     "role": "DPS",
     "ascension": 51
   },
