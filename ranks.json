@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 418,
-    "unit": "Yuna",
+    "awakeningPercent": 420,
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 25
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 642,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Margy",
+    "role": "DPS",
     "ascension": 51
   },
   {
