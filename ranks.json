@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 806,
-    "unit": "Esquie",
+    "awakeningPercent": 808,
+    "unit": "Zack",
     "role": "Tank",
     "ascension": 66
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 648,
+    "awakeningPercent": 650,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 51
@@ -2109,7 +2109,7 @@
     "awakeningPercent": 6,
     "unit": "Edea Matron",
     "role": "DPS",
-    "ascension": 1
+    "ascension": 2
   },
   {
     "username": "PaulKerseyArchitect",
