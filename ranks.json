@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 806,
-    "unit": "Esquie",
-    "role": "Tank",
+    "unit": "Tifa Dress",
+    "role": "DPS",
     "ascension": 66
   },
   {
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 620,
-    "unit": "Yuffie",
-    "role": "DPS",
+    "unit": "Sazh",
+    "role": "Support",
     "ascension": 57
   },
   {
