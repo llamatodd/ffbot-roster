@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 642,
+    "awakeningPercent": 644,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 51
@@ -2212,6 +2212,14 @@
     "rank": 88,
     "awakeningPercent": 0,
     "unit": "Esquie",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Sonatina",
+    "rank": 88,
+    "awakeningPercent": 0,
+    "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 0
   }
