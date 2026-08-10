@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 544,
     "unit": "Rikku X2",
     "role": "DPS",
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 618,
-    "unit": "Tifa",
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 57
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 544,
+    "awakeningPercent": 546,
     "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 35
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 23,
-    "awakeningPercent": 62,
+    "rank": 22,
+    "awakeningPercent": 64,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 29
@@ -2107,9 +2107,9 @@
     "username": "Mavlex",
     "rank": 45,
     "awakeningPercent": 4,
-    "unit": "Isaaru",
+    "unit": "Edea Matron",
     "role": "DPS",
-    "ascension": 0
+    "ascension": 1
   },
   {
     "username": "PaulKerseyArchitect",
