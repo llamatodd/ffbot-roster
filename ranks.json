@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 804,
-    "unit": "Ingus",
+    "awakeningPercent": 806,
+    "unit": "Esquie",
     "role": "Tank",
     "ascension": 66
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 5,
-    "awakeningPercent": 542,
+    "awakeningPercent": 544,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 53
@@ -421,7 +421,7 @@
     "awakeningPercent": 616,
     "unit": "Tifa",
     "role": "DPS",
-    "ascension": 56
+    "ascension": 57
   },
   {
     "username": "artudixx",
@@ -1497,7 +1497,7 @@
   },
   {
     "username": "Starbuk",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 542,
     "unit": "Zack",
     "role": "Tank",
