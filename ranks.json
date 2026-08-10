@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 686,
+    "awakeningPercent": 688,
     "unit": "Leon",
     "role": "DPS",
     "ascension": 79
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 552,
     "unit": "Rubicante",
     "role": "DPS",
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 622,
-    "unit": "Sazh",
+    "unit": "Bartz",
     "role": "Support",
     "ascension": 57
   },
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 552,
-    "unit": "Quistis",
+    "awakeningPercent": 554,
+    "unit": "Laguna",
     "role": "DPS",
     "ascension": 35
   },
