@@ -1434,9 +1434,9 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 650,
-    "unit": "Zell",
-    "role": "DPS",
+    "awakeningPercent": 652,
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 51
   },
   {
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 64,
     "unit": "Red Xiii",
     "role": "Support",
-    "ascension": 29
+    "ascension": 30
   },
   {
     "username": "ItsVin_",
