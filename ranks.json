@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 552,
-    "unit": "Rubicante",
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 53
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 554,
+    "awakeningPercent": 556,
     "unit": "Laguna",
     "role": "DPS",
     "ascension": 36
@@ -1929,7 +1929,7 @@
   },
   {
     "username": "Vaedryn",
-    "rank": 37,
+    "rank": 38,
     "awakeningPercent": 8,
     "unit": "Beatrix",
     "role": "DPS",
@@ -2105,8 +2105,8 @@
   },
   {
     "username": "Mavlex",
-    "rank": 37,
-    "awakeningPercent": 8,
+    "rank": 34,
+    "awakeningPercent": 10,
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 2
