@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 696,
+    "awakeningPercent": 698,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 79
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 810,
-    "unit": "Quina",
+    "awakeningPercent": 812,
+    "unit": "Steiner",
     "role": "Tank",
     "ascension": 66
   },
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 558,
-    "unit": "Rufus",
+    "unit": "Rydia",
     "role": "DPS",
     "ascension": 54
   },
