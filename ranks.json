@@ -413,7 +413,7 @@
     "awakeningPercent": 552,
     "unit": "Rufus",
     "role": "DPS",
-    "ascension": 53
+    "ascension": 54
   },
   {
     "username": "seika",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 654,
+    "awakeningPercent": 656,
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 51
@@ -2109,7 +2109,7 @@
     "awakeningPercent": 10,
     "unit": "Edea Matron",
     "role": "DPS",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "PaulKerseyArchitect",
