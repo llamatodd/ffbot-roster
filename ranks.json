@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 10,
-    "awakeningPercent": 428,
+    "awakeningPercent": 430,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 26
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 554,
-    "unit": "Laguna",
-    "role": "DPS",
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 35
   },
   {
