@@ -3,9 +3,9 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 698,
-    "unit": "Seymour",
+    "unit": "Dark Invoker",
     "role": "DPS",
-    "ascension": 79
+    "ascension": 80
   },
   {
     "username": "OrgleBot",
@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 10,
     "awakeningPercent": 440,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 26
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 492,
+    "awakeningPercent": 494,
     "unit": "Mog",
     "role": "DPS",
     "ascension": 24
