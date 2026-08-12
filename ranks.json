@@ -441,7 +441,7 @@
   },
   {
     "username": "tammer400",
-    "rank": 22,
+    "rank": 23,
     "awakeningPercent": 64,
     "unit": "Snow",
     "role": "Tank",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 662,
+    "awakeningPercent": 664,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 51
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 22,
-    "awakeningPercent": 64,
+    "awakeningPercent": 66,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 30
