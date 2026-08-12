@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 812,
-    "unit": "Steiner",
+    "awakeningPercent": 814,
+    "unit": "Umaro",
     "role": "Tank",
     "ascension": 66
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 628,
-    "unit": "Gogo",
+    "unit": "Beatrix",
     "role": "DPS",
     "ascension": 57
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 564,
-    "unit": "Zidane",
+    "unit": "Laguna",
     "role": "DPS",
     "ascension": 36
   },
