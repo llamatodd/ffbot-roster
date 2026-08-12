@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 700,
+    "awakeningPercent": 702,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 80
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 628,
-    "unit": "Quistis",
-    "role": "DPS",
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 57
   },
   {
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 12,
     "awakeningPercent": 322,
-    "unit": "Beatrix Beach",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 22
   },
@@ -2107,8 +2107,8 @@
     "username": "Mavlex",
     "rank": 34,
     "awakeningPercent": 10,
-    "unit": "Edea Matron",
-    "role": "DPS",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 4
   },
   {
