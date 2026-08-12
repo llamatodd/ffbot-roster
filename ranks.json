@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 10,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 34,
+    "rank": 35,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 11,
-    "awakeningPercent": 326,
+    "awakeningPercent": 328,
     "unit": "Cor",
     "role": "DPS",
     "ascension": 22
@@ -2105,8 +2105,8 @@
   },
   {
     "username": "Mavlex",
-    "rank": 34,
-    "awakeningPercent": 10,
+    "rank": 32,
+    "awakeningPercent": 12,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 4
