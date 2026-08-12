@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 816,
-    "unit": "Tifa Dress",
-    "role": "DPS",
+    "unit": "Sabin",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 572,
+    "awakeningPercent": 574,
     "unit": "Selphie",
     "role": "DPS",
     "ascension": 54
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 670,
-    "unit": "Rosa",
+    "unit": "Porom",
     "role": "Healer",
     "ascension": 52
   },
