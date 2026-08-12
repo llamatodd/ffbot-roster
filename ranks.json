@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 704,
+    "awakeningPercent": 706,
     "unit": "Selphie",
     "role": "DPS",
     "ascension": 80
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 632,
+    "awakeningPercent": 634,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 58
@@ -2221,6 +2221,14 @@
     "awakeningPercent": 0,
     "unit": "Cait Sith",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "inmymedulla",
+    "rank": 88,
+    "awakeningPercent": 0,
+    "unit": "Palom",
+    "role": "DPS",
     "ascension": 0
   }
 ]
