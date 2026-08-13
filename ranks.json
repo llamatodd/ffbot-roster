@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 818,
-    "unit": "Snow",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 66
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 582,
+    "awakeningPercent": 584,
     "unit": "Jecht",
     "role": "DPS",
     "ascension": 37
