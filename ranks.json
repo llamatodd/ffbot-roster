@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 454,
-    "unit": "Gogo",
+    "awakeningPercent": 456,
+    "unit": "Lightning",
     "role": "DPS",
     "ascension": 26
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 676,
+    "awakeningPercent": 678,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 52
