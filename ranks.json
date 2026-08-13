@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 10,
-    "awakeningPercent": 450,
+    "rank": 9,
+    "awakeningPercent": 452,
     "unit": "Gogo",
     "role": "DPS",
     "ascension": 26
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 576,
     "unit": "Zack",
     "role": "Tank",
-    "ascension": 36
+    "ascension": 37
   },
   {
     "username": "eyetotem",
@@ -1929,8 +1929,8 @@
   },
   {
     "username": "Vaedryn",
-    "rank": 38,
-    "awakeningPercent": 8,
+    "rank": 35,
+    "awakeningPercent": 10,
     "unit": "Beatrix",
     "role": "DPS",
     "ascension": 0
