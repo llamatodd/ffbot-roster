@@ -2230,5 +2230,13 @@
     "unit": "Palom",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Ragingtengu",
+    "rank": 88,
+    "awakeningPercent": 0,
+    "unit": "Metuba",
+    "role": "Support",
+    "ascension": 0
   }
 ]
