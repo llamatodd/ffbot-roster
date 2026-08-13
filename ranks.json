@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 820,
-    "unit": "Yuffie",
-    "role": "DPS",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 66
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 582,
+    "awakeningPercent": 584,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 55
