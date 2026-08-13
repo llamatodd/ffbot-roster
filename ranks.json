@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 32,
+    "rank": 33,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 32,
+    "rank": 33,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 496,
+    "awakeningPercent": 498,
     "unit": "Mog",
     "role": "DPS",
     "ascension": 24
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 576,
-    "unit": "Zack",
-    "role": "Tank",
+    "awakeningPercent": 578,
+    "unit": "Isaaru",
+    "role": "DPS",
     "ascension": 37
   },
   {
@@ -2106,7 +2106,7 @@
   {
     "username": "Mavlex",
     "rank": 32,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 4
