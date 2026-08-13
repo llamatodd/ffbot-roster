@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 818,
-    "unit": "Sabin",
+    "unit": "Snow",
     "role": "Tank",
     "ascension": 66
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 674,
-    "unit": "Garnet",
-    "role": "Healer",
+    "unit": "Edge",
+    "role": "DPS",
     "ascension": 52
   },
   {
