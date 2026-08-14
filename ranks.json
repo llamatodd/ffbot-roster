@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 824,
-    "unit": "Ramza",
-    "role": "Support",
+    "unit": "Snow",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 652,
-    "unit": "Silenrea",
+    "unit": "Vegeta",
     "role": "DPS",
     "ascension": 58
   },
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 11,
     "awakeningPercent": 342,
-    "unit": "Edgar",
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 22
   },
