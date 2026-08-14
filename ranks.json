@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 824,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Snow",
+    "role": "Tank",
     "ascension": 66
   },
   {
@@ -410,8 +410,8 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 592,
-    "unit": "Seymour Omnis",
+    "awakeningPercent": 594,
+    "unit": "Silenrea",
     "role": "DPS",
     "ascension": 55
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 72,
     "unit": "Estinien",
     "role": "DPS",
-    "ascension": 31
+    "ascension": 32
   },
   {
     "username": "ItsVin_",
