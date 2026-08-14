@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 822,
-    "unit": "Vanille",
+    "unit": "Ramza",
     "role": "Support",
     "ascension": 66
   },
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 20
+    "ascension": 21
   },
   {
     "username": "Moobot",
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 680,
-    "unit": "Edge",
-    "role": "DPS",
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 52
   },
   {
