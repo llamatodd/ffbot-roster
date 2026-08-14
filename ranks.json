@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 680,
-    "unit": "Alphinaud",
-    "role": "Healer",
+    "unit": "Cid 7",
+    "role": "DPS",
     "ascension": 52
   },
   {
@@ -2237,6 +2237,14 @@
     "awakeningPercent": 0,
     "unit": "Metuba",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "ChibiElemental",
+    "rank": 88,
+    "awakeningPercent": 0,
+    "unit": "Gogo",
+    "role": "DPS",
     "ascension": 0
   }
 ]
