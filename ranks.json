@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 728,
-    "unit": "Silenrea",
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 80
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 658,
+    "awakeningPercent": 660,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 58
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 596,
-    "unit": "Silenrea",
+    "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 38
   },
