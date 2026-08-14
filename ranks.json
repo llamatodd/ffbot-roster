@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 644,
-    "unit": "Ignis",
+    "unit": "Celes",
     "role": "DPS",
     "ascension": 58
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 500,
+    "awakeningPercent": 502,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 24
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 678,
+    "awakeningPercent": 680,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 52
