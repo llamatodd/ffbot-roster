@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 464,
+    "awakeningPercent": 466,
     "unit": "Jill",
     "role": "Support",
     "ascension": 27
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 824,
-    "unit": "Snow",
-    "role": "Tank",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 66
   },
   {
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 654,
-    "unit": "Vegeta",
+    "awakeningPercent": 656,
+    "unit": "Prompto",
     "role": "DPS",
     "ascension": 58
   },
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 11,
-    "awakeningPercent": 344,
+    "awakeningPercent": 346,
     "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 22
