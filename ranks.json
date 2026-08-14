@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 822,
+    "awakeningPercent": 824,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 66
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 502,
+    "awakeningPercent": 504,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 24
@@ -1555,8 +1555,8 @@
     "username": "Xansie",
     "rank": 31,
     "awakeningPercent": 16,
-    "unit": "Sazh",
-    "role": "Support",
+    "unit": "Sabin",
+    "role": "Tank",
     "ascension": 5
   },
   {
