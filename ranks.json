@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 730,
+    "awakeningPercent": 732,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 80
@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 598,
     "unit": "Silenrea",
     "role": "DPS",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 690,
-    "unit": "Cid 7",
+    "unit": "Clive",
     "role": "DPS",
     "ascension": 52
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 598,
+    "awakeningPercent": 600,
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 38
