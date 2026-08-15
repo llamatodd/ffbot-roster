@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 826,
-    "unit": "Guy",
-    "role": "Tank",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 66
   },
   {
@@ -409,8 +409,8 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 6,
-    "awakeningPercent": 596,
+    "rank": 5,
+    "awakeningPercent": 598,
     "unit": "Silenrea",
     "role": "DPS",
     "ascension": 55
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 660,
-    "unit": "Prompto",
+    "unit": "Vaan",
     "role": "DPS",
     "ascension": 59
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 688,
-    "unit": "Cloud Ac",
+    "awakeningPercent": 690,
+    "unit": "Cid 7",
     "role": "DPS",
     "ascension": 52
   },
