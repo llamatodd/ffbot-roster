@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 11,
-    "awakeningPercent": 352,
+    "awakeningPercent": 354,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 22
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 606,
-    "unit": "Cait Sith",
-    "role": "Tank",
+    "awakeningPercent": 608,
+    "unit": "Silenrea",
+    "role": "DPS",
     "ascension": 38
   },
   {
