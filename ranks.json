@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 826,
-    "unit": "Guy",
-    "role": "Tank",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 67
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 610,
-    "unit": "Silenrea",
+    "unit": "Tellah",
     "role": "DPS",
     "ascension": 38
   },
