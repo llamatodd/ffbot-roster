@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 468,
+    "awakeningPercent": 470,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 27
@@ -253,7 +253,7 @@
     "awakeningPercent": 826,
     "unit": "Matoya",
     "role": "Support",
-    "ascension": 66
+    "ascension": 67
   },
   {
     "username": "Jestmichelle",
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 11,
     "awakeningPercent": 348,
-    "unit": "Cloud Dress",
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 22
   },
@@ -1155,8 +1155,8 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 504,
-    "unit": "Chocobo Fat",
-    "role": "DPS",
+    "unit": "Gladio",
+    "role": "Tank",
     "ascension": 24
   },
   {
