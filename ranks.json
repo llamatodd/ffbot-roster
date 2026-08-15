@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 470,
+    "awakeningPercent": 472,
     "unit": "Joshua",
     "role": "Support",
     "ascension": 27
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 826,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Guy",
+    "role": "Tank",
     "ascension": 67
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 602,
+    "awakeningPercent": 604,
     "unit": "Tellah",
     "role": "DPS",
     "ascension": 55
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 604,
-    "unit": "Isaaru",
-    "role": "DPS",
+    "awakeningPercent": 606,
+    "unit": "Cait Sith",
+    "role": "Tank",
     "ascension": 38
   },
   {
