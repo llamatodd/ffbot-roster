@@ -242,17 +242,17 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 472,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 474,
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 27
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 826,
-    "unit": "Matoya",
-    "role": "Support",
+    "awakeningPercent": 828,
+    "unit": "Guy",
+    "role": "Tank",
     "ascension": 67
   },
   {
@@ -843,7 +843,7 @@
     "username": "Dredg",
     "rank": 27,
     "awakeningPercent": 32,
-    "unit": "Gogo",
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 9
   },
