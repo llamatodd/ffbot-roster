@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 666,
+    "awakeningPercent": 668,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 59
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 700,
-    "unit": "Garland",
+    "awakeningPercent": 702,
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 52
   },
