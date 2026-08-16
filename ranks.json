@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 618,
-    "unit": "Tifa",
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 56
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 510,
+    "awakeningPercent": 512,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 25
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 76,
     "unit": "Zell",
     "role": "DPS",
-    "ascension": 33
+    "ascension": 34
   },
   {
     "username": "ItsVin_",
