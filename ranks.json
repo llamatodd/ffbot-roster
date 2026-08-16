@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 680,
+    "awakeningPercent": 682,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 59
@@ -1146,7 +1146,7 @@
   {
     "username": "korcc",
     "rank": 11,
-    "awakeningPercent": 364,
+    "awakeningPercent": 366,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 22
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 618,
-    "unit": "Blank",
+    "awakeningPercent": 620,
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 39
   },
