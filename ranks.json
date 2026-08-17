@@ -3,9 +3,9 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 752,
-    "unit": "Vegeta",
-    "role": "DPS",
-    "ascension": 80
+    "unit": "Delita",
+    "role": "Support",
+    "ascension": 81
   },
   {
     "username": "OrgleBot",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 682,
+    "awakeningPercent": 684,
     "unit": "Rikku X2",
     "role": "DPS",
     "ascension": 59
