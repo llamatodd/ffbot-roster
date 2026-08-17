@@ -409,7 +409,7 @@
   },
   {
     "username": "SnoochieBoochie_",
-    "rank": 5,
+    "rank": 6,
     "awakeningPercent": 624,
     "unit": "Tifa Ac",
     "role": "DPS",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 624,
+    "awakeningPercent": 626,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 39
@@ -2245,6 +2245,14 @@
     "awakeningPercent": 4,
     "unit": "Gogo",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Meownzies",
+    "rank": 89,
+    "awakeningPercent": 0,
+    "unit": "Balthier",
+    "role": "Tank",
     "ascension": 0
   }
 ]
