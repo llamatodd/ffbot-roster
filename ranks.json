@@ -1146,15 +1146,15 @@
   {
     "username": "korcc",
     "rank": 11,
-    "awakeningPercent": 368,
-    "unit": "Freya",
+    "awakeningPercent": 370,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 22
   },
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 512,
+    "awakeningPercent": 514,
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 25
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 712,
-    "unit": "Cid 7",
+    "awakeningPercent": 714,
+    "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 52
   },
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 22,
-    "awakeningPercent": 76,
+    "awakeningPercent": 78,
     "unit": "Zell",
     "role": "DPS",
     "ascension": 34
@@ -1931,7 +1931,7 @@
     "username": "Vaedryn",
     "rank": 35,
     "awakeningPercent": 10,
-    "unit": "Beatrix",
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 0
   },
