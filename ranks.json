@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 688,
-    "unit": "Zell",
+    "awakeningPercent": 690,
+    "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 59
   },
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 11,
     "awakeningPercent": 374,
-    "unit": "Estinien",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 22
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 718,
-    "unit": "Chocobo Red",
+    "unit": "Desch",
     "role": "DPS",
     "ascension": 53
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 626,
+    "awakeningPercent": 628,
     "unit": "Ace",
     "role": "DPS",
     "ascension": 39
