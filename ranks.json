@@ -2254,5 +2254,13 @@
     "unit": "Balthier",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "Zinraz33",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Lenna",
+    "role": "Support",
+    "ascension": 0
   }
 ]
