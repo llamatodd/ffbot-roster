@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 718,
+    "awakeningPercent": 720,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 53
@@ -2261,6 +2261,14 @@
     "awakeningPercent": 0,
     "unit": "Lenna",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "ItsCeji",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Tifa Dress",
+    "role": "DPS",
     "ascension": 0
   }
 ]
