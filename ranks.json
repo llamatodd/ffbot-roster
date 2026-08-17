@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 836,
-    "unit": "Domino",
-    "role": "Tank",
+    "unit": "Tellah",
+    "role": "DPS",
     "ascension": 67
   },
   {
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 514,
-    "unit": "Balthier",
+    "awakeningPercent": 516,
+    "unit": "Raijin",
     "role": "Tank",
     "ascension": 25
   },
