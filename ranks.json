@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 840,
-    "unit": "Cid 4",
+    "awakeningPercent": 842,
+    "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 67
   },
@@ -1147,7 +1147,7 @@
     "username": "korcc",
     "rank": 11,
     "awakeningPercent": 376,
-    "unit": "Agrias",
+    "unit": "Clive",
     "role": "DPS",
     "ascension": 22
   },
