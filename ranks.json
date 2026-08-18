@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 10,
     "awakeningPercent": 452,
-    "unit": "Squall Space",
-    "role": "Tank",
+    "unit": "Elena",
+    "role": "Support",
     "ascension": 80
   },
   {
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 636,
-    "unit": "Mog",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 40
   },
