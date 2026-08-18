@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 694,
-    "unit": "Gilgamesh",
+    "awakeningPercent": 696,
+    "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 60
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 632,
+    "awakeningPercent": 634,
     "unit": "Vegeta",
     "role": "DPS",
     "ascension": 40
