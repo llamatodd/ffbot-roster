@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 764,
-    "unit": "Faris",
+    "unit": "Elena",
     "role": "Support",
     "ascension": 81
   },
@@ -11,8 +11,8 @@
     "username": "OrgleBot",
     "rank": 10,
     "awakeningPercent": 452,
-    "unit": "Elena",
-    "role": "Support",
+    "unit": "Squall Space",
+    "role": "Tank",
     "ascension": 80
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 726,
+    "awakeningPercent": 728,
     "unit": "Fang",
     "role": "DPS",
     "ascension": 53
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 22,
-    "awakeningPercent": 78,
+    "awakeningPercent": 80,
     "unit": "Zell",
     "role": "DPS",
     "ascension": 35
