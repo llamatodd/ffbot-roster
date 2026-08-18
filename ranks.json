@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 838,
+    "awakeningPercent": 840,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 67
@@ -1827,9 +1827,9 @@
     "username": "Tsunamimaru",
     "rank": 22,
     "awakeningPercent": 80,
-    "unit": "Zell",
-    "role": "DPS",
-    "ascension": 35
+    "unit": "Squall",
+    "role": "Tank",
+    "ascension": 36
   },
   {
     "username": "ItsVin_",
