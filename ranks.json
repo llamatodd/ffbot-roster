@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 700,
-    "unit": "Yunalesca",
+    "unit": "Selphie",
     "role": "DPS",
     "ascension": 60
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 518,
+    "awakeningPercent": 520,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 25
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 636,
+    "awakeningPercent": 638,
     "unit": "Agrias",
     "role": "DPS",
     "ascension": 40
@@ -2269,6 +2269,14 @@
     "awakeningPercent": 0,
     "unit": "Tifa Dress",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Maldred1",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 0
   }
 ]
