@@ -1149,7 +1149,7 @@
     "awakeningPercent": 380,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "EagleCeres",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 21
+    "ascension": 22
   },
   {
     "username": "Moobot",
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 654,
-    "unit": "Garland",
+    "awakeningPercent": 656,
+    "unit": "Gordon",
     "role": "DPS",
     "ascension": 40
   },
