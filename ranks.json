@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 782,
-    "unit": "Lenna",
-    "role": "Support",
+    "unit": "Gladio",
+    "role": "Tank",
     "ascension": 81
   },
   {
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 508,
-    "unit": "Rufus",
+    "awakeningPercent": 510,
+    "unit": "Rikku",
     "role": "DPS",
     "ascension": 28
   },
