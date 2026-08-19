@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 502,
+    "awakeningPercent": 504,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 28
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 734,
+    "awakeningPercent": 736,
     "unit": "Kiros",
     "role": "DPS",
     "ascension": 53
@@ -2276,6 +2276,14 @@
     "rank": 90,
     "awakeningPercent": 0,
     "unit": "Solanin",
+    "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "KinzeD9",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Jill",
     "role": "Support",
     "ascension": 0
   }
