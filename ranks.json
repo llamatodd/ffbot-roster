@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 710,
-    "unit": "Shantotto",
+    "unit": "Kefka",
     "role": "DPS",
     "ascension": 60
   },
@@ -637,7 +637,7 @@
     "awakeningPercent": 6,
     "unit": "Bartz",
     "role": "Support",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "Zikozuzu",
@@ -1147,8 +1147,8 @@
     "username": "korcc",
     "rank": 11,
     "awakeningPercent": 380,
-    "unit": "Estinien",
-    "role": "DPS",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 22
   },
   {
