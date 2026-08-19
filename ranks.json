@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 776,
+    "awakeningPercent": 778,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 81
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 504,
+    "awakeningPercent": 506,
     "unit": "Rufus",
     "role": "DPS",
     "ascension": 28
@@ -2285,6 +2285,14 @@
     "awakeningPercent": 0,
     "unit": "Jill",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "shikokini",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 0
   }
 ]
