@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 844,
-    "unit": "Tellah",
-    "role": "DPS",
+    "unit": "Delita",
+    "role": "Support",
     "ascension": 67
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 738,
-    "unit": "Prompto",
+    "unit": "Kiros",
     "role": "DPS",
     "ascension": 53
   },
