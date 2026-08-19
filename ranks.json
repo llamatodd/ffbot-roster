@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 710,
+    "awakeningPercent": 712,
     "unit": "Kefka",
     "role": "DPS",
     "ascension": 60
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 646,
-    "unit": "Gordon",
-    "role": "DPS",
+    "unit": "Domino",
+    "role": "Tank",
     "ascension": 40
   },
   {
