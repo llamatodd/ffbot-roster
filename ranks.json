@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 844,
-    "unit": "Chocobo Black",
-    "role": "Tank",
+    "unit": "Tellah",
+    "role": "DPS",
     "ascension": 67
   },
   {
@@ -411,15 +411,15 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 642,
-    "unit": "Vegeta",
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 57
   },
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 716,
-    "unit": "Kuja",
+    "awakeningPercent": 718,
+    "unit": "Edge",
     "role": "DPS",
     "ascension": 60
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 524,
+    "awakeningPercent": 526,
     "unit": "Basch",
     "role": "Tank",
     "ascension": 25
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 26,
     "awakeningPercent": 46,
-    "unit": "Porom",
-    "role": "Healer",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 1
   },
   {
