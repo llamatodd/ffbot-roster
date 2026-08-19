@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 708,
+    "awakeningPercent": 710,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 60
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 730,
-    "unit": "Fang",
+    "awakeningPercent": 732,
+    "unit": "Kiros",
     "role": "DPS",
     "ascension": 53
   },
