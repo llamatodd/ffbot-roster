@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 724,
+    "awakeningPercent": 726,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 61
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 738,
-    "unit": "Kiros",
+    "awakeningPercent": 740,
+    "unit": "Kimahri",
     "role": "DPS",
     "ascension": 53
   },
@@ -1498,10 +1498,10 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 656,
+    "awakeningPercent": 658,
     "unit": "Gordon",
     "role": "DPS",
-    "ascension": 40
+    "ascension": 41
   },
   {
     "username": "eyetotem",
