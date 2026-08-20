@@ -45,7 +45,7 @@
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "Pix_Stitch",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 736,
+    "awakeningPercent": 738,
     "unit": "Edge",
     "role": "DPS",
     "ascension": 61
