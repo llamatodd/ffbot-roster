@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 788,
-    "unit": "Gladio",
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 81
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 654,
+    "awakeningPercent": 656,
     "unit": "Ward",
     "role": "DPS",
     "ascension": 58
@@ -1154,8 +1154,8 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 526,
-    "unit": "Basch",
+    "awakeningPercent": 528,
+    "unit": "Ingus",
     "role": "Tank",
     "ascension": 25
   },
