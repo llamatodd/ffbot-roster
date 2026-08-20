@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 848,
-    "unit": "Seymour",
-    "role": "DPS",
+    "unit": "Penelo",
+    "role": "Support",
     "ascension": 67
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 748,
+    "awakeningPercent": 750,
     "unit": "Estinien",
     "role": "DPS",
     "ascension": 53
