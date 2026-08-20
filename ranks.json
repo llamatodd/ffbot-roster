@@ -2294,5 +2294,13 @@
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Dealuxor",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Cecil",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
