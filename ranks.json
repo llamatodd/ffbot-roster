@@ -242,15 +242,15 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 520,
-    "unit": "Luneth",
+    "awakeningPercent": 522,
+    "unit": "Edgar",
     "role": "DPS",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 850,
+    "awakeningPercent": 852,
     "unit": "Edea",
     "role": "Support",
     "ascension": 67
