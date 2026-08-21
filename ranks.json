@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 518,
+    "awakeningPercent": 520,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 28
@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 850,
-    "unit": "Penelo",
-    "role": "Support",
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 67
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 746,
+    "awakeningPercent": 748,
     "unit": "Ultimecia",
     "role": "DPS",
     "ascension": 61
