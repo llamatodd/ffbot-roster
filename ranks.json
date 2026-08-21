@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 662,
+    "awakeningPercent": 664,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 58
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 750,
-    "unit": "Ultimecia",
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 61
   },
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 26,
     "awakeningPercent": 46,
-    "unit": "Vanille",
-    "role": "Support",
+    "unit": "Rydia",
+    "role": "DPS",
     "ascension": 1
   },
   {
