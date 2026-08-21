@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 850,
-    "unit": "Seymour",
-    "role": "DPS",
+    "unit": "Edea",
+    "role": "Support",
     "ascension": 67
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 660,
+    "awakeningPercent": 662,
     "unit": "Yshtola",
     "role": "DPS",
     "ascension": 58
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 754,
-    "unit": "Tifa",
+    "unit": "Isaaru",
     "role": "DPS",
     "ascension": 53
   },
