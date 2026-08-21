@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 798,
+    "awakeningPercent": 800,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 81
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 676,
-    "unit": "Wakka",
-    "role": "DPS",
+    "awakeningPercent": 678,
+    "unit": "Shadow",
+    "role": "Tank",
     "ascension": 41
   },
   {
