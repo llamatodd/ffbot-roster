@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 530,
+    "awakeningPercent": 532,
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 29
@@ -633,8 +633,8 @@
   },
   {
     "username": "Mikhli",
-    "rank": 40,
-    "awakeningPercent": 6,
+    "rank": 39,
+    "awakeningPercent": 8,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 3
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -2065,7 +2065,7 @@
   },
   {
     "username": "HFDigiMode",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Terra",
     "role": "DPS",
@@ -2137,7 +2137,7 @@
   },
   {
     "username": "TheHealingWhisperer",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 6,
     "unit": "Celes Opera",
     "role": "DPS",
