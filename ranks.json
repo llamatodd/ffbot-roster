@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 852,
-    "unit": "Porom",
-    "role": "Healer",
-    "ascension": 67
+    "unit": "Seymour",
+    "role": "DPS",
+    "ascension": 68
   },
   {
     "username": "Jestmichelle",
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 766,
-    "unit": "Yuffie",
+    "unit": "Estinien",
     "role": "DPS",
-    "ascension": 53
+    "ascension": 54
   },
   {
     "username": "FloDaddelt",
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 682,
-    "unit": "Domino",
+    "awakeningPercent": 684,
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 42
   },
