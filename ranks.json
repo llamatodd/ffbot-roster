@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 768,
+    "awakeningPercent": 770,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 54
@@ -2109,7 +2109,7 @@
     "awakeningPercent": 16,
     "unit": "Hope",
     "role": "Healer",
-    "ascension": 5
+    "ascension": 6
   },
   {
     "username": "PaulKerseyArchitect",
