@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 9,
     "awakeningPercent": 528,
-    "unit": "Edgar",
-    "role": "DPS",
+    "unit": "Rosa",
+    "role": "Healer",
     "ascension": 29
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 766,
+    "awakeningPercent": 768,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 54
