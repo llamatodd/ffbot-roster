@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 800,
-    "unit": "Barret",
+    "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 81
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 758,
-    "unit": "Isaaru",
+    "awakeningPercent": 760,
+    "unit": "Yuffie",
     "role": "DPS",
     "ascension": 53
   },
