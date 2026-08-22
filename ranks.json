@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 760,
-    "unit": "Tellah",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 61
   },
@@ -1643,8 +1643,8 @@
     "username": "Maya__Lyoness",
     "rank": 26,
     "awakeningPercent": 48,
-    "unit": "Rydia",
-    "role": "DPS",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 1
   },
   {
