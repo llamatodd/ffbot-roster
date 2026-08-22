@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 764,
+    "awakeningPercent": 766,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 62
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 684,
-    "unit": "Shadow",
+    "awakeningPercent": 686,
+    "unit": "Esquie",
     "role": "Tank",
     "ascension": 42
   },
