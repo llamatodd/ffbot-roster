@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 9,
-    "awakeningPercent": 532,
-    "unit": "Rosa",
-    "role": "Healer",
+    "awakeningPercent": 534,
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 29
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 678,
+    "awakeningPercent": 680,
     "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 59
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 3,
     "awakeningPercent": 778,
-    "unit": "Noctis",
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 62
   },
