@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 768,
+    "awakeningPercent": 770,
     "unit": "Luneth",
     "role": "DPS",
     "ascension": 62
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 770,
-    "unit": "Kain",
+    "awakeningPercent": 772,
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 54
   },
