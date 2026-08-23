@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 776,
+    "awakeningPercent": 778,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 62
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 776,
     "unit": "Ignis",
     "role": "DPS",
@@ -2107,8 +2107,8 @@
     "username": "Mavlex",
     "rank": 32,
     "awakeningPercent": 16,
-    "unit": "Hope",
-    "role": "Healer",
+    "unit": "Edea Matron",
+    "role": "DPS",
     "ascension": 6
   },
   {
