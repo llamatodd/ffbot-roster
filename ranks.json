@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 854,
-    "unit": "Celes",
+    "awakeningPercent": 856,
+    "unit": "Relm",
     "role": "DPS",
     "ascension": 68
   },
@@ -261,7 +261,7 @@
     "awakeningPercent": 142,
     "unit": "Cecil",
     "role": "DPS",
-    "ascension": 43
+    "ascension": 44
   },
   {
     "username": "egg_noodler",
@@ -2107,8 +2107,8 @@
     "username": "Mavlex",
     "rank": 32,
     "awakeningPercent": 16,
-    "unit": "Edea Matron",
-    "role": "DPS",
+    "unit": "Hope",
+    "role": "Healer",
     "ascension": 6
   },
   {
