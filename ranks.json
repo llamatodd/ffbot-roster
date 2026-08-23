@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 770,
+    "awakeningPercent": 772,
     "unit": "Margy",
     "role": "DPS",
     "ascension": 62
@@ -1153,8 +1153,8 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 8,
-    "awakeningPercent": 536,
+    "rank": 7,
+    "awakeningPercent": 538,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 25
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 772,
+    "awakeningPercent": 774,
     "unit": "Ignis",
     "role": "DPS",
     "ascension": 54
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 688,
+    "awakeningPercent": 690,
     "unit": "Squall",
     "role": "Tank",
     "ascension": 42
