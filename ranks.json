@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 812,
+    "awakeningPercent": 814,
     "unit": "Cid 4",
     "role": "Tank",
     "ascension": 82
@@ -2300,6 +2300,14 @@
     "rank": 90,
     "awakeningPercent": 0,
     "unit": "Cecil",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "wavy_matrix2001",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 0
   }
