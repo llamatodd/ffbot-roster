@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 852,
-    "unit": "Ignis",
-    "role": "DPS",
+    "unit": "Porom",
+    "role": "Healer",
     "ascension": 68
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 674,
+    "awakeningPercent": 676,
     "unit": "Yuna",
     "role": "DPS",
     "ascension": 59
