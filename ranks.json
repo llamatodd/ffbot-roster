@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 784,
     "unit": "Garland",
     "role": "DPS",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 784,
+    "awakeningPercent": 786,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 54
