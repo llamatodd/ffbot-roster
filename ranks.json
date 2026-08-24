@@ -251,8 +251,8 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 858,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 68
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 782,
+    "awakeningPercent": 784,
     "unit": "Rufus",
     "role": "DPS",
     "ascension": 62
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 782,
     "unit": "Noctis",
     "role": "DPS",
