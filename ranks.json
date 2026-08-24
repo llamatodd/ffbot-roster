@@ -243,16 +243,16 @@
     "username": "Fangcollector",
     "rank": 7,
     "awakeningPercent": 540,
-    "unit": "Maria",
-    "role": "Support",
+    "unit": "Garland",
+    "role": "DPS",
     "ascension": 29
   },
   {
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 858,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Seymour",
+    "role": "DPS",
     "ascension": 68
   },
   {
