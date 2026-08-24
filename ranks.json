@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 816,
-    "unit": "Cid 4",
-    "role": "Tank",
+    "unit": "Cor",
+    "role": "DPS",
     "ascension": 82
   },
   {
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 856,
-    "unit": "Relm",
+    "awakeningPercent": 858,
+    "unit": "Irvine",
     "role": "DPS",
     "ascension": 68
   },
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 14,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 22
   },
   {
     "username": "Nightbot",
     "rank": 13,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 22
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 782,
-    "unit": "Minwu",
-    "role": "Healer",
+    "unit": "Kuja",
+    "role": "DPS",
     "ascension": 54
   },
   {
@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 22,
-    "awakeningPercent": 86,
+    "awakeningPercent": 88,
     "unit": "Edgar",
     "role": "DPS",
     "ascension": 38
