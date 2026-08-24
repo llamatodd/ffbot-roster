@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 820,
+    "awakeningPercent": 822,
     "unit": "Domino",
     "role": "Tank",
     "ascension": 82
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 688,
+    "awakeningPercent": 690,
     "unit": "Yunalesca",
     "role": "DPS",
     "ascension": 59
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 790,
+    "awakeningPercent": 792,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 62
@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 14,
     "awakeningPercent": 286,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Solanin",
+    "role": "Support",
     "ascension": 22
   },
   {
     "username": "Nightbot",
     "rank": 13,
     "awakeningPercent": 310,
-    "unit": "Joshua",
+    "unit": "Jill",
     "role": "Support",
     "ascension": 22
   },
@@ -1433,10 +1433,10 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 790,
-    "unit": "Minwu",
-    "role": "Healer",
+    "unit": "Rikku X2",
+    "role": "DPS",
     "ascension": 54
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 706,
+    "awakeningPercent": 708,
     "unit": "Ignis",
     "role": "DPS",
     "ascension": 42
