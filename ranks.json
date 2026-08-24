@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 820,
-    "unit": "Cid Randell",
+    "unit": "Domino",
     "role": "Tank",
     "ascension": 82
   },
@@ -241,8 +241,8 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 8,
-    "awakeningPercent": 538,
+    "rank": 7,
+    "awakeningPercent": 540,
     "unit": "Maria",
     "role": "Support",
     "ascension": 29
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 788,
+    "awakeningPercent": 790,
     "unit": "Gordon",
     "role": "DPS",
     "ascension": 62
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 8,
+    "rank": 9,
     "awakeningPercent": 538,
     "unit": "Terra",
     "role": "DPS",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 704,
+    "awakeningPercent": 706,
     "unit": "Ignis",
     "role": "DPS",
     "ascension": 42
@@ -2316,6 +2316,14 @@
     "rank": 90,
     "awakeningPercent": 0,
     "unit": "Leon",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "darksamuraimoonsoju",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 0
   }
