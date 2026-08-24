@@ -1243,15 +1243,15 @@
     "username": "Fossabot",
     "rank": 14,
     "awakeningPercent": 286,
-    "unit": "Solanin",
-    "role": "Support",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 22
   },
   {
     "username": "Nightbot",
     "rank": 13,
     "awakeningPercent": 310,
-    "unit": "Jill",
+    "unit": "Joshua",
     "role": "Support",
     "ascension": 22
   },
@@ -1433,10 +1433,10 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
-    "awakeningPercent": 788,
-    "unit": "Noctis",
-    "role": "DPS",
+    "rank": 3,
+    "awakeningPercent": 790,
+    "unit": "Minwu",
+    "role": "Healer",
     "ascension": 54
   },
   {
