@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 540,
+    "awakeningPercent": 542,
     "unit": "Garland",
     "role": "DPS",
     "ascension": 29
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 3,
     "awakeningPercent": 792,
-    "unit": "Gordon",
+    "unit": "Isaaru",
     "role": "DPS",
     "ascension": 62
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 540,
     "unit": "Rude",
     "role": "Tank",
