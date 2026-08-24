@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 782,
-    "unit": "Minwu",
-    "role": "Healer",
+    "unit": "Noctis",
+    "role": "DPS",
     "ascension": 54
   },
   {
@@ -2308,6 +2308,14 @@
     "rank": 90,
     "awakeningPercent": 0,
     "unit": "Edea Matron",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "fFoxfire",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 0
   }
