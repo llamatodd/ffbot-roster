@@ -241,7 +241,7 @@
   },
   {
     "username": "Fangcollector",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 538,
     "unit": "Maria",
     "role": "Support",
@@ -1154,10 +1154,10 @@
   {
     "username": "EagleCeres",
     "rank": 7,
-    "awakeningPercent": 538,
-    "unit": "Steiner",
+    "awakeningPercent": 540,
+    "unit": "Rude",
     "role": "Tank",
-    "ascension": 25
+    "ascension": 26
   },
   {
     "username": "Niriall",
@@ -1297,7 +1297,7 @@
   },
   {
     "username": "ComplexMessiah",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 538,
     "unit": "Terra",
     "role": "DPS",
