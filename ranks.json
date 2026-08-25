@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 824,
+    "awakeningPercent": 826,
     "unit": "Domino",
     "role": "Tank",
     "ascension": 82
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 864,
-    "unit": "Edgar",
+    "awakeningPercent": 866,
+    "unit": "Beatrix Beach",
     "role": "DPS",
     "ascension": 68
   },
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 796,
+    "awakeningPercent": 798,
     "unit": "Kiros",
     "role": "DPS",
     "ascension": 62
@@ -1501,7 +1501,7 @@
     "awakeningPercent": 710,
     "unit": "Cor",
     "role": "DPS",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "eyetotem",
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 88,
     "unit": "Edgar",
     "role": "DPS",
-    "ascension": 38
+    "ascension": 39
   },
   {
     "username": "ItsVin_",
