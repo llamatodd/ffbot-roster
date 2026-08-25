@@ -2326,5 +2326,13 @@
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "zgord_celt_s",
+    "rank": 90,
+    "awakeningPercent": 0,
+    "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 0
   }
 ]
