@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 544,
-    "unit": "Garland",
+    "awakeningPercent": 546,
+    "unit": "Noctis",
     "role": "DPS",
     "ascension": 29
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 698,
+    "awakeningPercent": 700,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 60
@@ -1153,7 +1153,7 @@
   },
   {
     "username": "EagleCeres",
-    "rank": 7,
+    "rank": 8,
     "awakeningPercent": 544,
     "unit": "Rude",
     "role": "Tank",
