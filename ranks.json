@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 870,
-    "unit": "Seymour Omnis",
-    "role": "DPS",
+    "awakeningPercent": 872,
+    "unit": "Maria",
+    "role": "Support",
     "ascension": 68
   },
   {
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 824,
+    "awakeningPercent": 826,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 63
