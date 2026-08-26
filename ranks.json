@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 800,
-    "unit": "Tifa Dress",
+    "awakeningPercent": 802,
+    "unit": "Wakka",
     "role": "DPS",
     "ascension": 54
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 718,
+    "awakeningPercent": 720,
     "unit": "Guy",
     "role": "Tank",
     "ascension": 43
