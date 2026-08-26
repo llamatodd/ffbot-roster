@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 706,
+    "awakeningPercent": 708,
     "unit": "Shantotto",
     "role": "DPS",
     "ascension": 60
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 818,
-    "unit": "Fujin",
+    "awakeningPercent": 820,
+    "unit": "Palom",
     "role": "DPS",
     "ascension": 63
   },
@@ -2333,6 +2333,14 @@
     "awakeningPercent": 2,
     "unit": "Aeris",
     "role": "Healer",
+    "ascension": 0
+  },
+  {
+    "username": "GlacialHart",
+    "rank": 91,
+    "awakeningPercent": 0,
+    "unit": "Rydia",
+    "role": "DPS",
     "ascension": 0
   }
 ]
