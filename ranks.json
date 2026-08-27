@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 846,
-    "unit": "Ghido",
-    "role": "Tank",
+    "unit": "Edea Matron",
+    "role": "DPS",
     "ascension": 83
   },
   {
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 562,
-    "unit": "Blank",
+    "awakeningPercent": 564,
+    "unit": "Wakka",
     "role": "DPS",
     "ascension": 30
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 734,
+    "awakeningPercent": 736,
     "unit": "Amarant",
     "role": "Tank",
     "ascension": 43
