@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 826,
+    "awakeningPercent": 828,
     "unit": "Seymour",
     "role": "DPS",
     "ascension": 63
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 22
+    "ascension": 23
   },
   {
     "username": "Moobot",
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 724,
-    "unit": "Barret",
-    "role": "Tank",
+    "awakeningPercent": 726,
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 43
   },
   {
