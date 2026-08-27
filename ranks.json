@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 840,
+    "awakeningPercent": 842,
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 82
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 556,
-    "unit": "Braska",
+    "awakeningPercent": 558,
+    "unit": "Blank",
     "role": "DPS",
     "ascension": 30
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 712,
+    "awakeningPercent": 714,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 60
