@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 3,
     "awakeningPercent": 832,
-    "unit": "Terra",
+    "unit": "Tellah",
     "role": "DPS",
     "ascension": 63
   },
@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 550,
+    "awakeningPercent": 552,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 26
