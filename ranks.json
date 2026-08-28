@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 720,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 61
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 822,
+    "awakeningPercent": 824,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 54
