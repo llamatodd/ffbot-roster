@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 566,
+    "awakeningPercent": 568,
     "unit": "Wakka",
     "role": "DPS",
     "ascension": 30
@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 728,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 61
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 740,
+    "awakeningPercent": 742,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 44
