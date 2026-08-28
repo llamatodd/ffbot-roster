@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 874,
-    "unit": "Ashe",
+    "unit": "Lenna",
     "role": "Support",
     "ascension": 68
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 736,
-    "unit": "Cor",
-    "role": "DPS",
+    "unit": "Sabin",
+    "role": "Tank",
     "ascension": 43
   },
   {
