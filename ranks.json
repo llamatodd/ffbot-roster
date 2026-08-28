@@ -411,14 +411,14 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 728,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 61
   },
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 838,
+    "awakeningPercent": 840,
     "unit": "Terra",
     "role": "DPS",
     "ascension": 64
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 742,
+    "awakeningPercent": 744,
     "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 44
