@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 568,
-    "unit": "Wakka",
-    "role": "DPS",
+    "awakeningPercent": 570,
+    "unit": "Ramza",
+    "role": "Support",
     "ascension": 30
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 824,
-    "unit": "Tifa Dress",
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 54
   },
