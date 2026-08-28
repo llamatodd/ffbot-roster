@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 850,
+    "awakeningPercent": 852,
     "unit": "Maria",
     "role": "Support",
     "ascension": 83
@@ -411,8 +411,8 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 724,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 61
   },
   {
