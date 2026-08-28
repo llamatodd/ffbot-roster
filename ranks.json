@@ -1149,7 +1149,7 @@
     "awakeningPercent": 380,
     "unit": "Aeris",
     "role": "Healer",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "EagleCeres",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 818,
-    "unit": "Cloud Dress",
+    "awakeningPercent": 820,
+    "unit": "Zidane",
     "role": "DPS",
     "ascension": 54
   },
