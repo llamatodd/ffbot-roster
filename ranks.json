@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 564,
+    "awakeningPercent": 566,
     "unit": "Wakka",
     "role": "DPS",
     "ascension": 30
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 872,
+    "awakeningPercent": 874,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 68
@@ -421,7 +421,7 @@
     "awakeningPercent": 836,
     "unit": "Tellah",
     "role": "DPS",
-    "ascension": 63
+    "ascension": 64
   },
   {
     "username": "artudixx",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 4,
-    "awakeningPercent": 820,
+    "awakeningPercent": 822,
     "unit": "Zidane",
     "role": "DPS",
     "ascension": 54
