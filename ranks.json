@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 576,
+    "awakeningPercent": 578,
     "unit": "Lenna",
     "role": "Support",
     "ascension": 30
@@ -2348,6 +2348,14 @@
     "rank": 92,
     "awakeningPercent": 0,
     "unit": "Cor",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "flixerator",
+    "rank": 92,
+    "awakeningPercent": 0,
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 0
   }
