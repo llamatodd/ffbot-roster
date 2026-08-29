@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 858,
+    "awakeningPercent": 860,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 83
@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 878,
-    "unit": "Red Xiii",
+    "unit": "Elena",
     "role": "Support",
     "ascension": 68
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 740,
+    "awakeningPercent": 742,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 61
@@ -1435,9 +1435,9 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 830,
-    "unit": "Firion",
+    "unit": "Cait Sith",
     "role": "Tank",
-    "ascension": 54
+    "ascension": 55
   },
   {
     "username": "FloDaddelt",
