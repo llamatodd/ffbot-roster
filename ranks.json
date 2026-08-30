@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 868,
+    "awakeningPercent": 870,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 83
@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 586,
-    "unit": "Vaan",
+    "awakeningPercent": 588,
+    "unit": "Genesis",
     "role": "DPS",
     "ascension": 31
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 3,
     "awakeningPercent": 850,
-    "unit": "Gordon",
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 64
   },
