@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 588,
+    "awakeningPercent": 590,
     "unit": "Genesis",
     "role": "DPS",
     "ascension": 31
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 764,
-    "unit": "Sabin",
-    "role": "Tank",
+    "awakeningPercent": 766,
+    "unit": "Vaan",
+    "role": "DPS",
     "ascension": 44
   },
   {
