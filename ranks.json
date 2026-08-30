@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 750,
+    "awakeningPercent": 752,
     "unit": "Vincent",
     "role": "DPS",
     "ascension": 61
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 762,
-    "unit": "Steiner",
+    "awakeningPercent": 764,
+    "unit": "Sabin",
     "role": "Tank",
     "ascension": 44
   },
