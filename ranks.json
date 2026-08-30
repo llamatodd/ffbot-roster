@@ -259,9 +259,9 @@
     "username": "Jestmichelle",
     "rank": 17,
     "awakeningPercent": 146,
-    "unit": "Cecil",
+    "unit": "Reno",
     "role": "DPS",
-    "ascension": 44
+    "ascension": 45
   },
   {
     "username": "egg_noodler",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 760,
+    "awakeningPercent": 762,
     "unit": "Steiner",
     "role": "Tank",
     "ascension": 44
