@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 2,
     "awakeningPercent": 870,
-    "unit": "Rude",
+    "unit": "Thancred",
     "role": "Tank",
     "ascension": 83
   },
@@ -2356,6 +2356,14 @@
     "rank": 48,
     "awakeningPercent": 4,
     "unit": "Seymour Omnis",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "danime8_twitch",
+    "rank": 93,
+    "awakeningPercent": 0,
+    "unit": "Garland",
     "role": "DPS",
     "ascension": 0
   }
