@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 3,
     "awakeningPercent": 854,
-    "unit": "Paine",
+    "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 65
   },
@@ -1499,9 +1499,9 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 770,
-    "unit": "Firion",
-    "role": "Tank",
-    "ascension": 44
+    "unit": "Vaan",
+    "role": "DPS",
+    "ascension": 45
   },
   {
     "username": "eyetotem",
