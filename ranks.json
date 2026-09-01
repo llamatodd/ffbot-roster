@@ -2,9 +2,9 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 886,
-    "unit": "Zack",
-    "role": "Tank",
+    "awakeningPercent": 888,
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 83
   },
   {
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 892,
+    "awakeningPercent": 894,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 69
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 862,
-    "unit": "Firion",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 55
   },
