@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 600,
+    "awakeningPercent": 602,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 31
@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 1,
-    "awakeningPercent": 890,
-    "unit": "Joshua",
-    "role": "Support",
+    "awakeningPercent": 892,
+    "unit": "Fran",
+    "role": "DPS",
     "ascension": 69
   },
   {
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 782,
+    "awakeningPercent": 784,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 45
