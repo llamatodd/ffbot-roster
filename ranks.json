@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 880,
+    "awakeningPercent": 882,
     "unit": "Thancred",
     "role": "Tank",
     "ascension": 83
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 856,
+    "awakeningPercent": 858,
     "unit": "Celes",
     "role": "DPS",
     "ascension": 65
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 856,
     "unit": "Aeris",
     "role": "Healer",
