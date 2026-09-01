@@ -417,7 +417,7 @@
   },
   {
     "username": "seika",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 862,
     "unit": "Leon",
     "role": "DPS",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 862,
+    "awakeningPercent": 864,
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 55
