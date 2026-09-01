@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 884,
+    "awakeningPercent": 886,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 83
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 4,
     "awakeningPercent": 858,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Galuf",
+    "role": "Tank",
     "ascension": 55
   },
   {
