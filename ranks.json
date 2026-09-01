@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 2,
-    "awakeningPercent": 882,
+    "awakeningPercent": 884,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 83
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 22,
     "awakeningPercent": 92,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 42
   },
   {
