@@ -411,15 +411,15 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 768,
-    "unit": "Rikku",
+    "unit": "Estinien",
     "role": "DPS",
     "ascension": 62
   },
   {
     "username": "seika",
     "rank": 3,
-    "awakeningPercent": 858,
-    "unit": "Ultimecia",
+    "awakeningPercent": 860,
+    "unit": "Gogo",
     "role": "DPS",
     "ascension": 65
   },
@@ -1433,7 +1433,7 @@
   },
   {
     "username": "Astaemos",
-    "rank": 3,
+    "rank": 4,
     "awakeningPercent": 858,
     "unit": "Aeris",
     "role": "Healer",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 780,
-    "unit": "Gladio",
-    "role": "Tank",
+    "unit": "Marcus",
+    "role": "DPS",
     "ascension": 45
   },
   {
