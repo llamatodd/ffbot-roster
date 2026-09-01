@@ -1433,8 +1433,8 @@
   },
   {
     "username": "Astaemos",
-    "rank": 4,
-    "awakeningPercent": 856,
+    "rank": 3,
+    "awakeningPercent": 858,
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 55
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 22,
     "awakeningPercent": 92,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 42
   },
   {
