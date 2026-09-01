@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 602,
+    "awakeningPercent": 604,
     "unit": "Paine",
     "role": "DPS",
     "ascension": 31
@@ -417,9 +417,9 @@
   },
   {
     "username": "seika",
-    "rank": 4,
-    "awakeningPercent": 860,
-    "unit": "Gogo",
+    "rank": 3,
+    "awakeningPercent": 862,
+    "unit": "Leon",
     "role": "DPS",
     "ascension": 65
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 862,
-    "unit": "Sabin",
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 55
   },
