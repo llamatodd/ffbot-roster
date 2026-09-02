@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 864,
-    "unit": "Gladio",
+    "awakeningPercent": 866,
+    "unit": "Thancred",
     "role": "Tank",
     "ascension": 55
   },
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 784,
+    "awakeningPercent": 786,
     "unit": "Marcus",
     "role": "DPS",
     "ascension": 45
