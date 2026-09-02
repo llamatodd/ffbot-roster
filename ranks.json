@@ -2374,5 +2374,13 @@
     "unit": "Orlandeau",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Alaquane",
+    "rank": 93,
+    "awakeningPercent": 0,
+    "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 0
   }
 ]
