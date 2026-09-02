@@ -251,7 +251,7 @@
     "username": "Sarah_Orion",
     "rank": 1,
     "awakeningPercent": 896,
-    "unit": "Rosa",
+    "unit": "Eiko",
     "role": "Healer",
     "ascension": 69
   },
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 23
+    "ascension": 24
   },
   {
     "username": "Moobot",
