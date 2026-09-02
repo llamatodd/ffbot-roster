@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 896,
+    "awakeningPercent": 898,
     "unit": "Sazh",
     "role": "Support",
     "ascension": 83
@@ -249,7 +249,7 @@
   },
   {
     "username": "Sarah_Orion",
-    "rank": 1,
+    "rank": 2,
     "awakeningPercent": 896,
     "unit": "Eiko",
     "role": "Healer",
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 872,
-    "unit": "Umaro",
+    "unit": "Thancred",
     "role": "Tank",
     "ascension": 55
   },
