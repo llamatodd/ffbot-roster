@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 790,
+    "awakeningPercent": 792,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 45
@@ -2379,8 +2379,8 @@
     "username": "Alaquane",
     "rank": 93,
     "awakeningPercent": 0,
-    "unit": "Aeris",
-    "role": "Healer",
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 0
   }
 ]
