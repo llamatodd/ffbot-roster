@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 604,
-    "unit": "Paine",
+    "awakeningPercent": 606,
+    "unit": "Queen",
     "role": "DPS",
     "ascension": 31
   },
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 864,
-    "unit": "Celes Opera",
+    "awakeningPercent": 866,
+    "unit": "Seymour Omnis",
     "role": "DPS",
     "ascension": 65
   },
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 792,
-    "unit": "Bartz",
-    "role": "Support",
+    "unit": "Locke",
+    "role": "DPS",
     "ascension": 45
   },
   {
