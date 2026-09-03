@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 3,
-    "awakeningPercent": 880,
+    "awakeningPercent": 882,
     "unit": "Auron",
     "role": "Tank",
     "ascension": 55
@@ -2389,6 +2389,14 @@
     "awakeningPercent": 0,
     "unit": "Celes",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Ryu_Tempest_",
+    "rank": 93,
+    "awakeningPercent": 0,
+    "unit": "Raijin",
+    "role": "Tank",
     "ascension": 0
   }
 ]
