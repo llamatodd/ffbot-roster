@@ -250,9 +250,9 @@
   {
     "username": "Sarah_Orion",
     "rank": 2,
-    "awakeningPercent": 898,
-    "unit": "Hope",
-    "role": "Healer",
+    "awakeningPercent": 900,
+    "unit": "Freya",
+    "role": "DPS",
     "ascension": 69
   },
   {
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 784,
-    "unit": "Beatrix Beach",
+    "unit": "Alisaie",
     "role": "DPS",
     "ascension": 62
   },
