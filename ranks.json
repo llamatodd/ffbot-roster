@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 900,
+    "awakeningPercent": 902,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 84
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 798,
+    "awakeningPercent": 800,
     "unit": "Kain",
     "role": "DPS",
     "ascension": 45
