@@ -249,9 +249,9 @@
   },
   {
     "username": "Sarah_Orion",
-    "rank": 2,
-    "awakeningPercent": 896,
-    "unit": "Eiko",
+    "rank": 1,
+    "awakeningPercent": 898,
+    "unit": "Hope",
     "role": "Healer",
     "ascension": 69
   },
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 874,
-    "unit": "Thancred",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 55
   },
