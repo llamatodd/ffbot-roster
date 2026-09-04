@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 622,
-    "unit": "Minwu",
-    "role": "Healer",
+    "awakeningPercent": 624,
+    "unit": "Kain",
+    "role": "DPS",
     "ascension": 32
   },
   {
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 3,
     "awakeningPercent": 894,
-    "unit": "Auron Young",
+    "unit": "Cid 4",
     "role": "Tank",
     "ascension": 56
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 814,
-    "unit": "Quina",
+    "unit": "Gladio",
     "role": "Tank",
     "ascension": 46
   },
