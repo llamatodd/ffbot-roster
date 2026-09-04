@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 908,
+    "awakeningPercent": 910,
     "unit": "Hope",
     "role": "Healer",
     "ascension": 84
@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 2,
-    "awakeningPercent": 900,
+    "awakeningPercent": 902,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 69
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 804,
-    "unit": "Gladio",
+    "unit": "Wol",
     "role": "Tank",
     "ascension": 46
   },
