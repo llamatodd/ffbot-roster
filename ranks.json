@@ -2398,5 +2398,13 @@
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "Nishik",
+    "rank": 93,
+    "awakeningPercent": 0,
+    "unit": "Ingus",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
