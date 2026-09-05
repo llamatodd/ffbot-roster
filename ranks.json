@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 632,
+    "awakeningPercent": 634,
     "unit": "Rydia",
     "role": "DPS",
     "ascension": 32
@@ -561,7 +561,7 @@
   },
   {
     "username": "DrMokz",
-    "rank": 21,
+    "rank": 22,
     "awakeningPercent": 94,
     "unit": "Amarant",
     "role": "Tank",
@@ -1825,8 +1825,8 @@
   },
   {
     "username": "Tsunamimaru",
-    "rank": 22,
-    "awakeningPercent": 92,
+    "rank": 21,
+    "awakeningPercent": 96,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 42
