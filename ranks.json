@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 922,
+    "awakeningPercent": 924,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 84
@@ -251,9 +251,9 @@
     "username": "Sarah_Orion",
     "rank": 2,
     "awakeningPercent": 908,
-    "unit": "Pupu",
+    "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 69
+    "ascension": 70
   },
   {
     "username": "Jestmichelle",
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 884,
+    "awakeningPercent": 886,
     "unit": "Shana",
     "role": "Support",
     "ascension": 66
@@ -1498,9 +1498,9 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 822,
-    "unit": "Paine",
-    "role": "DPS",
+    "awakeningPercent": 824,
+    "unit": "Bartz",
+    "role": "Support",
     "ascension": 46
   },
   {
