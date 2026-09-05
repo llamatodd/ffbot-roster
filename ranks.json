@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 918,
+    "awakeningPercent": 920,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 84
@@ -2379,8 +2379,8 @@
     "username": "Alaquane",
     "rank": 94,
     "awakeningPercent": 0,
-    "unit": "Fujin",
-    "role": "DPS",
+    "unit": "Aeris",
+    "role": "Healer",
     "ascension": 0
   },
   {
