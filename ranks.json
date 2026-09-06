@@ -1826,7 +1826,7 @@
   {
     "username": "Tsunamimaru",
     "rank": 21,
-    "awakeningPercent": 96,
+    "awakeningPercent": 100,
     "unit": "Cecil Paladin",
     "role": "Healer",
     "ascension": 42
@@ -2109,7 +2109,7 @@
     "awakeningPercent": 16,
     "unit": "Hope",
     "role": "Healer",
-    "ascension": 9
+    "ascension": 10
   },
   {
     "username": "PaulKerseyArchitect",
