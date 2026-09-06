@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 634,
+    "awakeningPercent": 636,
     "unit": "Rydia",
     "role": "DPS",
     "ascension": 32
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 794,
+    "awakeningPercent": 796,
     "unit": "Blank",
     "role": "DPS",
     "ascension": 63
@@ -2413,6 +2413,14 @@
     "awakeningPercent": 0,
     "unit": "Rinoa",
     "role": "Healer",
+    "ascension": 0
+  },
+  {
+    "username": "KupoKarnage",
+    "rank": 94,
+    "awakeningPercent": 0,
+    "unit": "Metuba",
+    "role": "Support",
     "ascension": 0
   }
 ]
