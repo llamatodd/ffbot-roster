@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 930,
+    "awakeningPercent": 932,
     "unit": "Penelo",
     "role": "Support",
     "ascension": 84
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 796,
+    "awakeningPercent": 798,
     "unit": "Desch",
     "role": "DPS",
     "ascension": 63
@@ -418,7 +418,7 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 888,
+    "awakeningPercent": 890,
     "unit": "Red Xiii",
     "role": "Support",
     "ascension": 66
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 2,
     "awakeningPercent": 914,
-    "unit": "Squall",
+    "unit": "Basch",
     "role": "Tank",
     "ascension": 56
   },
