@@ -249,7 +249,7 @@
   },
   {
     "username": "Sarah_Orion",
-    "rank": 2,
+    "rank": 3,
     "awakeningPercent": 908,
     "unit": "Ovelia",
     "role": "Healer",
@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 570,
-    "unit": "Cid 7",
+    "unit": "Noctis",
     "role": "DPS",
     "ascension": 26
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 908,
+    "awakeningPercent": 910,
     "unit": "Zack",
     "role": "Tank",
     "ascension": 56
@@ -2405,6 +2405,14 @@
     "awakeningPercent": 0,
     "unit": "Ingus",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "heiirao",
+    "rank": 94,
+    "awakeningPercent": 0,
+    "unit": "Rinoa",
+    "role": "Healer",
     "ascension": 0
   }
 ]
