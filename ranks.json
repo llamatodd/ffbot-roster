@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 646,
-    "unit": "Yuna X2",
-    "role": "DPS",
+    "awakeningPercent": 648,
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 32
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 802,
+    "awakeningPercent": 804,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 64
