@@ -411,9 +411,9 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 798,
-    "unit": "Desch",
-    "role": "DPS",
-    "ascension": 63
+    "unit": "Ashe",
+    "role": "Support",
+    "ascension": 64
   },
   {
     "username": "seika",
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 916,
+    "awakeningPercent": 918,
     "unit": "Raijin",
     "role": "Tank",
     "ascension": 56
