@@ -1157,7 +1157,7 @@
     "awakeningPercent": 574,
     "unit": "Noctis",
     "role": "DPS",
-    "ascension": 26
+    "ascension": 27
   },
   {
     "username": "Niriall",
@@ -1498,10 +1498,10 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 830,
-    "unit": "Basch",
+    "awakeningPercent": 832,
+    "unit": "Rude",
     "role": "Tank",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "eyetotem",
