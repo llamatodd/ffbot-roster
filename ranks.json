@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 642,
+    "awakeningPercent": 644,
     "unit": "Yuna X2",
     "role": "DPS",
     "ascension": 32
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 798,
+    "awakeningPercent": 800,
     "unit": "Ashe",
     "role": "Support",
     "ascension": 64
@@ -418,8 +418,8 @@
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 890,
-    "unit": "Kefka",
+    "awakeningPercent": 892,
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 67
   },
