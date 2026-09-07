@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 804,
-    "unit": "Ashe",
+    "unit": "Delita",
     "role": "Support",
     "ascension": 64
   },
@@ -2421,6 +2421,14 @@
     "awakeningPercent": 4,
     "unit": "Metuba",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "tarmaki",
+    "rank": 95,
+    "awakeningPercent": 0,
+    "unit": "Alisaie",
+    "role": "DPS",
     "ascension": 0
   }
 ]
