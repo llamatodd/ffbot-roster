@@ -13,7 +13,7 @@
     "awakeningPercent": 452,
     "unit": "Ingus",
     "role": "Tank",
-    "ascension": 82
+    "ascension": 83
   },
   {
     "username": "dead_rabbitz",
@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 912,
-    "unit": "Laguna",
+    "awakeningPercent": 914,
+    "unit": "Emperor",
     "role": "DPS",
     "ascension": 70
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 920,
+    "awakeningPercent": 922,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 56
