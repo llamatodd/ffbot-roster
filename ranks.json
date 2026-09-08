@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 21,
     "awakeningPercent": 100,
-    "unit": "Cecil Paladin",
-    "role": "Healer",
+    "unit": "Cecil",
+    "role": "DPS",
     "ascension": 43
   },
   {
@@ -2428,6 +2428,14 @@
     "rank": 68,
     "awakeningPercent": 2,
     "unit": "Alisaie",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Melladon",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Tifa Ac",
     "role": "DPS",
     "ascension": 0
   }
