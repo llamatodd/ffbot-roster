@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 918,
-    "unit": "Sephiroth",
+    "awakeningPercent": 920,
+    "unit": "Noctis",
     "role": "DPS",
     "ascension": 70
   },
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 902,
-    "unit": "Edea",
+    "unit": "Solanin",
     "role": "Support",
     "ascension": 67
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 846,
-    "unit": "Squall Space",
+    "unit": "Auron Young",
     "role": "Tank",
     "ascension": 47
   },
