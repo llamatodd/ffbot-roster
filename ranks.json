@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 812,
+    "awakeningPercent": 814,
     "unit": "Edea",
     "role": "Support",
     "ascension": 64
@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 900,
-    "unit": "Maria",
+    "unit": "Edea",
     "role": "Support",
     "ascension": 67
   },
@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 930,
+    "awakeningPercent": 932,
     "unit": "Quina",
     "role": "Tank",
     "ascension": 56
