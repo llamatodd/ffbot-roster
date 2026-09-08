@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 914,
-    "unit": "Emperor",
+    "awakeningPercent": 916,
+    "unit": "Clive",
     "role": "DPS",
     "ascension": 70
   },
@@ -419,8 +419,8 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 896,
-    "unit": "Emperor",
-    "role": "DPS",
+    "unit": "Ashe",
+    "role": "Support",
     "ascension": 67
   },
   {
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 922,
-    "unit": "Basch",
+    "awakeningPercent": 924,
+    "unit": "Squall",
     "role": "Tank",
     "ascension": 56
   },
