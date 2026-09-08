@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 944,
+    "awakeningPercent": 946,
     "unit": "Torgal",
     "role": "Support",
     "ascension": 84
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 842,
-    "unit": "Auron",
+    "unit": "Squall Space",
     "role": "Tank",
     "ascension": 47
   },
@@ -1829,7 +1829,7 @@
     "awakeningPercent": 100,
     "unit": "Cecil Paladin",
     "role": "Healer",
-    "ascension": 42
+    "ascension": 43
   },
   {
     "username": "ItsVin_",
