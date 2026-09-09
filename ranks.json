@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 920,
-    "unit": "Ward",
+    "awakeningPercent": 922,
+    "unit": "Ignis",
     "role": "DPS",
     "ascension": 70
   },
@@ -261,7 +261,7 @@
     "awakeningPercent": 148,
     "unit": "Rinoa",
     "role": "Healer",
-    "ascension": 46
+    "ascension": 47
   },
   {
     "username": "egg_noodler",
