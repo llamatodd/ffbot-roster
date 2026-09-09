@@ -243,15 +243,15 @@
     "username": "Fangcollector",
     "rank": 7,
     "awakeningPercent": 660,
-    "unit": "Sazh",
-    "role": "Support",
+    "unit": "Alisaie",
+    "role": "DPS",
     "ascension": 33
   },
   {
     "username": "Sarah_Orion",
     "rank": 3,
     "awakeningPercent": 920,
-    "unit": "Ignis",
+    "unit": "Ward",
     "role": "DPS",
     "ascension": 70
   },
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 940,
-    "unit": "Cyan",
+    "awakeningPercent": 942,
+    "unit": "Chocobo Black",
     "role": "Tank",
     "ascension": 56
   },
