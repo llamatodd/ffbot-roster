@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -2065,7 +2065,7 @@
   },
   {
     "username": "HFDigiMode",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Terra",
     "role": "DPS",
@@ -2137,7 +2137,7 @@
   },
   {
     "username": "TheHealingWhisperer",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 6,
     "unit": "Celes Opera",
     "role": "DPS",
@@ -2353,8 +2353,8 @@
   },
   {
     "username": "flixerator",
-    "rank": 41,
-    "awakeningPercent": 6,
+    "rank": 39,
+    "awakeningPercent": 8,
     "unit": "Jill",
     "role": "Support",
     "ascension": 0
@@ -2437,6 +2437,134 @@
     "awakeningPercent": 0,
     "unit": "Tifa Ac",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Dymas_CZ",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Jecht",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "panthers_am_",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Gladio",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Jckun",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Garland",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "wait____wut",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Umaro",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "SylianaVelash",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Barret",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "themissingbit",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Garnet",
+    "role": "Healer",
+    "ascension": 0
+  },
+  {
+    "username": "frank11200",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Isaaru",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "spydric_1cam",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Reno",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "procrastinator24",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Seymour Omnis",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "mudduck2387",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Fang",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Inquisitor_Cid",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Cor",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "TheAntiScorpion",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Quistis",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "HoppyHollow",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Mog",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Its_Raisu",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Cait Sith",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "warzoneprez",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Zell",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "Sylth01",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Umaro",
+    "role": "Tank",
     "ascension": 0
   }
 ]
