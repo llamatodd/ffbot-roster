@@ -29,7 +29,7 @@
     "awakeningPercent": 102,
     "unit": "Blank",
     "role": "DPS",
-    "ascension": 25
+    "ascension": 26
   },
   {
     "username": "KamiXKitsune",
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 822,
+    "awakeningPercent": 824,
     "unit": "Jill",
     "role": "Support",
     "ascension": 65
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 950,
-    "unit": "Chocobo Black",
+    "awakeningPercent": 952,
+    "unit": "Guy",
     "role": "Tank",
     "ascension": 57
   },
@@ -2581,6 +2581,14 @@
     "awakeningPercent": 2,
     "unit": "Dangerniel",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Splosia",
+    "rank": 98,
+    "awakeningPercent": 0,
+    "unit": "Celes",
+    "role": "DPS",
     "ascension": 0
   }
 ]
