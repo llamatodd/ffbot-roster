@@ -3,7 +3,7 @@
     "username": "llamatodd",
     "rank": 1,
     "awakeningPercent": 962,
-    "unit": "Prompto",
+    "unit": "Vivi",
     "role": "DPS",
     "ascension": 85
   },
@@ -2588,6 +2588,14 @@
     "rank": 98,
     "awakeningPercent": 0,
     "unit": "Celes",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "SuboxTV",
+    "rank": 98,
+    "awakeningPercent": 0,
+    "unit": "Celes Opera",
     "role": "DPS",
     "ascension": 0
   }
