@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 580,
+    "awakeningPercent": 582,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 27
@@ -2573,6 +2573,14 @@
     "awakeningPercent": 2,
     "unit": "Locke",
     "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "swumpuss",
+    "rank": 97,
+    "awakeningPercent": 0,
+    "unit": "Dangerniel",
+    "role": "Tank",
     "ascension": 0
   }
 ]
