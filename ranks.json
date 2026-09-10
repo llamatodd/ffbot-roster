@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 856,
+    "awakeningPercent": 858,
     "unit": "Babus",
     "role": "Tank",
     "ascension": 47
@@ -2427,8 +2427,8 @@
     "username": "tarmaki",
     "rank": 49,
     "awakeningPercent": 4,
-    "unit": "Alisaie",
-    "role": "DPS",
+    "unit": "Chocobo",
+    "role": "Healer",
     "ascension": 0
   },
   {
@@ -2565,6 +2565,14 @@
     "awakeningPercent": 0,
     "unit": "Umaro",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "Ptree07",
+    "rank": 96,
+    "awakeningPercent": 0,
+    "unit": "Locke",
+    "role": "DPS",
     "ascension": 0
   }
 ]
