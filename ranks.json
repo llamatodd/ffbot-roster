@@ -250,7 +250,7 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 924,
+    "awakeningPercent": 926,
     "unit": "Gilgamesh",
     "role": "DPS",
     "ascension": 70
@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 39,
+    "rank": 40,
     "awakeningPercent": 8,
     "unit": "Bartz",
     "role": "Support",
@@ -817,7 +817,7 @@
   },
   {
     "username": "Master_Pancakes",
-    "rank": 39,
+    "rank": 40,
     "awakeningPercent": 8,
     "unit": "Cloud",
     "role": "DPS",
@@ -2353,8 +2353,8 @@
   },
   {
     "username": "flixerator",
-    "rank": 39,
-    "awakeningPercent": 8,
+    "rank": 35,
+    "awakeningPercent": 10,
     "unit": "Jill",
     "role": "Support",
     "ascension": 0
