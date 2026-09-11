@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 8,
     "unit": "Bartz",
     "role": "Support",
@@ -817,7 +817,7 @@
   },
   {
     "username": "Master_Pancakes",
-    "rank": 40,
+    "rank": 41,
     "awakeningPercent": 8,
     "unit": "Cloud",
     "role": "DPS",
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 40,
-    "awakeningPercent": 8,
+    "rank": 35,
+    "awakeningPercent": 10,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 2
