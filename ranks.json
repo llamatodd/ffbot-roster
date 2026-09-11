@@ -243,15 +243,15 @@
     "username": "Fangcollector",
     "rank": 7,
     "awakeningPercent": 670,
-    "unit": "Clive",
-    "role": "DPS",
+    "unit": "Delita",
+    "role": "Support",
     "ascension": 33
   },
   {
     "username": "Sarah_Orion",
     "rank": 3,
     "awakeningPercent": 928,
-    "unit": "Gogo",
+    "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 70
   },
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 826,
+    "awakeningPercent": 828,
     "unit": "Jill",
     "role": "Support",
     "ascension": 65
@@ -1435,7 +1435,7 @@
     "username": "Astaemos",
     "rank": 2,
     "awakeningPercent": 956,
-    "unit": "Guy",
+    "unit": "Shadow",
     "role": "Tank",
     "ascension": 57
   },
@@ -2429,7 +2429,7 @@
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
-    "ascension": 0
+    "ascension": 1
   },
   {
     "username": "Melladon",
