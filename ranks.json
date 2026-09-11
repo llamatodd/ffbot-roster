@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 670,
+    "awakeningPercent": 672,
     "unit": "Delita",
     "role": "Support",
     "ascension": 33
@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 862,
-    "unit": "Cid 4",
+    "awakeningPercent": 864,
+    "unit": "Snow",
     "role": "Tank",
     "ascension": 47
   },
