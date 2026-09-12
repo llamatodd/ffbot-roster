@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 920,
-    "unit": "Beatrix",
+    "unit": "Agrias",
     "role": "DPS",
     "ascension": 68
   },
@@ -2596,6 +2596,14 @@
     "rank": 98,
     "awakeningPercent": 0,
     "unit": "Celes Opera",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "LasarionV",
+    "rank": 98,
+    "awakeningPercent": 0,
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 0
   }
