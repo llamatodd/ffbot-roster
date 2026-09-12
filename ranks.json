@@ -1,7 +1,7 @@
 [
   {
     "username": "llamatodd",
-    "rank": 1,
+    "rank": 2,
     "awakeningPercent": 972,
     "unit": "Ignis",
     "role": "DPS",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 1,
-    "awakeningPercent": 972,
-    "unit": "Snow",
+    "awakeningPercent": 974,
+    "unit": "Balthier",
     "role": "Tank",
     "ascension": 57
   },
@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 876,
-    "unit": "Snow",
+    "unit": "Dangerniel",
     "role": "Tank",
     "ascension": 48
   },
