@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 10,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 872,
+    "awakeningPercent": 874,
     "unit": "Snow",
     "role": "Tank",
     "ascension": 47
@@ -1929,7 +1929,7 @@
   },
   {
     "username": "Vaedryn",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 10,
     "unit": "Vivi",
     "role": "DPS",
@@ -2353,7 +2353,7 @@
   },
   {
     "username": "flixerator",
-    "rank": 35,
+    "rank": 36,
     "awakeningPercent": 10,
     "unit": "Jill",
     "role": "Support",
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 35,
-    "awakeningPercent": 10,
+    "rank": 33,
+    "awakeningPercent": 12,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 4
