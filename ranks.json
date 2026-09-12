@@ -2,7 +2,7 @@
   {
     "username": "llamatodd",
     "rank": 1,
-    "awakeningPercent": 970,
+    "awakeningPercent": 972,
     "unit": "Cid 7",
     "role": "DPS",
     "ascension": 85
@@ -259,8 +259,8 @@
     "username": "Jestmichelle",
     "rank": 17,
     "awakeningPercent": 152,
-    "unit": "Rinoa",
-    "role": "Healer",
+    "unit": "Queen",
+    "role": "DPS",
     "ascension": 47
   },
   {
