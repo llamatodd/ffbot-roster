@@ -1434,7 +1434,7 @@
   {
     "username": "Astaemos",
     "rank": 2,
-    "awakeningPercent": 968,
+    "awakeningPercent": 970,
     "unit": "Barret",
     "role": "Tank",
     "ascension": 57
@@ -2427,9 +2427,9 @@
     "username": "tarmaki",
     "rank": 33,
     "awakeningPercent": 12,
-    "unit": "Chocobo",
-    "role": "Healer",
-    "ascension": 4
+    "unit": "Rude",
+    "role": "Tank",
+    "ascension": 5
   },
   {
     "username": "Melladon",
