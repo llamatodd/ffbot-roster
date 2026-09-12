@@ -1,7 +1,7 @@
 [
   {
     "username": "llamatodd",
-    "rank": 1,
+    "rank": 2,
     "awakeningPercent": 976,
     "unit": "Shantotto",
     "role": "DPS",
@@ -1434,8 +1434,8 @@
   {
     "username": "Astaemos",
     "rank": 1,
-    "awakeningPercent": 976,
-    "unit": "Barret",
+    "awakeningPercent": 978,
+    "unit": "Rude",
     "role": "Tank",
     "ascension": 57
   },
