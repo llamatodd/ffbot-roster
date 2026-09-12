@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 686,
+    "awakeningPercent": 688,
     "unit": "Emperor",
     "role": "DPS",
     "ascension": 34
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 846,
+    "awakeningPercent": 848,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 66
@@ -489,7 +489,7 @@
   },
   {
     "username": "DiyahRessem",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 12,
     "unit": "Solanin",
     "role": "Support",
@@ -665,7 +665,7 @@
   },
   {
     "username": "XiosSki",
-    "rank": 33,
+    "rank": 34,
     "awakeningPercent": 12,
     "unit": "Rikku",
     "role": "DPS",
@@ -2426,7 +2426,7 @@
   {
     "username": "tarmaki",
     "rank": 33,
-    "awakeningPercent": 12,
+    "awakeningPercent": 14,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 5
