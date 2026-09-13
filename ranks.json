@@ -3,8 +3,8 @@
     "username": "llamatodd",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Tidus",
-    "role": "Support",
+    "unit": "Orlandeau",
+    "role": "DPS",
     "ascension": 85
   },
   {
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 33,
-    "awakeningPercent": 14,
+    "rank": 32,
+    "awakeningPercent": 16,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 5
