@@ -242,9 +242,9 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 694,
-    "unit": "Gilgamesh",
-    "role": "DPS",
+    "awakeningPercent": 696,
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 34
   },
   {
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 57
   },
   {
