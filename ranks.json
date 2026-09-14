@@ -2105,7 +2105,7 @@
   },
   {
     "username": "Mavlex",
-    "rank": 32,
+    "rank": 33,
     "awakeningPercent": 16,
     "unit": "Hope",
     "role": "Healer",
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 32,
-    "awakeningPercent": 16,
+    "rank": 31,
+    "awakeningPercent": 18,
     "unit": "Rude",
     "role": "Tank",
     "ascension": 7
