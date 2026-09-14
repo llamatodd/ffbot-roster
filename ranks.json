@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 7,
     "awakeningPercent": 702,
-    "unit": "Matoya",
-    "role": "Support",
+    "unit": "Yunalesca",
+    "role": "DPS",
     "ascension": 34
   },
   {
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 864,
+    "awakeningPercent": 866,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 67
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Vanille",
-    "role": "Support",
+    "unit": "Rude",
+    "role": "Tank",
     "ascension": 57
   },
   {
@@ -2429,7 +2429,7 @@
     "awakeningPercent": 22,
     "unit": "Matoya",
     "role": "Support",
-    "ascension": 8
+    "ascension": 9
   },
   {
     "username": "Melladon",
