@@ -419,7 +419,7 @@
     "username": "seika",
     "rank": 4,
     "awakeningPercent": 928,
-    "unit": "Chocobo Red",
+    "unit": "Relm",
     "role": "DPS",
     "ascension": 68
   },
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 31,
-    "awakeningPercent": 20,
+    "rank": 30,
+    "awakeningPercent": 22,
     "unit": "Matoya",
     "role": "Support",
     "ascension": 8
