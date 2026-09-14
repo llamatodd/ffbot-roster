@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 938,
-    "unit": "Edge",
+    "awakeningPercent": 940,
+    "unit": "Cloud Dress",
     "role": "DPS",
     "ascension": 71
   },
@@ -1827,8 +1827,8 @@
     "username": "Tsunamimaru",
     "rank": 21,
     "awakeningPercent": 100,
-    "unit": "Cecil",
-    "role": "DPS",
+    "unit": "Cecil Paladin",
+    "role": "Healer",
     "ascension": 44
   },
   {
