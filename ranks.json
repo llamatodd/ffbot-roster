@@ -413,12 +413,12 @@
     "awakeningPercent": 858,
     "unit": "Penelo",
     "role": "Support",
-    "ascension": 66
+    "ascension": 67
   },
   {
     "username": "seika",
     "rank": 4,
-    "awakeningPercent": 926,
+    "awakeningPercent": 928,
     "unit": "Chocobo Red",
     "role": "DPS",
     "ascension": 68
@@ -2427,8 +2427,8 @@
     "username": "tarmaki",
     "rank": 31,
     "awakeningPercent": 18,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Matoya",
+    "role": "Support",
     "ascension": 8
   },
   {
