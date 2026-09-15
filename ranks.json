@@ -129,7 +129,7 @@
   },
   {
     "username": "TheLoneRanger2016",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Basch",
     "role": "Tank",
@@ -337,7 +337,7 @@
   },
   {
     "username": "Jezzy123",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Lulu",
     "role": "DPS",
@@ -513,7 +513,7 @@
   },
   {
     "username": "ParamoraSen",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Tidus",
     "role": "Support",
@@ -545,7 +545,7 @@
   },
   {
     "username": "NajaSalaheem",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Celes",
     "role": "DPS",
@@ -985,7 +985,7 @@
   },
   {
     "username": "xGwydionFrostx",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -993,7 +993,7 @@
   },
   {
     "username": "Mr_camsteak",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Yuna X2",
     "role": "DPS",
@@ -1305,7 +1305,7 @@
   },
   {
     "username": "sillynix",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -1481,7 +1481,7 @@
   },
   {
     "username": "Elbody",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Fran",
     "role": "DPS",
@@ -1499,8 +1499,8 @@
     "username": "Starbuk",
     "rank": 5,
     "awakeningPercent": 898,
-    "unit": "Estinien",
-    "role": "DPS",
+    "unit": "Ingus",
+    "role": "Tank",
     "ascension": 48
   },
   {
@@ -1537,7 +1537,7 @@
   },
   {
     "username": "AweShrimpnGrits",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Aeris",
     "role": "Healer",
@@ -1681,7 +1681,7 @@
   },
   {
     "username": "kiklol86",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Tifa",
     "role": "DPS",
@@ -1801,7 +1801,7 @@
   },
   {
     "username": "Bakurraa",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Jill",
     "role": "Support",
@@ -1905,7 +1905,7 @@
   },
   {
     "username": "lukesmissinghand87",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Chocobo Black",
     "role": "Tank",
@@ -1969,7 +1969,7 @@
   },
   {
     "username": "FroBanger",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Ace",
     "role": "DPS",
@@ -1977,7 +1977,7 @@
   },
   {
     "username": "suaceface",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Rufus",
     "role": "DPS",
@@ -2081,7 +2081,7 @@
   },
   {
     "username": "vaalmoon",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Solanin",
     "role": "Support",
@@ -2097,7 +2097,7 @@
   },
   {
     "username": "MossyCreek42",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Domino",
     "role": "Tank",
@@ -2241,7 +2241,7 @@
   },
   {
     "username": "ChibiElemental",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Gogo",
     "role": "DPS",
@@ -2337,7 +2337,7 @@
   },
   {
     "username": "GlacialHart",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Rydia",
     "role": "DPS",
@@ -2417,7 +2417,7 @@
   },
   {
     "username": "KupoKarnage",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Metuba",
     "role": "Support",
@@ -2569,7 +2569,7 @@
   },
   {
     "username": "Ptree07",
-    "rank": 50,
+    "rank": 51,
     "awakeningPercent": 4,
     "unit": "Locke",
     "role": "DPS",
@@ -2617,8 +2617,8 @@
   },
   {
     "username": "OnlyMADDOG",
-    "rank": 50,
-    "awakeningPercent": 4,
+    "rank": 43,
+    "awakeningPercent": 6,
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 0
