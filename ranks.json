@@ -250,8 +250,8 @@
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 950,
-    "unit": "Rydia",
+    "awakeningPercent": 952,
+    "unit": "Noctis",
     "role": "DPS",
     "ascension": 71
   },
@@ -413,7 +413,7 @@
     "awakeningPercent": 882,
     "unit": "Torgal",
     "role": "Support",
-    "ascension": 67
+    "ascension": 68
   },
   {
     "username": "seika",
