@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 728,
+    "awakeningPercent": 730,
     "unit": "Fran",
     "role": "DPS",
     "ascension": 35
@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 888,
+    "awakeningPercent": 890,
     "unit": "Bartz",
     "role": "Support",
     "ascension": 68
@@ -2109,7 +2109,7 @@
     "awakeningPercent": 16,
     "unit": "Hope",
     "role": "Healer",
-    "ascension": 10
+    "ascension": 11
   },
   {
     "username": "PaulKerseyArchitect",
