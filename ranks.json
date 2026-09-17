@@ -1498,7 +1498,7 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 920,
+    "awakeningPercent": 922,
     "unit": "Freya",
     "role": "DPS",
     "ascension": 49
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 29,
-    "awakeningPercent": 28,
+    "rank": 28,
+    "awakeningPercent": 30,
     "unit": "Noctis",
     "role": "DPS",
     "ascension": 11
