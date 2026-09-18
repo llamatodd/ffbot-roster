@@ -2622,5 +2622,13 @@
     "unit": "Dark Invoker",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "LuxuAsphyxia",
+    "rank": 99,
+    "awakeningPercent": 0,
+    "unit": "Kuja",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
