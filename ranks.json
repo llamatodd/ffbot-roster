@@ -1498,8 +1498,8 @@
   {
     "username": "Starbuk",
     "rank": 5,
-    "awakeningPercent": 922,
-    "unit": "Clive",
+    "awakeningPercent": 924,
+    "unit": "Fang",
     "role": "DPS",
     "ascension": 49
   },
@@ -2427,7 +2427,7 @@
     "username": "tarmaki",
     "rank": 28,
     "awakeningPercent": 30,
-    "unit": "Noctis",
+    "unit": "Rufus",
     "role": "DPS",
     "ascension": 11
   },
