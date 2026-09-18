@@ -153,7 +153,7 @@
   },
   {
     "username": "King1x0",
-    "rank": 28,
+    "rank": 29,
     "awakeningPercent": 30,
     "unit": "Amarant",
     "role": "Tank",
@@ -2425,8 +2425,8 @@
   },
   {
     "username": "tarmaki",
-    "rank": 28,
-    "awakeningPercent": 30,
+    "rank": 27,
+    "awakeningPercent": 32,
     "unit": "Rufus",
     "role": "DPS",
     "ascension": 11
