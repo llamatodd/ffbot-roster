@@ -242,16 +242,16 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 742,
-    "unit": "Edea Matron",
+    "awakeningPercent": 744,
+    "unit": "Garnet Summoner",
     "role": "DPS",
     "ascension": 35
   },
   {
     "username": "Sarah_Orion",
     "rank": 3,
-    "awakeningPercent": 962,
-    "unit": "Vincent",
+    "awakeningPercent": 964,
+    "unit": "Shantotto",
     "role": "DPS",
     "ascension": 71
   },
@@ -1437,7 +1437,7 @@
     "awakeningPercent": 978,
     "unit": "Rude",
     "role": "Tank",
-    "ascension": 57
+    "ascension": 58
   },
   {
     "username": "FloDaddelt",
