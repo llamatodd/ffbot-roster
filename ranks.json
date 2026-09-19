@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 41,
+    "rank": 42,
     "awakeningPercent": 8,
     "unit": "Bartz",
     "role": "Support",
@@ -817,8 +817,8 @@
   },
   {
     "username": "Master_Pancakes",
-    "rank": 41,
-    "awakeningPercent": 8,
+    "rank": 36,
+    "awakeningPercent": 10,
     "unit": "Cloud",
     "role": "DPS",
     "ascension": 0
