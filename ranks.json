@@ -1154,7 +1154,7 @@
   {
     "username": "EagleCeres",
     "rank": 8,
-    "awakeningPercent": 602,
+    "awakeningPercent": 604,
     "unit": "Faris",
     "role": "Support",
     "ascension": 28
@@ -2644,6 +2644,14 @@
     "rank": 99,
     "awakeningPercent": 0,
     "unit": "Snow",
+    "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "leon_lairain_lune",
+    "rank": 99,
+    "awakeningPercent": 0,
+    "unit": "Galuf",
     "role": "Tank",
     "ascension": 0
   }
