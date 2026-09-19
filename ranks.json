@@ -2638,5 +2638,13 @@
     "unit": "Edea Matron",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "bubblegum_balls",
+    "rank": 99,
+    "awakeningPercent": 0,
+    "unit": "Snow",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
