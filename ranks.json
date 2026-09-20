@@ -2654,5 +2654,13 @@
     "unit": "Galuf",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "earlyafternunes",
+    "rank": 99,
+    "awakeningPercent": 0,
+    "unit": "Wakka",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
