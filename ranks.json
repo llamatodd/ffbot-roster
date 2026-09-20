@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 748,
-    "unit": "Garnet Summoner",
+    "awakeningPercent": 750,
+    "unit": "Ignis",
     "role": "DPS",
     "ascension": 35
   },
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 58
   },
   {
