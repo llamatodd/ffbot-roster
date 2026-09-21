@@ -2662,5 +2662,13 @@
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "Lurcainne",
+    "rank": 100,
+    "awakeningPercent": 0,
+    "unit": "Pupu",
+    "role": "Healer",
+    "ascension": 0
   }
 ]
