@@ -2670,5 +2670,13 @@
     "unit": "Pupu",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "Unitama",
+    "rank": 100,
+    "awakeningPercent": 0,
+    "unit": "Sazh",
+    "role": "Support",
+    "ascension": 0
   }
 ]
