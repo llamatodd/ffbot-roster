@@ -410,7 +410,7 @@
   {
     "username": "SnoochieBoochie_",
     "rank": 6,
-    "awakeningPercent": 940,
+    "awakeningPercent": 942,
     "unit": "Domino",
     "role": "Tank",
     "ascension": 70
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 58
   },
   {
@@ -2676,6 +2676,14 @@
     "rank": 100,
     "awakeningPercent": 0,
     "unit": "Sazh",
+    "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "Guimiko",
+    "rank": 100,
+    "awakeningPercent": 0,
+    "unit": "Shana",
     "role": "Support",
     "ascension": 0
   }
