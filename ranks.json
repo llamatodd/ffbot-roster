@@ -2686,5 +2686,13 @@
     "unit": "Shana",
     "role": "Support",
     "ascension": 2
+  },
+  {
+    "username": "Citillara",
+    "rank": 101,
+    "awakeningPercent": 0,
+    "unit": "Citillara",
+    "role": "",
+    "ascension": 0
   }
 ]
