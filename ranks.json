@@ -245,7 +245,7 @@
     "awakeningPercent": 798,
     "unit": "Rubicante",
     "role": "DPS",
-    "ascension": 36
+    "ascension": 37
   },
   {
     "username": "Sarah_Orion",
@@ -1435,8 +1435,8 @@
     "username": "Astaemos",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Rude",
-    "role": "Tank",
+    "unit": "Vanille",
+    "role": "Support",
     "ascension": 58
   },
   {
