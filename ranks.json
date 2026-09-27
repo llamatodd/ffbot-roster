@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 806,
+    "awakeningPercent": 808,
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 37
@@ -411,7 +411,7 @@
     "username": "SnoochieBoochie_",
     "rank": 6,
     "awakeningPercent": 964,
-    "unit": "Quina",
+    "unit": "Cid Randell",
     "role": "Tank",
     "ascension": 71
   },
@@ -2685,7 +2685,7 @@
     "awakeningPercent": 4,
     "unit": "Shana",
     "role": "Support",
-    "ascension": 2
+    "ascension": 3
   },
   {
     "username": "Citillara",
