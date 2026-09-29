@@ -2694,5 +2694,13 @@
     "unit": "Citillara",
     "role": "",
     "ascension": 0
+  },
+  {
+    "username": "otter_plays_games",
+    "rank": 101,
+    "awakeningPercent": 0,
+    "unit": "Laguna",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
