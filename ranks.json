@@ -242,8 +242,8 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 832,
-    "unit": "Palom",
+    "awakeningPercent": 834,
+    "unit": "Desch",
     "role": "DPS",
     "ascension": 37
   },
@@ -2708,6 +2708,14 @@
     "rank": 102,
     "awakeningPercent": 0,
     "unit": "Silenrea",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "TTVTheboogieman2424",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
   }
