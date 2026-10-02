@@ -2718,5 +2718,21 @@
     "unit": "Vaan",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "RABFour",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Laguna",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "goober1770",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Sazh",
+    "role": "Support",
+    "ascension": 0
   }
 ]
