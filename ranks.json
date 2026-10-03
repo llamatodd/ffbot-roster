@@ -2742,5 +2742,13 @@
     "unit": "Alphinaud",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "Ghuwi_",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Sabin",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
