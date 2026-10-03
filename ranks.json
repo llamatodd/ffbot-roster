@@ -1499,7 +1499,7 @@
     "username": "Starbuk",
     "rank": 1,
     "awakeningPercent": 978,
-    "unit": "Genesis",
+    "unit": "Rydia",
     "role": "DPS",
     "ascension": 53
   },
@@ -2733,6 +2733,14 @@
     "awakeningPercent": 0,
     "unit": "Sazh",
     "role": "Support",
+    "ascension": 0
+  },
+  {
+    "username": "Zhartho",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Alphinaud",
+    "role": "Healer",
     "ascension": 0
   }
 ]
