@@ -2750,5 +2750,13 @@
     "unit": "Sabin",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "mortalharbinger",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Blank",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
