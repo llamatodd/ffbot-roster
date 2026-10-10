@@ -2758,5 +2758,13 @@
     "unit": "Blank",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "zeus_almighty626",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Shadow",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
