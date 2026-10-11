@@ -242,7 +242,7 @@
   {
     "username": "Fangcollector",
     "rank": 7,
-    "awakeningPercent": 918,
+    "awakeningPercent": 920,
     "unit": "Chocobo",
     "role": "Healer",
     "ascension": 40
@@ -709,7 +709,7 @@
     "awakeningPercent": 234,
     "unit": "Ovelia",
     "role": "Healer",
-    "ascension": 16
+    "ascension": 17
   },
   {
     "username": "meowmew_lamew",
@@ -1245,7 +1245,7 @@
     "awakeningPercent": 286,
     "unit": "Solanin",
     "role": "Support",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "Nightbot",
@@ -1253,7 +1253,7 @@
     "awakeningPercent": 310,
     "unit": "Jill",
     "role": "Support",
-    "ascension": 28
+    "ascension": 29
   },
   {
     "username": "Moobot",
