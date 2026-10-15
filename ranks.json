@@ -1155,7 +1155,7 @@
     "username": "EagleCeres",
     "rank": 8,
     "awakeningPercent": 636,
-    "unit": "Garnet Summoner",
+    "unit": "Lulu",
     "role": "DPS",
     "ascension": 29
   },
@@ -2773,6 +2773,22 @@
     "awakeningPercent": 0,
     "unit": "Cait Sith",
     "role": "Tank",
+    "ascension": 0
+  },
+  {
+    "username": "aceshyguy",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Beatrix Beach",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "ThaiTheBunny",
+    "rank": 102,
+    "awakeningPercent": 0,
+    "unit": "Fujin",
+    "role": "DPS",
     "ascension": 0
   }
 ]
