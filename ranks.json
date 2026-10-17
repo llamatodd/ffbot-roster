@@ -243,8 +243,8 @@
     "username": "Fangcollector",
     "rank": 7,
     "awakeningPercent": 966,
-    "unit": "Margy",
-    "role": "DPS",
+    "unit": "Thancred",
+    "role": "Tank",
     "ascension": 41
   },
   {
@@ -413,7 +413,7 @@
     "awakeningPercent": 978,
     "unit": "Dangerniel",
     "role": "Tank",
-    "ascension": 75
+    "ascension": 76
   },
   {
     "username": "seika",
