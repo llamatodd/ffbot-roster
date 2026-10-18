@@ -2798,5 +2798,13 @@
     "unit": "Ace",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "kikikitten42",
+    "rank": 103,
+    "awakeningPercent": 0,
+    "unit": "Penelo",
+    "role": "Support",
+    "ascension": 0
   }
 ]
