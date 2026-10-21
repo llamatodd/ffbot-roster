@@ -2822,5 +2822,13 @@
     "unit": "Auron",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "TyleriumGaming",
+    "rank": 103,
+    "awakeningPercent": 0,
+    "unit": "Rikku",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
