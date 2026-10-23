@@ -2830,5 +2830,13 @@
     "unit": "Rikku",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "hokuto_exe",
+    "rank": 103,
+    "awakeningPercent": 0,
+    "unit": "Irvine",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
