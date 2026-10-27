@@ -2846,5 +2846,13 @@
     "unit": "Chocobo Fat",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "Phrikellqt",
+    "rank": 103,
+    "awakeningPercent": 0,
+    "unit": "Delita",
+    "role": "Support",
+    "ascension": 0
   }
 ]
