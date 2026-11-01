@@ -2862,5 +2862,13 @@
     "unit": "Prompto",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "SirLockeAK",
+    "rank": 103,
+    "awakeningPercent": 0,
+    "unit": "Steiner",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
