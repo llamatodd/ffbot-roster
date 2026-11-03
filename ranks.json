@@ -41,7 +41,7 @@
   },
   {
     "username": "rah_x_",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Rosa",
     "role": "Healer",
@@ -217,7 +217,7 @@
   },
   {
     "username": "KirinAsya",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Blank",
     "role": "DPS",
@@ -833,7 +833,7 @@
   },
   {
     "username": "Fafrirak",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Chocobo",
     "role": "Healer",
@@ -1257,7 +1257,7 @@
   },
   {
     "username": "Moobot",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Rubicante",
     "role": "DPS",
@@ -1505,7 +1505,7 @@
   },
   {
     "username": "eyetotem",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Yuna",
     "role": "DPS",
@@ -2065,7 +2065,7 @@
   },
   {
     "username": "HFDigiMode",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Terra",
     "role": "DPS",
@@ -2137,7 +2137,7 @@
   },
   {
     "username": "TheHealingWhisperer",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Celes Opera",
     "role": "DPS",
@@ -2617,7 +2617,7 @@
   },
   {
     "username": "OnlyMADDOG",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Dark Invoker",
     "role": "DPS",
@@ -2681,7 +2681,7 @@
   },
   {
     "username": "Guimiko",
-    "rank": 43,
+    "rank": 44,
     "awakeningPercent": 6,
     "unit": "Shana",
     "role": "Support",
@@ -2865,8 +2865,8 @@
   },
   {
     "username": "SirLockeAK",
-    "rank": 43,
-    "awakeningPercent": 6,
+    "rank": 42,
+    "awakeningPercent": 8,
     "unit": "Locke",
     "role": "DPS",
     "ascension": 0
@@ -2877,7 +2877,7 @@
     "awakeningPercent": 4,
     "unit": "Vegeta",
     "role": "DPS",
-    "ascension": 4
+    "ascension": 5
   },
   {
     "username": "StarhawkXIV",
