@@ -633,7 +633,7 @@
   },
   {
     "username": "Mikhli",
-    "rank": 42,
+    "rank": 43,
     "awakeningPercent": 8,
     "unit": "Bartz",
     "role": "Support",
@@ -2865,7 +2865,7 @@
   },
   {
     "username": "SirLockeAK",
-    "rank": 42,
+    "rank": 43,
     "awakeningPercent": 8,
     "unit": "Locke",
     "role": "DPS",
@@ -2873,8 +2873,8 @@
   },
   {
     "username": "HardcoreMike777",
-    "rank": 42,
-    "awakeningPercent": 8,
+    "rank": 36,
+    "awakeningPercent": 10,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 7
