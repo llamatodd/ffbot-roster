@@ -2894,5 +2894,13 @@
     "unit": "Rinoa",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "jokeuhl",
+    "rank": 105,
+    "awakeningPercent": 0,
+    "unit": "Aeris",
+    "role": "Healer",
+    "ascension": 0
   }
 ]
