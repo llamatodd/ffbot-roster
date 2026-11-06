@@ -33,7 +33,7 @@
   },
   {
     "username": "KamiXKitsune",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Yshtola",
     "role": "DPS",
@@ -657,7 +657,7 @@
   },
   {
     "username": "GriffcaTobeeVT",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Cloud Ac",
     "role": "DPS",
@@ -817,7 +817,7 @@
   },
   {
     "username": "Master_Pancakes",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Cloud",
     "role": "DPS",
@@ -825,7 +825,7 @@
   },
   {
     "username": "Chaerith_Gamesborough",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Aeris",
     "role": "Healer",
@@ -1929,7 +1929,7 @@
   },
   {
     "username": "Vaedryn",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Vivi",
     "role": "DPS",
@@ -2353,7 +2353,7 @@
   },
   {
     "username": "flixerator",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Jill",
     "role": "Support",
@@ -2865,7 +2865,7 @@
   },
   {
     "username": "SirLockeAK",
-    "rank": 36,
+    "rank": 37,
     "awakeningPercent": 10,
     "unit": "Locke",
     "role": "DPS",
@@ -2873,8 +2873,8 @@
   },
   {
     "username": "HardcoreMike777",
-    "rank": 36,
-    "awakeningPercent": 10,
+    "rank": 34,
+    "awakeningPercent": 12,
     "unit": "Ramza",
     "role": "Support",
     "ascension": 9
