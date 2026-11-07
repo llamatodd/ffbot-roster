@@ -2902,5 +2902,13 @@
     "unit": "Aeris",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "ZachRabbit",
+    "rank": 105,
+    "awakeningPercent": 0,
+    "unit": "Penelo",
+    "role": "Support",
+    "ascension": 0
   }
 ]
