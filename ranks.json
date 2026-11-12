@@ -2926,5 +2926,21 @@
     "unit": "Rosa",
     "role": "Healer",
     "ascension": 0
+  },
+  {
+    "username": "raecuppie",
+    "rank": 107,
+    "awakeningPercent": 0,
+    "unit": "Cloud Ac",
+    "role": "DPS",
+    "ascension": 0
+  },
+  {
+    "username": "sleepynightmareguy",
+    "rank": 107,
+    "awakeningPercent": 0,
+    "unit": "Jecht",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
