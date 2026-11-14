@@ -2950,5 +2950,13 @@
     "unit": "Cait Sith",
     "role": "Tank",
     "ascension": 0
+  },
+  {
+    "username": "reallylaney",
+    "rank": 107,
+    "awakeningPercent": 0,
+    "unit": "Kefka",
+    "role": "DPS",
+    "ascension": 0
   }
 ]
