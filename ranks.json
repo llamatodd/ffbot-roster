@@ -2974,5 +2974,13 @@
     "unit": "Fran",
     "role": "DPS",
     "ascension": 0
+  },
+  {
+    "username": "charlie_kirk_fan",
+    "rank": 108,
+    "awakeningPercent": 0,
+    "unit": "Sabin",
+    "role": "Tank",
+    "ascension": 0
   }
 ]
